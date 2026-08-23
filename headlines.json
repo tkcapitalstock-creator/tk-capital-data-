@@ -1,0 +1,10 @@
+{
+  "updated_at": "2026-08-23T08:45:00+09:00",
+  "items": [
+    { "source": "日本経済新聞", "title": "日銀、次回会合での追加利上げ観測が浮上", "url": "https://www.nikkei.com/" },
+    { "source": "Bloomberg", "title": "半導体関連株、AI需要拡大観測で上昇", "url": "https://www.bloomberg.co.jp/" },
+    { "source": "Reuters", "title": "米長期金利、経済指標受け上昇", "url": "https://jp.reuters.com/" },
+    { "source": "日本経済新聞", "title": "円相場、日米金利差を意識した展開に", "url": "https://www.nikkei.com/" },
+    { "source": "Bloomberg", "title": "原油先物、需給緩和観測で軟調", "url": "https://www.bloomberg.co.jp/" }
+  ]
+}
