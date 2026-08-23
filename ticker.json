@@ -1,11 +1,10 @@
 {
-  "updated_at": "2026-08-23T08:45:00+09:00",
+  "updated_at": "2026-08-23T20:42:41.343973+09:00",
   "items": [
-    { "label": "ドル円", "value": "145.32", "direction": null },
-    { "label": "NYダウ", "value": "▲0.38%", "direction": "up" },
-    { "label": "SOX指数", "value": "▲1.05%", "direction": "up" },
-    { "label": "米10年債利回り", "value": "4.28%", "direction": null },
-    { "label": "NY金先物", "value": "▲0.6%", "direction": "up" },
-    { "label": "WTI原油先物", "value": "▼0.9%", "direction": "down" }
+    {
+      "label": "ドル円",
+      "value": "158.70",
+      "direction": null
+    }
   ]
 }
