@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-08-24T19:47:07.638879+09:00",
+  "updated_at": "2026-08-24T20:05:30.873632+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://finance.biggo.jp/topics/Latest"
+      "source": "日本経済新聞",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "日本経済新聞",
+      "title": "プルデンシャル生命、新たに不適切な金銭取得 自粛中に発生か",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55bi1FQ1h0bkY2QUxhcndRYlM3MDJlMUg1X0lZcFpkdWM4S1h6UzQ0aGRLak1sUFh1N2I0NzU1Q3EzTEEzOTI2NmszQUMtLTBVcXdYd3AtNDVRUDVyQUV6amxHbFFfaUQzSEJ2RA?oc=5"
+    },
+    {
+      "source": "日本経済新聞",
+      "title": "セブン、おにぎり2品を9月から19円値下げ 調達コストを削減",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FSnA0cXE3eXJFYmFlNWU1d21lSGpvZUxCN3VpeThPcGZUQ3N2S25TRWxtTE1fcGVtdlkydzNwdkl1NFE3TXkyUGdTMklDekFwY0VwNW12TXZtV1NuOUJPcExRS3ZoTG1Hd3lKVQ?oc=5"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "MITSY: 三井物産 Stock Price Quote - OTC US - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jb2VCY0hoVkJjMjgyVm1hWlNuZjNtWmdTZlA2NDhQaDZSY0hlMmt5clBMNktwcHlnU0U1MTBCeTdMNVhnSlo0RXVhaldIb1U5enJHNw?oc=5"
+    },
+    {
+      "source": "Bloomberg",
+      "title": "TAN* Quote - Invesco Solar ETF Fund - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aaFUtbEFvN1JseTZDVThaWU1JVzF3Y21QYnVocUl1UUJqTkRSVkhuaFdiaE9XNDlXZVBTSVppNGpmS0JIM2ZYaXRjcFBiSktiRDdF?oc=5"
+    },
+    {
+      "source": "Reuters",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Reuters",
+      "title": "アングル：急成長のニコチンパウチに投資家注目、たばこ業界に新成長もたらすか",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYRXhpNEZuOHFpU08zTmpfQjE4WXZBTUJ6NzNXT1V3Y3k0WE9vdXVjWmxXei0wWlN0SnMyQjdjSEYyMmF6a2htOExCNC00aE1heXpzVVEtV2RZenBkOWExeTNyRkt2VUVMR0xlaW5TR29IUGRxZml6MA?oc=5"
+    },
+    {
+      "source": "Reuters",
+      "title": "中国南西部やベトナム北部、台風19号で豪雨・洪水被害",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiT3lpd3BqeVkxYVBwNGtjemFwMzJQOVhoU3I0MXNpM3l4TW9SbzVMalZUVmY4alZTbUFFQ3UxWC15dXZfX1RlMU41UzRpbkhHRE5BazI2LWZJWldFaHdMZU1qdmp6MEpaREtKWHJnNWhGMTM1bHJmTnNOMFVwdw?oc=5"
     }
   ]
 }
