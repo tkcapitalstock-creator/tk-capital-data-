@@ -1,9 +1,10 @@
 """
 TK Capital ホームページ用データ更新スクリプト
-- ticker.json : ドル円・ユーロ円・ポンド円・米10年債利回り（前日比bp付き）・VIX指数・
-               S&P500・ダウ平均・ラッセル2000・SOX指数・
+- ticker.json : ドル円・ユーロ円・ポンド円（現在値＋変動幅＋前日比%）・
+               米10年債利回り（前日比bp付き）・
+               VIX指数・S&P500・ダウ平均・ラッセル2000・SOX指数・
                ダウ先物・S&P500先物・ラッセル2000先物・
-               金・銀・銅・WTI原油（現在値＋前日比%、すべて無料・キー不要）
+               金・銀・銅・WTI原油（現在値＋変動幅＋前日比%）
 - headlines.json : Googleニュース経由で、日経・Bloomberg・Reutersの見出し＋リンクを取得
 日経平均・TOPIXは公式の無料データが無いため、このスクリプトでは扱いません。
 """
@@ -31,9 +32,24 @@ def fetch_json(url):
 
 def get_fx(base, label):
     try:
-        data = fetch_json(f"https://api.frankfurter.dev/v1/latest?from={base}&to=JPY")
-        rate = data["rates"]["JPY"]
-        return {"label": label, "value": f"{rate:.2f}", "direction": None}
+        end = datetime.now(JST).date()
+        start = end - timedelta(days=7)
+        url = f"https://api.frankfurter.dev/v1/{start.isoformat()}..{end.isoformat()}?from={base}&to=JPY"
+        data = fetch_json(url)
+        rates = data.get("rates", {})
+        dates = sorted(rates.keys())
+        if not dates:
+            return None
+        latest_rate = rates[dates[-1]]["JPY"]
+        if len(dates) < 2:
+            return {"label": label, "value": f"{latest_rate:.2f}", "direction": None}
+        prev_rate = rates[dates[-2]]["JPY"]
+        change = latest_rate - prev_rate
+        change_pct = (change / prev_rate) * 100 if prev_rate else 0
+        direction = "up" if change >= 0 else "down"
+        arrow = "▲" if direction == "up" else "▼"
+        value = f"{latest_rate:.2f}（{arrow}{abs(change):.2f} / {arrow}{abs(change_pct):.2f}%）"
+        return {"label": label, "value": value, "direction": direction}
     except Exception:
         return None
 
@@ -49,28 +65,19 @@ def _get_meta(symbol):
 
 
 def get_yahoo_change(symbol, label):
-    """現在値 ＋ 前日比（％）を返す"""
+    """現在値 ＋ 変動幅 ＋ 前日比（％）を返す"""
     try:
         meta = _get_meta(symbol)
         price = meta["regularMarketPrice"]
         prev = meta.get("previousClose") or meta.get("chartPreviousClose")
         if not prev:
             return {"label": label, "value": f"{price:,.2f}", "direction": None}
-        change_pct = (price - prev) / prev * 100
-        direction = "up" if change_pct >= 0 else "down"
+        change = price - prev
+        change_pct = (change / prev) * 100
+        direction = "up" if change >= 0 else "down"
         arrow = "▲" if direction == "up" else "▼"
-        value = f"{price:,.2f}（{arrow}{abs(change_pct):.2f}%）"
+        value = f"{price:,.2f}（{arrow}{abs(change):,.2f} / {arrow}{abs(change_pct):.2f}%）"
         return {"label": label, "value": value, "direction": direction}
-    except Exception:
-        return None
-
-
-def get_yahoo_level(symbol, label, scale=1.0, suffix=""):
-    """変化率を出さず、そのままの水準だけを返す（VIXなど）"""
-    try:
-        meta = _get_meta(symbol)
-        price = meta["regularMarketPrice"] / scale
-        return {"label": label, "value": f"{price:.2f}{suffix}", "direction": None}
     except Exception:
         return None
 
@@ -100,7 +107,7 @@ def build_ticker():
         get_fx("EUR", "ユーロ円"),
         get_fx("GBP", "ポンド円"),
         get_yahoo_yield("^TNX", "米10年債利回り", scale=10),
-        get_yahoo_level("^VIX", "VIX指数"),
+        get_yahoo_change("^VIX", "VIX指数"),
         get_yahoo_change("^GSPC", "S&P500"),
         get_yahoo_change("^DJI", "ダウ平均"),
         get_yahoo_change("^RUT", "ラッセル2000"),
