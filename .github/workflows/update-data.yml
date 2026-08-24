@@ -2,7 +2,7 @@ name: Update market data
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch: {}
 
 jobs:
@@ -27,3 +27,4 @@ jobs:
           git add ticker.json headlines.json
           git diff --staged --quiet || git commit -m "Update market data"
           git push
+YMLEOF
