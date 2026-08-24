@@ -1,6 +1,9 @@
 """
 TK Capital ホームページ用データ更新スクリプト
-- ticker.json : ドル円・NYダウ・SOX指数・NY金先物・WTI原油先物（無料で自動取得できるもののみ）
+- ticker.json : ドル円・ユーロ円・ポンド円・米10年債利回り・VIX指数・
+               S&P500・ダウ平均・ラッセル2000・SOX指数・
+               ダウ先物・S&P500先物・ラッセル2000先物・
+               金・銀・銅・WTI原油（すべて無料・キー不要で自動取得できるもの）
 - headlines.json : Googleニュース経由で、日経・Bloomberg・Reutersの見出し＋リンクを取得
 日経平均・TOPIXは公式の無料データが無いため、このスクリプトでは扱いません。
 """
@@ -24,22 +27,32 @@ def fetch_json(url):
     return json.loads(fetch_text(url))
 
 
-def get_usdjpy():
+# ---------- 為替（Frankfurter：無料・キー不要・商用利用可） ----------
+
+def get_fx(base, label):
     try:
-        data = fetch_json("https://api.frankfurter.dev/v1/latest?from=USD&to=JPY")
+        data = fetch_json(f"https://api.frankfurter.dev/v1/latest?from={base}&to=JPY")
         rate = data["rates"]["JPY"]
-        return {"label": "ドル円", "value": f"{rate:.2f}", "direction": None}
+        return {"label": label, "value": f"{rate:.2f}", "direction": None}
     except Exception:
         return None
 
 
-def get_stooq(symbol, label):
+# ---------- 指数・先物・コモディティ（Yahoo Financeの無料エンドポイント） ----------
+# ※ 非公式のエンドポイントのため、将来的にYahoo側の仕様変更で
+#   止まる可能性があります。その場合はまたお知らせください。
+
+def get_yahoo_change(symbol, label):
+    """前日比（％）を ▲/▼ 付きで返す"""
     try:
-        url = f"https://stooq.com/q/l/?s={symbol}&f=sd2t2c2p2&h&e=csv"
-        text = fetch_text(url)
-        last_line = text.strip().split("\n")[-1]
-        parts = last_line.split(",")
-        change_pct = float(parts[-1])
+        url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?interval=1d&range=5d"
+        data = fetch_json(url)
+        meta = data["chart"]["result"][0]["meta"]
+        price = meta["regularMarketPrice"]
+        prev = meta.get("previousClose") or meta.get("chartPreviousClose")
+        if not prev:
+            return None
+        change_pct = (price - prev) / prev * 100
         direction = "up" if change_pct >= 0 else "down"
         arrow = "▲" if direction == "up" else "▼"
         return {"label": label, "value": f"{arrow}{abs(change_pct):.2f}%", "direction": direction}
@@ -47,22 +60,46 @@ def get_stooq(symbol, label):
         return None
 
 
+def get_yahoo_level(symbol, label, scale=1.0, suffix=""):
+    """変化率ではなく、そのままの水準を返す（VIX・金利など）"""
+    try:
+        url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?interval=1d&range=5d"
+        data = fetch_json(url)
+        meta = data["chart"]["result"][0]["meta"]
+        price = meta["regularMarketPrice"] / scale
+        return {"label": label, "value": f"{price:.2f}{suffix}", "direction": None}
+    except Exception:
+        return None
+
+
 def build_ticker():
     items = []
     for item in [
-        get_usdjpy(),
-        get_stooq("^dji", "NYダウ"),
-        get_stooq("^sox", "SOX指数"),
-        get_stooq("gc.f", "NY金先物"),
-        get_stooq("cl.f", "WTI原油先物"),
+        get_fx("USD", "ドル円"),
+        get_fx("EUR", "ユーロ円"),
+        get_fx("GBP", "ポンド円"),
+        get_yahoo_level("^TNX", "米10年債利回り", scale=10, suffix="%"),
+        get_yahoo_level("^VIX", "VIX指数"),
+        get_yahoo_change("^GSPC", "S&P500"),
+        get_yahoo_change("^DJI", "ダウ平均"),
+        get_yahoo_change("^RUT", "ラッセル2000"),
+        get_yahoo_change("^SOX", "SOX指数"),
+        get_yahoo_change("YM=F", "ダウ先物"),
+        get_yahoo_change("ES=F", "S&P500先物"),
+        get_yahoo_change("RTY=F", "ラッセル2000先物"),
+        get_yahoo_change("GC=F", "NY金先物"),
+        get_yahoo_change("SI=F", "銀先物"),
+        get_yahoo_change("HG=F", "銅先物"),
+        get_yahoo_change("CL=F", "WTI原油先物"),
     ]:
         if item:
             items.append(item)
     return items
 
 
+# ---------- ニュース見出し（Googleニュース経由） ----------
+
 def clean_title(title):
-    # Googleニュースのタイトル末尾に付く " - サイト名" を除去
     return re.sub(r"\s-\s[^-]{1,30}$", "", title).strip()
 
 
