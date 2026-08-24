@@ -5,9 +5,9 @@ TK Capital ホームページ用データ更新スクリプト
                VIX指数・S&P500・ダウ平均・ラッセル2000・SOX指数・
                ダウ先物・S&P500先物・ラッセル2000先物・
                金・銀・銅・WTI原油（現在値＋変動幅＋前日比%）
-- headlines.json : 日経・Bloomberg・Reuters（Googleニュース経由）＋
-                   BigGo Finance（サイト直接取得）の見出し＋リンク
+- headlines.json : Googleニュース「主要記事」フィード（ローカルニュースを含まない全般ニュース）
 日経平均・TOPIXは公式の無料データが無いため、このスクリプトでは扱いません。
+BigGo FinanceはJavaScriptで後からニュースを表示するサイトのため取得不可と判明し見送り。
 traderswebfx.jpは利用規約で商用サイトへの再配信が禁止されているため対象外です。
 """
 
@@ -123,60 +123,24 @@ def build_ticker():
     return items
 
 
-# ---------- ニュース見出し ----------
+# ---------- ニュース見出し（Googleニュース「主要記事」フィード） ----------
 
 def clean_title(title):
     return re.sub(r"\s-\s[^-]{1,30}$", "", title).strip()
 
 
-def build_google_news_headlines():
-    sources = [
-        ("日本経済新聞", "nikkei.com"),
-        ("Bloomberg", "bloomberg.co.jp"),
-        ("Reuters", "jp.reuters.com"),
-    ]
-    items = []
-    for name, site in sources:
-        try:
-            url = (
-                f"https://news.google.com/rss/search?q=site:{site}+when:2d"
-                "&hl=ja&gl=JP&ceid=JP:ja"
-            )
-            xml = fetch_text(url)
-            titles = re.findall(r"<title>(.*?)</title>", xml)[1:4]
-            links = re.findall(r"<link>(.*?)</link>", xml)[1:4]
-            for t, l in zip(titles, links):
-                items.append({"source": name, "title": clean_title(t), "url": l})
-        except Exception:
-            continue
-    return items
-
-
-def build_biggo_headlines():
-    """BigGo Financeのページを直接読み取って見出し＋リンクを抽出する。
-    サイトのHTML構造が変わると取得できなくなる可能性があります。"""
+def build_headlines():
     try:
-        html = fetch_text("https://finance.biggo.jp/topics/Latest")
-        pattern = r'href="(https://finance\.biggo\.jp/news/[a-zA-Z0-9\-]+)"[^>]*>([^<]{10,120})<'
-        matches = re.findall(pattern, html)
-        seen = set()
+        url = "https://news.google.com/rss?hl=ja&gl=JP&ceid=JP:ja"
+        xml = fetch_text(url)
+        titles = re.findall(r"<title>(.*?)</title>", xml)[1:9]
+        links = re.findall(r"<link>(.*?)</link>", xml)[1:9]
         items = []
-        for url, title in matches:
-            if url in seen:
-                continue
-            seen.add(url)
-            items.append({"source": "BigGo Finance", "title": title.strip(), "url": url})
-            if len(items) >= 4:
-                break
+        for t, l in zip(titles, links):
+            items.append({"source": "Googleニュース", "title": clean_title(t), "url": l})
         return items
     except Exception:
         return []
-
-
-def build_headlines():
-    items = build_google_news_headlines()
-    items.extend(build_biggo_headlines())
-    return items
 
 
 def main():
@@ -188,9 +152,14 @@ def main():
             json.dump({"updated_at": now, "items": ticker_items}, f, ensure_ascii=False, indent=2)
 
     headline_items = build_headlines()
-    if headline_items:
-        with open("headlines.json", "w", encoding="utf-8") as f:
-            json.dump({"updated_at": now, "items": headline_items}, f, ensure_ascii=False, indent=2)
+    if not headline_items:
+        headline_items = [{
+            "source": "システム",
+            "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
+            "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja",
+        }]
+    with open("headlines.json", "w", encoding="utf-8") as f:
+        json.dump({"updated_at": now, "items": headline_items}, f, ensure_ascii=False, indent=2)
 
 
 if __name__ == "__main__":
