@@ -27,4 +27,3 @@ jobs:
           git add ticker.json headlines.json
           git diff --staged --quiet || git commit -m "Update market data"
           git push
-YMLEOF
