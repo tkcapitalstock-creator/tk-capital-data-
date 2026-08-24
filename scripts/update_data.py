@@ -155,18 +155,25 @@ def build_google_news_headlines():
 
 def build_biggo_headlines():
     """BigGo Financeのページを直接読み取って見出し＋リンクを抽出する。
-    サイトのHTML構造が変わると取得できなくなる可能性があります。"""
+    aタグの中に画像やspanが入っている場合にも対応できるよう、
+    中の入れ子タグを取り除いてからテキストとして扱う。"""
     try:
         html = fetch_text("https://finance.biggo.jp/topics/Latest")
-        pattern = r'href="(https://finance\.biggo\.jp/news/[a-zA-Z0-9\-]+)"[^>]*>([^<]{10,120})<'
-        matches = re.findall(pattern, html)
-        seen = set()
-        items = []
-        for url, title in matches:
-            if url in seen:
+        pattern = r'<a\s[^>]*href="(https://finance\.biggo\.jp/news/[a-zA-Z0-9\-]+)"[^>]*>(.*?)</a>'
+        matches = re.findall(pattern, html, re.DOTALL)
+
+        best = {}
+        for url, inner in matches:
+            text = re.sub(r"<[^>]+>", " ", inner)   # 入れ子タグを除去
+            text = re.sub(r"\s+", " ", text).strip()
+            if len(text) < 8:
                 continue
-            seen.add(url)
-            items.append({"source": "BigGo Finance", "title": title.strip(), "url": url})
+            if url not in best or len(text) > len(best[url]):
+                best[url] = text
+
+        items = []
+        for url, title in best.items():
+            items.append({"source": "BigGo Finance", "title": title, "url": url})
             if len(items) >= 8:
                 break
         return items
@@ -175,8 +182,6 @@ def build_biggo_headlines():
 
 
 def build_headlines():
-    # 日経・Bloomberg・Reuters（Googleニュース経由）は一旦除外し、
-    # BigGo Financeのみを使用
     return build_biggo_headlines()
 
 
@@ -189,9 +194,15 @@ def main():
             json.dump({"updated_at": now, "items": ticker_items}, f, ensure_ascii=False, indent=2)
 
     headline_items = build_headlines()
-    if headline_items:
-        with open("headlines.json", "w", encoding="utf-8") as f:
-            json.dump({"updated_at": now, "items": headline_items}, f, ensure_ascii=False, indent=2)
+    if not headline_items:
+        # 取得できなかった場合、古いデータを残さずはっきり分かる表示にする
+        headline_items = [{
+            "source": "システム",
+            "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
+            "url": "https://finance.biggo.jp/topics/Latest",
+        }]
+    with open("headlines.json", "w", encoding="utf-8") as f:
+        json.dump({"updated_at": now, "items": headline_items}, f, ensure_ascii=False, indent=2)
 
 
 if __name__ == "__main__":
