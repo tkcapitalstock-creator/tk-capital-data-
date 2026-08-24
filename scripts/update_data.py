@@ -5,9 +5,9 @@ TK Capital ホームページ用データ更新スクリプト
                VIX指数・S&P500・ダウ平均・ラッセル2000・SOX指数・
                ダウ先物・S&P500先物・ラッセル2000先物・
                金・銀・銅・WTI原油（現在値＋変動幅＋前日比%）
-- headlines.json : BigGo Finance（サイト直接取得）の見出し＋リンク
+- headlines.json : 日経・Bloomberg・Reuters（Googleニュース経由）＋
+                   BigGo Finance（サイト直接取得）の見出し＋リンク
 日経平均・TOPIXは公式の無料データが無いため、このスクリプトでは扱いません。
-日経・Bloomberg・Reutersは一旦除外（Googleニュース経由の関数は残してあります）。
 traderswebfx.jpは利用規約で商用サイトへの再配信が禁止されているため対象外です。
 """
 
@@ -130,7 +130,6 @@ def clean_title(title):
 
 
 def build_google_news_headlines():
-    """日経・Bloomberg・Reuters（現在は未使用。再度使うならbuild_headlines内で呼び出す）"""
     sources = [
         ("日本経済新聞", "nikkei.com"),
         ("Bloomberg", "bloomberg.co.jp"),
@@ -155,26 +154,19 @@ def build_google_news_headlines():
 
 def build_biggo_headlines():
     """BigGo Financeのページを直接読み取って見出し＋リンクを抽出する。
-    aタグの中に画像やspanが入っている場合にも対応できるよう、
-    中の入れ子タグを取り除いてからテキストとして扱う。"""
+    サイトのHTML構造が変わると取得できなくなる可能性があります。"""
     try:
         html = fetch_text("https://finance.biggo.jp/topics/Latest")
-        pattern = r'<a\s[^>]*href="(https://finance\.biggo\.jp/news/[a-zA-Z0-9\-]+)"[^>]*>(.*?)</a>'
-        matches = re.findall(pattern, html, re.DOTALL)
-
-        best = {}
-        for url, inner in matches:
-            text = re.sub(r"<[^>]+>", " ", inner)   # 入れ子タグを除去
-            text = re.sub(r"\s+", " ", text).strip()
-            if len(text) < 8:
-                continue
-            if url not in best or len(text) > len(best[url]):
-                best[url] = text
-
+        pattern = r'href="(https://finance\.biggo\.jp/news/[a-zA-Z0-9\-]+)"[^>]*>([^<]{10,120})<'
+        matches = re.findall(pattern, html)
+        seen = set()
         items = []
-        for url, title in best.items():
-            items.append({"source": "BigGo Finance", "title": title, "url": url})
-            if len(items) >= 8:
+        for url, title in matches:
+            if url in seen:
+                continue
+            seen.add(url)
+            items.append({"source": "BigGo Finance", "title": title.strip(), "url": url})
+            if len(items) >= 4:
                 break
         return items
     except Exception:
@@ -182,7 +174,9 @@ def build_biggo_headlines():
 
 
 def build_headlines():
-    return build_biggo_headlines()
+    items = build_google_news_headlines()
+    items.extend(build_biggo_headlines())
+    return items
 
 
 def main():
@@ -194,15 +188,9 @@ def main():
             json.dump({"updated_at": now, "items": ticker_items}, f, ensure_ascii=False, indent=2)
 
     headline_items = build_headlines()
-    if not headline_items:
-        # 取得できなかった場合、古いデータを残さずはっきり分かる表示にする
-        headline_items = [{
-            "source": "システム",
-            "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-            "url": "https://finance.biggo.jp/topics/Latest",
-        }]
-    with open("headlines.json", "w", encoding="utf-8") as f:
-        json.dump({"updated_at": now, "items": headline_items}, f, ensure_ascii=False, indent=2)
+    if headline_items:
+        with open("headlines.json", "w", encoding="utf-8") as f:
+            json.dump({"updated_at": now, "items": headline_items}, f, ensure_ascii=False, indent=2)
 
 
 if __name__ == "__main__":
