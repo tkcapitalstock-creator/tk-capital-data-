@@ -5,8 +5,10 @@ TK Capital ホームページ用データ更新スクリプト
                VIX指数・S&P500・ダウ平均・ラッセル2000・SOX指数・
                ダウ先物・S&P500先物・ラッセル2000先物・
                金・銀・銅・WTI原油（現在値＋変動幅＋前日比%）
-- headlines.json : Googleニュース経由で、日経・Bloomberg・Reutersの見出し＋リンクを取得
+- headlines.json : 日経・Bloomberg・Reuters（Googleニュース経由）＋
+                   BigGo Finance（サイト直接取得）の見出し＋リンク
 日経平均・TOPIXは公式の無料データが無いため、このスクリプトでは扱いません。
+traderswebfx.jpは利用規約で商用サイトへの再配信が禁止されているため対象外です。
 """
 
 import json
@@ -55,8 +57,6 @@ def get_fx(base, label):
 
 
 # ---------- 指数・先物・コモディティ（Yahoo Financeの無料エンドポイント） ----------
-# ※ 非公式のエンドポイントのため、将来的にYahoo側の仕様変更で
-#   止まる可能性があります。その場合はまたお知らせください。
 
 def _get_meta(symbol):
     url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?interval=1d&range=5d"
@@ -65,7 +65,6 @@ def _get_meta(symbol):
 
 
 def get_yahoo_change(symbol, label):
-    """現在値 ＋ 変動幅 ＋ 前日比（％）を返す"""
     try:
         meta = _get_meta(symbol)
         price = meta["regularMarketPrice"]
@@ -83,7 +82,6 @@ def get_yahoo_change(symbol, label):
 
 
 def get_yahoo_yield(symbol, label, scale=10.0):
-    """金利の水準 ＋ 前日比（bp）を返す"""
     try:
         meta = _get_meta(symbol)
         price = meta["regularMarketPrice"] / scale
@@ -125,13 +123,13 @@ def build_ticker():
     return items
 
 
-# ---------- ニュース見出し（Googleニュース経由） ----------
+# ---------- ニュース見出し ----------
 
 def clean_title(title):
     return re.sub(r"\s-\s[^-]{1,30}$", "", title).strip()
 
 
-def build_headlines():
+def build_google_news_headlines():
     sources = [
         ("日本経済新聞", "nikkei.com"),
         ("Bloomberg", "bloomberg.co.jp"),
@@ -151,6 +149,33 @@ def build_headlines():
                 items.append({"source": name, "title": clean_title(t), "url": l})
         except Exception:
             continue
+    return items
+
+
+def build_biggo_headlines():
+    """BigGo Financeのページを直接読み取って見出し＋リンクを抽出する。
+    サイトのHTML構造が変わると取得できなくなる可能性があります。"""
+    try:
+        html = fetch_text("https://finance.biggo.jp/topics/Latest")
+        pattern = r'href="(https://finance\.biggo\.jp/news/[a-zA-Z0-9\-]+)"[^>]*>([^<]{10,120})<'
+        matches = re.findall(pattern, html)
+        seen = set()
+        items = []
+        for url, title in matches:
+            if url in seen:
+                continue
+            seen.add(url)
+            items.append({"source": "BigGo Finance", "title": title.strip(), "url": url})
+            if len(items) >= 4:
+                break
+        return items
+    except Exception:
+        return []
+
+
+def build_headlines():
+    items = build_google_news_headlines()
+    items.extend(build_biggo_headlines())
     return items
 
 
