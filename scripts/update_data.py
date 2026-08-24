@@ -1,9 +1,9 @@
 """
 TK Capital ホームページ用データ更新スクリプト
-- ticker.json : ドル円・ユーロ円・ポンド円・米10年債利回り・VIX指数・
+- ticker.json : ドル円・ユーロ円・ポンド円・米10年債利回り（前日比bp付き）・VIX指数・
                S&P500・ダウ平均・ラッセル2000・SOX指数・
                ダウ先物・S&P500先物・ラッセル2000先物・
-               金・銀・銅・WTI原油（すべて無料・キー不要で自動取得できるもの）
+               金・銀・銅・WTI原油（現在値＋前日比%、すべて無料・キー不要）
 - headlines.json : Googleニュース経由で、日経・Bloomberg・Reutersの見出し＋リンクを取得
 日経平均・TOPIXは公式の無料データが無いため、このスクリプトでは扱いません。
 """
@@ -42,32 +42,53 @@ def get_fx(base, label):
 # ※ 非公式のエンドポイントのため、将来的にYahoo側の仕様変更で
 #   止まる可能性があります。その場合はまたお知らせください。
 
+def _get_meta(symbol):
+    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?interval=1d&range=5d"
+    data = fetch_json(url)
+    return data["chart"]["result"][0]["meta"]
+
+
 def get_yahoo_change(symbol, label):
-    """前日比（％）を ▲/▼ 付きで返す"""
+    """現在値 ＋ 前日比（％）を返す"""
     try:
-        url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?interval=1d&range=5d"
-        data = fetch_json(url)
-        meta = data["chart"]["result"][0]["meta"]
+        meta = _get_meta(symbol)
         price = meta["regularMarketPrice"]
         prev = meta.get("previousClose") or meta.get("chartPreviousClose")
         if not prev:
-            return None
+            return {"label": label, "value": f"{price:,.2f}", "direction": None}
         change_pct = (price - prev) / prev * 100
         direction = "up" if change_pct >= 0 else "down"
         arrow = "▲" if direction == "up" else "▼"
-        return {"label": label, "value": f"{arrow}{abs(change_pct):.2f}%", "direction": direction}
+        value = f"{price:,.2f}（{arrow}{abs(change_pct):.2f}%）"
+        return {"label": label, "value": value, "direction": direction}
     except Exception:
         return None
 
 
 def get_yahoo_level(symbol, label, scale=1.0, suffix=""):
-    """変化率ではなく、そのままの水準を返す（VIX・金利など）"""
+    """変化率を出さず、そのままの水準だけを返す（VIXなど）"""
     try:
-        url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?interval=1d&range=5d"
-        data = fetch_json(url)
-        meta = data["chart"]["result"][0]["meta"]
+        meta = _get_meta(symbol)
         price = meta["regularMarketPrice"] / scale
         return {"label": label, "value": f"{price:.2f}{suffix}", "direction": None}
+    except Exception:
+        return None
+
+
+def get_yahoo_yield(symbol, label, scale=10.0):
+    """金利の水準 ＋ 前日比（bp）を返す"""
+    try:
+        meta = _get_meta(symbol)
+        price = meta["regularMarketPrice"] / scale
+        prev = meta.get("previousClose") or meta.get("chartPreviousClose")
+        if not prev:
+            return {"label": label, "value": f"{price:.2f}%", "direction": None}
+        prev = prev / scale
+        diff_bp = (price - prev) * 100
+        direction = "up" if diff_bp >= 0 else "down"
+        arrow = "▲" if direction == "up" else "▼"
+        value = f"{price:.2f}%（{arrow}{abs(diff_bp):.0f}bp）"
+        return {"label": label, "value": value, "direction": direction}
     except Exception:
         return None
 
@@ -78,7 +99,7 @@ def build_ticker():
         get_fx("USD", "ドル円"),
         get_fx("EUR", "ユーロ円"),
         get_fx("GBP", "ポンド円"),
-        get_yahoo_level("^TNX", "米10年債利回り", scale=10, suffix="%"),
+        get_yahoo_yield("^TNX", "米10年債利回り", scale=10),
         get_yahoo_level("^VIX", "VIX指数"),
         get_yahoo_change("^GSPC", "S&P500"),
         get_yahoo_change("^DJI", "ダウ平均"),
