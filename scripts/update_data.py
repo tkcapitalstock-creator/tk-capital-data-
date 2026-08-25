@@ -119,7 +119,9 @@ def get_yahoo_change(symbol, label):
         return None
 
 
-def get_yahoo_yield(symbol, label, scale=10.0):
+def get_yahoo_yield(symbol, label, scale=1.0):
+    # 注：^TNXはかつて「利回り×10」で提供されていたが、現在のYahoo Financeの
+    # chart APIはそのまま利回り（例：4.74 → 4.74%）を返すため、scaleは1.0とする。
     try:
         raw_price, raw_prev = _get_price_and_prev_close(symbol)
         price = raw_price / scale
@@ -141,7 +143,7 @@ def build_ticker():
         get_fx("USD", "ドル円"),
         get_fx("EUR", "ユーロ円"),
         get_fx("GBP", "ポンド円"),
-        get_yahoo_yield("^TNX", "米10年債利回り", scale=10),
+        get_yahoo_yield("^TNX", "米10年債利回り"),
         get_yahoo_change("^VIX", "VIX指数"),
         get_yahoo_change("^GSPC", "S&P500"),
         get_yahoo_change("^DJI", "ダウ平均"),
