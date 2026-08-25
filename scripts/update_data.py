@@ -59,10 +59,12 @@ def get_fx(base, label):
 # ---------- 指数・先物・コモディティ（Yahoo Financeの無料エンドポイント） ----------
 #
 # 前日終値は meta.previousClose / meta.chartPreviousClose を信用せず、
-# 日足の時系列（timestamp + close）から「取引所ローカル日付で今日より前の
-# 直近の取引日の終値」を明示的に割り出す。株価指数先物やVIX、商品先物は
-# ほぼ24時間取引されており、取得タイミングによって meta.previousClose 系の
-# フィールドが直近の終値とずれた値を返すことがあるため。
+# 日足の終値配列から直接判定する。指数先物やVIX、商品先物はほぼ24時間
+# 取引されており、取得タイミングによって meta.previousClose 系のフィールドが
+# 直近の終値とずれた値を返すことがあるため。
+# 判定方法：終値配列の最後のバーが現在値（regularMarketPrice）とほぼ一致する
+# 場合は「本日分のバー」とみなし、その1つ前の値を前日終値として採用する。
+# 一致しない場合はそのまま最後のバーを前日終値として採用する。
 
 def _get_chart_result(symbol, range_="10d"):
     url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?interval=1d&range={range_}"
@@ -75,30 +77,22 @@ def _get_price_and_prev_close(symbol):
     meta = result["meta"]
     price = meta["regularMarketPrice"]
 
-    gmtoffset = meta.get("gmtoffset", 0) or 0
-    local_tz = timezone(timedelta(seconds=gmtoffset))
-    today_local = datetime.now(local_tz).date()
-
-    timestamps = result.get("timestamp") or []
     quote = result.get("indicators", {}).get("quote", [{}])[0]
     closes = quote.get("close") or []
+    valid_closes = [c for c in closes if c is not None]
 
-    daily = []
-    for ts, c in zip(timestamps, closes):
-        if c is None:
-            continue
-        d = datetime.fromtimestamp(ts, local_tz).date()
-        daily.append((d, c))
+    tolerance = max(abs(price) * 1e-6, 1e-6)
+    prev = None
+    if len(valid_closes) >= 2:
+        if abs(valid_closes[-1] - price) < tolerance:
+            prev = valid_closes[-2]
+        else:
+            prev = valid_closes[-1]
+    elif len(valid_closes) == 1:
+        if abs(valid_closes[0] - price) >= tolerance:
+            prev = valid_closes[0]
 
-    # 今日の分（まだ確定していない可能性がある）は除外し、
-    # 直近の確定済み取引日の終値を前日終値として採用する
-    prior_days = [c for d, c in daily if d < today_local]
-    if prior_days:
-        prev = prior_days[-1]
-    elif daily:
-        # 念のためのフォールバック（本来は通らない想定）
-        prev = daily[-1][1]
-    else:
+    if prev is None:
         prev = meta.get("previousClose") or meta.get("chartPreviousClose")
 
     return price, prev
