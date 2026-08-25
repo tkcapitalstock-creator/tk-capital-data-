@@ -57,18 +57,56 @@ def get_fx(base, label):
 
 
 # ---------- 指数・先物・コモディティ（Yahoo Financeの無料エンドポイント） ----------
+#
+# 前日終値は meta.previousClose / meta.chartPreviousClose を信用せず、
+# 日足の時系列（timestamp + close）から「取引所ローカル日付で今日より前の
+# 直近の取引日の終値」を明示的に割り出す。株価指数先物やVIX、商品先物は
+# ほぼ24時間取引されており、取得タイミングによって meta.previousClose 系の
+# フィールドが直近の終値とずれた値を返すことがあるため。
 
-def _get_meta(symbol):
-    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?interval=1d&range=5d"
+def _get_chart_result(symbol, range_="10d"):
+    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?interval=1d&range={range_}"
     data = fetch_json(url)
-    return data["chart"]["result"][0]["meta"]
+    return data["chart"]["result"][0]
+
+
+def _get_price_and_prev_close(symbol):
+    result = _get_chart_result(symbol)
+    meta = result["meta"]
+    price = meta["regularMarketPrice"]
+
+    gmtoffset = meta.get("gmtoffset", 0) or 0
+    local_tz = timezone(timedelta(seconds=gmtoffset))
+    today_local = datetime.now(local_tz).date()
+
+    timestamps = result.get("timestamp") or []
+    quote = result.get("indicators", {}).get("quote", [{}])[0]
+    closes = quote.get("close") or []
+
+    daily = []
+    for ts, c in zip(timestamps, closes):
+        if c is None:
+            continue
+        d = datetime.fromtimestamp(ts, local_tz).date()
+        daily.append((d, c))
+
+    # 今日の分（まだ確定していない可能性がある）は除外し、
+    # 直近の確定済み取引日の終値を前日終値として採用する
+    prior_days = [c for d, c in daily if d < today_local]
+    if prior_days:
+        prev = prior_days[-1]
+    elif daily:
+        # 念のためのフォールバック（本来は通らない想定）
+        prev = daily[-1][1]
+    else:
+        prev = meta.get("previousClose") or meta.get("chartPreviousClose")
+
+    return price, prev
 
 
 def get_yahoo_change(symbol, label):
     try:
-        meta = _get_meta(symbol)
-        price = meta["regularMarketPrice"]
-        prev = meta.get("previousClose") or meta.get("chartPreviousClose")
+        price, prev = _get_price_and_prev_close(symbol)
         if not prev:
             return {"label": label, "value": f"{price:,.2f}", "direction": None}
         change = price - prev
@@ -83,12 +121,11 @@ def get_yahoo_change(symbol, label):
 
 def get_yahoo_yield(symbol, label, scale=10.0):
     try:
-        meta = _get_meta(symbol)
-        price = meta["regularMarketPrice"] / scale
-        prev = meta.get("previousClose") or meta.get("chartPreviousClose")
-        if not prev:
+        raw_price, raw_prev = _get_price_and_prev_close(symbol)
+        price = raw_price / scale
+        if not raw_prev:
             return {"label": label, "value": f"{price:.2f}%", "direction": None}
-        prev = prev / scale
+        prev = raw_prev / scale
         diff_bp = (price - prev) * 100
         direction = "up" if diff_bp >= 0 else "down"
         arrow = "▲" if direction == "up" else "▼"
