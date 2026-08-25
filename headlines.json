@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-08-26T04:46:31.597616+09:00",
+  "updated_at": "2026-08-26T05:59:15.384133+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
+      "source": "Googleニュース",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "議長辞職勧告決議案の採決中止に反対した議員を処分へ 自民福岡県議団会長、重い処分には否定的",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43M3pqeUROQXk4N1B5U1RsU3FjaUdNUklXOXl0MDFIVXhyTjExZFQwUGpQUkw2ZzVVVVVTck5Zd2FoTnU0YXBKb0t6d3NndGdYSjhTcm93?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "米国、「史上最大の金融攻勢」を発表　イランは準備万全と強調",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QZEFQUFJ3X0YtSWJEanNVekpIQ0ZWUzluSTRwdjYySFFhRkNnNnFQeDJmSkVrYnNSZ1N2VXpHQ1g3eGFpWmdTdDg2ZnJjeTJaMXdqZDdGVXRRQTM0RWdn0gFkQVVfeXFMTi05dVBrSGdGYmVsaWEtOVY3LUUzWUtaRFpkTHIxdnduTndkWG9sZV8yLWloRkZnc0E3X0Q5bW8tMkV1QkFuUEdVMmlFbzdTY3NZTEtmeU9kb3FEMkNsSTRKTTB2Zw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【動画あり】下地幹郎氏の立候補取り下げ「自民側から打診」 後援会長が経緯明かす 沖縄知事選",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iUkhjOEVQbS0yUjd1S1RObG50VXpSQThRcHViTDB3U1FqVVl6YVhySHlNa25JeFpKUXczNXdsenpneTVxYmpNQUZHcTl3cy1SLWZoaktLUVhud25iUFE?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "前伊東市長、田久保被告パソコンから「卒業証書」データ発見か 「第三者作成」無罪主張へ",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82a0VKQ0pQQUROeGNQekQ4R25BWmJmQlJtQ2ZhLU4tYXpqbTJpRlhzSWw1R2NydFpMQ21xT3Q0NkdTRXdmZkZZdGVqX0NEZnRmS0hwQ0NrRlFsUjZQYTRRNFNLUVhLWldDRDQwRTVXQnFYTU92M3c?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "トランプ大統領「オンタリオ湖→アメリカ湖に名称変更検討」カナダとの対立さらに激化（TBS NEWS DIG Powered by JNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95ZkRqRVNzTnpzLVRJdjU2dEJjYnVybGFCZ0E0VnAyMUYwaTI2RGZpUU51a0sySU1adl9hcmYtZmlWQ2g5MHFjNjhHbjMxQlV4aU42OF92LUhuLVJjY2hpU0tYUlY2M0tIbXE0dXJYM0hXNE5kN0J2ZVZYeVluU3c?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "白菜「鮮度保つため」発がん性指摘のホルムアルデヒドに浸し出荷、中国で発覚…公安当局が乗り出し各地で緊急調査",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZLWJDb3F1WlVUM2s4YV9UaGtzWFpvR2pFdFpWTWszamFsU1k5UGEzbVM5T3g3UE96Nl9xdFFMS0lETFI1Q05VMllhc05MbUs5eHJoRlR6WlBCWkptbVg1YmJR?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "相模原の高校生死亡、黒色の車に追われて農道で追い付かれ「複数人の男から暴行」…友人が供述",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oQkRaSzJDd3ZJRnJGZmdYeDk0TTk2cjltdVpJQk9TYXZHbng0MVhrcmFEbmRiWnpKbGg0R3cwWjhhRWlVcks1UmpLQ19Nb0plRlpsekhYXzY2ZWdmaEl3VzE3aE5rQQ?oc=5"
     }
   ]
 }
