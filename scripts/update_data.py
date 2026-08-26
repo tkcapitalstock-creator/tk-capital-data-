@@ -137,6 +137,7 @@ def build_ticker():
         get_fx("USD", "ドル円"),
         get_fx("EUR", "ユーロ円"),
         get_fx("GBP", "ポンド円"),
+        get_yahoo_change("NIY=F", "日経225先物"),
         get_yahoo_yield("^TNX", "米10年債利回り"),
         get_yahoo_change("^VIX", "VIX指数"),
         get_yahoo_change("^GSPC", "S&P500"),
