@@ -1,45 +1,10 @@
 {
-  "updated_at": "2026-08-29T15:21:55.823122+09:00",
+  "updated_at": "2026-08-29T15:35:20.517255+09:00",
   "items": [
     {
-      "source": "Googleニュース",
-      "title": "Google ニュース",
-      "url": "https://news.google.com/"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "いちき串木野市の沖合い 男性2人心肺停止で発見 鹿児島",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KRmhERlEzVUNoSk5FN3l2Z1l0OHZlemMtRGhfbllMNy1XNmU2R012OWEtS1pTU0xxUmhGLThPY01WM3E2Z2x4a25yNEcxNENfVm80eVZaaE52UzJYWFczNmI5alBlTms?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "ネパール土石流「すべてを一瞬で押し流した」…死者５８４人・行方不明２５００人、不明５邦人は大阪の家族か",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85TWFJdlZkdWNiNGQ1S2NOMXo3eHVpNDkwWTZuSGNpWHZNRmRNMnJMTldmaEJnUExpLTFGd0U5US1zQ2VWeTFscGtVbzROWTdsRzdpQmNERUlESE1uZnhsZjZB?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "JR七尾線復旧めど立たず 敷浪、羽咋 金丸、能登部４駅で設備水没｜社会｜石川のニュース",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEbEhIbnJtbUk1OHZoWEpFTGxCdWJoZVpiYmZEYlBGMGJYYjhjeWpfZTdoSVhjRllkbXFJcDNrTmt5UW14dk9MMy04WDZZSE5MU2FWdnViSQ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "イラン指導部「金融の生命線」、トランプ政権が経済制裁の対象に…エジプト大手ミスル銀行のＵＡＥの支店",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EUFdwV3FjZkJPclZPa3AzSWc2bXBCbzZjU0FUOTFfUUlWUEl4RG1WOU9ZaC1jZnozbjJjLWVYSlJBSzdBSVU5VmllaU8zdWowZzR5VjRkVGw1SmNhcmtLdkV3?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "中道改革連合は分裂の公算、公明出身議員が離脱検討…立民は党首会談で合流しない方針伝達（読売新聞オンライン）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84TWdzVl9DdE9pQ3lkS0ViSk5sQmtKa2tYM1dkSUtOWnFBd25sa1hnNncyaDQxYmFFblNYcXFrbHdjZTAtS2R2Y3Z4cnk4Q2FDV250SVBHLUxSZ09OYm1RMEtRclJaYUtwU0c1dkV6MS01dnJaVjUwMC1qLWpIR0U?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "大気の状態非常に不安定 北陸で再び大雨のおそれ",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rcXhaRTkxanRoS19rYk9yc2VXSUltZGFoSmMzd1gyVVBkRGdvTmlicU1XOU0wcFhqd01OLW5CdXk5SG1fbi0zTlBCYkdmblpoZS1NVUVHWDVHSzhBaFpJ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "「厳しすぎる」「巻きこまれ事故」 自民幹事長の福岡県議「非公認」発言で広がる動揺",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02QnMzNjlsNHA3bkludVlXWDNpNW1BUzBwT01Sa1JxWUFfRXJGNHhfdV8yM2syRF81b3A5a0lMLXNmNDBMVnd0bUZxdHlseFRPbUo4Rjl3?oc=5"
+      "source": "システム",
+      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
+      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
     }
   ]
 }
