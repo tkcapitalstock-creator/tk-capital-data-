@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-08-30T09:13:32.887835+09:00",
+  "updated_at": "2026-08-30T09:26:59.335693+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
+      "source": "Googleニュース",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【福井県に大雨特別警報】九頭竜川水系の龍ヶ鼻ダムで緊急放流の可能性 竹田川の水位が急激に上昇する恐れ",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NWGZLc1I0dm53MmFZUVBaRTFpVHR6YXVBaDVreHp3aDdSUDVkYnZtWm1jeU9RSDBkSXd6enJNUV9EZ2F0dzVhZGlDVEsxTmczWm5nelVDb0x1czRiTFJDVW5LdERpRmhyN2RaTG9QLVc3WENyeVhHb09PUHg?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "支援物資の山に「なぜもらえないの?」 被災地を襲った想定外",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yT0dMTkRoRHpSX3FZZ2FOMkJ2WE5mSmstb2FiR0lxb2VWVXJrUEJndGVRZWVyc3otTzhtaFZGS25Pdi1XbVRIVGh0Rnc1eWN6Qzc4R1V3NnNMTFN5UmRBcEZFSnQ4aHpw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "インドからチベット目指す巡礼者、韓国の発電所作業員…ネパール土石流に多くの外国人が巻き込まれる",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13NTAwUVZxVHVGZU51VzJEcUNkV01ZZUZQYTB3UFJtZDFfTXlQM2dLdE1tWHp1YjZpbWNXN041aXU5UmVma2dSeHFpc1RyX2FYN2ZnX29zeUd2SkhONi1iWDB3?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【速報】福井県に「レベル5大雨特別警報」を発表　命を守る行動を(気象予報士 日直主任 2026年08月30日)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rODFXSzAyMDBiQ0NldzdCNzlKTm9HUDlaQkEzV3pKTmxXWjF3MHZXb3B1N0NuUkNHMS12c1RtZjM5VzV3NW9CZ0NvZExmM3RGWE9ieHM3eVA1ZXFuRlVIa1pkb1BZVWQyVVHSAW9BVV95cUxNN0c2MlJJbnV0T1EwNTU5VnpGMVI5empWUW96ejR0eXJRWjRDbkVPYlU0aGQ0QkhoNktyRTdYeGFNLWFUOERfU2lUdy1NeURHU3cyclNoeEVUOHdQaTJScVc2NkZWQVF6RDYxaUtMa1E?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "千葉県東方沖でM4.8の地震 茨城県神栖市で震度4 津波の心配なし",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NaGwxTml3Y2xOYldGUklweFY3eHlfV1otS0ZmcDdlY0owb0FnTEExZDZadzRNeFRibUtXcENJZThjWi1Ub1JZYkMtN2xyODFBaHNPOExDaTUxd2M?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【速報】中道、公明出身者離脱論強まり分裂含み",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PMGVfbDVLNGFfa2cyUHh5alI2WnpwcHBCSGhlYXlrNnByeEV3QXZiekJrSkx5SDJhc3FrUW43X2NBVUtkbTFXZnZsaw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "秋雨前線が停滞し大気の状態不安定 北陸を中心に大雨に注意・警戒を",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PTC1FaWdEekpWeGdYUURCMzltSmUwcWZFaUZYWXFLM01kaVNJUzQxdFBsREc4akowOFNRMUZjQ3ZFTU1sNi0xYkVvU29PdS1hSzF0Nw?oc=5"
     }
   ]
 }
