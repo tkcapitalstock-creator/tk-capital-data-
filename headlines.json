@@ -1,45 +1,10 @@
 {
-  "updated_at": "2026-08-31T01:47:21.764646+09:00",
+  "updated_at": "2026-08-31T02:00:41.412829+09:00",
   "items": [
     {
-      "source": "Googleニュース",
-      "title": "Google ニュース",
-      "url": "https://news.google.com/"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "土石流、時速１８０キロで崩落 ７分で検問所到達、死者７９７人に―中国・ネパール",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45UzRwd1U0ekl2Q05PWVZIdUhPcUxIWVNQZXFfVW5sTGFOcHlLSmZJQ193b3dGOW5QanNKZjYxdmk5OXJURk5rT0diSU5mZ3JiNURYaFRvVmVGTVpoRzJGVk16cw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "福岡県が「議員連盟」へ補助金１２００万円、数十年にわたり予算化…高額海外視察が問題視され廃止方針",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CdWxDSGx0M3FjcUVwUnJXY1I1c2RKcGVNN0NUc2hSX24zWmFGWmluc2hYYzdPTTZLSVNqcm90VDVNekFQN0RhOUpiUVdFYllUdWhUYVloRGxpQUZJeVIyUFhKbHg4Zw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "「沖縄研修旅行」の意義を強調…同志社国際高の西田校長、保護者説明会では冒頭で退席",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XMU0xeW5NaTZhRWRLbWNhMy1rT2RVbWpEWm8wdThIOVFMT1h4SWlOR1k3V2NUQzJoUXAxTFY2aXZnVnBETDRSNWktTEh3MmdMSmNVUVFOdTF5NWZ0Z0F3ZWhPVk4wVWotOS1qdHc2RGdzVmVVR3c?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "イラン最高指導者、湾岸諸国に「真の敵」への対抗呼びかけ",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ3BkY0Q5VDI4cG5lWnpxUnVxc0piTEFsenVfRkd6ZUtTVVlZclV2Vk5RMURXaXRXVnpVbFB4NVBnMERmZjZBZGlNVkRFSGpOMjV6UVMxelpiSHpBN18xUGFHMnFXTWZkMmI1dXRac0NLR3VlOEVNZklKOGJUVU5faXFR?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "高市内閣支持4ポイント上昇62% 減税「社会保障に不安」64%",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03UnRNbFJ5dmdQUnpKWGJaRURWMC1hSFp4TXoxUzd0OEI1cy1Yc0JXc0tyRVVscWNSRHlKcF9falhKc3ZFTTFsanE0YVFjbU1JNE9PMWV3cmtIVmdOXzJ3ZUZzeGgtZTdudFhONQ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "福井・大雨 福井空港で滑走路などが冠水 各地で浸水相次ぐ",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnYzQ0QWZUc2lBMUZYX1BTZTZuWC1OSEJZcTh0bWs0Sml6cER6UHpiR1ZVM3ZnWjFvSVRtYVZ5enpWbWo4TDZBU3ZwZzIyb3Q4ZldreUlMX05sOG42TS1fRTZOT0J5Y1JN?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "香川県知事選 池田豊人氏が再選 実績強調、共産推薦ら3新人破る",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxZ2luZ2JQSDdUeFU5TW9QTnF1eFJ4WjNnWndPV3FmYjRKNjJJTy0ybS1NVTdYUVg4NXBzSW5xdXVFMVZmeU5LXzVvR2V2RVdjUDF6TFRFNDVLMDdPRURSZjN1OE9vNEZQLUdIWkxCYThuVk9CSlE?oc=5"
+      "source": "システム",
+      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
+      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
     }
   ]
 }
