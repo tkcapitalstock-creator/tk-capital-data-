@@ -1,45 +1,10 @@
 {
-  "updated_at": "2026-08-31T19:03:23.493862+09:00",
+  "updated_at": "2026-08-31T19:16:47.852513+09:00",
   "items": [
     {
-      "source": "Googleニュース",
-      "title": "Google ニュース",
-      "url": "https://news.google.com/"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "三重 伊勢神宮近くの商店街で火事 けが人の情報なし",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12b09qTEZnT2swOERQR1lZdEg3RHY1YWxsNmVMRFdRZURuX1ZkSnotRlJiSDk0bU5DZU1ZeXl6bi1CUmQyZnBIVzJQZU95ODNvR1BmbWF1ejZvQngzR1ZN?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "【速報】イランが米軍駐留基地へミサイル発射と報道",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yaVJGYmVQcGxhRzBkLWRlZmhnVmRZRDgzWVFuZXJFTU5ySXNER3h1Y3k3UHhvZVZOS0VoMXFhWDZJVjRybkoyMUdzdw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "中道・小川代表、衆院で統一会派を提案 中道分裂へ",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hY0lQa2gtN1NXdnk4UEdYRXlJbUhSemw0bzdlTkZ4NUdfVTNScjNXUlZZTV8yNWdsNGNWeXZ4RkZ0d1BoS2QzQW51MlBuaTdyODA1QjlRLUlJS3dxV1BQYnYzTVdTNUQx?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "旧統一教会総裁に懲役２年判決 尹前政権に金品提供―韓国地裁",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nMjYydG1HbDlVTldUVHhudTE1X3ZKWWt0MXBpa0ZLTHRGelhmMWtBTElaV1BLa1d3QnRZVEZsekxZQWc2c0JQdTNOdjF6ZEIxY3lmWURVbzFxczR2YlBLNmk3OA?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "大規模土石流でデマ拡散、中国で１０人摘発…ＳＮＳに「数千人が一瞬で死亡した」",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PWTc5N0dHOW4yd01ISWJXd2sxSi1fMGNwVm9RUWxKNDhidVN4UVd1Z1hNV19kNVJXdVNqa1hoUVNJa0pfSVZSYWt3ZnhFOXREMHBOT0ZENzRIWllpUzNpWU9R?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "日本の南の熱帯低気圧が台風に発達予想 秋雨前線南下で大雨の可能性",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GRmctYXNISi1hQjNqUUlUaTR4RHVjNzhDdXN3cy1pMU9qdXgwV3M1U3JXMS1MeERRV3NvQVdDbWlJLTZ2VVVHRzBRdWpMWnlRNmlidQ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "辺野古沖転覆事故で生徒死亡の同志社国際 本年度の沖縄研修旅行中止を決定",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nMXZ6SWtPZGFTTy1GOTVRR1RHZEMyWVp3SGJSaHBvUVFWdVo4NFJBcHBFZEVpYkZPX3RFUXRLcC1XMkczYjhfS29NMkQzNHN6dTM5UlphaDNjLVlfbTJHc1lrOXR4ZGZHQU9PdlI0dHpKWms1M2c?oc=5"
+      "source": "システム",
+      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
+      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
     }
   ]
 }
