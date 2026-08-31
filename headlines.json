@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-08-31T19:16:47.852513+09:00",
+  "updated_at": "2026-08-31T19:30:03.406005+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
+      "source": "Googleニュース",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "三重 伊勢神宮近くの商店街で火事 けが人の情報なし",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12b09qTEZnT2swOERQR1lZdEg3RHY1YWxsNmVMRFdRZURuX1ZkSnotRlJiSDk0bU5DZU1ZeXl6bi1CUmQyZnBIVzJQZU95ODNvR1BmbWF1ejZvQngzR1ZN?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【速報】イランが米軍駐留基地へミサイル発射と報道",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yaVJGYmVQcGxhRzBkLWRlZmhnVmRZRDgzWVFuZXJFTU5ySXNER3h1Y3k3UHhvZVZOS0VoMXFhWDZJVjRybkoyMUdzdw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "中道、結党7カ月で「分党」視野 カネと票どうなる 立民系自嘲「1年前の10分の1か」",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pTDVNWVJ5STNsSEQtNGF6Q0duaDlWM0V0Vi1KendYQmtKT2hFWlRjMzFmTjFNZDRhMkc5d3FnWFphZEZ6Ylhjb01LSTRDbDE0N01MaEdwQTFxSDl2QXhNb0I0b2RJNzBlZ1VITDNLWlJJdEs5SWc?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "未婚者35.1％「結婚するつもりない」 こども家庭庁が初調査",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40MEVhekIzM29JR1FZMUJVM0lyNXpXN2xQQnpGQ0laZi14T2RzOEhPanNhREExcEdUZjlHNkdlcnRHZDVwUDQ2S2IxNWJWbTVVb003dmxBVTM2R2lkWmUtaXBCLTZ5dS05?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "大規模土石流でデマ拡散、中国で１０人摘発…ＳＮＳに「数千人が一瞬で死亡した」",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PWTc5N0dHOW4yd01ISWJXd2sxSi1fMGNwVm9RUWxKNDhidVN4UVd1Z1hNV19kNVJXdVNqa1hoUVNJa0pfSVZSYWt3ZnhFOXREMHBOT0ZENzRIWllpUzNpWU9R?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "日本に帰国した脱北者ら４人、引き揚げられた北朝鮮工作船の差し押さえ申し立て…競売を目指す方針",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBM2FQV1A1NXcyTko0MnFGMUx6X1JFa1ZyY253UDhfNlgySUEwOWo2ZTZWMXRfZjdEYTItY0ZnaDN4Uk5VWlN0NDN1TXlVLXZ4WGRLUndGRU16OHROeVQ4R2JsaG9BUQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "日本の南の熱帯低気圧が台風に発達予想 秋雨前線南下で大雨の可能性",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GRmctYXNISi1hQjNqUUlUaTR4RHVjNzhDdXN3cy1pMU9qdXgwV3M1U3JXMS1MeERRV3NvQVdDbWlJLTZ2VVVHRzBRdWpMWnlRNmlidQ?oc=5"
     }
   ]
 }
