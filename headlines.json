@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-09-02T21:34:06.827530+09:00",
+  "updated_at": "2026-09-02T21:52:29.148549+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
+      "source": "Googleニュース",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "ネパール土石流 当初は海外救助隊を拒否した「地政学的懸念」",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GMldEZGZndHNzTjhYdFMzUkYweUxBaXlrU2dIcldKdzc4MjBxelZwU1dwYUMyamoxZXhlSHdjakdoWjRPNHMwWC11UFA1SFRHY1J2NVpfalFhdDhydGRfYnVaOGg5UW9W?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "ゼレンスキー大統領、ロシアへの大規模な無人機攻撃示唆…「ロシア領空は安全でなくなっている」と民間航空会社に警告",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85ZHZjR2dtOXZUeG5UU3dFck9xak5iejBDOE9La0N5R2N6bGFwZ21yWEdRbzJ3ZGJjY0x1V05SQWdQbkRNSmp2NlF0TjcxRXNiNUNwcERvUUNvelJaVVNhS25B?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "米軍、革命防衛隊へ攻撃 結婚式会場も被弾で死者―イランは報復、「海峡封鎖強化」",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlZkZBcWdwVm1OaGhDQ3hXNi1DeE9rNWhOY0pCc1ItcVVOOEVwZ3RySzJUelVtaVNFVURDSWN6X0tHR0V3MnhQYlhZcVdGU01ITS0zcjQ2UjVJdGVCR3B6YWZRRQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "台風24号と秋雨前線による交通機関への影響予測 西日本中心に高速道路の通行止め・在来線運休に注意（9月2日更新）",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByTi1rdnFwT3gtZmQ0WFJwTHVGR2oxV3Q1OHVfU1NGMkxodk5pSlR5d1ZCYm1McTAySl9kMDdJNlpyc1hKQ3gxNkdkN200b1BXaHJBZg?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "米アップル、地図でオンタリオ湖の表記を「アメリカ湖」に変更",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XTXdLb1hDWmpzNGczNldMajMwTjA2cDFKay1rMU9fR3dGMldKXzFFenE0QWo2U2FZWmJ3Z0hqd1I2SkZmU0tTQTNRQjNYVkFwSFdYZTFXdWlYRVZodEI40gFkQVVfeXFMTWxXQV9BWElpSEx4TGJWRUxXMXZDelZaN2Fmd2Y4aUFCS19VZFFrR0F3M0hhZkY3S0ZTWTFsRUdVMU1qR3RSZFpGcWgwNUZIbXdFcjYtbjBod0E1OWM4cVQ2dG5vcA?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【速報】中道分裂、立民出身者復党考えずと田名部氏",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxTlpNcThPeWNBdERHMWR5VmE3andDS1JmYkUzQzJBRnppWV9MR1lRSjNuZ3hIT3o4N0NLcC1PejN6T0w3SDJYdHNMQQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "大阪地下街「あべちか」強殺未遂事件、運転手役とみられるベトナム国籍男を公開手配",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tMC1tb2JLa3p3VGJyMkJtT194Tlpocm1rNGJNbExNME1KRFA5NkVNZ0gtMGoxaWluSW52di1NN1BmSGVZNjdBVjA1WGpNTjREcWR2V243MS1Qbm5yYVZmMFZ2U1ZoRGtGUER4VzlVN2tyWndoRHc?oc=5"
     }
   ]
 }
