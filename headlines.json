@@ -1,45 +1,10 @@
 {
-  "updated_at": "2026-09-02T12:43:08.325008+09:00",
+  "updated_at": "2026-09-02T12:56:20.596886+09:00",
   "items": [
     {
-      "source": "Googleニュース",
-      "title": "Google ニュース",
-      "url": "https://news.google.com/"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "ネパール土石流、水位計が押し流されるなど「従来の警報システム」機能せず",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxUDhPUllkcE5nOHR2SmNZNE1OMW9fWDZ1V1VEb0l5R0tKT1lPa1MyUk9ZbmI2ay1FSU9oT2lpUUZBV2dSc19WeUZIMHRtcVVuVl9VU3ZzMUphWjFvMTlhVjh3?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "イラン革命防衛隊、米軍への反撃を開始…「新防衛システムで無人機を撃墜」",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTc2tfMmhvbWdtOWJIckJRb1VnWGpnSGtXMmRwbWFhUExyaUt1dkNCVXAtSjRUUXd3M3RzM1d4TVcybmk1VTNkUzZNM1NtQVRCZGdhWVZnWl9kN2dmeTZxdG9n?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "独、ライプチヒ空港の爆発物事件「ロシアに責任」 ボン総領事館閉鎖へ",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU0dNMnFyOE5Jelk0aEZfTFFJb1V1WWhWQnRRbnpPd2U3RFltT1d0RHI0VU9Damk5V3hvTFBxY25nbEdsVDFzWkliS3UydzJhbXd0Rm1LR25wWGZLRnkyUEJqaHdramllUWF3X1d3V044RzJNQUFqQ0k1Vjl5bm96Nw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "台風24号(クロヴァン)がゆっくり北上 秋雨前線の影響加わり大雨のおそれ",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5ZDgyc2o2NUg4TlNva2RCZkYtQW8wM1N3N3JaWUhqa2hncHZhREJzcVAtT1FHaWJkTXRmZTl5d0J3N1MwVVhGMGM4aF9LX3VpZkg0RA?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "自民、中道分裂の影響注視 公明取り込みに期待：時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yM2piTTVJRHYzNkE4cGhpSHhlanFMTDV5QTBTWUhVVlpxU2NydjNGZGtnanVTWko2R042ZVFlTkF1T01WSkNDOG1IVlhiR012RXR2N2hRdTY1SEN0aTQtd0pkcw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "青森・津軽で線状降水帯が発生…弘前市・鰺ヶ沢町・深浦町で１時間に９０ミリの大雨",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03SEZtYzU5Q2ctZF96N24yUTlxZE1Nc2lRM1lueXJhVXhwby1BUVRJN0NQNE1SajNiYksycXk4S21RaWFtY0xoUVl3V0Jfdk1sQVN6RVAxdVJhQXg0Y0paeFEyMk1ydw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "プーチン露大統領「関係悪化は日本に責任」 制裁に不満、北方領土訪問巡る抗議受け入れず",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00cFNmd2NDdkc2U1JSNWNia1o5NThUamN0dUZzQjlNb2VhOGJGR3h5aFNGSTE0THNSUkY0VDhWQTQ0aWdOdy1oY2MzWVhNQmFBMHV3Ym9hT0pURHFNYjhEUlAtZXZ4QW9LRURiYWtaN3NiMlpvSFE?oc=5"
+      "source": "システム",
+      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
+      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
     }
   ]
 }
