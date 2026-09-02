@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-09-02T12:56:20.596886+09:00",
+  "updated_at": "2026-09-02T13:19:21.830535+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
+      "source": "Googleニュース",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "ネパール土石流 当初は海外救助隊を拒否した「地政学的懸念」",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GMldEZGZndHNzTjhYdFMzUkYweUxBaXlrU2dIcldKdzc4MjBxelZwU1dwYUMyamoxZXhlSHdjakdoWjRPNHMwWC11UFA1SFRHY1J2NVpfalFhdDhydGRfYnVaOGg5UW9W?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "イラン革命防衛隊、米軍への反撃を開始…「新防衛システムで無人機を撃墜」",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTc2tfMmhvbWdtOWJIckJRb1VnWGpnSGtXMmRwbWFhUExyaUt1dkNCVXAtSjRUUXd3M3RzM1d4TVcybmk1VTNkUzZNM1NtQVRCZGdhWVZnWl9kN2dmeTZxdG9n?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "2日は東北で記録的大雨　台風24号は動き遅く影響長引く　週末は広範囲で大雨警戒(気象予報士 小野　聡子 2026年09月02日)",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRNVZfMHJ3U1RYenJxR2FXUVdRRlNIVWFDQng4SnFOam41ZXdlX0NKV01wWDlaQzJWaE1weU5PeUpmREREVmNhSWcyRjMzejlVNW9ySVFMaHF3TVdqSXRRbTIzRWZ6UdIBa0FVX3lxTE03bzRPcjlSYVBQWndLcWVEVE1MRk45VjZDSTVtd09MTE9WZHh1Ry1abHRDMnlhTHRtbnhWdVliVWRwY3BnNE9hUnNzWTdYN2oycV84REpVUUJMXzJjWjRZd2swTGtJNWNPSG9B?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "独、ライプチヒ空港の爆発物事件「ロシアに責任」 ボン総領事館閉鎖へ",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU0dNMnFyOE5Jelk0aEZfTFFJb1V1WWhWQnRRbnpPd2U3RFltT1d0RHI0VU9Damk5V3hvTFBxY25nbEdsVDFzWkliS3UydzJhbXd0Rm1LR25wWGZLRnkyUEJqaHdramllUWF3X1d3V044RzJNQUFqQ0k1Vjl5bm96Nw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "「返金一択でしょ」中道改革連合の1億円超の“クラファン”資金の使途変更が波紋…小川代表の対応に批判殺到",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rNFZwY3FGWV9qYVFaTnZwcVl3S056ZmJPOUFZODd5QlI1WUwxbG9jallrN0ludC11Z1NjMkRjUFh3X1hFbmZUYnFJcF96Y05vYWtRa2RWMUM1X3FjRGdZRjNtcWJaNTVXWE1PcmFCcG5KdEVJaUdsV0NZbDFfZG8?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "プーチン大統領、関係悪化「日本に全責任」 北方領土訪問、反応に「驚きなし」―ロシア",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xWVVtajQ5Yk83a3hqUF92YkZYZGN4ajBOV2R6TkZCLS1uQ0ZBbjc0Rml2bkJXUktMNTYwYXZUcFB5bG1aUElDbW44Z1BfTGpYc1drSWFaNE5WVldkSUxwNDVqZw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "台風24号(クロヴァン)がゆっくり北上 秋雨前線の影響加わり大雨のおそれ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5ZDgyc2o2NUg4TlNva2RCZkYtQW8wM1N3N3JaWUhqa2hncHZhREJzcVAtT1FHaWJkTXRmZTl5d0J3N1MwVVhGMGM4aF9LX3VpZkg0RA?oc=5"
     }
   ]
 }
