@@ -1,45 +1,10 @@
 {
-  "updated_at": "2026-09-03T21:54:02.312835+09:00",
+  "updated_at": "2026-09-03T22:15:05.092344+09:00",
   "items": [
     {
-      "source": "Googleニュース",
-      "title": "Google ニュース",
-      "url": "https://news.google.com/"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "トランプ氏、イラン攻撃は「それほど長く続かない」…ウクライナ情勢では「和平合意めど立てばプーチン氏と会談」意向も",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKSXlxQ2NNWFQwdEtSOVRQWGZuWDhBTm0zcTFnYnl1X185UjNzb0NVbWR3Y1NDRkQ3V1BpX1Ztdko1U2o1ZG5OS1hhVUNRLThXSTFWS1Vsajl4d1pZQ0RpcFhB?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "自民党･鈴木俊一幹事長の再任調整 高市首相意向､麻生副総裁も続投へ",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaenY3TWFwYy1KN1dVS09jbWxqRXpuZUEwZExyQmxUeVV0OHNQanhYc3FrUDZKQ1VYRzJVY3k1R0g0OENtZm9PUGNBdnh1eWhlV3BpQXVzSXJtTjlac0YzRU9tdE1oWS1EcjVnNA?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "長期展開していた空母リンカーン、船首から船尾までさびだらけの外観に衝撃走る",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96R1ZBaXdzTDlHMWhyQXFva1NpWnpCZnplVmtBX2JtdG54cE1NdFRsX2V5Zkd3OTdDaE9Qcks3bU1uMTdSMjhrX0Q3NnZ0aDBnbU84?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "明日9月4日(金)の天気予報 西日本の太平洋側は大雨に警戒",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sYjR4VXJXRmJoNERnT2pzRlBrVDI3Z0JmbEFhbEZkZkpvdEk3MFJXclpJNVIyZ1NtSjRmZUlHQWs0aVpwaFZ3bEt4TWZLWFJ6NmFmUw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "玄関に迫った泥水「次は無事では済まないかも」…未明から早朝にかけ青森で大雨、８７棟が浸水被害",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94QkRNWXBhRGMyRzJodVZ1ZTYwM3ZvWU50US1BWkhGVXEwMnBoWXFsYzdXUFRib3JKMEsxSFdpOGlTc3N3Q2puSTNqUWtZekw0S3ZoWDVmVWp5NXk2aGgyRGZjcVVudw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "「まんじゅうや」の投票は無効 東京高裁、現職市長の当選認めず [茨城県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NNGg0eVFyOWFGMWtpRENWY3UxOFoybDBiY0JOTk5XQURDb1lMbkktNGRDbndNSEh6MjBCYTV4UE53aE9fSElWa1JVamtDSEplVndDc0NMUFVQZ003TC1mR2FhQzJTVXM?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "日本製紙の八代工場で出火、煙突の解体作業中 熊本地震で被災",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fZ1pKRmYydkZqWXZiSVVJZ0RpNmtkWXdNYUt3ZjZNM2ZmcVZvaWM3dmhvT0xfZ1hKTW5YeklOMVZZRlNCWUsyWVNjSldSTXpTZWh1Z09ocjRNVm1kWGtSOFFXODBTMWdLQUw1Yg?oc=5"
+      "source": "システム",
+      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
+      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
     }
   ]
 }
