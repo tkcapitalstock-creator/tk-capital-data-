@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-09-03T22:15:05.092344+09:00",
+  "updated_at": "2026-09-03T22:32:55.902527+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
+      "source": "Googleニュース",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "トランプ氏、イラン攻撃は「それほど長く続かない」…ウクライナ情勢では「和平合意めど立てばプーチン氏と会談」意向も",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKSXlxQ2NNWFQwdEtSOVRQWGZuWDhBTm0zcTFnYnl1X185UjNzb0NVbWR3Y1NDRkQ3V1BpX1Ztdko1U2o1ZG5OS1hhVUNRLThXSTFWS1Vsajl4d1pZQ0RpcFhB?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "明日9月4日(金)の天気予報 西日本の太平洋側は大雨に警戒",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sYjR4VXJXRmJoNERnT2pzRlBrVDI3Z0JmbEFhbEZkZkpvdEk3MFJXclpJNVIyZ1NtSjRmZUlHQWs0aVpwaFZ3bEt4TWZLWFJ6NmFmUw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "日本製紙八代工場、解体作業中の煙突から出火…消火活動中",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FbEtwOWF0XzVvVzU0SHhmNVFYTFlGY25xTUhPUV96QmFQUUU4LTFVTzdGQ2gzUVoydDQ4cUg5a1A0NXNjRTdWRmVRb2VmMnR0cE1nVEJUek5aMGdmZ044bEo2bDExZw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "ノーベル化学賞・白川英樹さん死去 電気通すプラスチック開発、90歳",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96ZkRNMGh2ZUF1ZWhnZzlKS3VlVG9xZktPM280alpyREhDZW5ieFRXRFB6TkE1dU5PenBrU2dsSmQzb3RmOHdWcDFmWmk1eUpnUXlhX3ZlREkyQ0FGOU5pVXFDYmZyQ1ZpdzVIQg?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "「まんじゅうや」の投票は無効 東京高裁、現職市長の当選認めず [茨城県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NNGg0eVFyOWFGMWtpRENWY3UxOFoybDBiY0JOTk5XQURDb1lMbkktNGRDbndNSEh6MjBCYTV4UE53aE9fSElWa1JVamtDSEplVndDc0NMUFVQZ003TC1mR2FhQzJTVXM?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "自民党･鈴木俊一幹事長の再任調整 高市首相意向､麻生副総裁も続投へ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaenY3TWFwYy1KN1dVS09jbWxqRXpuZUEwZExyQmxUeVV0OHNQanhYc3FrUDZKQ1VYRzJVY3k1R0g0OENtZm9PUGNBdnh1eWhlV3BpQXVzSXJtTjlac0YzRU9tdE1oWS1EcjVnNA?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【大雨情報】新潟・福井で24時間雨量80ミリ予想 北陸で雷伴う激しい雨 あす4日（金）朝まで浸水や河川増水に警戒【雨と風の動きシミュレーション】（チューリップテレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmUkM2N2RPRHNMNnlnWUZBNHB5YVQ2akZhM0JsbDhqY25EVnpkLUV5b0QtSTU1MWxrSTk1SFhtNmd2SGxyV3NYN290eF9UaVNFOUFhV1V3XzVBWlVTM3Q1ckI5cTZFMDZzUGtMR3NkUG1jdi1YUU96N1Z4QW5WSGM?oc=5"
     }
   ]
 }
