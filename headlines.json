@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T15:52:33.916618+09:00",
+  "updated_at": "2026-09-03T16:12:08.485661+09:00",
   "items": [
     {
       "source": "Googleニュース",
@@ -8,8 +8,13 @@
     },
     {
       "source": "Googleニュース",
-      "title": "迷走する台風と秋雨前線　7日にかけて九州～東北で大雨か　8日以降も雨で影響長引く(気象予報士 日直主任 2026年09月03日)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JT1NqTjJPS2JZUlJmUzMwd1FRRW9rWm8yNF93c3YwSXVwMHozZEY2NEV6MVYwSkhfS3hnTU5JYlFqQXd6Sk56S24tc0JNWHdOMWlkOENxVWs0ZUhZNFVEWWtmcUV2cWdKM3fSAW9BVV95cUxNbWRCbDUyYTZDRU9vZE5jQlZXRzBXUW9UMWJwN181cGZMSzQ0Z0dXa01wQ3FCTG9xS1Y3VkNfNVRTc0szeUt6bkxLdWpqMGd0aW5NSmJrRzdVRVdreXgxeF9MOWdSQnpnOXlaa2ZZTWc?oc=5"
+      "title": "週間天気予報 秋雨前線が停滞し強雨や大雨に警戒 残暑は落ち着く",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vTXdLZTBEWEdpUXV0dVdvUWFEQmg2UFJrUjdVX0ZKd0tfT0RsTzBVaHZoNnFtY3lqM0hWa3pYYkEwNnZHV3N5bEFLNmd5MHFPR2dONw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "公明党、「穏健保守」結集練り直し 生き残りへ焦り―連立離脱「勝算あったのか」",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10ZnEyZnEzTzFmMTB2cGFkcEk2SjFHOFVxRktiTzI1R0ppd2JGT1dNUjZvdDJnYzVqejNzOGxfdVZ0Qll0dzVUTUNLVmRQUThCRG03U1F1bWc0VDlhUkp1bzNiVQ?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -18,28 +23,23 @@
     },
     {
       "source": "Googleニュース",
-      "title": "自民党、参院多数派へ公明党が選択肢 消費税減税で協力にらむ",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0YTAwVTdUMXRobEcwT2wwa2MxLTAxTk1uX0dOQ0FvQm9DLWRPRXRNZGtFaW1RbFNfcWdhdWQ3bkFXLXJ2Wk40ZVBPZzZvRUJGVjNGamVpYV95LUN1Y09JTW8zQklTa2tSWXRLWg?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "青森県五所川原市の一部に「緊急安全確保」発令 警戒レベル5 命を守る行動を",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95cExPdzRhcnB2dlBuaU1QYmdBMUs1enhROTBnZDlwcWJPRW9vald4LVRydkR4bG1zNXktRVg2T2FHdGxETUZuNDFhNWNodlpibzI1NQ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
       "title": "【線状降水帯】半日前予測 鹿児島 宮崎 に発表 鹿児島４００ミリ 福岡２００ミリ【雨シミュレーション３日（木）～６日（日）】",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FVWdfb2xYYmo1RWNfVjRDNXVmaHdFV0N4WEVrZkU1S0gxTEFQWmRZUmhCdklYYkd1RC1GbVN2REtTRnBOdGkzZkhhN2VJTEp4RnozX1hIZlkydEJfbDNlTVpPQ21hWlk?oc=5"
     },
     {
       "source": "Googleニュース",
-      "title": "茨城・神栖市長選、「まんじゅうや」「だんごさん」の２票は無効…当選無効とした県選管の裁決取り消し請求を東京高裁が棄却",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03NWl1UFY1Uk1GMHRoTFN3eW9kTzdFc0RaTTdJQmZ1c0poLUtnUTVGczEzNEhZRy0tX3dQWnF2V1RpTmlCLTJMcGlIdVJGRjVhbzhGR0puNGU5ZGlyTnY2ZFczdWdZZw?oc=5"
+      "title": "高齢ドライバー「運転技能検査」、踏み間違いしないか確認する「方向変換」追加へ…来年度中に厳格化",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80M1M1STBGNU9QRUJaaWtlSTgzR2JlS2JBekNPMWxsYmgzS05BNnFiaEh2MF9ZdUZlTUtHS2FXbXFBZU1fRzhITFFFM1BmeDNlS3Rod3JBWTEzMk5ZZjlpMkVkU1NqQQ?oc=5"
     },
     {
       "source": "Googleニュース",
-      "title": "活発な秋雨前線が南下中 北陸、東北の広範囲で雷雨に",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WcnA3WGczMTlNM29mUU9oY0FDMjcxbURBZWNmeWF2ak8xTkZ0QUFZSXd5ZjhIRzQySV9LYy04ODZveEsxVVJVcXVjaVlYcDRiZFhFag?oc=5"
+      "title": "「まんじゅうや」は無効票 東京高裁、茨城県神栖市長の当選認めず",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1waDZHbFZXb3hfa3NCZkVHY0pnV3dRcVVKUGE1aHRVTkRIbkQ0VmkyMTNXT0Y3Tk1wc2xTMjFxdjVmUFFJRHVoUzZxODMwT1YwNGlibUFPVjgwUlppZnNNVkdpTUJ4bTBHeXlqYg?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "富山・氷見市、全域の４万４８０人に避難指示を発令…気象庁「レベル３土砂災害警報」発表",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tSE9FWnRmVTRwQlJKVkZtTDBQYWFjSVdUS2tCNG1JQ005RlBmM1Y0QkRnRzlFSHlDeGNRUnN0SUxaM2EzVHlWS0hDUDZKU2hIWm5rcXJNRkhsSmw4V0FXNnpCX2xYdw?oc=5"
     }
   ]
 }
