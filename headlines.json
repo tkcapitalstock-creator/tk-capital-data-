@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-09-04T07:51:08.287938+09:00",
+  "updated_at": "2026-09-04T08:07:35.288391+09:00",
   "items": [
     {
       "source": "Googleニュース",
       "title": "Google ニュース",
       "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "経済プラス：内閣府でも財務省幹部「冷遇」 次官候補転出に首相ブレーンの影",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TTjd4b2lFMi0tZFRReGI1Ykdod2FrUnJ4cUQzdXVFYzdQU2FQOF9QVzR0Wms4Q2o0RkdhWGpoaWFUOHJMNE84emFEbnhpTmRsX2F4UDFtQUVkbFZRTkYzV0dkMlBNeExG?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -18,28 +23,23 @@
     },
     {
       "source": "Googleニュース",
-      "title": "イグ・ノーベル賞医学賞、鼻の正しいかみ方特定した故・海野徳二氏…日本の研究者は２０年連続受賞",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCWDd4Vm9ZSTVyVzhsQnVZVEUtU3RSOW91anFoQVFsX2ZzMEUyQ2ZmX19BblhTeG1BZ3hybW9QenNyNHF6cjRiSUVWR0hEZ2FRYWdjbEdiTDQ3SkRJdzBjelhSXzA?oc=5"
-    },
-    {
-      "source": "Googleニュース",
       "title": "台風24号(クロヴァン)周辺の湿った空気で秋雨前線が活発化 週末にかけて大雨に警戒",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSVzY4RmhpUGFLNUgzaVExdmxwUlFIazI4S19nQWoyWXpHVkV3OW05QUVuZEhsZ201RUdxYlYtZm81bWtCZzJVUVRncnd3ZlB3NTJDXw?oc=5"
     },
     {
       "source": "Googleニュース",
-      "title": "プーチン大統領 北方領土の税制優遇措置などで投資活発と主張",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ieXVyLURQcFNZOEZiVlpncDVzd3gyXzFoblhwMTNvY1pONWxQRVcza0tsNS13MDN5UXpVZHRiSjhYLW0wYWVNUTBTLWdMaFlGOHc4elJzYlpjbmE3blNN?oc=5"
+      "title": "イグ・ノーベル賞医学賞、鼻の正しいかみ方特定した故・海野徳二氏…日本の研究者は２０年連続受賞",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCWDd4Vm9ZSTVyVzhsQnVZVEUtU3RSOW91anFoQVFsX2ZzMEUyQ2ZmX19BblhTeG1BZ3hybW9QenNyNHF6cjRiSUVWR0hEZ2FRYWdjbEdiTDQ3SkRJdzBjelhSXzA?oc=5"
     },
     {
       "source": "Googleニュース",
-      "title": "【線状降水帯】半日前予測 鹿児島 宮崎 に発表 鹿児島４００ミリ 福岡２００ミリ【雨シミュレーション３日（木）～６日（日）】",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FVWdfb2xYYmo1RWNfVjRDNXVmaHdFV0N4WEVrZkU1S0gxTEFQWmRZUmhCdklYYkd1RC1GbVN2REtTRnBOdGkzZkhhN2VJTEp4RnozX1hIZlkydEJfbDNlTVpPQ21hWlk?oc=5"
+      "title": "日本製紙八代工場 解体中の煙突火事 きょう現場検証",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1keFJzTUVvbWRhMURld1Q2Q1FRa3I3bExLbEc5LUNVbElQcVp1cFR0NWVVaTBPdVdrck1hOTJncTlvNU1ZMl9BaV9qTWRock1UYmR4UjhRWC1KUHJLMEtn?oc=5"
     },
     {
       "source": "Googleニュース",
-      "title": "日本製紙八代工場、解体作業中の煙突から出火…作業員１０人は全員逃げて無事",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FbEtwOWF0XzVvVzU0SHhmNVFYTFlGY25xTUhPUV96QmFQUUU4LTFVTzdGQ2gzUVoydDQ4cUg5a1A0NXNjRTdWRmVRb2VmMnR0cE1nVEJUek5aMGdmZ044bEo2bDExZw?oc=5"
+      "title": "九州～近畿で非常に激しい雨　厳しい暑さおさまる　今日4日(金)の天気(気象予報士 日直主任 2026年09月04日)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PSXlBR2R3T0hrODdubGRoZGktcnJ0VXk3QWY4RXB1VkJUMmgyOWRKeVo5NDYxSFMtLWZYc2Y0cFJwOFlia1NDOTl4VVBaS09weUp2cmFoSm5acjhPWVk1dzllblJFbkVPNWfSAW9BVV95cUxOTUJSUHNFQ0xYTzFMemdocGI5azdJdmZKaDJudWNoU193bm5LSVNSeTM1UGkwNFk4U3phVVhIbEM3NlVZU1VLY1BkNU0xeEo1MWExeGlYSl9lbVg4b1dQTEg0VUpYdkhEbi1RdVZtRGs?oc=5"
     }
   ]
 }
