@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-09-04T00:41:20.012207+09:00",
+  "updated_at": "2026-09-04T00:56:04.791423+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
+      "source": "Googleニュース",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "「まんじゅうや」無効判決、市内に和菓子屋９軒「本名に代わると言えない」…判決確定まで市長在職可能",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zenFyVThtTWplemtsNlhDSnNZR0ZOVmVHZ1J3SnRDd01TN21YdHRMVHdLZDNycEZzdHp2NEtmY2FBa1J5a1VQWXgxbG9SYk1GZTh4WUpGSmxXV0NiYXhyY3Y1MHJoQQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "ノーベル化学賞・白川英樹さん死去 電気通すプラスチック開発、90歳",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96ZkRNMGh2ZUF1ZWhnZzlKS3VlVG9xZktPM280alpyREhDZW5ieFRXRFB6TkE1dU5PenBrU2dsSmQzb3RmOHdWcDFmWmk1eUpnUXlhX3ZlREkyQ0FGOU5pVXFDYmZyQ1ZpdzVIQg?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "明日9月4日(金)の天気予報 西日本の太平洋側は大雨に警戒",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sYjR4VXJXRmJoNERnT2pzRlBrVDI3Z0JmbEFhbEZkZkpvdEk3MFJXclpJNVIyZ1NtSjRmZUlHQWs0aVpwaFZ3bEt4TWZLWFJ6NmFmUw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "拡大するドイツ極右政党AfDの公約が物議 標的は「バウハウス」",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54VGM5Vk5Jd2pDYXhrUUJEZ3RJalVsMEZ6WWdfMVRzVl9hSXRvd29xVWI3VUlSbTVnT0NOOHlITWN6N2pFVjFKY0pweEYxUU11NnM1bWVFTW1lOVhCR0N2VnJtc1FpeThE?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "原油先物1％高、米イラン攻撃再開で供給懸念高まる",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fVm9rV2JQRmtSSzhhMzN0aUloTnY0eXdzaS1oOTNRNVBsY0lhRnNMNFhQbGNZZHRhR0xMNjVVTUc1bUFpTko4SUp2Tmc4a0F2MXc0UWJnc0lBb2lzTEZZQTdTNHlDWFhBdTVfSmQwNGswcTV1bWRUVw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【線状降水帯】半日前予測 鹿児島 宮崎 に発表 鹿児島４００ミリ 福岡２００ミリ【雨シミュレーション３日（木）～６日（日）】",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FVWdfb2xYYmo1RWNfVjRDNXVmaHdFV0N4WEVrZkU1S0gxTEFQWmRZUmhCdklYYkd1RC1GbVN2REtTRnBOdGkzZkhhN2VJTEp4RnozX1hIZlkydEJfbDNlTVpPQ21hWlk?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【速報】「日本製紙」八代工場で火災発生 「解体作業中に出火」従業員から通報",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfeGZoWThJLW53YUo2dW83UnBfX0VKeTlnM2dCMHJxM0pwSGpFV0JldWVKQm9kaFQ5NWllbjdtRWpoaXdJUlB3NkRDNHdIcXZGcEs4YnRYWllkTUxaRUdEVUxRUld6WUNDbkJydkIwbzVlUQ?oc=5"
     }
   ]
 }
