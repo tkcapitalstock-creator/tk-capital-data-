@@ -1,45 +1,10 @@
 {
-  "updated_at": "2026-09-03T23:44:43.861734+09:00",
+  "updated_at": "2026-09-03T23:59:01.970102+09:00",
   "items": [
     {
-      "source": "Googleニュース",
-      "title": "Google ニュース",
-      "url": "https://news.google.com/"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "イラン軍、クウェートとＵＡＥの米軍基地への攻撃発表…「罪のない人々が流した血への復讐」",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91dUNfQi0zaXdvZGNzREhqaUZFczFTVzJZckpZUWRnSWxUWXFnS2Zaejh5eVBOanVQOG1teXRZeWZHaE1tRlFyNmhtcDNha0F1Q3F2QnkyRDN5VmdJR1lrZXJn?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "日本製紙八代工場、解体作業中の煙突から出火…作業員１０人は全員逃げて無事",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FbEtwOWF0XzVvVzU0SHhmNVFYTFlGY25xTUhPUV96QmFQUUU4LTFVTzdGQ2gzUVoydDQ4cUg5a1A0NXNjRTdWRmVRb2VmMnR0cE1nVEJUek5aMGdmZ044bEo2bDExZw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "長期展開していた空母リンカーン、船首から船尾までさびだらけの外観に衝撃走る",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96R1ZBaXdzTDlHMWhyQXFva1NpWnpCZnplVmtBX2JtdG54cE1NdFRsX2V5Zkd3OTdDaE9Qcks3bU1uMTdSMjhrX0Q3NnZ0aDBnbU84?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "「まんじゅうや」は無効票 茨城・神栖市長の当選認めず―東京高裁",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SOU82Q2tVUC03dkdqdy0waVl3emNqYkRKd0diSVhza1p0Zi1kUldqR25TeWZfbUx3d3lRU21lYVdQZVVxeEdtV3RZb0N5Q2dBcnVMWWxmVzNfZjFBWHl1WGVsQQ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "明日は九州南部で猛烈な雨のおそれ 6日(日)〜7日(月)は関東も大雨リスク",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tWEdqYzByV3FZUzlSMDlXc3JXc2VrYy1aNkhVQTZTN1ZaZWk0Tmx6cjJfeDc0YmEwbFdkZVBPb1Z0eUh2em4ydDZsX0N2WkR4MzRiMg?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "ノーベル化学賞・白川英樹さん死去 電気を通すプラスチック開発",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YVUpZWnQ0bGxpQzZkaHVHVDRzTVVsc2VRRHpYSE5tQ3l2SEdRNGE4bnpzSU00NkN5UWF4M0s2a3RuVkhWVThQajZrdFJOR2ZwWG81QlNkaTNnM1E1UzF5eUcyQlJGRzA?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "九州で記録的大雨か 宮崎は72時間1000ミリのおそれ 週明けは東日本・東北も（tenki.jp）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lcjdYVF9Pd2xqQjdTbDFNTVBza0ZVMmtIeDZhRW10NmVuMTAwS0l4RU5NSlFYRTFqa2dWc2ZVWEwzNlZRTEtfUmw5Z0FtNmtjRVozRExjYnNRVWtkaU1sdU84Zmg0NFZMaTVpT05GbXlWMFpOMmF6WWlEaEVKQWc?oc=5"
+      "source": "システム",
+      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
+      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
     }
   ]
 }
