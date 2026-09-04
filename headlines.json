@@ -1,45 +1,10 @@
 {
-  "updated_at": "2026-09-04T16:52:55.849588+09:00",
+  "updated_at": "2026-09-04T17:13:28.044570+09:00",
   "items": [
     {
-      "source": "Googleニュース",
-      "title": "Google ニュース",
-      "url": "https://news.google.com/"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "関東は次第に雨の範囲が拡大 遅い時間ほど本降りの雨に",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1Q1otY2JFa3d3djJLMU1KQVBKZ3hza3dYQk5ydFBwa1d1dDVHZ0dSZC13VFpSRGFLYXR0Uzhsd3V4bnZrMWJvNWR6ZFRReFJNeWFKcQ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "「予測超えていた」首相説明も…2日前の衛星画像に“異変” ネパール土石流 前年に対策提言も",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pZDJDTDlaeWJmNnNQb1ZRdzAwTUxqak83aGRZTUt1TklGRFJXRjZEWUwxUHZ4V3JIUHFodWtqZncxcm1yTzI3Q2JTVl9YbWItQ3U1MUVRRzVCaDZDaG1JOXJWV2k3UjlMbWphZXBUaU81XzJPaXNtLVprRG9PRG8?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "米副大統領、イランとの戦闘「戦争ではない」 終結時期示さず",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV19WbEs3VENDYTM1bGFvYjNMZWdpVGVVV0tjekRaSjdGeHNLdlhlWXpST3FibEJnR3IzbUZGVXJxX3hxMkZoVzV2VFJfNlctRnVub0Z6ZXRCczdtZnNaYjg4TXRrOWxBUDZlajNpRDNGV2l2aTdDMHNnb2pUaVFJSWtB?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "宮崎県の南部平野部・南部山沿いに「線状降水帯直前予測」",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DWkJ5WEs5c1JGNE9LbnhqSG1rSTBOdmo1RWU1MTJJSUViRjFyQ3ExNjJRYktVX1Z1TFdCZ2lKQS1tUUFCZXlDaG5NTGNJVENQV2Z3SlVTZHVsOWFHandF?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "レベル４大雨危険警報で「アンダーパス」冠水前規制、千葉に続き６か所も対象…全国に順次拡大",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DN3IwM3R3NXBMb0lQd1N6MjVZc1RLVUFia2haWWFLaGM2cW9tRDEyek52YnVVNjR6amEwenBmYUR2Q0lJa25vd1VRa204aGNnREpsWk52UC0wUUJNT0k1Y25BSWVaZw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "「まんじゅうや」は無効票で「ヒゲ」は有効票に？ 1票巡る法廷闘争 裁判所が判断を分けた理由",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DTUhKbHZySVpxQU5oT2szNm4tYzdvWUpzVU9jWkU2N1pmNUZHYUFaY2QyZURWWmFhSlpLaFF2Nm0xTmI5MXJ1V0NMZHhOQQ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "小泉防衛相「自衛隊の外国人登用考えず」 笹川平和財団の提言巡り",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BNnEzaVczVWxyMkRYemY0UnBESmEzTTYtWlU2dmRVREJOMkQ4OW1DZ292cm16YzNIRGZRblhodTJEc1RTTG9XV0JPOUUtZl9wRm1IbExxbHBpUWxiSHJFQmFaT29rRi1MMEpEVA?oc=5"
+      "source": "システム",
+      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
+      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
     }
   ]
 }
