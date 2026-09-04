@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-09-04T17:13:28.044570+09:00",
+  "updated_at": "2026-09-04T17:33:03.481210+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
+      "source": "Googleニュース",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "「予測超えていた」首相説明も…2日前の衛星画像に“異変” ネパール土石流 前年に対策提言も",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pZDJDTDlaeWJmNnNQb1ZRdzAwTUxqak83aGRZTUt1TklGRFJXRjZEWUwxUHZ4V3JIUHFodWtqZncxcm1yTzI3Q2JTVl9YbWItQ3U1MUVRRzVCaDZDaG1JOXJWV2k3UjlMbWphZXBUaU81XzJPaXNtLVprRG9PRG8?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "関東は次第に雨の範囲が拡大 遅い時間ほど本降りの雨に",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1Q1otY2JFa3d3djJLMU1KQVBKZ3hza3dYQk5ydFBwa1d1dDVHZ0dSZC13VFpSRGFLYXR0Uzhsd3V4bnZrMWJvNWR6ZFRReFJNeWFKcQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "米副大統領、イランとの戦闘「戦争ではない」 終結時期示さず",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV19WbEs3VENDYTM1bGFvYjNMZWdpVGVVV0tjekRaSjdGeHNLdlhlWXpST3FibEJnR3IzbUZGVXJxX3hxMkZoVzV2VFJfNlctRnVub0Z6ZXRCczdtZnNaYjg4TXRrOWxBUDZlajNpRDNGV2l2aTdDMHNnb2pUaVFJSWtB?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "小泉防衛相「自衛隊の外国人登用考えず」 笹川平和財団の提言巡り",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BNnEzaVczVWxyMkRYemY0UnBESmEzTTYtWlU2dmRVREJOMkQ4OW1DZ292cm16YzNIRGZRblhodTJEc1RTTG9XV0JPOUUtZl9wRm1IbExxbHBpUWxiSHJFQmFaT29rRi1MMEpEVA?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "「まんじゅうや」無効判決、市民も様々「私の地域は呼ばれていないので納得」「呼ぶので尊重して」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YM0dFV1pQVnNIY0VrMkkxQnZHQ2IxRHdDUEZPY1l6RWZSTDdEOWhqYktLSDE1Mld3aGZZYVN2Y0NJWldMT3d4UTNlMFQ1dlBrNGV3V0tCOHAyZ0tfSldEd0tkdjhqQQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "「プランB検討」中道・小川氏、立民や公明との合流断念で次善策 1億円クラファン返金も",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xUW1PcUhSU2tXU0JJSE16NzNYMTJkX0dWMnZPSUptejdPakdoVFlpdjB3bzUwWDEwaF9sZ2pxeGxtdUFiSlpYNnRPQ2ZkZ1JSb3A4dEdHUmpqb3ZaaHI2V0xyQnd3NGhhVnhDT3BQdFN2eVVyeVE?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "台風24号(クロヴァン)南下して沖縄付近を通過 来週は再北上の予想",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kY0FRaV9KSU0tUHBHbWl1QlZUMmRDdi0tWFE5ZTZvVU10eTFZWWdscGxsQm1IZ25DZW9SV1B2dEduck9fOU1EaFJDbkN2eUdyNk1NTg?oc=5"
     }
   ]
 }
