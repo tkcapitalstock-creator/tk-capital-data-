@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-09-05T11:25:39.316444+09:00",
+  "updated_at": "2026-09-05T11:42:26.715511+09:00",
   "items": [
     {
       "source": "Googleニュース",
       "title": "Google ニュース",
       "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "ネパール外相「氷河の崩落の原因は気候変動だと考えており、今後も発生する可能性が高い」…首相の国連総会出席を検討",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBReWlOYjctNnQ1SmF0Vl9CclJpdGpwWG8yLTB0LS1EWEZWeVVHbVlGQTgyZlNwTEJ5dW5zSnhEVGI5bkhybVg3RS1QbWl3LWJsc3hkMUpKeEotMGRncVVFbWtR?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -18,11 +23,6 @@
     },
     {
       "source": "Googleニュース",
-      "title": "ネパール水力発電所のトンネルから複数の作業員を救出　土石流発生から9日ぶり",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wTkRnQVBtNnEyUENmSDNzY05wdnpNVzZrVXVqSW00TmNvcTR0Rk9waVpNa1ZYLUNhbDBETUZBSERrQVRXbms2ejBrck5TV0xMQ0g4dFJ4Vjk3Uk03RS040gFkQVVfeXFMTUI5a2ozbGl4Vm0yUkV3bTFMZnhrbW9TZmotYVdCZE51c2hockZVVXdhR1RuM2ZaeklfVE1nZHNINk1RcjJiMFpRZ1ZjZTFncE02eGdkTUExNF8tY3NaLWp4NzlPZA?oc=5"
-    },
-    {
-      "source": "Googleニュース",
       "title": "高市人事、脱「派閥」加速か 期数主義から実力主義へ 「反高市」結束させる可能性も",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WVlhCeXlqZGNtb080VFhjSmdiRkpsS2QxSG5fc2tDSnRkUDg5NDdVZjhtVGVTUEM4YUVVZDZadmlzWGltZnpLbEpJT2NxUGtXWFV5T0dqN2E0YTBCcWdhRVdzMXkxQUtoMldzN2F3azRVU1JkUHc?oc=5"
     },
@@ -33,13 +33,13 @@
     },
     {
       "source": "Googleニュース",
-      "title": "米副大統領、イランとの戦闘「戦争ではない」 終結時期示さず",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV19WbEs3VENDYTM1bGFvYjNMZWdpVGVVV0tjekRaSjdGeHNLdlhlWXpST3FibEJnR3IzbUZGVXJxX3hxMkZoVzV2VFJfNlctRnVub0Z6ZXRCczdtZnNaYjg4TXRrOWxBUDZlajNpRDNGV2l2aTdDMHNnb2pUaVFJSWtB?oc=5"
+      "title": "イランの主張を調査中とヴァンス氏、米軍のミサイルが結婚披露宴を直撃か",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PbnFDZWY3M1laS01JWFVROTNZSGE1LW81N1c4X3cyczJwZHZGbWpRSC1KVFhWZ243emJhcWZwQjNQSGdRWHgyTWE3M1BIbWJUdktEckNreUJNb3Q1dFgw0gFkQVVfeXFMUDBXYkw3Y0hQVjJybFo3N3FBRHhlRkF4bGdhZE1Ucjc4YzhvTjlWYTI4NDVzUGpDYjNmNWVfTVBBWGFQdUtpQTRlOFl5RG9ycllNTWMtMlZ4UnEyYVB4ZXNtYkRwRQ?oc=5"
     },
     {
       "source": "Googleニュース",
-      "title": "福岡市長選に自民市議団が擁立の候補 高島宗一郎市長には「厳しい姿勢」",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuQW13N0pxU3JnN291QjdwN2V0aFo4LTdYVV84QTMyeWt3T2JLWEprMVllbjNnZHdENnZCd0xCMlozZWtZLTRsMzZERG1ROW1MNWRweVFB?oc=5"
+      "title": "台風２４号は進路変え再び沖縄本島に接近の見通し…秋雨前線も影響し各地で大雨",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FWk51LVhkdzFtRWRXYXpnNVhpRmtBOHhvZm5YZlFUcXdMNklNaVRtLWRsRW9sM2ItMXducy03QlVDZUt1U2VPeHVjNlYwOVoxM1hsLTR5THFRTWJWU3BvblZEemZnQQ?oc=5"
     }
   ]
 }
