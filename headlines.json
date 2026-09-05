@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-09-06T08:42:56.857743+09:00",
+  "updated_at": "2026-09-06T08:56:17.001266+09:00",
   "items": [
     {
       "source": "Googleニュース",
       "title": "Google ニュース",
       "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "ケーキ店で火災、2遺体発見 「人が刺された」と通報 岐阜・本巣 [岐阜県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MRjNiMlBfeGlqOWZLdVg2RnNlZzZjbEd1aG1SdFJBX3E0NnNrN05LSEZLNTdIVzN3S1RZYkx3ZnluTGxNeC1Qdk8zSWVjTkFEcGJzaUtwRXZJanFGakh6VUE5TURkcTA?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -18,18 +23,8 @@
     },
     {
       "source": "Googleニュース",
-      "title": "東京都八丈町で１時間１１０ミリの雨、「記録的短時間大雨」の防災速報発表…安全確保を呼びかけ",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fS09kT2x1dkZNeE1DdWcwSTBteFRoNXRCa1lCREktckFfX1M1LUxWQTVpdDl4b3AxekxoSE1WT19CdFRjT2MxYTR5cVQySDlkbVk1c25wVHdGODFmLUxGNGd5TnFPUQ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
       "title": "衛星１００基以上で監視網増強、移動発射台を探知しミサイル無力化…画像販売も「防衛と経済の好循環」",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNU9kbEd2bklLdWF2OHRJbERMWko4N2gzT3V1eEROSzc3cVBkN1U5cU1TNkdZWjdtVnZWMGpNZEVyTXo5Z1dzNzV4d1Bmd3dTcUtrbWN0Z005U09pZ0Z6dnh5TGxPQQ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "ケーキ店で火災、2遺体発見 「人が刺された」と通報 岐阜・本巣 [岐阜県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MRjNiMlBfeGlqOWZLdVg2RnNlZzZjbEd1aG1SdFJBX3E0NnNrN05LSEZLNTdIVzN3S1RZYkx3ZnluTGxNeC1Qdk8zSWVjTkFEcGJzaUtwRXZJanFGakh6VUE5TURkcTA?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -38,8 +33,13 @@
     },
     {
       "source": "Googleニュース",
-      "title": "関東甲信地方では「警報級の大雨」の可能性 24時間予想降水量は関東地方南部・北部200ミリ、甲信地方・伊豆諸島150ミリ（6日午後6時から7日午後6時まで 多い所で）",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xTU1HWHRGcEM5Y0lmMlpRVW53VVBFdmd3UURLQ2RCZ3B3bS1manl0YkRLV0prbVZYbHBTWTJuZGx5cG1laGVxUDh4Tm5KQQ?oc=5"
+      "title": "有毒部位が付いたフグの総菜品、産直店で販売され少なくとも９６パック購入される…食べずに返品呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWWEVqT21IdTZSblJDNGY2SFQ2YTdPLVRlNzVOSUU2REdOR05KZU9lYWZXMUdzS0thQmxmeVBLZWhEQXpBbHNDQTM2ZllRN0piOUlCOUY4Q0NCNWdKR2l0N2hxdWpLdw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "東京都八丈町で１時間１１０ミリの雨、「記録的短時間大雨」の防災速報発表…安全確保を呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fS09kT2x1dkZNeE1DdWcwSTBteFRoNXRCa1lCREktckFfX1M1LUxWQTVpdDl4b3AxekxoSE1WT19CdFRjT2MxYTR5cVQySDlkbVk1c25wVHdGODFmLUxGNGd5TnFPUQ?oc=5"
     }
   ]
 }
