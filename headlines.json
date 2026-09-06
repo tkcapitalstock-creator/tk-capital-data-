@@ -1,45 +1,10 @@
 {
-  "updated_at": "2026-09-06T18:29:29.014009+09:00",
+  "updated_at": "2026-09-06T18:44:06.339012+09:00",
   "items": [
     {
-      "source": "Googleニュース",
-      "title": "Google ニュース",
-      "url": "https://news.google.com/"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "ケーキ店で放火か、３人死亡 うち１人が関与の疑い―岐阜",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqQ2RBSjJacmlYTWxfRUF0QmFxcjhHM0NsU0x3VUk0czRqdlQweGNiUmE2eGNXNXV5MEJYb0t4ampVdldZSVRabm1MX3Bad0dVdWJIY0paRHpodXhGVVhONVlNVQ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "国民民主代表選、玉木雄一郎氏３選…橋本幹彦政調副会長を大差で破る",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzQkEyUHR5c1dSSE9KckpEMllxdWVVY2UzVS1CZzRRU3VZYUgzc2dQc2dJVG1POW50NWk2Q2tBZU4tMHZRamJuaVFIOHFEWHdSTHZTTW52V21Sa0RxLWNHRXZFaVpzdw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "【沖縄知事選】古謝氏を大学教授が告発 公選法違反容疑で（琉球新報）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjMkJqX25ZN2hMM01zbzZraXNrOHhibVNQT2QtOHRuZFdMekUzdzhEai1qLUJlMzg0cnlsQTBxTXNscXR3czUxOFNtYlNiUDJiLTlUZ29xRFRCeXF3M0tTU2RqcUthLUEzMHhWV09QRVFnZTVqV2ZrVjdhWHRRcVk?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "【速報】ロ、米特使訪問でキーウに攻撃停止命令",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Ub2RKMmJIYVlLeXdxLU5MZDgzeF9KNEVPRDM1YVhCTmV2UTZjZTFreUdKLVVCSHdjbGk0czUzOTFKYjBJTzlyQXlZMA?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "米軍がイラン石油タンカー3隻攻撃、米艦船攻撃に報復 応酬激化",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95dl9DUjhiSjRNeTRnd2otMkpSMjVmWE5mZTk3OUQ5VVhRVGFBc3l2MWlzcUoxam1MSk9KczNoal9RX2pGQm5xT1E5akhhVm1yQmNPbWd5alFkczdQUmprRjd4Rl9WcFgxTEJRY1luTnhMNzdzSFpsaF93?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "関東は今夜から明日にかけて災害級の大雨のおそれ",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fZk91Um1UTkY3OHFfUkpZTjRFZXdlOUNkQTAtMFJEQnJaR3Y0a1RwYlFhS0dldlNYUnZlVTlOX25wc1NZSThwNjlkeGgtcEZwdURvaA?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "沖縄市議選に45人が届け出（定数30人）【2026統一地方選・沖縄】",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53cERtVVltZkxJS01rNVppN215SVRSZGtDNm1NOVFPLUZOWjhPd28wWlpsYm02dHR6M1V4YU5nb3pza0tlTVhUMFg1MUtsNTdfUHZoTWdCWUJKMjUwU0tGTmZmXzRPOFc2?oc=5"
+      "source": "システム",
+      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
+      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
     }
   ]
 }
