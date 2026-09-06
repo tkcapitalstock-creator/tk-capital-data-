@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T14:46:29.479175+09:00",
+  "updated_at": "2026-09-06T14:59:44.532612+09:00",
   "items": [
     {
       "source": "Googleニュース",
@@ -18,6 +18,11 @@
     },
     {
       "source": "Googleニュース",
+      "title": "国民民主党代表、玉木雄一郎氏が再選 対決姿勢に傾斜",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uYWwxTlZ6VGI0LVFJcWNKTjlEbEQydGsxRWdJRkVHMmRoSmNTWFNuNnFyMU96Y21qTDBUT2FzY0ZzS3ZTYklqRmViQ01LbWtERXF5b05kbjNtMHp3bVhYMm93Rjc4MkF0SUNLQw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
       "title": "ウクライナ新和平案協議か ロシアのプーチン大統領、米特使らと会談",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWNThjRnJycUVsMDNlQUItUzROR3VrOHRWMTh1MkQxc2trQmtMd2JWWGZ3X1o3aENsSmN6NFZWdXpHQTF4eDVPS252Vk82VG15aThEdHZtTThRVndJczl6WHg3QQ?oc=5"
     },
@@ -33,13 +38,8 @@
     },
     {
       "source": "Googleニュース",
-      "title": "【今夜】沖縄県知事選挙の情勢調査結果を速報（午後10時半以降）",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hSXJsVE02dkdqT2RMd2k5MXVielhFZ2ZhM19fUEU3NUUxazdYTGwyRGgzcnpVaUc4NDRqdmJ5bUlhTzA2dHk0RDJJWWJNVVNSUDZGXzM2bGJMR1ZKOHc?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "国民民主党代表、玉木雄一郎氏が再選 対決姿勢に傾斜",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uYWwxTlZ6VGI0LVFJcWNKTjlEbEQydGsxRWdJRkVHMmRoSmNTWFNuNnFyMU96Y21qTDBUT2FzY0ZzS3ZTYklqRmViQ01LbWtERXF5b05kbjNtMHp3bVhYMm93Rjc4MkF0SUNLQw?oc=5"
+      "title": "台風24号(クロヴァン)は沖縄本島を周回 今後は大東諸島方面へ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90TDJ6RlNoREpMUlZhN2JUZjROMkw4MUQyN1lGWUwyMEZncE55MWNhOGswOTZBRDJHdXBpTVRRbnNxUFFxeWE2NXZONnVDSHk2WGMzOQ?oc=5"
     }
   ]
 }
