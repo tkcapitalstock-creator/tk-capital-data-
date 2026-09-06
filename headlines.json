@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-09-06T16:47:07.126557+09:00",
+  "updated_at": "2026-09-06T17:00:15.496102+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
+      "source": "Googleニュース",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "ケーキ店で放火か、３人死亡 うち１人が関与の疑い―岐阜",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqQ2RBSjJacmlYTWxfRUF0QmFxcjhHM0NsU0x3VUk0czRqdlQweGNiUmE2eGNXNXV5MEJYb0t4ampVdldZSVRabm1MX3Bad0dVdWJIY0paRHpodXhGVVhONVlNVQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "国民民主代表選、玉木雄一郎氏３選…橋本幹彦政調副会長を大差で破る",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzQkEyUHR5c1dSSE9KckpEMllxdWVVY2UzVS1CZzRRU3VZYUgzc2dQc2dJVG1POW50NWk2Q2tBZU4tMHZRamJuaVFIOHFEWHdSTHZTTW52V21Sa0RxLWNHRXZFaVpzdw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【速報】関東に線状降水帯予測情報 東京 埼玉 千葉 神奈川と伊豆諸島は厳重警戒",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wOW9xSjZEU2JVdjU3ZlNzNVdsS01NaGxRbGVvaUZpNDJSS0dVTjVEVUp2VWZ0eGlJVlVua1drZWxjdGlRODFRek1USy0zVFduLU5xRnFVVk5XZEppamNoVjNtanlUWFVWRjdlZ3RPZnNyUQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "米特使、ウクライナ和平案伝達 ロシアのプーチン大統領「根本原因の除去を」―数週間以内に計画公表も",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWNThjRnJycUVsMDNlQUItUzROR3VrOHRWMTh1MkQxc2trQmtMd2JWWGZ3X1o3aENsSmN6NFZWdXpHQTF4eDVPS252Vk82VG15aThEdHZtTThRVndJczl6WHg3QQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "米軍がイラン石油タンカー3隻攻撃、米艦船攻撃に報復 応酬激化",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95dl9DUjhiSjRNeTRnd2otMkpSMjVmWE5mZTk3OUQ5VVhRVGFBc3l2MWlzcUoxam1MSk9KczNoal9RX2pGQm5xT1E5akhhVm1yQmNPbWd5alFkczdQUmprRjd4Rl9WcFgxTEJRY1luTnhMNzdzSFpsaF93?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "台風24号(クロヴァン)は沖縄本島を周回 今後は大東諸島方面へ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90TDJ6RlNoREpMUlZhN2JUZjROMkw4MUQyN1lGWUwyMEZncE55MWNhOGswOTZBRDJHdXBpTVRRbnNxUFFxeWE2NXZONnVDSHk2WGMzOQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【沖縄知事選】古謝氏を大学教授が告発 公選法違反容疑で（琉球新報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjMkJqX25ZN2hMM01zbzZraXNrOHhibVNQT2QtOHRuZFdMekUzdzhEai1qLUJlMzg0cnlsQTBxTXNscXR3czUxOFNtYlNiUDJiLTlUZ29xRFRCeXF3M0tTU2RqcUthLUEzMHhWV09QRVFnZTVqV2ZrVjdhWHRRcVk?oc=5"
     }
   ]
 }
