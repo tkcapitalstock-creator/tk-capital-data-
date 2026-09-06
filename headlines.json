@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-09-07T06:30:24.280712+09:00",
+  "updated_at": "2026-09-07T06:43:26.866475+09:00",
   "items": [
     {
       "source": "Googleニュース",
       "title": "Google ニュース",
       "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【レベル５土砂災害特別警報】東京都・新島村に発表 04:15時点",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94eDhIRDNPZjNCbGRLZWMzTHhTSzJRTjJaU2hwYncxb3lkTWE5RDBiZW9FblVNWXFWNUtCOWFHbTJqUEF4TTdNakxMNTRZaHRySGNqSmlsWQ?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -15,11 +20,6 @@
       "source": "Googleニュース",
       "title": "近畿から東北の太平洋側中心に警報級の大雨予想、東京都と千葉・埼玉などで線状降水帯発生の恐れ",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iZWhlSnNVdHJuOHhtdEEtVnd4NFlQZEZfZDE5cm01UGRjOUlsTmxIVlBSVlk5dS1fZDg1aW15SWF1aXd1cmRYSEVLZVFlQk9jMVRpcFY3bkdLM1prb3Q5MVVoSV84dw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "【速報】伊豆諸島 東京都新島村にレベル5土砂災害特別警報 命を守る行動を",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tR21mRDNrd3ljTlVicWppdUtGZUtvUU04dzRkV3ZDRjF6aDR1OWVoS2JGVDBJWWpQa01qVFotNnZ5a0p2QUltVEE1Vk4wMG1zX3JNOQ?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -38,8 +38,8 @@
     },
     {
       "source": "Googleニュース",
-      "title": "大阪・交野市長選、現職の山本氏が再選 維新の新人・美好氏破る",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JQlhxb1B4X3NhZl9GeDRReWM5dXJMSEw3SDVZMVBKVTJkUy0xVHM2LTQzNFhhRF9Jc2tkS29KRTdTRk5ReVQ0Z3VvWEpYWG52dHY1Nnc1NVVEN0FsU0Vlb3VJbGVfeGZx?oc=5"
+      "title": "大阪維新の会の新人が落選、交野市長選挙の投票率54.50％…再選の山本景氏「市民の声を公正に聞く」",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JSEJGWm95QXFNV1VkOEl1SUZNbDB3aWcyUFRGVlpGdG1GdUJ3T2YwRDhDS1Qta2tCWXFjQzlWZ1gzbDNUelk3RUR5aERxMzZ2ZkNfalBPZjBYbnRoTVNKLXBJRmgzRGszYmhYN2NsZE1OUQ?oc=5"
     }
   ]
 }
