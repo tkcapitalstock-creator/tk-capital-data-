@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-09-06T18:44:06.339012+09:00",
+  "updated_at": "2026-09-06T18:57:32.727308+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
+      "source": "Googleニュース",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "ケーキ店で放火か、３人死亡 うち１人が関与の疑い―岐阜",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqQ2RBSjJacmlYTWxfRUF0QmFxcjhHM0NsU0x3VUk0czRqdlQweGNiUmE2eGNXNXV5MEJYb0t4ampVdldZSVRabm1MX3Bad0dVdWJIY0paRHpodXhGVVhONVlNVQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【沖縄知事選】古謝氏を大学教授が告発 公選法違反容疑で（琉球新報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjMkJqX25ZN2hMM01zbzZraXNrOHhibVNQT2QtOHRuZFdMekUzdzhEai1qLUJlMzg0cnlsQTBxTXNscXR3czUxOFNtYlNiUDJiLTlUZ29xRFRCeXF3M0tTU2RqcUthLUEzMHhWV09QRVFnZTVqV2ZrVjdhWHRRcVk?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "プーチン氏、キーウを３日間攻撃しないよう指示…ゼレンスキー氏の米特使らロシア滞在中の空爆停止の対応受け",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IcFoySDBILTNJRjE1aDloQjZrYmwwN3RfUEtHTktzcnl4QjA5eTlqNS1hWDR0VUwxX0ZRV01uZ0ZVbEJVeFRRZkc4Ul9hQzRPaUpfSjdVbjh2U0VOcFg4bm13?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "米軍がイラン石油タンカー3隻攻撃、米艦船攻撃に報復 応酬激化",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95dl9DUjhiSjRNeTRnd2otMkpSMjVmWE5mZTk3OUQ5VVhRVGFBc3l2MWlzcUoxam1MSk9KczNoal9RX2pGQm5xT1E5akhhVm1yQmNPbWd5alFkczdQUmprRjd4Rl9WcFgxTEJRY1luTnhMNzdzSFpsaF93?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "関東は7日(月)にかけて大雨災害に厳重警戒 通学・通勤時間帯に雨のピークとなる可能性",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02aURLUE9RVy0zRVIxbTdDWkxpcVFUeVJJUGQ2YlhHV2JhWmloa3BSWmlZNmNxMFU4THRyYmNkUlRkWmw4TDh3cVZEY0xsRkxyMW1hVA?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "国民民主代表に玉木雄一郎氏が3選 若手との一騎打ち制す、高市早苗政権との距離感が課題",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iSTR3ZlZBb0RkOEo5U0ExYzd1YU1qOGZ5NnFuMnNHNW1IYmphTU5WS29weEx5V2xvS3R1N3I5RDNleVpESUMtbVBXNUJTWHlHQW9kLWk0R0ZvYjJROWlOdjBrNks1R2xzczgxY3VTUS0wMlJqelE?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "インドネシアで大規模噴火 火山灰拡散でジャカルタ空港が一時閉鎖",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qeDMtLWduU3dPRW54VzExS2NxTVRwVFRURTN6bDJDUmZnTzdleUpycnRGX3NXelJ2MXBhazZ6cEFBaE00eEczaE9NMkw4T2hINFVFS2M4RnF1UWZuUnptN2tjeDd3aGY2amdxNQ?oc=5"
     }
   ]
 }
