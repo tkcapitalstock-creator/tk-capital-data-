@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-09-09T10:47:28.691864+09:00",
+  "updated_at": "2026-09-09T11:01:14.342138+09:00",
   "items": [
     {
       "source": "Googleニュース",
       "title": "Google ニュース",
       "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "読む政治：内閣改造でどうなる「入閣待機組」？ 狭き門に6期生49人",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HVm54dFZWb25yQWowajRQalpndFNYaTlaTkJvYk1tcE9FNGVwTVF0N1ZpTXJMc2N0TkkxQW9fdmh0dllpU2M5MkNvWFVmMDdPdElmR1NfTnZJVmMxdUVoODlGNTBxMXNS?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -18,18 +23,8 @@
     },
     {
       "source": "Googleニュース",
-      "title": "上智大生殺害放火事件 未解決のまま30年に",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51bldwTWFLdGJzY2c1QU9idW5ZdmJRbHhNa2NURjhIVGhqaXRwS0V6Tjk4clZESTZkWHJfeklBTjJNLW9JeTYwRFdKSF9EM3BYSXA5TWhTOXA5cjFVSnVr?oc=5"
-    },
-    {
-      "source": "Googleニュース",
       "title": "ユダヤ人入植地からの輸入禁止 英仏加など１２カ国、イスラエル反発",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoejBXM1pxT2tKOGlhLWdtWHM3Z2J5NFNaM28wd3hwaW9LcTVId3ZoTzBpZFloYnc2OVFHVXRDS2p2YUdfRWltS3pVWmJMNGdPVnlHZEw0MDFNY1dkNGwxLTh3dw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "読む政治：内閣改造でどうなる「入閣待機組」？ 狭き門に6期生49人",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HVm54dFZWb25yQWowajRQalpndFNYaTlaTkJvYk1tcE9FNGVwTVF0N1ZpTXJMc2N0TkkxQW9fdmh0dllpU2M5MkNvWFVmMDdPdElmR1NfTnZJVmMxdUVoODlGNTBxMXNS?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -38,8 +33,13 @@
     },
     {
       "source": "Googleニュース",
-      "title": "関東は午後にかけて雨の範囲拡大 帰宅時間帯は本降りで強まる所も",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlRHp1UVA3amFWSzhHdFRPTzBHTkdpLUFYQXAxaENCX29PQXVPTUlMU01TdkZHb1hJcUFLTnpZVnhRTUc1UFZZMWdmbVo3RjhzTVlxZQ?oc=5"
+      "title": "中道、立民と公明系離党し分派へ 一部残り存続、衆院で連携維持",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nTXNuN2dxM0JJQXN2ZVdWa2V6NDY2MmtBYl9PSGU1QVdmdFFlUWdHWHZ4b21zMWxqc3NPeG1LNGRrLUQxTldBRHJWMA?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "３人死亡のケーキ店放火殺人、いったん店を離れた７０歳男が戻った後に出火…トラブルの有無など調べる（読売新聞オンライン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qREJVSm1pLTR1V0txaHBVdUtHMWpWNVlZZVRKVnhqd1M3MTNvbkRaalJLcW54XzlSVnFwc3FGRmFSdmltdlFMSjJ4ZGI0UEIydzFPQ25uTmRGMmQweXZwQWFhb003VnFLOTBKcmFhZkdsOUppdDJsZlVvaVJNTHc?oc=5"
     }
   ]
 }
