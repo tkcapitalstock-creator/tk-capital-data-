@@ -1,45 +1,10 @@
 {
-  "updated_at": "2026-09-10T02:16:22.011492+09:00",
+  "updated_at": "2026-09-10T02:33:54.883126+09:00",
   "items": [
     {
-      "source": "Googleニュース",
-      "title": "Google ニュース",
-      "url": "https://news.google.com/"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "中道改革連合に政党交付金１１・７億円交付へ、２月衆院選の選挙費用支払いなどに充てる考え",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SSUdqQmZ2UHBxZzAwR05ad2IxT2FyYnZYSjlTejlWRVMwVVZMcVFHRHBuS3Q5QkFTeUFjME1zM3VuMFhXV2tJdUx0aVV6TFhvSjFwSnNTdkZmRlJqdkpxV3FRYk5Cdw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "米国ラスカー賞、日本から4人ダブル受賞 睡眠研究の柳沢正史さんら",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaZXBFT0ZDcnRLSTY5dkgwTFh6T2kwLUloZnZWS0JyZ08tTlRVMjB3V3E3MzBlQnlCMWNEVTlUa01IQjhFTVJtaUc2akFneFdZUkM4X0hOMTJ3V0laWG9wb2lkUWJUc2s?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "朝食準備中に「逃げろ！」の声、高台へ走り九死に一生を得る…土石流から２週間も復興手つかず",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xanBQNnVNMDJSZHdXdGhqMHd1RzFOMFBmMWJickE5dHlzTldpanQ0Tm54LVZ6TDhpdzBZMEtobVYwU3ZnY0M5Snl0THB3SXlleFh0eFdDNWV5UkVuS3ZnWkt3?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "米軍がイランのタンカー5隻を攻撃、イランはヨルダンの米軍基地を攻撃",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pdDhrdU9iRklOR0FoYlBSNDNpSkktX0hZT3k0b01RaW8xaGJwM1JPdnFkUkdSdjhwdWxabkdzR0s3Z0Y2SHZTV09fVUw2ZmdvLUJ0cnBSWlZFY1ZlbVln0gFkQVVfeXFMUGcxaFhJQTMwZEFOLU5nekFBODN2R0Z3MkV3ZzdqS3VLS3E4OTh3NTBDNVVocWN4MlhaYWxyMldzSVZGRmVFN1FLeFVFLWZ2SDR1VktjajI3b09LTHE3UENmaVY3Ng?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "名古屋市で観測史上最大の1時間雨量観測 「植田川」越水から一夜…被害明らかに【中継】",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wSnZoOTNkVjdycXZRdkp5M1J5VzFkbW1JRXVRRjlrOGdXYjMzeUxZS0RjcW5EeU84UjFNVGwxRGw2dUZkUWdTRnhqNWhqck52SUc0RFRoWXBfVGtYOGpYNDV0MDlpdVR4dkRFSUFDTERkbUtFeUxLY0Jyemg?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "男女2遺体は中学同窓生66歳と65歳 3人死亡のケーキ店火災 岐阜・本巣",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fNS1zTG9wSE5hYUJPd0c1Y042Tnh2TlhWRGJ3UTRrUktHTFZVYkRWMTN1dHNZYk9sX2RSR0JZeHZER2JnN2wyOTdReUdpeVVGVFhHWjM3cXVTS0l4UTZxaF9aWkNVOTdDNnlFWl9WVzJBTkhGUVE?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "関東で2日連続の局地的大雨 八王子では道路冠水 善福寺川など一時レベル4「氾濫危険警報」 再び“警報級大雨”か",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nUW9NeXV1eWlEZ282d3FROGtpQ3pBbGdHTjNEUndQSXB3UW15QmFxcFNoSEtLTHFFZVFXUGZMcnotZ3lmT0NldzVWVzdCUQ?oc=5"
+      "source": "システム",
+      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
+      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
     }
   ]
 }
