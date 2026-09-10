@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-09-11T02:01:15.650619+09:00",
+  "updated_at": "2026-09-11T02:20:47.011723+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
+      "source": "Googleニュース",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "トランプ氏「勝てば1人77万円給付」と公約 共和党、異例の党大会開幕（産経新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14UXRILS1IQ0JoUnlUTU5CekNVWDFSMk1ZM0E1NWVENVVPMGlLc1BwYXRONGpaYkxhdURwUTBVTmVYblRORzIzeGw3eEtoYklkVnc3Wm9GRGI0Sl9odHlSOXNfbnNHbkRqa1MwXzZsd3A3RHJzbXh6YjA4bnNzaDQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "中国・青島の造船所で修理中の外国籍貨物船が火災 20人の死亡確認、習氏が「重要指示」（産経新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BdjZpa1hhbUxkOHUxMGM5aTY3bC1fYjdyN2NrX3JoRXplWDJOTTVBZHJPeTE4cl9qRHFaanlkMlF6R2ZfYUtpZVhoQ2U0NUEzQW5KRDN4U3k3YlQ1X3JHSlFkRlBfTXhtZkN0WTBSQzl5UjFPdzF5bGdkaWJSNWM?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "明日9月11日(金)の天気予報 秋雨前線が北上 近畿から関東で強雨に",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xSFQtbnJ2cXlrN2ZvTlhoSGxXdkQyZHV2Y180LTZiWkxYYWFiSW9HZFhJbHdKSEFQbFl6cTR0SFhtOWlmSXhsbTlmc3N3NGdheFduZw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "立憲出身議員の新党 来週にも結成へ 解体の中道改革連合",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZS0I4NGRmYTR5V2hMMEtzeXJNaTFscXpzX2x2a0xRUmpVajUtdTJkYkNsUkFGdWtsdkVVN0pMWi1qMW1MblJMT24zXzJiQnlFTjBxRjMtYmtObG83anpxUlJfN1NHYkE5NktYMjFDZDBvNkU?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "ながらスマホで新名神６人死亡事故、元トラック運転手の女に拘禁刑７年を求刑…法定刑の上限",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QUFBTZ0FKbkVFQ1BhYVg5MUcxTmpQZ2lVdW01MTRIUmlLTUo2bEJNLWt1TERNcE9PTzk3RGFfT3pyanZTUC1FbmJCdUR0N0Roa0dlZGhIVExWMGgtcjAtZ2V0bGtsQQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "秋篠宮ご夫妻が帰国 ノルウェー前国王葬儀終え：時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Jd21YTlFqRHZuZHpmRlplbGUydDJ2dFN6TF93bjdDbTQtSTlsNFVTUE90WjR1RHVUdVFPWENlNVJEUmtoSmlodzFNNl9iOVVXLU9Sc2dxdHREdFdTYkctdnRaQQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【画像まとめ】富士山で遭難男性2人死亡 閉山で“駆け込み登山”殺到 「大丈夫です」荒天警告も無視",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByX3VJLTktNXI0WExzVlg3RkdidERmRVlQLW9hT2x2eWJiT3gtbC1QSFpMeHhmZDVxZnQtM29Ubk9TVkk5eWFfYWhYUnpidVlOaGFMRzdiaFFGdVpxOE13dzNpblk1WGpJLXNOakVaV2xweW0yS2hacE5ZVQ?oc=5"
     }
   ]
 }
