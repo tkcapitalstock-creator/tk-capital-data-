@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-09-12T11:02:25.022091+09:00",
+  "updated_at": "2026-09-12T11:22:09.073152+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
+      "source": "Googleニュース",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "米、フーシ派への攻撃を拒否か 海峡巡りサウジアラビアが要請（共同通信）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVS3I2ZHlxejRleVMwOU94alN4WW5XNWVSTVNlbDU0TzlDWXF4LVNVUXlPN1d0ZXdvT2NwRDNmTU9qNzFSb1hlVnhCcXBha0w3eU5YbDBaZUw0U0NGaFBkdl81QXh3NkxnSEtoMWFqdWtBUXJyXzNEWmdmYlY2c0U?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "“北朝鮮が日本海に向けて飛しょう体発射”韓国軍",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16SjR2QkNjU2JNME9KYUZIVzZOazdVRUxOaGdKMVVvemlJYk9DTXFzVWdxdE94UF9JR1J3YVNFZTdOdzh6Q3dCbXh6bFN2SkM0cDBYMmtsSGJjU2V3REh3?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "バンス氏に次期大統領表す「４８」連呼、米共和党大会で聴衆が期待感示す",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZRFdHVHJjVjJGS0twS091a3l3TVYzTVhSNXM1Wmp6WDlvcHI4dEU1a0cyaDdvLVpxRTIwV29rSWtzQ1NRbGVpYWZzbzNfRkpIN2ZmYzh0SklRLVNDMXVkT0RR?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【画像まとめ】米同時多発テロから25年 真下でとらえた一部始終 “封印映像”公開…撮影者の想い",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRE9odUttU2tWSEhhU1N5TXZfOEZDWjlFS1pKdWtoQmdIck42aEZWNWl5Nkp5N0hfWFVibUlydTd0RUtrcWpUOG4tYWMtdWlPRm1mOUMzTWtHZ3RHdE5LRlEwWU5hVDlORUxwVVE3a0JxYzBMN0YxclNXQ1hJb0xtWWZEUQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "北海道・十勝岳 噴火警戒レベル3（入山規制）に引き上げ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FSWF0SF91amtkY3JtTzlpaS13RU0tQ09RNE14MlMyQVpjR19wUU5GdnBwUVhiaC1LcHEwX3JSLWdCYXp1VWtzOWxOVHBvT0xKU2NtVg?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "東北～九州で雨の日多い　シルバーウィークも広く雨　秋雨前線が主役の天気続く(気象予報士 堂本　幸代 2026年09月11日)",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RbUtmSnZHYU9weDlNQ21ZYVpBQVNoSHlpUzdJQ3NrVzhhOFJ2aU5sZnVSZVdrc1dtaGk0QjhPamJCMjVkUFhUdjJRd2xuMEo0WjlaSTlSeUtPb1g0TjdzSGRjTm5fZUpDTFU4Nkg5dlDSAXZBVV95cUxPWmZNX05Wc0w0Q19RdWxacll0cnB3WnZGakYyWVdBXzdHRG83RU5hbEloODBPajEzdmxfUkswcDU4ZXg0dmxCWFNxbWZhUjl4YURDdUdEZ0J4ZzA2UXlPWXhaWExLSXNSX0ZMYWNzdVZDYWRXS2ZB?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "北方領土の地図修正巡り 露が反発",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fcHBqTmFCNXN5ay0wSmZUQmk4dFB5YlB6NTZPYUwtN1lyUGs3QXo1QWRSUkFKZ0RKbHpPNXJqNjlORjJ2RjRSdnVBdE9OTDBo?oc=5"
     }
   ]
 }
