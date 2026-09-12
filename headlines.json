@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T05:43:20.499787+09:00",
+  "updated_at": "2026-09-13T05:57:15.980404+09:00",
   "items": [
     {
       "source": "Googleニュース",
@@ -13,23 +13,13 @@
     },
     {
       "source": "Googleニュース",
-      "title": "《岐阜ケーキ店火災》「あの人が旦那さんだよ」死亡した店主・曽野さとみさん（66）の同級生が告白「水泳部のお嬢様」「お店がオープンしたての頃に…」",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqUW1kVERYUGE5TVpCYjZyTWFxSGNEMGVPMXdiS255QV9LUFJnYWFpUkdqY2s2c05vbXZQX3EzQ19veUR5a0tpWDRNMA?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "相模原17歳死亡〉「難癖をつけ、金を要求したとの話も…」地元の同世代が怯える少年グループの素性、4人のうち3人は別の監禁事件で逮捕（集英社オンライン",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tUHd4OWE0WXlPc2FDay1Gc3VXNHhNeHIyZ3FvYjFEdUVlSmdVRzBMa0xOR1pocVNQWUtsWHprR0hIeEIzZGpsQ3hQdWN3NHd1cHFsQU9WZUNJWWhCbU94aFdJYXpYMUZraHM4bkc1TzBPRjhLMzk1VGZ4bldOX0E?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "【ＭＬＢ】９・１１追悼試合の乱入男に全米から怒りの声「吐き気がする」「実に卑劣」＝米報道",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDWVhaYnhZRks4YlNzV2FvemlaaW5Qc0NSY0JyLWs0a01tRVhQMkRtVkxhNG1FbEI5U3Y5V0plU2V4a1J5QzJ0ams2Z2I1eDlUd0swRDUyYjRvRDE3?oc=5"
-    },
-    {
-      "source": "Googleニュース",
       "title": "沖縄県知事選挙13日投開票 継続か交代か、各陣営が最後の訴え",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0a2c4aGJ0TjNkemF5Qi1hYWJHRmVWOGxzbUxYNFZNQWJ6R0tEOS1lUlBOcHVOTnRLTlgzTVczVnU1SzhxMmVucGNpaUZlV0g5c1BsY1d3S2djX0RHM083U2YwZFE5NUlyOF96bA?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "熊本地震でＳＮＳに根拠なき情報「炊き出しでイスラム教徒に配慮」…食事提供の自治体は「宗教的対応していない」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhMkJHZTIySkZmc3RraVJtcTZZZk1rSzZOck0wcnlFVnUtSmJBQjVSbERseEVWVnpVTDNYRUY1TngydS1JbnNPVmFnaktncHRnNTh6V3VYaUdCSFZ1NjdJYWF2SVEzdw?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -38,8 +28,18 @@
     },
     {
       "source": "Googleニュース",
-      "title": "来週は秋雨前線が本州付近に停滞 大雨となるおそれも",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41M3JaNlJkZVp0Z1djbWVPSHdUQm5NUUtpVklpWWUwWXNDOHdPRnpGSkxjbXlqVk1UeGtrX3lTYUVvQnNnTm9MUTNkbERzamlNRTJ3Tw?oc=5"
+      "title": "相模原17歳死亡〉「難癖をつけ、金を要求したとの話も…」地元の同世代が怯える少年グループの素性、4人のうち3人は別の監禁事件で逮捕（集英社オンライン",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tUHd4OWE0WXlPc2FDay1Gc3VXNHhNeHIyZ3FvYjFEdUVlSmdVRzBMa0xOR1pocVNQWUtsWHprR0hIeEIzZGpsQ3hQdWN3NHd1cHFsQU9WZUNJWWhCbU94aFdJYXpYMUZraHM4bkc1TzBPRjhLMzk1VGZ4bldOX0E?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "「大規模な噴火に繋がるおそれ」 北海道・十勝岳 噴火警戒レベル3「入山規制」に引き上げ 上富良野町で避難指示や5.6kmにわたり通行止めも",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94LVA3NDV5WVVvSFRVTFFEZ3c3dzc5WkdacWpFU0ZqbkpCVmVFeG5PN0tTVVlZSjlqZ0hmSnRFZkhjb3p2OGZUaUlKaU9JVXZZOThMWlVtYw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "千葉豪雨「1万年に1度」規模 ウェザーニューズ分析、将来は発生確率2倍に",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9STXpwQWg2ZWEtaFBVZGRKN05OdURheVJ3aVFla0JScWdPRXE3NFhRTFlHZFpJM1JMU1B2d0xwc3V2eFc4U005LXN5bUZuUGVncHRfWXVOWXNIWnpuQ2c1dUR5NEh5cW9oc3FvY2Y4R3EtRTFxX3c?oc=5"
     }
   ]
 }
