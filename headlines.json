@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-09-13T06:17:57.914239+09:00",
+  "updated_at": "2026-09-13T06:32:44.295732+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
+      "source": "Googleニュース",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "沖縄県知事選挙13日投開票 継続か交代か、各陣営が最後の訴え",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0a2c4aGJ0TjNkemF5Qi1hYWJHRmVWOGxzbUxYNFZNQWJ6R0tEOS1lUlBOcHVOTnRLTlgzTVczVnU1SzhxMmVucGNpaUZlV0g5c1BsY1d3S2djX0RHM083U2YwZFE5NUlyOF96bA?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "サウジアラビアの東西パイプラインが攻撃を受け操業を一時停止、イラクの親イラン勢力が関与か",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYVXBpVmtJRVpSeUlqaUxXMjRCWWVJdXhWMGtoRkUyTlF5a0RDaGFVMGY5V1FyQ3RmNUtJRHZPNk1NUVJ0em9FcVY4c1V0eXpIclZDR1U0TGxSSmNmeHRBbDZ3?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "熊本地震でＳＮＳに根拠なき情報「炊き出しでイスラム教徒に配慮」…食事提供の自治体は「宗教的対応していない」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhMkJHZTIySkZmc3RraVJtcTZZZk1rSzZOck0wcnlFVnUtSmJBQjVSbERseEVWVnpVTDNYRUY1TngydS1JbnNPVmFnaktncHRnNTh6V3VYaUdCSFZ1NjdJYWF2SVEzdw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "モディ首相と習主席が会談、インドと中国の「戦略的かつ長期的」発展で一致…関係改善を強調",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIbERCS0tnYlRRMVE3U1BqTFJ0RjRYZ0ZnVU5wM1Z4cWdVR0F6T2lncjhOZ25fUVVXakllSkEtLWRydXRmdEhuSmFZT0hnODZzTFpSOTZPYTEwdWNoaUhRQXF3?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "相模原17歳死亡〉「難癖をつけ、金を要求したとの話も…」地元の同世代が怯える少年グループの素性、4人のうち3人は別の監禁事件で逮捕（集英社オンライン",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tUHd4OWE0WXlPc2FDay1Gc3VXNHhNeHIyZ3FvYjFEdUVlSmdVRzBMa0xOR1pocVNQWUtsWHprR0hIeEIzZGpsQ3hQdWN3NHd1cHFsQU9WZUNJWWhCbU94aFdJYXpYMUZraHM4bkc1TzBPRjhLMzk1VGZ4bldOX0E?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "「大規模な噴火に繋がるおそれ」 北海道・十勝岳 噴火警戒レベル3「入山規制」に引き上げ 上富良野町で避難指示や5.6kmにわたり通行止めも",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94LVA3NDV5WVVvSFRVTFFEZ3c3dzc5WkdacWpFU0ZqbkpCVmVFeG5PN0tTVVlZSjlqZ0hmSnRFZkhjb3p2OGZUaUlKaU9JVXZZOThMWlVtYw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "明日9月13日(日)の天気予報 西日本や東日本はスッキリしない空 お出かけには雨具を",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OY0FYcnhMVTBsbVBDdi1KZVpLV1RlOW80cndaTjJuV0l2VmNpRUFVWkh2R3RHR1I0UmE1Ujd2Y3dHVW04ZkhHN1BVYXc1ZGRGbUZvcQ?oc=5"
     }
   ]
 }
