@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T23:18:37.417176+09:00",
+  "updated_at": "2026-09-13T23:34:14.315374+09:00",
   "items": [
     {
       "source": "Googleニュース",
@@ -8,8 +8,8 @@
     },
     {
       "source": "Googleニュース",
-      "title": "沖縄県知事選、新人・古謝玄太氏が初当選…３選を目指した現職・玉城デニー氏らを破る",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DWGlYbkhydjloV2QtczlTSWRvT05ucmFXNHBFWmZzZEVWZFRXQ2lQMFRfbFlSNGdPSllxdHhXblo1aFRlUm12SjA1OFNKbUtHRDluWndQUEFtY3pBaDJDUzdTa0d2Zw?oc=5"
+      "title": "沖縄知事、古謝氏が当選確実 辺野古容認、１２年ぶり自民奪還",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43WWFEMjQxd3lKZURVN0Jvbm5lbGJhN1g5RFo4Mk9oa3Y2bUx5ZUZzTmx4TnJYTTNzWEJISDdmU29idXFCS1FXRmlIXzlTUFFOX0hhbk9jUDBDTjdHMHVSU21uWQ?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -23,11 +23,6 @@
     },
     {
       "source": "Googleニュース",
-      "title": "明日9月14日(月)の天気予報 広く雨の週明け 強雨や大雨のおそれ",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XQkd2QWlBSnpmQUgwcGlRV3l4Zk4xRWpjVUYxNy1lbTlxaGQxclBMTHhEQ0QxMTBUbkYwS0RQdnN2VHFjb1JNSjNnQnhKcjVvNlRFSg?oc=5"
-    },
-    {
-      "source": "Googleニュース",
       "title": "秋雨前線停滞 月曜は日本海側中心大雨に その後太平洋側も",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1bGFfTkNkcTBuejBGV0JDVnlXMF9RWlhHQ2ZJaUF3UEY4bTdLbUZ0UzJXcDZkWVNiN1MxUmUydWxxUnJXSm05NjhLcjFoREprX2I0SlpPNDJITkoxaERz?oc=5"
     },
@@ -38,8 +33,13 @@
     },
     {
       "source": "Googleニュース",
-      "title": "【気がかりな渦】シルバーウィークに前線刺激するおそれ 次の台風のたまごか 全国の天気 ※13日午後6時半現在",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByZzlBaW5rU3RqZzBRdThEQ1kwV1NWZ0NYTWNrazdmRFdPd1Y1XzAzZFRramtyXzNSMzdTTXNXbVRVR2xqdEhsVFN3SFVRYWhJY0RPR0RjblB4bXNlYm94TnFYYXdCcmlBZnFLZ3NqYnkyMXJieG9uSzczUllpMWs?oc=5"
+      "title": "【速報】京都市の商店街で水道管が破損し漏水 周辺に水あふれ「大打撃だ。早くどうにかして」",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVOFdtUjM0Q09GbkpveFYwdEtLWUhwa3pQWWNxRWpfR2psOEN4Y2RlV09zcmNWZFFkeEswemZndGJiamZnSkRlZXY3RzdJcEhyc3c2ODI0Yl8?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "千葉豪雨から1カ月 被災車両の処分が難航",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOam5OTk1ScmlwUktGdEZhMzhqVXFnMXR2TlotU3FwNGNwUFdYdnpBbE42ZS10UUMyZy1EYnVPcUVPWUpQRk1vSC1zWFV0aE5YQ01ZbnhUa05ocVhBemFqdGtVdHhNUlpaZFJ4ajd5UEdTdw?oc=5"
     }
   ]
 }
