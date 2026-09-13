@@ -177,6 +177,30 @@ def build_headlines():
         return []
 
 
+# ---------- 適時開示（東証TDnet・非公式WEB-API by やのしん） ----------
+# 出典: https://webapi.yanoshin.jp/tdnet/ （無料・非公式のTDnet適時開示情報API）
+
+def build_disclosures():
+    try:
+        url = "https://webapi.yanoshin.jp/webapi/tdnet/list/recent.json?limit=20"
+        data = fetch_json(url)
+        items = []
+        for entry in data.get("items", []):
+            t = entry.get("Tdnet")
+            if not t:
+                continue
+            items.append({
+                "code": t.get("company_code", ""),
+                "name": t.get("company_name", ""),
+                "title": t.get("title", ""),
+                "url": t.get("document_url", ""),
+                "pubdate": t.get("pubdate", ""),
+            })
+        return items
+    except Exception:
+        return []
+
+
 def main():
     now = datetime.now(JST).isoformat()
 
@@ -194,6 +218,11 @@ def main():
         }]
     with open("headlines.json", "w", encoding="utf-8") as f:
         json.dump({"updated_at": now, "items": headline_items}, f, ensure_ascii=False, indent=2)
+
+    disclosure_items = build_disclosures()
+    if disclosure_items:
+        with open("disclosures.json", "w", encoding="utf-8") as f:
+            json.dump({"updated_at": now, "items": disclosure_items}, f, ensure_ascii=False, indent=2)
 
 
 if __name__ == "__main__":
