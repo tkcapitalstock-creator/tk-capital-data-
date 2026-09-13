@@ -1,45 +1,10 @@
 {
-  "updated_at": "2026-09-13T09:50:57.269311+09:00",
+  "updated_at": "2026-09-13T10:07:04.562434+09:00",
   "items": [
     {
-      "source": "Googleニュース",
-      "title": "Google ニュース",
-      "url": "https://news.google.com/"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "サウジアラビアの東西パイプラインが攻撃を受け操業を一時停止、イラクの親イラン勢力が関与か",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYVXBpVmtJRVpSeUlqaUxXMjRCWWVJdXhWMGtoRkUyTlF5a0RDaGFVMGY5V1FyQ3RmNUtJRHZPNk1NUVJ0em9FcVY4c1V0eXpIclZDR1U0TGxSSmNmeHRBbDZ3?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "千葉豪雨 商店などの被害 529社で26億円余 再開できない企業も",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBTm1LVzVKT3NXRmlVWW1HLUZYZ1VGRnpYOXhlXzZPck8yMU1QcnhhZ04yQ3BMcXdQdm9fb1hjVUtoekRsLTM0RnNLM2J4V2NnUnJiRjU1aUlMX1B3SlFZ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "冠水の恐れがあるアンダーパスを持つのは１４８自治体、３割は「予防的通行規制」を実施・検討開始…読売新聞調査",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wME9kcl8xZUVHM2JaemtEd0dXYi1uUTlWTUdWQ1hnWDN3QkE3RjRfNWltMEVpRXVyZUphUGRCTDhydUhWNmlJV1hEcTQ1ZWI1UUw3OXFkX3VycktyUFZRZDJZa19GZw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "沖縄県知事選挙13日投開票 継続か交代か、各陣営が最後の訴え",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0a2c4aGJ0TjNkemF5Qi1hYWJHRmVWOGxzbUxYNFZNQWJ6R0tEOS1lUlBOcHVOTnRLTlgzTVczVnU1SzhxMmVucGNpaUZlV0g5c1BsY1d3S2djX0RHM083U2YwZFE5NUlyOF96bA?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "高市首相、自民国会対策委員長に村井英樹・元官房副長官の起用意向固める…古川俊治参院議員の初入閣も調整",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42aE1NT05pVE9qVE9vNUx5bERYUERfYl9oSllzX1ZUdHptdGV6YmhkVzJhcllxSVFlZWtHUGZDVzNIdzUwTDRtQXBxUk1UT1JDN1poWERzQlBBcDhOaHZxanRZZWJXc1Y2OFFsSzF1bjY5YWo3MWt4ODBxRXU2cTQ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "週間天気予報 前線停滞で秋の長雨 シルバーウィークの天気どうなる？",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92eFZ3cGNmQW1IRWt1bzZUOEs4WUZtQmEwVkt1Q0NVNXBEc3M3VjRCUGFGRk5lQmt6MnBiNGl1bWFsbWFGdGIzc3UzMnRXWGJDdEU0dg?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "相模原17歳死亡〉「難癖をつけ、金を要求したとの話も…」地元の同世代が怯える少年グループの素性、4人のうち3人は別の監禁事件で逮捕（集英社オンライン",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tUHd4OWE0WXlPc2FDay1Gc3VXNHhNeHIyZ3FvYjFEdUVlSmdVRzBMa0xOR1pocVNQWUtsWHprR0hIeEIzZGpsQ3hQdWN3NHd1cHFsQU9WZUNJWWhCbU94aFdJYXpYMUZraHM4bkc1TzBPRjhLMzk1VGZ4bldOX0E?oc=5"
+      "source": "システム",
+      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
+      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
     }
   ]
 }
