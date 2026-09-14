@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-09-14T17:33:40.016055+09:00",
+  "updated_at": "2026-09-14T17:52:24.507107+09:00",
   "items": [
+    {
+      "code": "161A",
+      "name": "Ｐ－三葉",
+      "title": "通期連結業績予想と実績値との差異に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536166.pdf",
+      "pubdate": "2026-09-14 17:30:00"
+    },
+    {
+      "code": "161A",
+      "name": "Ｐ－三葉",
+      "title": "2026年７月期 決算短信〔日本基準〕（連結）",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536165.pdf",
+      "pubdate": "2026-09-14 17:30:00"
+    },
+    {
+      "code": "3930",
+      "name": "Ｇ－はてな",
+      "title": "2026年７月期 通期決算説明会の質疑応答（要旨）について",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536177.pdf",
+      "pubdate": "2026-09-14 17:30:00"
+    },
+    {
+      "code": "4885",
+      "name": "室町ケミカル",
+      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535632.pdf",
+      "pubdate": "2026-09-14 17:30:00"
+    },
+    {
+      "code": "4053",
+      "name": "サンアスタリスク",
+      "title": "2026年12月期　第2四半期決算説明資料",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536190.pdf",
+      "pubdate": "2026-09-14 17:15:00"
+    },
     {
       "code": "1435",
       "name": "ｒｏｂｏｔ　ｈｏｍｅ",
@@ -2064,41 +2099,6 @@
       "name": "ドライルーブ",
       "title": "（訂正）「 資本コストや株価を意識した経営の実現に向けた対応について （アップデート）」の一部訂正について",
       "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535921.pdf",
-      "pubdate": "2026-09-14 14:00:00"
-    },
-    {
-      "code": "5966",
-      "name": "京都機械工具",
-      "title": "非連結決算への移行及び通期個別業績予想の修正に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260909533331.pdf",
-      "pubdate": "2026-09-14 14:00:00"
-    },
-    {
-      "code": "6497",
-      "name": "ハマイ",
-      "title": "過年度の有価証券報告書等の訂正報告書の提出及び過年度の決算短信の訂正に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535770.pdf",
-      "pubdate": "2026-09-14 14:00:00"
-    },
-    {
-      "code": "6497",
-      "name": "ハマイ",
-      "title": "財務報告に係る内部統制の開示すべき重要な不備及び 内部統制報告書の訂正報告書の提出に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535802.pdf",
-      "pubdate": "2026-09-14 14:00:00"
-    },
-    {
-      "code": "6497",
-      "name": "ハマイ",
-      "title": "(訂正・数値データ訂正)「2024年12月期 第3四半期決算短信〔日本基準〕（連結）」 の一部訂正に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260911535252.pdf",
-      "pubdate": "2026-09-14 14:00:00"
-    },
-    {
-      "code": "6497",
-      "name": "ハマイ",
-      "title": "(訂正・数値データ訂正)「2025年12月期 第1四半期決算短信〔日本基準〕（連結）」 の一部訂正に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260911535253.pdf",
       "pubdate": "2026-09-14 14:00:00"
     }
   ]
