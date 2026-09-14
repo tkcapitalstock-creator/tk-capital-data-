@@ -182,7 +182,7 @@ def build_headlines():
 
 def build_disclosures():
     try:
-        url = "https://webapi.yanoshin.jp/webapi/tdnet/list/recent.json?limit=20"
+        url = "https://webapi.yanoshin.jp/webapi/tdnet/list/recent.json2?limit=20"
         data = fetch_json(url)
         items = []
         for entry in data.get("items", []):
@@ -197,7 +197,8 @@ def build_disclosures():
                 "pubdate": t.get("pubdate", ""),
             })
         return items
-    except Exception:
+    except Exception as e:
+        print(f"[build_disclosures] failed: {e}")
         return []
 
 
@@ -220,6 +221,7 @@ def main():
         json.dump({"updated_at": now, "items": headline_items}, f, ensure_ascii=False, indent=2)
 
     disclosure_items = build_disclosures()
+    print(f"[main] disclosure_items count: {len(disclosure_items)}")
     if disclosure_items:
         with open("disclosures.json", "w", encoding="utf-8") as f:
             json.dump({"updated_at": now, "items": disclosure_items}, f, ensure_ascii=False, indent=2)
