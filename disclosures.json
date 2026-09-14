@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-09-14T16:33:57.658161+09:00",
+  "updated_at": "2026-09-14T16:52:06.186747+09:00",
   "items": [
+    {
+      "code": "2217",
+      "name": "モロゾフ",
+      "title": "剰余金の配当（中間配当）に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260910534034.pdf",
+      "pubdate": "2026-09-14 16:30:00"
+    },
+    {
+      "code": "2217",
+      "name": "モロゾフ",
+      "title": "自己株式の取得および自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付けに関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260910534047.pdf",
+      "pubdate": "2026-09-14 16:30:00"
+    },
+    {
+      "code": "2345",
+      "name": "ＨＯＤＬ１",
+      "title": "2026年10月期 第３四半期決算短信〔日本基準〕(連結)",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536133.pdf",
+      "pubdate": "2026-09-14 16:30:00"
+    },
+    {
+      "code": "3823",
+      "name": "ＷＨＹ　ＨＯＷ　ＤＯ",
+      "title": "2027年４月期 第１四半期決算短信〔日本基準〕（連結）",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535786.pdf",
+      "pubdate": "2026-09-14 16:30:00"
+    },
+    {
+      "code": "3823",
+      "name": "ＷＨＹ　ＨＯＷ　ＤＯ",
+      "title": "2027年４月期 第１四半期決算説明資料",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535794.pdf",
+      "pubdate": "2026-09-14 16:30:00"
+    },
+    {
+      "code": "3823",
+      "name": "ＷＨＹ　ＨＯＷ　ＤＯ",
+      "title": "「継続企業の前提に関する重要事象等」の記載解消に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535801.pdf",
+      "pubdate": "2026-09-14 16:30:00"
+    },
+    {
+      "code": "6838",
+      "name": "多摩川ＨＤ",
+      "title": "2026年10月期 第3四半期決算短信〔IFRS〕（連結）",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536090.pdf",
+      "pubdate": "2026-09-14 16:30:00"
+    },
+    {
+      "code": "7185",
+      "name": "ヒロセ通商",
+      "title": "2026年８月度　月次概況（速報）に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260911535006.pdf",
+      "pubdate": "2026-09-14 16:30:00"
+    },
+    {
+      "code": "4498",
+      "name": "Ｇ－サイバートラスト",
+      "title": "SSL/TLSサーバー証明書発行サービスの代替措置によるサービス提供継続に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260911534915.pdf",
+      "pubdate": "2026-09-14 16:15:00"
+    },
     {
       "code": "184A",
       "name": "Ｇ－学びエイド",
@@ -2037,69 +2100,6 @@
       "title": "2026年７月期 決算短信〔日本基準〕（連結）",
       "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535524.pdf",
       "pubdate": "2026-09-14 13:00:00"
-    },
-    {
-      "code": "560A",
-      "name": "Ｐ－オカダコーポ",
-      "title": "通期業績予想と実績の差異に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535535.pdf",
-      "pubdate": "2026-09-14 13:00:00"
-    },
-    {
-      "code": "7604",
-      "name": "梅の花グループ",
-      "title": "2027年４月期 第１四半期決算短信〔日本基準〕（連結）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535674.pdf",
-      "pubdate": "2026-09-14 13:00:00"
-    },
-    {
-      "code": "8078",
-      "name": "阪和興",
-      "title": "自己株式の取得状況及び取得終了並びに自己株式の消却に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260828528058.pdf",
-      "pubdate": "2026-09-14 13:00:00"
-    },
-    {
-      "code": "8746",
-      "name": "ｕｎｂａｎｋｅｄ",
-      "title": "（訂正）「（開示事項の変更）改善計画の開示延期に関するお知らせ」の一部訂正に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535724.pdf",
-      "pubdate": "2026-09-14 12:30:00"
-    },
-    {
-      "code": "587A4",
-      "name": "Ｅ－インベスコＱＱＱ",
-      "title": "インベスコQQQトラスト シリーズ1 に関する日々の開示事項",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535716.pdf",
-      "pubdate": "2026-09-14 12:10:00"
-    },
-    {
-      "code": "2736",
-      "name": "フェスタリアＨＤ",
-      "title": "【フェスタリアHD】国内事業月次売上速報（８月速報）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535729.pdf",
-      "pubdate": "2026-09-14 12:00:00"
-    },
-    {
-      "code": "2764",
-      "name": "ひらまつ",
-      "title": "ひらまつＩＲレポート（月次売上速報）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535504.pdf",
-      "pubdate": "2026-09-14 12:00:00"
-    },
-    {
-      "code": "4172",
-      "name": "Ｈｉクラテス",
-      "title": "2026 年９月期 通期業績予想の修正及び期末配当予想の修正に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535617.pdf",
-      "pubdate": "2026-09-14 12:00:00"
-    },
-    {
-      "code": "7090",
-      "name": "Ｇ－リグア",
-      "title": "第三者割当による新株式の発行及び第６回新株予約権の発行に係る払込完了に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535541.pdf",
-      "pubdate": "2026-09-14 12:00:00"
     }
   ]
 }
