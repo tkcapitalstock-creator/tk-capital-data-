@@ -1,45 +1,10 @@
 {
-  "updated_at": "2026-09-14T14:19:27.373465+09:00",
+  "updated_at": "2026-09-14T14:28:37.821691+09:00",
   "items": [
     {
-      "source": "Googleニュース",
-      "title": "Google ニュース",
-      "url": "https://news.google.com/"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "沖縄知事選で過去最多４２万票獲得の古謝玄太さん「びっくりした、相手候補とこんなに差がつくとは」",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iQ3pSbjFTa0JKWTQtb0paM0lWbFE0SjUzbHBHOThFMXd3TWIyLWYyc01XQ2pHV1pIdUc1MVFncWdQdGhSdmhkSmt3NVhXbDlWYWJFMjM5d0NGMS1IXzZVTkJsSnJ5UQ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "ホルムズ海峡船舶とサウジに新たな攻撃、石油供給の混乱深刻化",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeVFIMmhQQ2Fvc2dpTlUtOC1ObDR2dnVNZmRYZTJ0TFJTT3VRWS1jejVtanV6M0dIczVQQ05zSGJlRzlCNTB2T0JCNHNrcVpDRUpYRVk1SmRPNWx3UFlKUUUtSno5VHcyMmZCXzZIX2pvamUtY1VGVVVVNkZuem0xLVNHaUhCQQ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "トランプ米大統領、ウクライナにロシア燃料インフラへの攻撃停止を要求（ロイター）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GdnRCTEhwUFlJejlLeEZ6SkZGTVVGUUVkSkwyLTNQMndmamMzSlhEajAwMmU3NTZuajQ4aGdSbWc5SWdIbkFRQWxUN0tIUWsxZU41cnpmWXVZaXMwWG9qUUVmUHozYkR0cDhZVWRCb0puZjl6bHEtQjR1Tld5OVk?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "維新・中司幹事長の入閣で最終調整 行政改革・規制改革担当相が有力視",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZVERGLU9rcW5IMXlwcE5tQmFwYjU4MWxDQl9QdS1oX1dwYXh2a010NnFfMUhyc0ltUHlrWWxJRGt6V1Q5a0dQdE1NeU9BaWFuOElUVGVRT2dEVkZtOE84Y2FTUW4wNUZYVlV3NER1ZklZNlR1M0E?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "フーシの紅海沿岸制圧受け、責任のなすりつけ合い始まる 「米サウジの途方もない大失態」(1/2)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95dWZiRjRNVGZCdGIxWWdJUGxTbVdxd0I5VXdCX0JkRjdBWkdmS0t5OHdsQnpaS3FzbTloMVMwM0pSbmFQMUZYMDdMS2o5cjg1Yk9n?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "新たに発生する台風は19日からのシルバーウィークに影響か　東京は雨の日が多い(気象予報士 日直主任 2026年09月14日)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYTUwyYUpCV1hXVUtib0ZNalBzMXRmZEswQURoMHdSdnR4QmVFNVF2TmV6Yk1VMWpORkZZSjlOM1pQOGt5UXdnRENsSWV4eHdNZVUzMXc0OFM4OGFpUHZPSXZpdXRrTzMwOVHSAW9BVV95cUxNLW5uRHd0bDgtLTQ3SXFIWHRiLTBFUXNENVNFaTFxYTlWY29EN2ktaGFncklPUkZqLW1RZmZiSndhVFZNLThCOFdqdmxycHFKQVFNaU80aE5iaXRVdDJON01fNzktck11RGRrbGd3LWc?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "秋雨前線の活動は活発 東北では非常に激しい雨で冠水も",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4RTNRaDdtaWNGRi1iaGI1aGhuUjNNa2NMTENTQmZpWUxjenhaWXdBUlZEQmdrWldqQTgzM3p1R09MSHB6UTd4TFF5eTAyY0VwMzRsUg?oc=5"
+      "source": "システム",
+      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
+      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
     }
   ]
 }
