@@ -182,7 +182,8 @@ def build_headlines():
 
 def build_disclosures():
     try:
-        url = "https://webapi.yanoshin.jp/webapi/tdnet/list/recent.json2?limit=20"
+        today_str = datetime.now(JST).strftime("%Y%m%d")
+        url = f"https://webapi.yanoshin.jp/webapi/tdnet/list/{today_str}.json2?limit=300"
         data = fetch_json(url)
         items = []
         for entry in data.get("items", []):
@@ -196,6 +197,20 @@ def build_disclosures():
                 "url": t.get("document_url", ""),
                 "pubdate": t.get("pubdate", ""),
             })
+        if not items:
+            # 当日分がまだ0件（早朝など）の場合は、直近の一覧にフォールバック
+            data = fetch_json("https://webapi.yanoshin.jp/webapi/tdnet/list/recent.json2?limit=20")
+            for entry in data.get("items", []):
+                t = entry.get("Tdnet")
+                if not t:
+                    continue
+                items.append({
+                    "code": t.get("company_code", ""),
+                    "name": t.get("company_name", ""),
+                    "title": t.get("title", ""),
+                    "url": t.get("document_url", ""),
+                    "pubdate": t.get("pubdate", ""),
+                })
         return items
     except Exception as e:
         print(f"[build_disclosures] failed: {e}")
