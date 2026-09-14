@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T21:00:45.728831+09:00",
+  "updated_at": "2026-09-14T21:28:16.313099+09:00",
   "items": [
     {
       "source": "Googleニュース",
@@ -8,8 +8,13 @@
     },
     {
       "source": "Googleニュース",
-      "title": "敗北現職「SNS中傷が野放し」 玉城デニー氏陣営、告訴を準備",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBRnNNR0hzcVd6aFpvTElSVUw0YkJ5c1pvQlJMS1NxWkZ5V2hJcWJKQTRNbDBpdm4xSG9naVIyazg2Z2oxOXR5b0xyUQ?oc=5"
+      "title": "【速報】沖縄振興予算、３千億円超への増額調整 古謝氏当選うけ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUcVQ4Sl9ZSnV3M3NTWGVodmhrbkRSVm4wdGtTTV92WG9pdFZ4blFaa1lBdXkyODZGbGZXN2NJS08wYjRQSDR5SVFUNkctTUJVNGJRUDBjNkhsVDVP?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "トランプ氏、ゼレンスキー氏に「ロシアのディーゼル燃料への攻撃」停止要求…中間選挙への逆風懸念し責任転嫁",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZQ1E2dUVrMFhGZ2RrTF9fWGFUODlLajFpa1JKMUlVc0tCekpFaWF1dDhlaXlSSmVOdDkwcWFBOGxqb3FmaW9sbktxU3NPVHlmbkxBZGlUakZsWUw2WmlGWmR3?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -18,8 +23,8 @@
     },
     {
       "source": "Googleニュース",
-      "title": "【速報中】台風25号発生へ シルバーウィークに日本列島へ接近する恐れ",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyUGlVVnJjaExWVFhqbGVpek1iakNpNnJXdzhfUUdpcFdsYkRXRnpiczJadmpYbnBDYWNwQ2NXd0UxXzFsUUhPOEhhX1FYNGFteXB2TGE2aGV5NkZxVjR0NmhmajVxTVgtRlJtZ290TkE2UQ?oc=5"
+      "title": "台風発生予想 発達しながら小笠原接近 5連休への影響懸念",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TMDRtQWtZUFdyZ0NLb05pd2FJaHhxSlYtUlNOekNYU2lJTTAwTDRWSXI5aEF5d0R4V3JfOFBlRVpUaGhZU1RqaFBWWURiU0JOQks2dA?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -28,18 +33,13 @@
     },
     {
       "source": "Googleニュース",
-      "title": "東京都心など関東甲信は明日15日は再び雨　北部を中心に激しい雨　新たな台風発生か(気象予報士 岡本　朋子 2026年09月14日)",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XVldmNHlJelBMQUZpSFplX3ZTczVWSWFzTDRWUWE3NTJHZS1PSEhsaTJNMEc0Yks1ZXRHNEVIOFBPVFg4czV5OHFXNFFITC1rWUdzN2t2V2FMM3FTSVA4WU1kSGhJSUgtajVN0gFwQVVfeXFMTXZZdzJoU05Dd1N6ZjVNekQ1MU1QNUJ1ZkJ4MkN3QmZDMDlHbzMwMkRNeGpLOGVXUkNKOHl6MUthc1FmdEV1YVhSNnBrS0syZkl5NjNVV2hSUm1lODBtZXJ6MnBaeXRNX242VHAtd1VlTw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "軽油高騰は「ゼレンスキー氏のせい」…トランプ大統領、ロシアのディーゼル燃料施設への攻撃停止するよう要求",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4YmtVZDFwN2p6c08tWFlFU0JSVEdIR2UyUU45TDJIQUQzdDgwZE9nTmJoenlGZkptM2pfTk83UEYxNzAyNnNZUWw4MFByOTlGQWxySVh1eVdRT2N6bVg4OTd3?oc=5"
-    },
-    {
-      "source": "Googleニュース",
       "title": "山梨県が閉山期の富士山救助ヘリを有料化へ 救護所閉鎖で高い遭難リスク、埼玉県を参考に",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ieExxQmJPbGJWSkJGcXNFT1VnNW5IdG1GTlh4bEZFd25uaXZXa2U2ak5fNWw3TEhHN3dUS2NmYlRPSTN3WkszaHBMWmNWMkhrVnJ6SUV1bjZONTBOOEJadEwzaDdDX1dEZDU4WmR6djlqMHhwUEE?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "「津久井やまゆり園」で入所者の顔を平手打ち 虐待と認定 男性職員「いらいらして手を出してしまった」",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMai1KVkJGWXh4Mmt3Z3RoQjFNNnFZMDh5QkcwYUdHVWhxN3M2akhJZzF4NlFoR2dWSUNXbVpXZjI3ek5fajl5Mk1BcUY1Sk1YcFRjSnE3Zw?oc=5"
     }
   ]
 }
