@@ -180,6 +180,15 @@ def build_headlines():
 # ---------- 適時開示（東証TDnet・非公式WEB-API by やのしん） ----------
 # 出典: https://webapi.yanoshin.jp/tdnet/ （無料・非公式のTDnet適時開示情報API）
 
+def normalize_code(code):
+    # TDnetの銘柄コードは5桁（本来の4桁＋区分用の1桁、普通株式は末尾0）で
+    # 管理されているため、表示用に末尾の0を取って4桁に直す。
+    code = str(code)
+    if len(code) == 5 and code.endswith("0"):
+        return code[:-1]
+    return code
+
+
 def build_disclosures():
     try:
         today_str = datetime.now(JST).strftime("%Y%m%d")
@@ -191,7 +200,7 @@ def build_disclosures():
             if not t:
                 continue
             items.append({
-                "code": t.get("company_code", ""),
+                "code": normalize_code(t.get("company_code", "")),
                 "name": t.get("company_name", ""),
                 "title": t.get("title", ""),
                 "url": t.get("document_url", ""),
@@ -205,7 +214,7 @@ def build_disclosures():
                 if not t:
                     continue
                 items.append({
-                    "code": t.get("company_code", ""),
+                    "code": normalize_code(t.get("company_code", "")),
                     "name": t.get("company_name", ""),
                     "title": t.get("title", ""),
                     "url": t.get("document_url", ""),
