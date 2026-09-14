@@ -1,6 +1,55 @@
 {
-  "updated_at": "2026-09-14T18:13:13.559410+09:00",
+  "updated_at": "2026-09-14T18:34:26.676608+09:00",
   "items": [
+    {
+      "code": "2303",
+      "name": "ドーン",
+      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260911535341.pdf",
+      "pubdate": "2026-09-14 18:00:00"
+    },
+    {
+      "code": "3193",
+      "name": "エターナルホスピＧ",
+      "title": "貸倒引当金繰入額及び関係会社株式評価損の発生（個別）に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536201.pdf",
+      "pubdate": "2026-09-14 18:00:00"
+    },
+    {
+      "code": "359A",
+      "name": "Ｐ－ネクストステージ",
+      "title": "2026年７月期決算短信〔日本基準〕(非連結)",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535670.pdf",
+      "pubdate": "2026-09-14 18:00:00"
+    },
+    {
+      "code": "4378",
+      "name": "Ｇ－ＣＩＮＣ",
+      "title": "連結子会社の吸収合併（簡易合併・略式合併）及び連結子会社への債権放棄、並びに連結決算から単体決算への移行に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536117.pdf",
+      "pubdate": "2026-09-14 18:00:00"
+    },
+    {
+      "code": "4380",
+      "name": "Ｇ－Ｍマート",
+      "title": "2027年1月期第2四半期（中間期）決算短信〔日本基準〕（非連結）",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536149.pdf",
+      "pubdate": "2026-09-14 18:00:00"
+    },
+    {
+      "code": "525A",
+      "name": "Ｐ－ｍａｎｅｂｉ",
+      "title": "2026年7月期 決算短信〔日本基準〕（連結）",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260904531691.pdf",
+      "pubdate": "2026-09-14 18:00:00"
+    },
+    {
+      "code": "525A",
+      "name": "Ｐ－ｍａｎｅｂｉ",
+      "title": "資本金の額の減少及び剰余金の処分に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535508.pdf",
+      "pubdate": "2026-09-14 18:00:00"
+    },
     {
       "code": "161A",
       "name": "Ｐ－三葉",
@@ -2051,55 +2100,6 @@
       "title": "2027年１月期 中間決算短信〔日本基準〕(非連結)",
       "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535834.pdf",
       "pubdate": "2026-09-14 15:00:00"
-    },
-    {
-      "code": "7355",
-      "name": "Ｐ－一寸房",
-      "title": "2026年７月期 決算短信〔日本基準〕(非連結)",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535474.pdf",
-      "pubdate": "2026-09-14 15:00:00"
-    },
-    {
-      "code": "7355",
-      "name": "Ｐ－一寸房",
-      "title": "通期業績予想と実績の差異に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535482.pdf",
-      "pubdate": "2026-09-14 15:00:00"
-    },
-    {
-      "code": "7355",
-      "name": "Ｐ－一寸房",
-      "title": "特定当座貸越契約締結に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535485.pdf",
-      "pubdate": "2026-09-14 15:00:00"
-    },
-    {
-      "code": "296A",
-      "name": "Ｇ－令和ＡＨ",
-      "title": "2027年３月期第２四半期（中間期）業績予想及び配当予想の修正（増配）に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260910533968.pdf",
-      "pubdate": "2026-09-14 14:30:00"
-    },
-    {
-      "code": "7362",
-      "name": "Ｇ－Ｔ．Ｓ．Ｉ",
-      "title": "連結子会社における資金の借入に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535979.pdf",
-      "pubdate": "2026-09-14 14:30:00"
-    },
-    {
-      "code": "2991",
-      "name": "ランドネット",
-      "title": "2026年８月度　月次業績速報",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535831.pdf",
-      "pubdate": "2026-09-14 14:00:00"
-    },
-    {
-      "code": "4976",
-      "name": "ドライルーブ",
-      "title": "（訂正）「 資本コストや株価を意識した経営の実現に向けた対応について （アップデート）」の一部訂正について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535921.pdf",
-      "pubdate": "2026-09-14 14:00:00"
     }
   ]
 }
