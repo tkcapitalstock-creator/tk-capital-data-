@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-09-14T19:12:53.796487+09:00",
+  "updated_at": "2026-09-14T19:32:15.366670+09:00",
   "items": [
+    {
+      "code": "246A",
+      "name": "Ｇ－アスア",
+      "title": "（数値データ訂正）「株主優待額の増額および業績予想の修正に関するお知らせ」における数値データ（XBRL）の訂正について",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536205.pdf",
+      "pubdate": "2026-09-14 19:00:00"
+    },
     {
       "code": "2303",
       "name": "ドーン",
@@ -2092,13 +2099,6 @@
       "name": "Ｇ－テクノロジーズ",
       "title": "2027年１月期 第２四半期 決算説明資料",
       "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535616.pdf",
-      "pubdate": "2026-09-14 15:00:00"
-    },
-    {
-      "code": "5531",
-      "name": "Ｐ－エヌバイテクノ",
-      "title": "2027年１月期 中間決算短信〔日本基準〕(非連結)",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535834.pdf",
       "pubdate": "2026-09-14 15:00:00"
     }
   ]
