@@ -192,10 +192,12 @@ def normalize_code(code):
 def build_disclosures():
     try:
         today_str = datetime.now(JST).strftime("%Y%m%d")
-        url = f"https://webapi.yanoshin.jp/webapi/tdnet/list/{today_str}.json2?limit=300"
+        url = f"https://webapi.yanoshin.jp/webapi/tdnet/list/{today_str}.json2"
         data = fetch_json(url)
+        raw_items = data.get("items", [])
+        print(f"[build_disclosures] date query returned {len(raw_items)} raw items")
         items = []
-        for entry in data.get("items", []):
+        for entry in raw_items:
             t = entry.get("Tdnet")
             if not t:
                 continue
@@ -208,6 +210,7 @@ def build_disclosures():
             })
         if not items:
             # 当日分がまだ0件（早朝など）の場合は、直近の一覧にフォールバック
+            print("[build_disclosures] falling back to recent.json2")
             data = fetch_json("https://webapi.yanoshin.jp/webapi/tdnet/list/recent.json2?limit=20")
             for entry in data.get("items", []):
                 t = entry.get("Tdnet")
