@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-09-15T08:46:24.995889+09:00",
+  "updated_at": "2026-09-15T08:59:48.344282+09:00",
   "items": [
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項　",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536287.pdf",
+      "pubdate": "2026-09-15 08:30:00"
+    },
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項　",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536288.pdf",
+      "pubdate": "2026-09-15 08:30:00"
+    },
+    {
+      "code": "290A",
+      "name": "Ｇ－Ｓｙｎｓ",
+      "title": "小型SAR衛星コンステレーションを共有する新プログラム「Synspective OMNIA」のリリースに関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536230.pdf",
+      "pubdate": "2026-09-15 08:30:00"
+    },
     {
       "code": "581A",
       "name": "Ｇ－ＧＯ",
