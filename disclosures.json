@@ -1,6 +1,223 @@
 {
-  "updated_at": "2026-09-15T15:50:30.819446+09:00",
+  "updated_at": "2026-09-15T16:09:50.266079+09:00",
   "items": [
+    {
+      "code": "1560",
+      "name": "ＮＦマレーシア株",
+      "title": "上場投資信託（ETF）の連動対象指標の構成銘柄数変更のお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536737.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "2251",
+      "name": "ＪＧＢダブルインバ",
+      "title": "上場投資信託（ETF）の投資信託約款変更のお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536730.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "226A",
+      "name": "Ｐ－勝美ジャパン",
+      "title": "臨時株主総会招集のための基準日設定及び臨時株主総会開催並びに付議議案の決定に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536588.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "2410",
+      "name": "キャリアＤＣ",
+      "title": "代表取締役の異動（追加選任）および役員人事に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536468.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "2992",
+      "name": "Ｐ－アーバンライク",
+      "title": "公認会計士等の異動に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536516.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "3121",
+      "name": "マーチャント",
+      "title": "2026 年10 月期（第103 期）配当予想の修正に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536052.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "3121",
+      "name": "マーチャント",
+      "title": "販売用不動産の売却に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536204.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "3350",
+      "name": "メタプラネット",
+      "title": "主要株主及び主要株主である筆頭株主の異動に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536770.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "3600",
+      "name": "フジックス",
+      "title": "連結子会社の解散及び清算に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536676.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "3675",
+      "name": "クロスマーケティング",
+      "title": "連結子会社からの配当金受領に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536327.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "3979",
+      "name": "Ｇ－うるる",
+      "title": "2026年8月 月次IRレポート (NJSS月次情報含む)",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536449.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "4055",
+      "name": "Ｇ－ティアンドエスＧ",
+      "title": "子会社設立に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536004.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "4055",
+      "name": "Ｇ－ティアンドエスＧ",
+      "title": "連結子会社からの配当金受領に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536007.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "4069",
+      "name": "Ｇ－ＢｌｕｅＭｅｍｅ",
+      "title": "代表取締役の異動に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536710.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "4116",
+      "name": "大日精化",
+      "title": "（開示事項の経過）事業構造改革の実施に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536196.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "4260",
+      "name": "Ｇ－ハイブリッドテク",
+      "title": "クラウドプロ株式会社の株式取得（子会社化）に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536739.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "4260",
+      "name": "Ｇ－ハイブリッドテク",
+      "title": "クラウドプロ株式会社の株式取得に関する補足資料",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536740.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "4563",
+      "name": "Ｇ－アンジェス",
+      "title": "第46回新株予約権（行使価額修正条項付）の取得及び消却の完了に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536435.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "510A",
+      "name": "Ｐ－ハートアップ",
+      "title": "営業外収益（補助金収入）の計上に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536734.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "7047",
+      "name": "Ｇ－ポート",
+      "title": "第三者割当による新株式の発行及び自己株式の処分並びにエンゲージメント契約の締結に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536551.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "7047",
+      "name": "Ｇ－ポート",
+      "title": "第三者割当による新株式の発行及び自己株式の処分並びにエンゲージメント契約の締結に関する補足説明資料",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536567.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "7320",
+      "name": "Ｇ－Ｓｏｌｖｖｙ",
+      "title": "株式会社ジャックスとの資本業務提携及び第三者割当による自己株式の処分に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536509.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "7320",
+      "name": "Ｇ－Ｓｏｌｖｖｙ",
+      "title": "執行役員の役位の新設及び執行役員人事に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536513.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "7343",
+      "name": "Ｇ－ブロードマインド",
+      "title": "株主優待制度の拡充ならびに基準日の変更に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536610.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "7477",
+      "name": "ムラキ",
+      "title": "株式会社ストライダーズとの資本業務提携に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536698.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "7477",
+      "name": "ムラキ",
+      "title": "主要株主の異動（予定）に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536741.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "7585",
+      "name": "かんなん",
+      "title": "2027年６月期　月次売上状況について（８月度）",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915535435.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "8584",
+      "name": "ジャックス",
+      "title": "Solvvy株式会社との資本業務提携に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914535758.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "9145",
+      "name": "ビーイングＨＤ",
+      "title": "当社グループ月次連結営業収益に関するお知らせ（2026年８月度　速報版）",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536443.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "9816",
+      "name": "ストライダーズ",
+      "title": "ムラキ株式会社との資本業務提携に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260909533480.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
+    {
+      "code": "9979",
+      "name": "大庄",
+      "title": "2026年8月の月次売上状況について",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536546.pdf",
+      "pubdate": "2026-09-15 16:00:00"
+    },
     {
       "code": "3733",
       "name": "ソフトウェアＳ",
