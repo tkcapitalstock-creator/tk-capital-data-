@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-09-16T02:43:06.685754+09:00",
+  "updated_at": "2026-09-16T02:56:47.039234+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
+      "source": "Googleニュース",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "空自の大型無人偵察機「グローバルホーク」１機が鳥取北の公海上で通信途絶、周辺海域で浮遊物発見",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZYUloTlBWcDBpMC1aYmxwVUNRWmZ2ZmY5dTRVZE0xUVZBbmZpOUpvSjJQNUhoOWNXYm90ZVFSTUxMckZFc3p4MXB0SU1US0NWMHFGbWlEV2dTdlBocFFIV0YwUFp2UQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "与野党に太いパイプ、石井参院幹事長交代へ 国会審議に影響か",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0LXQxMm1BMXItSXpfMWg3ckxnTGlRcEdyYkJ2eXBLaXpNNzUyNWZQd0cxOFNTUUNHOHR4Vkl3cDEtNkZ5TUVXLWFtYk96UVM0eE1VeHpWb1k5OC0yTW1PQVNueEZfclUy?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "辺野古沖転覆事故 遺族「学校は自分たちのことばで説明を」 | NHKニュース | 事件・事故、沖縄県",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uQTdpRW83T0ZxUzFYQk9UYjJBczlLLXRZYkhBNDdmcy1IYWNKMUl1a013WmtpeDNXeld2T3lhOUNPeW5BOTVvVzZPQVdqTl9SR2JwSUdBSDFLNUJhTUpZ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "露の侵攻は「蛮行」 森衆院議長がウクライナ議会で異例の演説 原発被災の「共通点」指摘",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9keHR5a19QcGg0eThKWjJQTFVKQXBLNmZDWXYwZndKajRTNl94ZTVoMWdBVVZZdkt6S2lUa0hoLXAxRVJ3SlZha0NON0VkVWIxZXdtZTJ6bDF1cDNLbVlZUHJTaHg4Y3R3dDhyazQzNGRyMVc3Wnc?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "台風発生予想 シルバーウィークに接近か 次に発生すると「台風25号」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoc1FiQTU0UHFqcTJfcUVDUUVhZXFLMkc4N3RuT0tWTTk0Vy1JX2RmOUpuckthRUNLQ3lXVnE4dkozMk9MV0VDRkRYM2lxVmJyMUo1Rg?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "沖縄知事選、X投稿88％が県外 デマや中傷拡散、結果に影響か",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oSXB3OGZSSVVJZGE1ZkhxbEJueFppLTdWZ2RwNzhhYkRDUkd6TTZoR0YyMEczM3NwOFYzTGRWYnpzY0JpYkxYUVp1Zw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "鉄塔転落死の男性が遺書 先輩社員から「頭悪い」「死んどけ」など暴言 遺族は調査求める",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qRHpuWkJkM0VtRXI5MjlkX3hYdjZtbUZXc1dmcWRfaUp2WjBDNmxselkyM0VyRDVsQU83enV6YmFZOWVIT0ZOcFllR0ZWcTNidDRsMlBfSnk1UlNnSFBHSm5lQlF1a01UMkYwR2twbXp5UWM0VUE?oc=5"
     }
   ]
 }
