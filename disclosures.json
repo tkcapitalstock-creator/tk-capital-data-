@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-09-15T10:10:12.907711+09:00",
+  "updated_at": "2026-09-15T10:31:56.918707+09:00",
   "items": [
+    {
+      "code": "16714",
+      "name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536307.pdf",
+      "pubdate": "2026-09-15 10:00:00"
+    },
+    {
+      "code": "2217",
+      "name": "モロゾフ",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式取得結果および取得終了に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536152.pdf",
+      "pubdate": "2026-09-15 10:00:00"
+    },
+    {
+      "code": "585A4",
+      "name": "Ｅ－ＪＡＭＰＦＭ",
+      "title": "上場ETF（管理会社：JAMPファンド・マネジメント）に関する日々の開示事項",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915535437.pdf",
+      "pubdate": "2026-09-15 10:00:00"
+    },
+    {
+      "code": "7059",
+      "name": "コプロＨＤ",
+      "title": "2026年8月度 在籍技術者数、稼働技術者数・稼働率の月次開示に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536276.pdf",
+      "pubdate": "2026-09-15 10:00:00"
+    },
     {
       "code": "1798",
       "name": "守谷商会",
