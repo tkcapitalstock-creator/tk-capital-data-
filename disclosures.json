@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-09-15T10:50:36.774970+09:00",
+  "updated_at": "2026-09-15T11:09:05.069984+09:00",
   "items": [
+    {
+      "code": "13294",
+      "name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536336.pdf",
+      "pubdate": "2026-09-15 10:30:00"
+    },
+    {
+      "code": "7874",
+      "name": "レック",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536258.pdf",
+      "pubdate": "2026-09-15 10:30:00"
+    },
     {
       "code": "16714",
       "name": "Ｅ－シンプレクス",
