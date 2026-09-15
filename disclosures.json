@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-09-15T14:22:02.794470+09:00",
+  "updated_at": "2026-09-15T14:41:20.336533+09:00",
   "items": [
+    {
+      "code": "2903",
+      "name": "シノブフーズ",
+      "title": "機構改革および人事異動のお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536356.pdf",
+      "pubdate": "2026-09-15 14:00:00"
+    },
+    {
+      "code": "3495",
+      "name": "香陵住販",
+      "title": "組織変更及び取締役、執行役員の職掌変更に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915535432.pdf",
+      "pubdate": "2026-09-15 14:00:00"
+    },
+    {
+      "code": "9027",
+      "name": "ロジネットＪ",
+      "title": "株式分割ならびに配当予想の修正および株主優待制度の変更に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536582.pdf",
+      "pubdate": "2026-09-15 14:00:00"
+    },
     {
       "code": "5410",
       "name": "合同鉄",
