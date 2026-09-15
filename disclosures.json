@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-09-16T08:19:42.552815+09:00",
+  "updated_at": "2026-09-16T08:35:27.620156+09:00",
   "items": [
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120260916536908.pdf",
+      "pubdate": "2026-09-16T08:30:00+09:00"
+    },
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120260916536909.pdf",
+      "pubdate": "2026-09-16T08:30:00+09:00"
+    },
+    {
+      "code": "9602",
+      "name": "東宝",
+      "title": "投資有価証券売却益（特別利益）計上に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260907532443.pdf",
+      "pubdate": "2026-09-16T08:30:00+09:00"
+    },
     {
       "code": "619A",
       "name": "オリバー",
