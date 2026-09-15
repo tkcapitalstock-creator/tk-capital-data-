@@ -13,7 +13,6 @@ traderswebfx.jpは利用規約で商用サイトへの再配信が禁止され�
 
 import json
 import re
-import html as html_module
 import urllib.request
 from datetime import datetime, timezone, timedelta
 
@@ -190,78 +189,15 @@ def normalize_code(code):
     return code
 
 
-def build_disclosures_tdnet_direct():
-    """TDnet公式サイト（release.tdnet.info）から直接、本日分の一覧HTMLを取得して解析する。
-    yanoshinさんのAPIを経由しない分、理論上は反映が早くなる可能性がある。
-    ページ構成やクラス名が変わると取れなくなる可能性があるため、
-    失敗時はbuild_disclosures()側でyanoshin経由にフォールバックする。
-    """
-    today_str = datetime.now(JST).strftime("%Y%m%d")
-    base = "https://www.release.tdnet.info/inbs/"
-    date_fmt = f"{today_str[0:4]}-{today_str[4:6]}-{today_str[6:8]}"
-    items = []
-    page = 1
-    while page <= 6:  # 1ページ最大100件想定、600件までの安全上限
-        url = f"{base}I_list_{page:03d}_{today_str}.html"
-        try:
-            page_html = fetch_text(url)
-        except Exception:
-            break  # そのページが存在しない＝これ以上続きはない
-        if "kjTitle" not in page_html:
-            break
-        rows = re.findall(r"<tr[^>]*>(.*?)</tr>", page_html, re.S)
-        found_in_page = 0
-        for row in rows:
-            m_time = re.search(r'class="[^"]*\bkjTime\b[^"]*"[^>]*>\s*([^<]*?)\s*<', row)
-            m_code = re.search(r'class="[^"]*\bkjCode\b[^"]*"[^>]*>\s*([^<]*?)\s*<', row)
-            m_name = re.search(r'class="[^"]*\bkjName\b[^"]*"[^>]*>\s*([^<]*?)\s*<', row)
-            m_title_block = re.search(r'class="[^"]*\bkjTitle\b[^"]*"[^>]*>(.*?)</td>', row, re.S)
-            if not (m_time and m_code and m_name and m_title_block):
-                continue
-            title_html = m_title_block.group(1)
-            m_link = re.search(r'href="([^"]+)"', title_html)
-            title_text = html_module.unescape(re.sub(r"<[^>]+>", "", title_html)).strip()
-            time_text = m_time.group(1).strip()
-            pdf_url = (base + m_link.group(1)) if m_link else ""
-            pubdate = f"{date_fmt}T{time_text}:00+09:00" if re.match(r"^\d{2}:\d{2}$", time_text) else ""
-            items.append({
-                "code": normalize_code(m_code.group(1).strip()),
-                "name": html_module.unescape(m_name.group(1).strip()),
-                "title": title_text,
-                "url": pdf_url,
-                "pubdate": pubdate,
-            })
-            found_in_page += 1
-        print(f"[build_disclosures_tdnet_direct] page {page}: {found_in_page} items")
-        if found_in_page == 0:
-            break
-        page += 1
-    return items
-
-
-def build_disclosures_yanoshin():
-    today_str = datetime.now(JST).strftime("%Y%m%d")
-    url = f"https://webapi.yanoshin.jp/webapi/tdnet/list/{today_str}.json2"
-    data = fetch_json(url)
-    raw_items = data.get("items", [])
-    print(f"[build_disclosures_yanoshin] date query returned {len(raw_items)} raw items")
-    items = []
-    for entry in raw_items:
-        t = entry.get("Tdnet")
-        if not t:
-            continue
-        items.append({
-            "code": normalize_code(t.get("company_code", "")),
-            "name": t.get("company_name", ""),
-            "title": t.get("title", ""),
-            "url": t.get("document_url", ""),
-            "pubdate": t.get("pubdate", ""),
-        })
-    if not items:
-        # 当日分がまだ0件（早朝など）の場合は、直近の一覧にフォールバック
-        print("[build_disclosures_yanoshin] falling back to recent.json2")
-        data = fetch_json("https://webapi.yanoshin.jp/webapi/tdnet/list/recent.json2?limit=20")
-        for entry in data.get("items", []):
+def build_disclosures():
+    try:
+        today_str = datetime.now(JST).strftime("%Y%m%d")
+        url = f"https://webapi.yanoshin.jp/webapi/tdnet/list/{today_str}.json2"
+        data = fetch_json(url)
+        raw_items = data.get("items", [])
+        print(f"[build_disclosures] date query returned {len(raw_items)} raw items")
+        items = []
+        for entry in raw_items:
             t = entry.get("Tdnet")
             if not t:
                 continue
@@ -272,27 +208,24 @@ def build_disclosures_yanoshin():
                 "url": t.get("document_url", ""),
                 "pubdate": t.get("pubdate", ""),
             })
-    return items
-
-
-def build_disclosures():
-    # ① まずTDnet公式サイトから直接取得を試みる（yanoshinさん経由の遅延を1段階減らせる可能性）
-    try:
-        items = build_disclosures_tdnet_direct()
-    except Exception as e:
-        print(f"[build_disclosures] direct TDnet scrape failed: {e}")
-        items = []
-
-    if items:
-        print(f"[build_disclosures] using TDnet-direct result: {len(items)} items")
+        if not items:
+            # 当日分がまだ0件（早朝など）の場合は、直近の一覧にフォールバック
+            print("[build_disclosures] falling back to recent.json2")
+            data = fetch_json("https://webapi.yanoshin.jp/webapi/tdnet/list/recent.json2?limit=20")
+            for entry in data.get("items", []):
+                t = entry.get("Tdnet")
+                if not t:
+                    continue
+                items.append({
+                    "code": normalize_code(t.get("company_code", "")),
+                    "name": t.get("company_name", ""),
+                    "title": t.get("title", ""),
+                    "url": t.get("document_url", ""),
+                    "pubdate": t.get("pubdate", ""),
+                })
         return items
-
-    # ② ダメならこれまで通りyanoshinさんのAPI経由にフォールバック
-    print("[build_disclosures] TDnet-direct returned nothing, falling back to yanoshin")
-    try:
-        return build_disclosures_yanoshin()
     except Exception as e:
-        print(f"[build_disclosures] yanoshin fallback also failed: {e}")
+        print(f"[build_disclosures] failed: {e}")
         return []
 
 
