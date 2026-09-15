@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-09-15T18:41:28.101201+09:00",
+  "updated_at": "2026-09-15T18:59:18.062117+09:00",
   "items": [
+    {
+      "code": "8086",
+      "name": "ニプロ",
+      "title": "2026年満期ユーロ円建転換社債型新株予約権付社債の転換結果および償還に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536854.pdf",
+      "pubdate": "2026-09-15 18:30:00"
+    },
     {
       "code": "1445",
       "name": "Ｐ－ひかりＨＤ",
