@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-09-15T13:02:14.988959+09:00",
+  "updated_at": "2026-09-15T13:24:26.827741+09:00",
   "items": [
+    {
+      "code": "1430",
+      "name": "ファーストコーポ",
+      "title": "株主優待制度の拡充に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536176.pdf",
+      "pubdate": "2026-09-15 13:00:00"
+    },
+    {
+      "code": "1430",
+      "name": "ファーストコーポ",
+      "title": "従業員向け株式給付信託の終了に伴う自己株式の無償取得及び消却に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536169.pdf",
+      "pubdate": "2026-09-15 13:00:00"
+    },
+    {
+      "code": "2388",
+      "name": "Ｇ－ウェッジＨＤ",
+      "title": "代表取締役の異動（辞任）に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536462.pdf",
+      "pubdate": "2026-09-15 13:00:00"
+    },
+    {
+      "code": "3276",
+      "name": "ＪＰＭＣ",
+      "title": "株式会社Amsterdam1及び株式会社Amsterdam2による株式会社ＪＰＭＣ（証券コード：3276）の 普通株式に対する公開買付けの買付条件等の変更に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536050.pdf",
+      "pubdate": "2026-09-15 13:00:00"
+    },
+    {
+      "code": "3276",
+      "name": "ＪＰＭＣ",
+      "title": "（変更）「ＭＢＯの実施及び応募の推奨に関するお知らせ」の一部変更に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536060.pdf",
+      "pubdate": "2026-09-15 13:00:00"
+    },
     {
       "code": "587A4",
       "name": "Ｅ－インベスコＱＱＱ",
