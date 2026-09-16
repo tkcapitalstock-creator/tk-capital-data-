@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T04:59:53.375304+09:00",
+  "updated_at": "2026-09-17T05:21:51.117302+09:00",
   "items": [
     {
       "source": "Googleニュース",
@@ -13,6 +13,21 @@
     },
     {
       "source": "Googleニュース",
+      "title": "高市総理あす内閣改造へ 維新から閣僚起用で正式合意、中司氏で調整 “能力主義”に政権幹部「ある意味実験的なものに」",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aN184UEQ1QWRwSm1JNmZCYTRQMnk1c2pJX2liSGpKeEtVdXhQdjVhU2M4Y1h0Z3VaVzRWaU5tdXRlM2hhYkd4dXlPQ2pkNXM3SXZNTGFsOA?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "山形 酒田 6歳男児行方不明で警察が防犯カメラ映像を公開",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mVGJRamE3RS0zSUtTcEdwZWxHV2JDMFQtMEtLLVlTenBhdjUtcUpyYS1CQ0haVFd4aVVEaWJpanJCbmU4Qm5LNTIxcWxvLXl4c0JaRnpvSTc2Mlg0dGFj?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "マリアナ諸島付近で台風２５号が発生、１９日からの大型連休中に本州接近の可能性",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLeWg0Tnh5ck5MVk5iVmY0eG5RSXI1elp0OEpIZkxXM0dRZHpFQV9VVjF3cDVlQ3RCLXRQNUpDMWFKYXF4V0NPdl9xbHlFSWZYUHZBR2RuMk5kWHlYc0NkUkk2cTRZQQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
       "title": "日本のジェンダーギャップ指数117位 初の女性首相就任でも上昇小幅",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yNjNBR041eW42SDQxRmlFSjBqdHdWSy1PTzJpdUdnR0tPR29zcmV2TTI2eXd3cTlEbFZfbDlqX1h0T3dRakJNeGI0VDY3MHBaU1ItSHdGd2xuc3pCTVVVelNfRU8wbmp1N3lodQ?oc=5"
     },
@@ -23,23 +38,8 @@
     },
     {
       "source": "Googleニュース",
-      "title": "【速報】台風25号「ドゥージェン」発生 シルバーウィークに日本へ影響のおそれ(気象予報士 日直主任)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ibDFrdlNnOElrN00wc0Z3QThGNURzVi14eFozcGxvWEUxMkJBeDdBMkNURzVzTXROUXl3M2R1a3Ntd0E4dzlRM052UmNtb1U5QThnVlpVclNER3ptNGs4Nkh0Vmd0c19ubVE?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "茨城県南部でM4.8の地震 埼玉・茨城・群馬・千葉・栃木・神奈川で震度3 津波の心配なし",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SVU1PNTdoZmtvWGw3NnA2Sjl4V3kyT0syaVFWWkpmbVBzREdLSmN1YjJ4R1gySVBhaFY0dFNwM3NnQXg5OEZTZkxfSE9JUFFoYmwzemlXNFp3czA?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "【速報】サウジ石油施設を攻撃とフーシ派",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBodkxJeWFpVWpwbk9OVzlMZDFab3BDcGk0R3NYYUNhMUlCOVpaWnJZY3IwMkpRWUh5VVNJN3c3bS1TMW90QjNIVUF0NA?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "鳥取・平井知事「若干イラついている」 航空自衛隊の無人偵察機墜落 [鳥取県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sZi0wVklmR0V0NEt3TDZfRXJrYVVkckZfNGJqZDlkQVhXbFNvbkc5SDJ3V09aOTFla0xKS3kxejdqcEdpZ2lkaEJXYkdVd0VUcFBBNEpEVm5CRWh0c0dGa24wQzhmcW8?oc=5"
+      "title": "茨城県、栃木県、群馬県などで震度3の地震　津波の心配なし(気象予報士 日直主任 2026年09月17日)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51ZjVYZUEyeVdlRDlDcWlucXBGSVZHWUpuWThmR2NxSGJ2aWNkakx6Tk9mcWhxcUxsQkhNaGFJems5N0FJV2pLNEp1cWFBd2owcmxobVBJSDdIRlJIQm5MU3poZGRuZkpEQ2fSAW9BVV95cUxPd2x3Zng3bXZhZjJsYWY4OHFhWW1ieWlESWhnWWxscXVGNEZTZTJ6R3Njek81ZTVDbHU5d0hJQk5BcGNmOXkyb3hjXzNpTU5xNkJaejhzS1c2aTRoQjlBS1VGTVlXUGdaUWxhVEcya2c?oc=5"
     }
   ]
 }
