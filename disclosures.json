@@ -1,6 +1,83 @@
 {
-  "updated_at": "2026-09-16T12:49:38.547578+09:00",
+  "updated_at": "2026-09-16T13:05:39.348680+09:00",
   "items": [
+    {
+      "code": "1343",
+      "name": "ＮＦＪ－ＲＥＩＴ",
+      "title": "NEXT FUNDS 東証REIT指数連動型上場投信 決算短信",
+      "url": "https://www.release.tdnet.info/inbs/140120260916537060.pdf",
+      "pubdate": "2026-09-16T13:00:00+09:00"
+    },
+    {
+      "code": "1545",
+      "name": "ナスダックヘッジ無",
+      "title": "NEXT FUNDS NASDAQ－１００（Ｒ）（為替ヘッジなし）連動型上場投信 決算短信",
+      "url": "https://www.release.tdnet.info/inbs/140120260916537083.pdf",
+      "pubdate": "2026-09-16T13:00:00+09:00"
+    },
+    {
+      "code": "1546",
+      "name": "ダウヘッジ無",
+      "title": "NEXT FUNDS ダウ・ジョーンズ工業株３０種平均株価（為替ヘッジなし）連動型上場投信 決算短信",
+      "url": "https://www.release.tdnet.info/inbs/140120260916537085.pdf",
+      "pubdate": "2026-09-16T13:00:00+09:00"
+    },
+    {
+      "code": "1559",
+      "name": "ＮＦタイ株",
+      "title": "NEXT FUNDS タイ株式SET50指数連動型上場投信 決算短信",
+      "url": "https://www.release.tdnet.info/inbs/140120260916537071.pdf",
+      "pubdate": "2026-09-16T13:00:00+09:00"
+    },
+    {
+      "code": "1560",
+      "name": "ＮＦマレーシア株",
+      "title": "NEXT FUNDS FTSEブルサ・マレーシアKLCI連動型上場投信 決算短信",
+      "url": "https://www.release.tdnet.info/inbs/140120260916537088.pdf",
+      "pubdate": "2026-09-16T13:00:00+09:00"
+    },
+    {
+      "code": "1678",
+      "name": "ＮＦインド株",
+      "title": "NEXT FUNDS インド株式指数・Nifty 50連動型上場投信 決算短信",
+      "url": "https://www.release.tdnet.info/inbs/140120260916537090.pdf",
+      "pubdate": "2026-09-16T13:00:00+09:00"
+    },
+    {
+      "code": "1699",
+      "name": "ＮＦ原油先物",
+      "title": "NEXT FUNDS NOMURA原油インデックス連動型上場投信 中間決算短信",
+      "url": "https://www.release.tdnet.info/inbs/140120260916537068.pdf",
+      "pubdate": "2026-09-16T13:00:00+09:00"
+    },
+    {
+      "code": "2845",
+      "name": "ナスダックヘッジ有",
+      "title": "NEXT FUNDS NASDAQ－１００（Ｒ）（為替ヘッジあり）連動型上場投信 決算短信",
+      "url": "https://www.release.tdnet.info/inbs/140120260916537092.pdf",
+      "pubdate": "2026-09-16T13:00:00+09:00"
+    },
+    {
+      "code": "2846",
+      "name": "ダウヘッジ有",
+      "title": "NEXT FUNDS ダウ・ジョーンズ工業株３０種平均株価（為替ヘッジあり）連動型上場投信 決算短信",
+      "url": "https://www.release.tdnet.info/inbs/140120260916537094.pdf",
+      "pubdate": "2026-09-16T13:00:00+09:00"
+    },
+    {
+      "code": "9644",
+      "name": "タナベコンサルＧ",
+      "title": "従業員向け株式付与ＥＳＯＰ信託の導入に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260916537074.pdf",
+      "pubdate": "2026-09-16T13:00:00+09:00"
+    },
+    {
+      "code": "9644",
+      "name": "タナベコンサルＧ",
+      "title": "従業員向け株式付与ＥＳＯＰ信託の導入に伴う第三者割当による自己株式の処分に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260916537106.pdf",
+      "pubdate": "2026-09-16T13:00:00+09:00"
+    },
     {
       "code": "6625",
       "name": "ＪＡＬＣＯ　ＨＤ",
