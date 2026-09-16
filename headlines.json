@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T23:41:29.803494+09:00",
+  "updated_at": "2026-09-16T23:57:40.977374+09:00",
   "items": [
     {
       "source": "Googleニュース",
@@ -8,18 +8,28 @@
     },
     {
       "source": "Googleニュース",
+      "title": "大型台風25号(ドゥージェン)発生 シルバーウィークに東日本へ接近のおそれ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zQ3VQUUdUODBKbUhabllqWUE2YzJVWFM0S1ZqU09IZ1NfdUdQMWw5YmRkWTQxU0NXdlA3M0gydnNoOHJkTnhzZkpteC0zYXZjOUFrWg?oc=5"
+    },
+    {
+      "source": "Googleニュース",
       "title": "BeMe：高市氏は愛憎入り交じる「姉妹」 初の女性首相に映る格差の構造",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZSllQTW83eDd6ZFNObVpvNExsZmZZaEZaZDFfUTA1V29teU9RdFVNeUFJNGJzT2JDWXhoMlVGQUM3UTBRNG9JVDFmb2RvVVN6OEg0ZkJWckZMOGZ2OE5MajhhMk9oNUUx?oc=5"
     },
     {
       "source": "Googleニュース",
-      "title": "サウジアラビアで石油の積み出し停止か パイプライン損傷で供給懸念",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NOWdMekcweUxiczVFOEIzTzBNb3BMOWs0NWJxNkRtakZXVmp3azJ3LTFNTkRZWE95NkNiLU82RlBjb0diNGRfMjlzSjJlNFFRLXBQY3hnMnZEQ1VMcW9talRKVEdEcmlmV0MxWg?oc=5"
+      "title": "「石井氏はやりすぎた」 聖域・参院にも高市色 焦点の幹事長は青木氏に交代 自民新役員",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzV3VFcVlmZVZxR1htLVFxZjUxU0d2VC1mZVV0N0VUQU5XT3hLNHdSZlBQa2lmd0hId2dFaDQ4UFh5dWRQZ3pBZzJSdm9PRzhNQjh1NVNPaWpPbUliR2dmUUdWU0xPRHpPWUFCX0QxdGp3bThOTFE?oc=5"
     },
     {
       "source": "Googleニュース",
-      "title": "【速報】高市総理「政権公約の実現に向け総力をあげた実行体制」自民党役員人事を説明「参院役員の人事権は私にない」【全文掲載】",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBva0h0OVZPRi1UYkE3VUdHeHgtOHRtM2ZaTDdWZjhESWNIY1Z1bERHc3FDYjZYUlNFQTRzWVdKWGxVWWkyMGhId1YxdHF6QQ?oc=5"
+      "title": "立民系新党は「民主改革の会」 中道から48人離党、渡辺創氏が代表に",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80S2ZLZFE3bzVMdFVkcWZLUGstWGNWNmpFVzFzRkdrbzBGdjRVa1FjaXhZTHJFaTQyY2MyNVp1dlQ3cHZGX3o5a0JzWjgzb2ozdTVGQjFTRVdaeEhaUGt4cWxDWVctRmJTam15Zg?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "山形 酒田 6歳男児行方不明で警察が防犯カメラ映像を公開",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mVGJRamE3RS0zSUtTcEdwZWxHV2JDMFQtMEtLLVlTenBhdjUtcUpyYS1CQ0haVFd4aVVEaWJpanJCbmU4Qm5LNTIxcWxvLXl4c0JaRnpvSTc2Mlg0dGFj?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -28,18 +38,8 @@
     },
     {
       "source": "Googleニュース",
-      "title": "大型台風25号(ドゥージェン)発生 シルバーウィークに東日本へ接近のおそれ",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zQ3VQUUdUODBKbUhabllqWUE2YzJVWFM0S1ZqU09IZ1NfdUdQMWw5YmRkWTQxU0NXdlA3M0gydnNoOHJkTnhzZkpteC0zYXZjOUFrWg?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "【速報】中道の衆院議員48人が離党",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81N0dJWVBaNmtTckpnVU8wRnI4NVpSTm54YXFEQ3ViMXllN2NQZEp6VHlEMjNzanlqVUVqZmgzYmdtMm91ZFFfODVKVQ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "山形 酒田 6歳男児行方不明で警察が防犯カメラ映像を公開",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mVGJRamE3RS0zSUtTcEdwZWxHV2JDMFQtMEtLLVlTenBhdjUtcUpyYS1CQ0haVFd4aVVEaWJpanJCbmU4Qm5LNTIxcWxvLXl4c0JaRnpvSTc2Mlg0dGFj?oc=5"
+      "title": "19歳社員が転落死、パワハラを訴える文書 四電送配電が第三者委 [徳島県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54NDkyY2pJZzRPZmdDdHJZanpPd1ZxM3dXb2ZqeWNXci1aalM3YTZZRXE2a1JqWUlHbGpvb0stVi1XUUVURFg0X3E5aW9hTXdndE1vUldEQmxSbVV1MkNSdnp6ei1icHc?oc=5"
     }
   ]
 }
