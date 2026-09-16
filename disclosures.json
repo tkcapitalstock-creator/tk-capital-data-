@@ -1,6 +1,55 @@
 {
-  "updated_at": "2026-09-16T09:51:28.724362+09:00",
+  "updated_at": "2026-09-16T10:08:34.754076+09:00",
   "items": [
+    {
+      "code": "16714",
+      "name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120260916536954.pdf",
+      "pubdate": "2026-09-16T10:00:00+09:00"
+    },
+    {
+      "code": "492A",
+      "name": "ＯｎｅＪ高クーポン",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260916536935.pdf",
+      "pubdate": "2026-09-16T10:00:00+09:00"
+    },
+    {
+      "code": "493A",
+      "name": "ＯｎｅＪ１－３年",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260916536936.pdf",
+      "pubdate": "2026-09-16T10:00:00+09:00"
+    },
+    {
+      "code": "494A",
+      "name": "ＯｎｅＪ３－７年",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260916536937.pdf",
+      "pubdate": "2026-09-16T10:00:00+09:00"
+    },
+    {
+      "code": "495A",
+      "name": "ＯｎｅＪ７－１０年",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260916536938.pdf",
+      "pubdate": "2026-09-16T10:00:00+09:00"
+    },
+    {
+      "code": "496A",
+      "name": "ＯｎｅＪ１７－２０年",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260916536939.pdf",
+      "pubdate": "2026-09-16T10:00:00+09:00"
+    },
+    {
+      "code": "585A4",
+      "name": "Ｅ－ＪＡＭＰＦＭ",
+      "title": "上場ETF（管理会社：JAMPファンド・マネジメント）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120260916536920.pdf",
+      "pubdate": "2026-09-16T10:00:00+09:00"
+    },
     {
       "code": "5842",
       "name": "Ｇ－インテグラル",
