@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-09-18T08:17:00.639263+09:00",
+  "updated_at": "2026-09-18T08:29:58.456310+09:00",
   "items": [
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120260918538298.pdf",
+      "pubdate": "2026-09-18T08:30:00+09:00"
+    },
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120260918538300.pdf",
+      "pubdate": "2026-09-18T08:30:00+09:00"
+    },
+    {
+      "code": "2296",
+      "name": "伊藤ハム米久ＨＤ",
+      "title": "役員・執行役員の異動に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260917538208.pdf",
+      "pubdate": "2026-09-18T08:30:00+09:00"
+    },
+    {
+      "code": "7138",
+      "name": "Ｇ－ＴＯＲＩＣＯ",
+      "title": "イーサリアム（ETH）の追加取得に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260918538323.pdf",
+      "pubdate": "2026-09-18T08:30:00+09:00"
+    },
     {
       "code": "9503",
       "name": "関西電力",
