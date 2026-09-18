@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-09-18T13:11:31.996152+09:00",
+  "updated_at": "2026-09-18T13:29:58.443252+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
+      "source": "Googleニュース",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "高市改造内閣、本格始動 副大臣・政務官決定へ",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2aXBFSk1MRjJBNURrUWRHQ3h1WUV3RkdDaEMtcUNrcnJBdERNYlI1VlRzVWN0MTBPSjBtYXc5MXh6OTg3aGx2Rk85cFhyNVozWmFNdnhrQUhDbFNQLUFLNzNKSQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "台風25号(ドゥージェン) 暴風域伴い関東接近 風雨強まるおそれ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PRkVmdUNoM3kzdmR6MHgxSU1HeXQ5Xy0wRTZ6dzBKNnJ2S1plc0VjbDlack02b3NhcW5tNTV6TE5Jc09OVXprMmM2Z2JrMTZ5ekU0OA?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "ケーキ店主らと口論し包丁とガソリン持参か、死亡の男を殺人・放火容疑で書類送検方針…岐阜県警",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuOV9KX0p3bGcxTlRlRnhpRmVhREdZWUpSX3RQampQR1BpYV9GcXIycS1sSlZoektkeVpxMEVpWlFINFdmR1lzX1dnNnpuNFNrdHJZQXU0WWNtR1BZc2Y0UkRmOWxydw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "欧州委員長、カナダのEU「準加盟国」入り計画を支持　施政方針演説で",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqNUY2cVlpNU5halRQeVoxTVhlbHR5ajAwZnRLbVBubkxPcEg4M01pLVFIZnZTM203MkNhRmtxcFhobmUxWG1Md1dyd2JfWnd4cllsTVFpNzZXNGFFS19TadIBZkFVX3lxTE8xUHh4bUpXY1NzQXZhY1dsbEhDdGN4RVZvWGRUZ2VVTFFJXzVERnMzTnN0WVdyOUhwQWZ1VEZsbzA3RlRZYWp1LUtMVzhEVkhBd1Z6MDdETnUzR3FzUjFGWHhnRGx0Zw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "沖縄知事当選の古謝氏 家族関係先に爆破予告 県警も把握し調べる",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBySGh2dTlqenBCV1J4UkZRQVU0WWVTckQxWklHY3N4OHIyVUF4UmRUWkdZMl9ReVhMdUdRLUhOa3NFYlN6bktMS1hBbGdybzUxVk1LNkVxc195aUsyUFE?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【速報】トランプ氏、中国主席を直接出迎えへ",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Wdkgybjc2UzBWNXo2QjFGQm1NVlRTeWxOR0FlalZ4cC1IOFlFZGs0a25WbjJ6TEZlRGxMZFZoN2gzNUZhR0RlRzBGTQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "鈴木憲和農相が退任「本当にありがとうございました」JRA関連法案成立に尽力、海外馬券拡大も",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EVEJIVFNJbWxzMHBENl9kU3AxUUxLR204ZUd5cjh0aEtwOVhMUjQxYXRyQTVBNHBZQnFhWU9CTjZNOXN3dXJqdTNRdEtGMGlqNlRCYnBhQjdfanptdWwxNUxRMTRqQTJQTDBqdNIBdEFVX3lxTE5SMVJIRUNZalktbmVPUkpXUFJnTHE4WEs5WXprR0g1RzVfRkx3djJJdWlrNU9JSTBtR1lmTWtsR2dlNWtKVjRNNEVubjE0VXZOMndIcVhKOFd0TGlqeERxZE12YjR1S3Z4OTN4STBiWHlubmpW?oc=5"
     }
   ]
 }
