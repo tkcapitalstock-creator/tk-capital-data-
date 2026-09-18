@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-09-19T01:12:05.052216+09:00",
+  "updated_at": "2026-09-19T01:30:03.275755+09:00",
   "items": [
     {
       "source": "Googleニュース",
       "title": "Google ニュース",
       "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "台風25号(ドゥージェン) 21日(月)に強い勢力で関東接近のおそれ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DNWtKRkJDTXJNVjdtMGFDeV9OQ2xRYjhrUDZPYWthbV9WRzI1UHU5QndmdERpakMzTDVpeFg5TEtYeWh5YjNfYWdOb0NYLTc0UzNMbg?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -28,17 +33,12 @@
     },
     {
       "source": "Googleニュース",
-      "title": "台風25号(ドゥージェン) 21日(月)に強い勢力で関東接近のおそれ",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DNWtKRkJDTXJNVjdtMGFDeV9OQ2xRYjhrUDZPYWthbV9WRzI1UHU5QndmdERpakMzTDVpeFg5TEtYeWh5YjNfYWdOb0NYLTc0UzNMbg?oc=5"
-    },
-    {
-      "source": "Googleニュース",
       "title": "19歳男性が鉄塔から転落死…パワハラ訴える遺書 勤務先の四国電力送配電の“説明”に…両親「納得がいかない」「これはひどい」",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JVEtyS2k1WFBUajJuSjhiVExEYXhuLTYyTm9jTmtmQUk3SHpQc3dJaXpLQXJpa1d0cFVlMmt0M3lETkl4STQ4bVpBX3R6SXgzQzdiWTBHQXJPUEd1dmh3dXh4UGR4SldSQ1VoNTlCYjJSWlB1RzBBZ0xyTDI?oc=5"
     },
     {
       "source": "Googleニュース",
-      "title": "宮崎・日南市で土砂崩れ 住宅に土砂が流入し50代女性が巻き込まれる - news.tv-asahi.co.jp",
+      "title": "宮崎・日南市で土砂崩れ 住宅に土砂が流入し50代女性が巻き込まれる",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1akZ2QTI5NWVvYWJPZVEzb2NjMThHV3VJbXhNVnNQNm9lTm1KRkFVLWlOV3o1NmR5dTNNWlZyUXZoYXlFeXhrYnhKc2Fsai1ubHJRY1dRaDhlQkp3bkdiZmxKckE4T1dhalkwT09nWXl3UQ?oc=5"
     }
   ]
