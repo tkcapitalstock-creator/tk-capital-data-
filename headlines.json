@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-09-19T22:59:55.620953+09:00",
+  "updated_at": "2026-09-19T23:19:00.870904+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
+      "source": "Googleニュース",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "台風25号(ドゥージェン) 21日(月)に強い勢力で関東に接近予想 暴風雨や大雨に厳重警戒",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yUHA0VjczelFmdGFJekNwYlVLSW5lTGtBRTNiUVdLaXpVSWE1V25UeDFzVF9aVl8yUS1rWFItM19Ec1ZvdjZEVDFBRFNCZy1EUENRUw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "トランプ氏、ＣＮＮなど３社を「ホワイトハウスから排除」と投稿…ＣＮＮは「政権が措置講じた形跡ない」",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtSDIxUlhnbjhTU0F0SlM2a0FBSmtUZDRpSGw5ZmNTNEc2R01pcnVjSGhzdE5YemthZGlObzhSSWlUa0JZb3VzZlE3RXQ5LUdhV3R6UGd6bHZNeWU3aUV0S2VR?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "ＡＩ生成の誤情報であわや 米軍が一時、中国船標的に―ＣＮＮ報道",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04VnppT3phcWRvYXhQY09wdWR6OU91bDN6QkFFNUZwbzI2NTNiODgtQW1hWWpyMWIxcjhtOXd6bDFsSk5tcjRGSC1fV0NKOWFBMU5yemhzRHdacUJJWUJSYVNLNA?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "高市首相の「宣戦布告」国対人事、内閣改造にサプライズが必要なかった真相 平井文夫",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMTV0a0FwLWhuZjhfb0J0cXhpb21IancyZ1lVYnlia0F6cWFEUFM2Q2RxbEpPMzRYXy1iQjdjUTJyejBZN2hDdVE3RjU4c0JtS3hfZG5NYnBPekZnRlR1aUpzQ1lkNmh3YjhFMGZZcUd1bUMya29FUmtLSXQ3UTJqaFMyaXFXRklfLUlvTFpSX2RyX3cyQ2s3MXRwcjE?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "中道・小川前代表「極めて分かりにくい形になった。強く反省」分裂後の政党交付金受領めぐる批判に「透明性もって説明していく」",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wejBhVUo4TXVMZUNka2w3RnVyWW95dEdkRU5ZaThNMXFNSjFBc0ZlNTMzOFpIZlZhMWJvV3J6aHVaWjV5Z3VmMllWN29kQkRpMlR0RTJVeGx6SHY1blpQeWhYR1VXM0MzcGtjaXdRc2ltRnVZNGhCa3hfMmdBMHc?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "シルバーウィーク　関東など太平洋側は22日まで曇りや雨　西日本ほどお出かけ日和(気象予報士 堂本　幸代 2026年09月19日)",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fajFUcHU0Sjdab3RlR3c5TE5xb2RfX0ttbEtyaWE3Z0dBY2dOQm1lSG14QU5vVVVrTlFTdkFmb2FyOGxodHRXcG92RDc0S3pPYXFLZlJyNmJaQl93VEVYdkh5MC1YYmp3RTFwSDNhdHTSAXZBVV95cUxNTVVocGJkQU9FVE5PQjlQMlVIelR4eXBFa3J6aERJLTl3eEZQaHVZZUhVS0lrM3Fma2kzN3BIdlVQaHIwOVNqeFEyWmh1MkdxNW9XTnBibWN5WG5zNmlmdVIwemZLd2ZQSHhNdE5kVkxKZEJkSGtn?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "天皇皇后両陛下 アジア大会の開会式会場に到着 秋篠宮ご夫妻と揃って出席へ",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByNk1TMTNXc0lyT3ZDcUg2YnZfN195TjdtRDItYUpIelBoR19KbVFIUXJNQ2V4bW1ydEVvUlVvanVZUi0yYVY4bl9IVW9hdw?oc=5"
     }
   ]
 }
