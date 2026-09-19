@@ -1,45 +1,10 @@
 {
-  "updated_at": "2026-09-20T06:36:09.341299+09:00",
+  "updated_at": "2026-09-20T06:49:27.493867+09:00",
   "items": [
     {
-      "source": "Googleニュース",
-      "title": "Google ニュース",
-      "url": "https://news.google.com/"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "米、対露制裁法案が成立…ロシアからエネルギー輸入多い国に最大１００％関税可能",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43cDVmeXN3a2hQOXBnZHhvQW9CTW9KU016SGlrVEg5ZThXc3hCdmswR0FTY09GTkY1RnZzV3dPR1laS0NRYVI4cEN1WEdRMzRTanFHMnR6Nnl6U1NwdTJMa3dB?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "強い台風25号(ドゥージェン) 明日21日(月)に関東に最接近 大雨災害や暴風雨に厳重警戒",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oWGJXWlVBSUU4RjlZcmQtR0RNNmUyTGpTZy0xSjFTWFQwT0g3c3lzZEszcmFIUzdsbEdVd2VTakEzajRyV2s5Nmhyd1ByZWpKNlpTOA?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "サウジアラビア、首都リヤドで異例の空襲警報を発令",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UN3UtREVwZHdIZEVGM3FsaVNfb3Y4V3NMMGY2NUdVWHRSeWtaRk1oZlRFT1hxQU5ZX2xBeXdjOFoyQVc3aGVCcTExUnlPRlJURERMZlFNUkpvcEUwQnJhTk5WSkVhUkh4Y29YaUZDSkw3WVp0MjdR?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "\"マグロ漁船にクマ居座る\"クマ目撃多数の塩釜市沿岸部でまたクマ発見も 岸壁からマグロ漁船に乗り込む 宮城・塩釜市",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qelNrejk2NF85M3RMRU9DM0l2RFVfd0o3Ri1BbnZuMl9EMmJqNTVWM3pwdXRrTFJHOWNMWDQ5eGZQMkMtSUxzTHltT05EVnI2LTUyR0dWZw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "高市流人事、悲喜こもごも 役職希望「真面目に書いておけば」",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04RV8xa0ViNkZuTVJPb29IX0pCOTV4RTB1dGFRMXZNbFFGM1FkamlqQlR6dkVUXzd1S1N5NzN3LVdxUWFzOHVFUHVKOTNJS3MwX2ZFNVAtV2F5bEdBRnNqVEwwYw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "【速報】沖縄知事選初当選の古謝氏に爆破予告",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiZXlqcjZlZWhpRjdFdkpEb2dBRUY2MXk3NFpRVUF2Y3NwUmg0NmIxQ2t2TXA0MHVEdjktV244WXpPWE0tODFLcW1pMA?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "天草灘でM4.4の地震 鹿児島県と熊本県で震度3 津波の心配なし",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UMWxnMFFMMEhhUHFQNHhRSi1oX3JvNlpqaTNKT2l1T1ZkdFlBWHpMNGlKZEp0WTdIdzhGRXlTNmQxaG5ON3pDTFl0M1FzYVg5SU5LRkZ4Ry1rZm8?oc=5"
+      "source": "システム",
+      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
+      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
     }
   ]
 }
