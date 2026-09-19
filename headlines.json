@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-09-20T06:49:27.493867+09:00",
+  "updated_at": "2026-09-20T07:04:36.395803+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
+      "source": "Googleニュース",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "米、対露制裁法案が成立…ロシアからエネルギー輸入多い国に最大１００％関税可能",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43cDVmeXN3a2hQOXBnZHhvQW9CTW9KU016SGlrVEg5ZThXc3hCdmswR0FTY09GTkY1RnZzV3dPR1laS0NRYVI4cEN1WEdRMzRTanFHMnR6Nnl6U1NwdTJMa3dB?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "今日9月20日(日)の天気予報 台風25号が本州南岸に接近 関東は強雨や大雨のおそれ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ndkl2bHFPbk1MeGZsTV9na1FhZ25kZkFNS2FKZU9HUkVTeHYxS2RwSGZsUFZfS05lMVRRaU1pbGNpTGg3ZVBuUUJsRVhzR0NRcFpCQw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "サウジアラビア、首都リヤドで異例の空襲警報を発令",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UN3UtREVwZHdIZEVGM3FsaVNfb3Y4V3NMMGY2NUdVWHRSeWtaRk1oZlRFT1hxQU5ZX2xBeXdjOFoyQVc3aGVCcTExUnlPRlJURERMZlFNUkpvcEUwQnJhTk5WSkVhUkh4Y29YaUZDSkw3WVp0MjdR?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "\"マグロ漁船にクマ居座る\"クマ目撃多数の塩釜市沿岸部でまたクマ発見も 岸壁からマグロ漁船に乗り込む 宮城・塩釜市",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qelNrejk2NF85M3RMRU9DM0l2RFVfd0o3Ri1BbnZuMl9EMmJqNTVWM3pwdXRrTFJHOWNMWDQ5eGZQMkMtSUxzTHltT05EVnI2LTUyR0dWZw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "爆破、殺害予告のほか「事業所に危害」脅迫も 沖縄知事選で初当選の古謝氏に辞任要求",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zSE5RTzdnWGdFSkZVNEZEOU5zSUZuZzJISFNHQ1ZaSkZXVGptUERPUlNRb2FhdmRGdm1xM1l2bjZDYVNvbURLcWZRdTI4UnhfRTVTaGpMYjRSTmswNDdzRG95LW5TYjU2NFEtT2tQelhPcUtwWlE?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "高市流人事、悲喜こもごも 役職希望「真面目に書いておけば」：時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04RV8xa0ViNkZuTVJPb29IX0pCOTV4RTB1dGFRMXZNbFFGM1FkamlqQlR6dkVUXzd1S1N5NzN3LVdxUWFzOHVFUHVKOTNJS3MwX2ZFNVAtV2F5bEdBRnNqVEwwYw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【速報】クマ衝突で見合わせの常磐線運転再開",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVTDVIOGdqZEhfd0xpTFlMOWZwckVtUWNYYnlYNkVJSW85cmFES2JoUHljVGxyalZvR3VaR1J5MERnTzBJdzh2U3BBVQ?oc=5"
     }
   ]
 }
