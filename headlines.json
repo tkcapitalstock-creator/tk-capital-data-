@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-09-20T21:59:31.655108+09:00",
+  "updated_at": "2026-09-20T22:19:04.379174+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
+      "source": "Googleニュース",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "自転車にはねられ８３歳女性死亡、自宅前の路上でしゃがみ犬を触っていた所…自転車の男は逃走",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBacG9mRGF2OWZsLXN0LWhnVEl0cXhCMzNsWF9HOERHWndCZnRfRjVMOVZTM1lqRTRrX25EbnVMUWR4MUZGUVFsdThFN0ZnWkpoOUpKVXYtZW01OWRLREhjMXA2MVJvdw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "北朝鮮が弾道ミサイルの可能性あるものを発射 本日2度目 防衛省発表（FNNプライムオンライン（フジテレビ系））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LRFhRbUktb05YS3Jwa2dDUnBjTGZDWVJmd1ZaRmlNUjNlWDZXUW11UE9xVkd0UV92OHpVSndQLXdDWlFLa01ySlR5VFk5aS1oejJXMDlHd1ltY1E0T3M5UTZNenE3RVkxTmtHNzE4am93US03bDFWdi0xUFM0Y2c?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "イラン、対米交渉開始へ７条件通告 戦闘継続と早期終結両にらみ",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45TmpBOUdwNFhtQTdWWWhWd0V0ZFZtQm1vXzJuOFhQbUE0NlpXQ0RUT0dTa2pveGNPVmxMSTF1Y3dJR2ZMaXBNYXB1MkV3UnBqQTlNU1gycjdxdHJZb09kVmxMRQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "福岡 車とバイク3台が絡む事故 3歳ぐらいの男児巻き込まれ重体",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Ia2dOZzRtcGRZamQ4Wk80bVg2Yy16b2lLMmRrT2c4X2FUcHJObTRGZWlGUDRKTzVBd21odi1pUUFudHQ2U25LdEhET2gyaU9PbXFJM3FhMXh2LWg4alk0?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【台風情報】東京は21日昼過ぎから大雨警戒 外環・東名など通行止めの可能性、影響いつまで",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1aGNFS2luek9CWEFRRUhIMXliSFg5WUYycl90cUN3dC12YWZGaVRtaWFFY3ZVNmN3X2E2cHZUWkpfM1BMTTR0SlpoVzdHUFZ0SkVhNWlxLXFIQUFERlE?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【速報】相模原市男子高校生死亡事件で10代の少年4人を殺人容疑で再逮捕 男子高校生を殴るなどして殺害か 4人は男子中学生への傷害疑いですでに逮捕 神奈川県警",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56bEpvQkhodHJBVWNrVWxQZHlFem9uNy1TVzM1RElrQXBMc2taX1ZnQ3VSanp1ZTYzWnVKNXNjRmtwY3lkT2xIZk1HekUtQUNOeDNyYWF2Zw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "漁船に4時間クマ“居座り” 船内の乗組員 状況語る 宮城・塩釜市",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51MmdpWmF5WGVIZm5aSkU1akV3Ml9EdFpvWXhaeV9uMmI1RW5VLU5LYXZmcFdqbDh1YU1IUFI0UWl2MjdtdU5ZZC00endHSGxZb1RZSUNFbWxXb2g0bzdUejBsQzVFZzRwVTNKWHJLa0paQQ?oc=5"
     }
   ]
 }
