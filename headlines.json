@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T18:11:37.079915+09:00",
+  "updated_at": "2026-09-20T18:28:23.177560+09:00",
   "items": [
     {
       "source": "Googleニュース",
@@ -13,8 +13,23 @@
     },
     {
       "source": "Googleニュース",
+      "title": "マグロ漁船にクマ、甲板など４時間半うろつき海に飛び乗り込む…緊急銃猟や箱わな設置検討",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nWC1UQ2xfZ1o3OV9ESjlTdkZiYnZjZ0M1WlR4WXdYRGU4Ni0wbjBkVTk0dmtZUjk3elpINmd0YUxvWkxDeGluUnlTeHNWQzctV0lYSl9XYmlTT0tPRk96TkVxcDUzdw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "千葉県は再び大雨のおそれ 明日の夜にかけて台風25号が接近",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tUjI4MUlBbE1qMWFXSTFOdkROSGRVakMxUnp4Z2Z2X0ptaTJfSlVBcVQ2NEFpRnk3Tm5iR1ZaN0V1WXA4a0ZCNFRObEUyVVA1UjFYcw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
       "title": "福岡 車とバイク3台絡む事故 近くにいた男児が巻き込まれ重体",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Ia2dOZzRtcGRZamQ4Wk80bVg2Yy16b2lLMmRrT2c4X2FUcHJObTRGZWlGUDRKTzVBd21odi1pUUFudHQ2U25LdEhET2gyaU9PbXFJM3FhMXh2LWg4alk0?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【速報】相模原市男子高校生死亡事件で10代の少年4人を殺人容疑で再逮捕 男子高校生を殴るなどして殺害か 4人は男子中学生への傷害疑いですでに逮捕 神奈川県警",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56bEpvQkhodHJBVWNrVWxQZHlFem9uNy1TVzM1RElrQXBMc2taX1ZnQ3VSanp1ZTYzWnVKNXNjRmtwY3lkT2xIZk1HekUtQUNOeDNyYWF2Zw?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -25,21 +40,6 @@
       "source": "Googleニュース",
       "title": "沖縄知事選で大敗の玉城氏、2期8年の失政 さらば「オール沖縄」県政 日曜に書く 論説委員・川瀬弘至",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fenNnWW9PTlZFQnBqaUtNR1BHam1lLUR1R3Y4eElvRVptcUZmbU5oOGdoUGU4Q1NMRnpjdV9WbWt6SUJaVFd6VldmZVB1clNQMTU5b09xVEZ3M3VvSDVWV05CaTBDTEVTWTZ3dTN0c1g4c1A5elE?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "千葉県は再び大雨のおそれ 明日の夜にかけて台風25号が接近",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tUjI4MUlBbE1qMWFXSTFOdkROSGRVakMxUnp4Z2Z2X0ptaTJfSlVBcVQ2NEFpRnk3Tm5iR1ZaN0V1WXA4a0ZCNFRObEUyVVA1UjFYcw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "相模原で高２男子殴られ死亡、１６～１７歳の少年４人を殺人容疑で再逮捕",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzdWxrZVJJY3dXWWNiTmJQcUNDWkZYZG1uLVNYZDF6b0p0T2Nnb3pMVFBUcENvX2dvR1MtbU1xTXM3aVN6M0xscHZNckM0dmRYcUVqU0xqMUozNWhwZ3c5QlRpOENlZw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "マグロ漁船にクマ乗り込む 宮城・塩釜、海に転落し岸まで泳いだか",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnbzBBRkJHQVkyRVExejNJZThSMWNUVEtoWHgxYl9nYy1yaGNJNlZaWndMZE9ONG8xc2Y2bUxnTXZ2M3N3ZUk4bVJ6VUFGOGRxMS1ENlVEV3QtTXdJS0xySUdoU1JzWmlzcEhFMw?oc=5"
     }
   ]
 }
