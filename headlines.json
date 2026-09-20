@@ -1,15 +1,10 @@
 {
-  "updated_at": "2026-09-21T06:45:35.072291+09:00",
+  "updated_at": "2026-09-21T06:58:47.730986+09:00",
   "items": [
     {
       "source": "Googleニュース",
       "title": "Google ニュース",
       "url": "https://news.google.com/"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SZWw2YjBIQ19JajBnNGRoLWF3MzZOY0JjWGNPQ2VQWUlMMlQzb1pVTGVnVHh4Yi15WHNVRU9ZMGU1SHZFVVhoUDc1d19aVWNOaU9NU2FLSXM5eTBNN1dF?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -28,8 +23,13 @@
     },
     {
       "source": "Googleニュース",
-      "title": "千葉県佐倉市に「緊急安全確保」発令 警戒レベル5 命を守る行動を",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wM0ppaVl6RUpCenZrUGoxb3pqSzdfejBGVk83cEt4VVVmY3ZMV2cyY3FxNDY0OTZLc053OWRVUEhEQkxiMUtweTRkaE1Xbmg1MlN5Mg?oc=5"
+      "title": "台風25号(ドゥージェン) 強い勢力で関東接近へ 大雨・暴風に厳重警戒",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oeGNtSXdSTVhxS0g5Ti1KXy1KbkZyY0MzeUdqZmprc0xmb0VzcGJZR1JFMUxmd0hqMUYxd0p3dFphQ2JOdmJISzZKVFdWbk9uRk9vaQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "千葉 佐倉市の土砂災害警戒区域・特別警戒区域に緊急安全確保",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GS3otRHUwZjRiSGVORWxhOWxFaDRNbWdTaGc4THl5b3RxS0l5WWpTNmRwMUxRYUxZTDlTY1Fyam1kU0pVajVvRUQ1UFhZZmtDbFFzdVJxdjRIdVpIQ2lF?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -38,8 +38,8 @@
     },
     {
       "source": "Googleニュース",
-      "title": "【速報】埼玉ほぼ全域、台風25号の強風域に入る 避難所など開設へ 橋が通行止めに（埼玉新聞）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rVlVkTTJlSjRtb0ZGQjZ1bjlZM0FRNkxzS3E5MWt3dTF5X3B0UTczZGc5QlJXSVc3N0daMV82RGpCN1k1RmxhSzVEekFoM3VlZWdwVDZVa1RzUkxuMlRpOUk4UlJOM0hFTjkzTEpnQ2tLSEpObW85V05FNklYMkE?oc=5"
+      "title": "相模原17歳死亡・殺人容疑で少年4人再逮捕》「刹那は“やばい場所”に行っちゃったんです」事件のキーになった“不良グループ”の縄張り 凶暴なヤカラがたむろするエリア（NEWSポストセブン",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sNFQxLUhsTFdkOFpSYS12TlBaUEI2M1VZM0tyWWFvbjA4ek05eS1HWG1DRUxOQlJJU0h4WksyeUVOOGhPUFcwekxTcHNMY010NktRQnJIOGx4SDNGalN3ekFVVmU0WmNHN2s4d0RBMEZVZHl1b0RLNWxCandGb0k?oc=5"
     }
   ]
 }
