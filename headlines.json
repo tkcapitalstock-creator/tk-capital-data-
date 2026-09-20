@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T00:42:05.267759+09:00",
+  "updated_at": "2026-09-21T00:55:11.530755+09:00",
   "items": [
     {
       "source": "Googleニュース",
@@ -8,8 +8,13 @@
     },
     {
       "source": "Googleニュース",
-      "title": "川に落ちた眼鏡を拾おうとした１６歳男性、流され死亡…北九州市の板櫃川で友人と遊んでいたところ",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OU1FEcG5ycUNZUGRsZXpzaHRlNS04VjBNS1JJelpEbFNjSDVBcDMxRE9jeHJoU0JGTmNEbkEwaGJHUXZaZWNwYXo3TVNMcndKWkE2RDYwcEpvZ3cxb3lPVm9sMFZXZw?oc=5"
+      "title": "台風25号(ドゥージェン) 強い勢力を維持して関東接近へ 大雨や暴風に厳重警戒を",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51Z2twMWNNNGU1RTJwTHRDQVZ4c0pYR1AtM1o5VUdxaGxmdlVaQV9reFBadkdUdDNVR1BFYUpHbGM3aFgwY2NyaEFfbHZWRGd4T0QzVA?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "東京・善福寺川が氾濫の恐れ、中野区と杉並区にレベル４氾濫危険警報…２階への避難など浸水警戒呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fak5XYWtUSC1tNDVMZE9qb3BRY1hPLTRubXZkNjVGeUp2dTdsWEpPWkxnazZXQXRjWnh6ZWlNVVZJUGVkRUEycWlLcDlZZS1lMVdKcjI1eEotQlZWTW5Wek9RVGxCUQ?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -18,28 +23,23 @@
     },
     {
       "source": "Googleニュース",
-      "title": "東京 善福寺川に「レベル4氾濫危険警報」",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JRFVvODFQSDVVR0VVSjVTeEczSW0zdnBtN0szUHA3UjJvYjQ0eThUd0ExR0ZwV1ZKNWU5eWNJVTA0cy1KSkIwTl9fOExMbmVCbjNjeDg5emh1ZHBSb0JV?oc=5"
-    },
-    {
-      "source": "Googleニュース",
       "title": "イラン、対米交渉開始へ７条件通告 戦闘継続と早期終結両にらみ",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45TmpBOUdwNFhtQTdWWWhWd0V0ZFZtQm1vXzJuOFhQbUE0NlpXQ0RUT0dTa2pveGNPVmxMSTF1Y3dJR2ZMaXBNYXB1MkV3UnBqQTlNU1gycjdxdHJZb09kVmxMRQ?oc=5"
     },
     {
       "source": "Googleニュース",
-      "title": "モスクワ製油所に無人機攻撃、下院選投票「ウクライナが妨害」と非難",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96Vk5xOGxWQXFJOTNsTzI3TUF3bWVaQmpuY3hib3llTW9tSXZHTnk5UDUtdWZGa0lYa3VtMHpqcHh4UkdMdVk0WlhUaUxzdGh0RUd3QWw2a1pBdTRKN2VSX2ZFSVMzZkZ0aFp4eQ?oc=5"
+      "title": "川に落ちた眼鏡を拾おうとした１６歳男性、流され死亡…北九州市の板櫃川で友人と遊んでいたところ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OU1FEcG5ycUNZUGRsZXpzaHRlNS04VjBNS1JJelpEbFNjSDVBcDMxRE9jeHJoU0JGTmNEbkEwaGJHUXZaZWNwYXo3TVNMcndKWkE2RDYwcEpvZ3cxb3lPVm9sMFZXZw?oc=5"
     },
     {
       "source": "Googleニュース",
-      "title": "台風25号(ドゥージェン) 強い勢力を維持して関東接近へ 大雨や暴風に厳重警戒を",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51Z2twMWNNNGU1RTJwTHRDQVZ4c0pYR1AtM1o5VUdxaGxmdlVaQV9reFBadkdUdDNVR1BFYUpHbGM3aFgwY2NyaEFfbHZWRGd4T0QzVA?oc=5"
+      "title": "北朝鮮が弾道ミサイルの可能性あるものを発射 本日2度目 防衛省発表（FNNプライムオンライン（フジテレビ系））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LRFhRbUktb05YS3Jwa2dDUnBjTGZDWVJmd1ZaRmlNUjNlWDZXUW11UE9xVkd0UV92OHpVSndQLXdDWlFLa01ySlR5VFk5aS1oejJXMDlHd1ltY1E0T3M5UTZNenE3RVkxTmtHNzE4am93US03bDFWdi0xUFM0Y2c?oc=5"
     },
     {
       "source": "Googleニュース",
-      "title": "酒酔い運転でバイクに追突、巻き込まれた男児重体…危険運転容疑で男逮捕「アクセルとブレーキ踏み間違えた」",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vdzVmc3hYRDUyMUN4RmtuU2JQa3ZldmZlZ19pYWhRMUVrWUtfUXpoenQzSG9lel9HdVJrOXRlQXJVRU5qVkFoTWpvMnFfdmZpVTBjamhZYXBRQzRiMDN3UFYyd21jUQ?oc=5"
+      "title": "相模原17歳死亡・殺人容疑で少年4人再逮捕》「刹那は“やばい場所”に行っちゃったんです」事件のキーになった“不良グループ”の縄張り 凶暴なヤカラがたむろするエリア（NEWSポストセブン",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sNFQxLUhsTFdkOFpSYS12TlBaUEI2M1VZM0tyWWFvbjA4ek05eS1HWG1DRUxOQlJJU0h4WksyeUVOOGhPUFcwekxTcHNMY010NktRQnJIOGx4SDNGalN3ekFVVmU0WmNHN2s4d0RBMEZVZHl1b0RLNWxCandGb0k?oc=5"
     }
   ]
 }
