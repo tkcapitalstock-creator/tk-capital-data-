@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-09-22T05:23:00.552363+09:00",
+  "updated_at": "2026-09-22T05:38:57.255103+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
+      "source": "Googleニュース",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "神奈川 横須賀「崖崩れで家が壊れた」通報 70代夫婦連絡つかず",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuaHEwaE9iN3BobHZzSUVlV1FIRVNJRmpteV81WVdtdkVBUzFZNERhRGVUS3FTa05UOU42Wmp1dzk5TUdGMHhkeXItcGRvdGYxNWpHOEVNNVB4WFA5T0w0?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "プーチン政権与党が下院選圧勝、７割超の議席獲得見通し…ウクライナ侵略「信任」アピールへ",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyX2NTRUUyaUFuU21jd0Nxclg1M0U5WnBQMGxGX1RoWFNFbU1UT3pLYXJPS3poX0lKYWs4OUx1RWU0SGY1RmdLU2ZKNHF4RzVpYWNBR09OYk9Sbl94UzQ2TFhR?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【台風25号】京急電鉄、きょうの終電まで一部区間で運転見合わせ 土砂流入のため",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CUF8wamZfaFlydHQtUDY2RV9SUFBNRW5BYl9fQ3JvbDVBNkhINlRfaXNSS0JTbF92UnhDY3FjVTBpZkNxNGxKWjV3Q1VYR05uM3JJa0M3UmVRMmptTHVFcU9HLTd3ODMtQmpiVHVBWlBoRjdmN0oyd1J5X3A?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "琵琶湖で3人一時不明 2人意識あり",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uTHFfMk1DZnlmQWt4c2kyNkFMX0dMMmFzRnA4SllGQXhqTUw5OENHaHhIZnR2QTBVdm5zVVczaXR0ZHVTWDZ2YnZWMEIyS240?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "トランプ氏、フーシ派が「米国と戦わないことで合意」と主張 FOX（ＡＦＰ＝時事）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9reEZZeTlzLXdEdWV4R1NnSHdKdlR6aGJVS1plREQ1ZEFMcFZhR2g1eUp1WVFBTWhLTUQ4aTVxd080eU9VaGhEMU9pY2FnejgzeFhZV1ktaWpaZGpPdVFCVi1QcmtPc3hvQ1NMS1hpRTI1WVI2cnJid0VDZkhGNlE?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【速報】中国、習氏の訪米日程発表",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wS3M1N29PekEzclprZXQtTXNCV1pFLUJqdXJzQnJBZmlJSzZ5cVVzdFlQRV9sb3F6NklwVW9mTWt1X0F5Ujk4SWFHTQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "高滝ダムで緊急放流の可能性 千葉県市原市が警戒レベル5緊急安全確保の範囲拡大",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3YWlNMmVFaGhiNjdoNXNwbnY5eW51STBzRUd3V21oZHZmQy1nZmZvM3BMOHV0ZVhpRHd3ajB5ejFLRkdET3l4YUZaOTZPdFRjY1hibQ?oc=5"
     }
   ]
 }
