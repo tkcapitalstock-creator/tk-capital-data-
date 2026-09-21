@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-09-21T21:17:31.768071+09:00",
+  "updated_at": "2026-09-21T21:36:32.739855+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
+      "source": "Googleニュース",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "「裏山が崩れて、妻が生き埋めになって返事がない」と通報…横須賀市",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vRU11RXZMS2pxM25UcGJiNWZSMXNDcHhsREd4T1h0M1ZZTXNOZVhNOHA3OWRfY3VjTlFDTHY3LVZmOXpjYzRnakpYTUxHMlYtNHEwMzloNU5MLWFwckN2TVVnTW9ndw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "プーチン政権与党、３５５議席獲得か 過去最多で「圧勝」へ―ロシア下院選",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Uc2w1WlEzclZoZ3U0MUxrREM1eEswMjhRZjhWMzFza0V4bjhGcFhqRU9FSjA5YnIwQkYzTk5KRGp6b1g2OGN5bUFINm1sZXVXd2h2cFMtdml6SkRyOUxxNGVqOA?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "台風25号が関東に最接近 千葉・茨城は21時頃まで大雨続く",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xV2VTcFdSQmdxZXZxUTlaSGxBZ29QWXdwd2VVVVlHWWVtVzhLRTM0bEw4MnJxTlVmS05FdHE5Z0lVYndYcER0VlNWblRKZmpIVktUMA?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【台風25号】東京・大島町の1901世帯に「緊急安全確保」 茨城、千葉、東京など77万5083世帯に「避難指示」",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55RkhRZGIyZTNvZEZveUN6ZzNnQ0hqTEt3UTk4S0d1N3dEMFBkX0x0UkZval9Md1ptdTRpaVg5bmhZTVBjNEc5OWZzOXhVWlpWNHh5OVdVT21LMndMWHlKanlRWUpXVi1PWEJja291b3llNXdEVlJIc1NOMFQ0Zw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "大津 びわ湖 水上オートバイの男性3人不明 2人見つかる",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94WE1paXlIaHlFWmg3T2w1Sl9vREZVV0VKTDZfeGFlRUp2VU1vY0xQQXpicDNoVC1xM2k4b05XNC1sVFdwMkNzR1RVR3JNWVBBQU42dWFtbEYyZ0lFYmsw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "“今年一番危険” 強い雨で鶴岡八幡宮見えず 雨水が川のように流れ道路冠水 水没した車も 渋滞や路線バスも迂回 神奈川・鎌倉",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16djFiTDd4MEhqQU1pR1hEVTdDWS1GQmtjR3hYajBlUnJqS0lCdlBvU215OWtxNHJOdURLMkFvdTc1eHc4dE1BZHZqc193QQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【速報】埼玉に避難指示 河川氾濫の恐れが高まる 警戒レベル4 埼玉で停電1000軒も（埼玉新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKdGZxODQ0VERKV1BjSTdabVFmNnRYNVFvR3hlRUhrbUJzS3FCbDlmcUt0NEpEWThtU2lqUFFOSTllS21VekdIem9vVVNBUnVmejF3SS12Zm81Y0FjX1NRTDdVVE9OcExETnFXNEtPYm5MYUI2ZGtWWFcyekxTdEk?oc=5"
     }
   ]
 }
