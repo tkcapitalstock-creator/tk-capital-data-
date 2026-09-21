@@ -1,15 +1,10 @@
 {
-  "updated_at": "2026-09-21T21:36:32.739855+09:00",
+  "updated_at": "2026-09-21T21:53:01.941936+09:00",
   "items": [
     {
       "source": "Googleニュース",
       "title": "Google ニュース",
       "url": "https://news.google.com/"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "「裏山が崩れて、妻が生き埋めになって返事がない」と通報…横須賀市",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vRU11RXZMS2pxM25UcGJiNWZSMXNDcHhsREd4T1h0M1ZZTXNOZVhNOHA3OWRfY3VjTlFDTHY3LVZmOXpjYzRnakpYTUxHMlYtNHEwMzloNU5MLWFwckN2TVVnTW9ndw?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -20,6 +15,11 @@
       "source": "Googleニュース",
       "title": "台風25号が関東に最接近 千葉・茨城は21時頃まで大雨続く",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xV2VTcFdSQmdxZXZxUTlaSGxBZ29QWXdwd2VVVVlHWWVtVzhLRTM0bEw4MnJxTlVmS05FdHE5Z0lVYndYcER0VlNWblRKZmpIVktUMA?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "「裏山が崩れて、妻が生き埋めになって返事がない」と通報…横須賀市",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vRU11RXZMS2pxM25UcGJiNWZSMXNDcHhsREd4T1h0M1ZZTXNOZVhNOHA3OWRfY3VjTlFDTHY3LVZmOXpjYzRnakpYTUxHMlYtNHEwMzloNU5MLWFwckN2TVVnTW9ndw?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -38,8 +38,8 @@
     },
     {
       "source": "Googleニュース",
-      "title": "【速報】埼玉に避難指示 河川氾濫の恐れが高まる 警戒レベル4 埼玉で停電1000軒も（埼玉新聞）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKdGZxODQ0VERKV1BjSTdabVFmNnRYNVFvR3hlRUhrbUJzS3FCbDlmcUt0NEpEWThtU2lqUFFOSTllS21VekdIem9vVVNBUnVmejF3SS12Zm81Y0FjX1NRTDdVVE9OcExETnFXNEtPYm5MYUI2ZGtWWFcyekxTdEk?oc=5"
+      "title": "【台風最新情報】神奈川県に最接近、大雨いつまで？ 三浦で24時間降水量が観測史上最大",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuX0RkRFVsRjRYT3NXcmIwLVdudlNKeVlLMjdNNmZ3cFd4Zks0VGdTbDBnZXJGSW9OSzBkVzRpNG1kSlZhNS14YzZOVmFscGU5VG9iNGoyV1BlU3JDSmc?oc=5"
     }
   ]
 }
