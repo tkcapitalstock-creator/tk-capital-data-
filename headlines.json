@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-09-21T14:21:20.715051+09:00",
+  "updated_at": "2026-09-21T14:39:34.025335+09:00",
   "items": [
     {
       "source": "Googleニュース",
       "title": "Google ニュース",
       "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "酒酔い運転の事故に巻き込まれた男児死亡…６８歳容疑者「酒の影響でアクセルとブレーキを踏み間違えた」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EZ1pUSGZVTTE5Vzlsem1nN2wwUnl3b1pPaVozLWx3VWplY2xzZjRyV0daU2FkVlE4dXZmZDNoaWpYT3R2elFXdnBMMVk5VW56SU9hc080SlIxRlU0XzlQOWpIYkw2Zw?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -18,8 +23,8 @@
     },
     {
       "source": "Googleニュース",
-      "title": "【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lRjJUNkZhdVdoMFVNS1hIR1NVNVlDWjBCWkNCTFlsMm1QY2kwNXRnZEVRRk4tTG9pVXlDUjN0aXQzcTJYeXVUX08wZlVDdkJGQlVGZHQ1eDhfOUZjdTZj?oc=5"
+      "title": "台風25号による道路への影響　関東や東北は22日まで影響大　冠水した道路は迂回を(気象予報士 青山　亜紀子 2026年09月21日)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hLXJaUEdmeGVqbmtRX243YzZNckN6bFNvWWgyZ1FBTzR2YW94S3VJWktFXzRhWjBJVnZFWDkwLTd4elJTZzAyS0NtSGotOU56MTA4WkdNQWZVYWFxcUhua2tpV3FRTEdsSWfSAW9BVV95cUxQbnFfam5PLWpZcjZoMnNQOEdlaURKREE2enRjYklxbEhHdUR0ZndDTWpiaXNZRWRqaHQ1NFFOenJ0N2JQTGZ6ZHA3SkpVdVl5bjl3Vk1RcjhEMkJpZnhmeW5KMlZ6SExRUktrdEJ4X1U?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -33,13 +38,8 @@
     },
     {
       "source": "Googleニュース",
-      "title": "酒酔い運転でバイクに追突、巻き込まれた男児重体…危険運転容疑で男逮捕「アクセルとブレーキ踏み間違えた」",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vdzVmc3hYRDUyMUN4RmtuU2JQa3ZldmZlZ19pYWhRMUVrWUtfUXpoenQzSG9lel9HdVJrOXRlQXJVRU5qVkFoTWpvMnFfdmZpVTBjamhZYXBRQzRiMDN3UFYyd21jUQ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "台風25号 千葉市内で土砂崩れや地滑り被害",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JTUZvT0NoOUU0WnR3WHBuWjBWdW1mUUthN3RFSl9rNUUtS3U1VGFlOFQ1VE9nbUhoQmJNdXZlZEZ3UlBiQTdDWEtsZGJpcjBab1NhNUE5LThBS1Z5NDJqSVg4Z1B6U3hqeU4yMXh2bEFWZw?oc=5"
+      "title": "神奈川県東部 線状降水帯発生恐れ",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DV2NMMlluNGh5UTFTZjNNdW9LMjdtZVVNSW9PTG1FcGdFZUkwVDJMWjd4eXE4SjJRdk8yRlFqa2g0alZ0Y2xUaS1wLXJ0ZFRn?oc=5"
     }
   ]
 }
