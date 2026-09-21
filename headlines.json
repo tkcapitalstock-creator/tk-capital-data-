@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T23:01:04.253335+09:00",
+  "updated_at": "2026-09-21T23:22:21.165447+09:00",
   "items": [
     {
       "source": "Googleニュース",
@@ -8,8 +8,13 @@
     },
     {
       "source": "Googleニュース",
-      "title": "神奈川の土砂崩れで計３人生き埋めか、千葉でも１人意識不明の重体…台風２５号が関東最接近",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aLThVSjZCeTlxTVBmQnNFZnV3eTZPVVgyZVprNGVTaXY4SUhnT2lWWTAyTUVCbXFvclc4VnF0Wm5FZTZkS0EteHg5X0Jkdklnc084TFVkYkR2X3NIQVIzbVhLX1pSdw?oc=5"
+      "title": "神奈川と千葉で土砂崩れ、4人巻き込まれ3人不明 台風25号が接近",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jN3N5QmI1eVBJU1NUdWZlZ2I4a1VLamdmYUNMd3A5Z2ttamZYQ1Zra2hDc2RzSjlzNUd6S3FQOXVsZWUtblMtSjhRTEtQT0VWbzFkUFRGT2xWc0JFSnVJeHd0bmVqcW8?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "台風25号 東京 渋谷区の住宅街で塀崩落か",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BdWJZRHFqekgtM1puSnVWZzQ1NGxUVF9URjdmaE5YdlROOGJWTWNTRHRxSkUyWFRrX2xrdy05Z1hsX1N4bVh2N3Z2MlJKenZ2dWZncmNPbE15UlhDX2tR?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -23,23 +28,18 @@
     },
     {
       "source": "Googleニュース",
-      "title": "“今年一番危険” 強い雨で鶴岡八幡宮見えず 雨水が川のように流れ道路冠水 水没した車も 渋滞や路線バスも迂回 神奈川・鎌倉",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16djFiTDd4MEhqQU1pR1hEVTdDWS1GQmtjR3hYajBlUnJqS0lCdlBvU215OWtxNHJOdURLMkFvdTc1eHc4dE1BZHZqc193QQ?oc=5"
+      "title": "琵琶湖で水上バイクから転落か、男性２人を救助し搬送…残る２人を捜索",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rUDJ4YWlnZEVuN2JncjR1M094MDNrTmdGeEJBaW41UExPM0JSODJzckVHb2FaOE56eFE3SnhSS2l1T0pSWU5JdUVVaEZ0Sk5FMHlOQmNjQWc4MU1BQVVWdGhqeWg2QQ?oc=5"
     },
     {
       "source": "Googleニュース",
-      "title": "大津 びわ湖 水上オートバイの男性3人不明 2人見つかる",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94WE1paXlIaHlFWmg3T2w1Sl9vREZVV0VKTDZfeGFlRUp2VU1vY0xQQXpicDNoVC1xM2k4b05XNC1sVFdwMkNzR1RVR3JNWVBBQU42dWFtbEYyZ0lFYmsw?oc=5"
+      "title": "台風25号が関東に最接近 千葉・茨城は21時頃まで大雨続く",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xV2VTcFdSQmdxZXZxUTlaSGxBZ29QWXdwd2VVVVlHWWVtVzhLRTM0bEw4MnJxTlVmS05FdHE5Z0lVYndYcER0VlNWblRKZmpIVktUMA?oc=5"
     },
     {
       "source": "Googleニュース",
-      "title": "亡くなったのは大分市に住む3歳の男児と判明 福岡市西区で飲酒運転事故に巻き込まれる 軽乗用車運転の68歳男｢お酒の影響でアクセルとブレーキを踏み間違えた｣ 容疑を危険運転致死傷へ切り替える方針",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzZ29nTkxoRXJQV3RRbFkySVlZMFZndmo2Y0JWdzVRVVFHUnZTcmswdGRVVm8zaERWNWl0WE5mX0ZPb1h1eVNKcDA2VzVyZzQ5dzZkZlVrQQ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "台風２５号が関東最接近、伊豆諸島・神奈川・千葉で大雨…災害危険度が急激に高まる可能性",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43WVJlVmxtTVlMNGdGUzZxWUpQdlprbVdDV2Z6aGNlZUgyVHlmYXpxdDNrckVfUC05bkc0UzE0YUk5T1ZKU3h1Y2J2Smp0S0tSM1hRYzZXZ3B6Y0Z0Z2RYMFUzb0Q2Zw?oc=5"
+      "title": "警戒レベル5「緊急安全確保」 千葉県市原市 袖ケ浦市 君津市 佐倉市 山武市 大多喜町 命を守る行動を",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3cldhU2QxMjFxNWM1Yjk3WlBMX3lMWUxTMXh4RlUwdUFuT3BpQkJHZ3N0VTdjaDJ0em8za096Y1lDQ0xRVnRmcGpDSkJRMnV6bUpFVg?oc=5"
     }
   ]
 }
