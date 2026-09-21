@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-09-21T18:36:41.485890+09:00",
+  "updated_at": "2026-09-21T18:52:46.549228+09:00",
   "items": [
     {
       "source": "Googleニュース",
       "title": "Google ニュース",
       "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【速報】台風25号　伊豆大島や本州(静岡県)の一部が暴風域に入りました(気象予報士 日直主任 2026年09月21日)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CbU5KRlVjUkdCVDV1OEYtRjZGSlhfMWtVMUhJSVJ4T29lNUtTQmZJcGlRR3RVUFZYb3hlaml5eUdlTEE2am94M0NKSW5mRngwSlNLOEsycVhzNjJFTk9HZ214NWlLcVY2N0HSAW9BVV95cUxQSEEzM0Q2MmdkQVNRSE40dlo1WHJQcnpyckFnUnRBZmx5UC0tWUZtQVpJd1gxQWdYSGxBcS1JZTJZSXVrVTdSZlJpc3NlaUhrUWJIeUZZRHZfLUdUWFlxVmFVS3NEY2NIbTlCV1Z6bzQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "東京都御蔵島村付近で1時間に約110mmの猛烈な雨 気象防災速報・記録的短時間大雨",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NRkFFMm94ZnN4U21ibk43WW0tS2RYQ05IV0pkLUtaZThLSy1oanE5YVRYN1czX3NmeFA5ZkdxVkNJNFpOaUpMVktzSE9JMUNGY0w1Mw?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -18,28 +28,18 @@
     },
     {
       "source": "Googleニュース",
-      "title": "「裏山が崩れて、妻が生き埋めになって返事がない」と通報…横須賀市",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vRU11RXZMS2pxM25UcGJiNWZSMXNDcHhsREd4T1h0M1ZZTXNOZVhNOHA3OWRfY3VjTlFDTHY3LVZmOXpjYzRnakpYTUxHMlYtNHEwMzloNU5MLWFwckN2TVVnTW9ndw?oc=5"
+      "title": "米がICC制裁拡大か ドル決済網から排除し業務継続困難に、米報道（産経新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tOFJPYmtIbFVGVF92Q0g4S1NCS0lnY3NUSlFaUjZCYTV6SUptRUM1Tnp4Y0VFQlpIc3AwaHI5cEtLRHk5dEFuQlRFSFJ4SXY1QmxsaUdlVW9PY3dzT3JoOTNHTTBBM3c2bnpCb0o2T1VEbHhkRXVHOVVpME9yOFU?oc=5"
     },
     {
       "source": "Googleニュース",
-      "title": "【台風25号】被害まとめ 千葉県や神奈川県で住宅被害",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83OEJVQlM3aVBTQi12bHFpUkhzTDM4OHlseVpSYUxIZlpEZHdnWDlQMUNicXNiMkQtTWRNWlozX2lLUWdqa2FMdEMtN1pfMEtSYUFSQWs4bDZpTXI1NWZr?oc=5"
+      "title": "大津 びわ湖 水上オートバイの男性3人が行方不明",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94WE1paXlIaHlFWmg3T2w1Sl9vREZVV0VKTDZfeGFlRUp2VU1vY0xQQXpicDNoVC1xM2k4b05XNC1sVFdwMkNzR1RVR3JNWVBBQU42dWFtbEYyZ0lFYmsw?oc=5"
     },
     {
       "source": "Googleニュース",
-      "title": "【速報】米政権、ICCへ広範な制裁準備か",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52VEVQSnp4UnRrOVRSWkhQX0kydVhzM1ZYT05iQURlWlBDLXRVaDQ0cjN2Ql9hXzA0R3RhODkyMG1fY1FtNGRWOVRPUQ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "東京都御蔵島村付近で1時間に約110mmの猛烈な雨 気象防災速報・記録的短時間大雨",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NRkFFMm94ZnN4U21ibk43WW0tS2RYQ05IV0pkLUtaZThLSy1oanE5YVRYN1czX3NmeFA5ZkdxVkNJNFpOaUpMVktzSE9JMUNGY0w1Mw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "千葉県君津市の一部に「緊急安全確保」発令 警戒レベル5 命を守る行動を",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3cldhU2QxMjFxNWM1Yjk3WlBMX3lMWUxTMXh4RlUwdUFuT3BpQkJHZ3N0VTdjaDJ0em8za096Y1lDQ0xRVnRmcGpDSkJRMnV6bUpFVg?oc=5"
+      "title": "【速報】台風25号の危険な雨雲が関東にかかる　東京・千葉を中心に都市型水害に警戒(気象予報士 日直主任 2026年09月21日)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43U3JCcDJMZFpOZWl1dzkwQjJtSlNZUGtNRm5fbEtldUhublpIeFNNZHhsS3ZUZE5PaDBYU0diN3BqNWFiTUdjSzJCSzhQd3R5bVRNTkQ1emV0dDg2ZWlhblRYOWZNZVdNbGfSAW9BVV95cUxOcDB0R1ZPVzc2STI3cVZLbzhjRGRIMWxQb3lmSmJ0VnBtWWtYbTNaMDJBX1ZQbUNkb0NtZVB3UDFnU2JSY05KdzBRdzVRajc1WXNOVklLUjBoanFMTGE5bXhCZlgyQU5lVHNKSXNsMk0?oc=5"
     }
   ]
 }
