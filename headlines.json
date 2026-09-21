@@ -1,45 +1,10 @@
 {
-  "updated_at": "2026-09-21T13:47:23.965059+09:00",
+  "updated_at": "2026-09-21T14:01:22.168532+09:00",
   "items": [
     {
-      "source": "Googleニュース",
-      "title": "Google ニュース",
-      "url": "https://news.google.com/"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "酒酔い運転の事故に巻き込まれた男児死亡…６８歳容疑者「酒の影響でアクセルとブレーキを踏み間違えた」",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EZ1pUSGZVTTE5Vzlsem1nN2wwUnl3b1pPaVozLWx3VWplY2xzZjRyV0daU2FkVlE4dXZmZDNoaWpYT3R2elFXdnBMMVk5VW56SU9hc080SlIxRlU0XzlQOWpIYkw2Zw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "プーチン政権与党、第１党へ ３分の２議席維持か―ロシア下院選",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Uc2w1WlEzclZoZ3U0MUxrREM1eEswMjhRZjhWMzFza0V4bjhGcFhqRU9FSjA5YnIwQkYzTk5KRGp6b1g2OGN5bUFINm1sZXVXd2h2cFMtdml6SkRyOUxxNGVqOA?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "ドイツ東部2州議会選、左派党と極右AfD躍進 メルツ与党は大きく後退",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83cnpENFk1aVRpWU41dEpfZVhhaU9zbHRIM0kzbGNTblkyZ2NORHN5UTRBU3o3M1ZjT2RzbkhlRkFFMWdKbEsxOGR0enVZY3RiaGt2eEM3TldIdUhYOUxWajZLc2VEbkdQVkNEUg?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lRjJUNkZhdVdoMFVNS1hIR1NVNVlDWjBCWkNCTFlsMm1QY2kwNXRnZEVRRk4tTG9pVXlDUjN0aXQzcTJYeXVUX08wZlVDdkJGQlVGZHQ1eDhfOUZjdTZj?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "【速報】米政権、ICCへ広範な制裁準備か",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52VEVQSnp4UnRrOVRSWkhQX0kydVhzM1ZYT05iQURlWlBDLXRVaDQ0cjN2Ql9hXzA0R3RhODkyMG1fY1FtNGRWOVRPUQ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "内閣改造で「高市一強」はどう変わる？ 首相の思惑と性格が呼び込んだ政権のもろさ",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wTDdpMXJPeTJ2eGxCUDV2YU1DUElJbTM5OE8zR2NscTJyR25pYjBMR09meWYyZUNqeVJ2ZGtTek45cnZ0UEVYdkgzei1BLVVIUEJDVW5VQWRNanBUd0NzUTlnOHUzQQ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "東京都大島町の全域に「緊急安全確保」発令 警戒レベル5 命を守る行動を",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fNE5QaEpNay01ZUF6d05vWG5naF82aVRyTFEzcFUtRENOU3FvRnY0ZE5oUlViUFFtdEFKWXVLRnE3a0ttLWl1TzVBQXZGV1B4V0VkdQ?oc=5"
+      "source": "システム",
+      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
+      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
     }
   ]
 }
