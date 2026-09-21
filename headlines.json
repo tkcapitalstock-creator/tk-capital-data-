@@ -1,45 +1,10 @@
 {
-  "updated_at": "2026-09-21T11:19:24.802896+09:00",
+  "updated_at": "2026-09-21T11:37:36.896590+09:00",
   "items": [
     {
-      "source": "Googleニュース",
-      "title": "Google ニュース",
-      "url": "https://news.google.com/"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "プーチン政権与党、第１党へ ３分の２議席維持か―ロシア下院選",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Uc2w1WlEzclZoZ3U0MUxrREM1eEswMjhRZjhWMzFza0V4bjhGcFhqRU9FSjA5YnIwQkYzTk5KRGp6b1g2OGN5bUFINm1sZXVXd2h2cFMtdml6SkRyOUxxNGVqOA?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "ドイツ州議会選挙で強硬右派「ＡｆＤ」第１党の公算…首都ベルリンでも第３党に躍進の勢い",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvSVc4MEF4MXBmLVhXYXVJQWZHNXVFOEpqdF9nenFHY2hwN3BuYVpGcUVVYVJuWDB5Rk5DQVBTM3lYZmRoYU4ySGFlNXdxZW1EOWhMQm16SFNzckI3LTJRdy13?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "高市首相が「大変残念」にとどめたワケ 世論の反発予想も米国最優先 [高市早苗首相 自民党総裁]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13c2lBTkRpb3FuVUFZWFVNb0w4Y3pJOWh5Zi1kTmgzN0tnRmZUcVcySllvclFKR3dWOVREYkNZY1pIZldzTTBjR3NfQmhINHF4YXFXVlNCWEYyS01KZjhzTkI4aXE0V28?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "台風25号による道路への影響　関東や東北は22日まで影響大　冠水した道路は迂回を(気象予報士 青山　亜紀子 2026年09月21日)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hLXJaUEdmeGVqbmtRX243YzZNckN6bFNvWWgyZ1FBTzR2YW94S3VJWktFXzRhWjBJVnZFWDkwLTd4elJTZzAyS0NtSGotOU56MTA4WkdNQWZVYWFxcUhua2tpV3FRTEdsSWfSAW9BVV95cUxQbnFfam5PLWpZcjZoMnNQOEdlaURKREE2enRjYklxbEhHdUR0ZndDTWpiaXNZRWRqaHQ1NFFOenJ0N2JQTGZ6ZHA3SkpVdVl5bjl3Vk1RcjhEMkJpZnhmeW5KMlZ6SExRUktrdEJ4X1U?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "沖縄知事選2026：大差の結果は「偶然ではない」 沖縄県知事選で問われたこと",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ldnpjcWhGcXZmV3lYeldNc2pQUENRU0d4TktBUFd0ZWFObUZSelFzWXRUYmpIQlVxVGVoQnE3bkVlOTdZazRVX3lHYVlfaDdlZzZIVkpxbFFfaGpkdTR3SVNTV1hheDRV?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "千葉 佐倉市の緊急安全確保を解除 避難指示に切り替え",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50TXVIdlNvbHlHcWFPUUlNaFkxTUMyS1BuTXBPQmRYZ29hS1Jnd2RKX1UzQUM5bmh0cC03Ykd2dURRZnVpcDZIekhUcWs4a3A5d19lMm9MQnRzcnVZeWxJ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "【速報】埼玉で通行止めが相次ぐ 道路や橋、冠水や河川増水で 避難所も次々開設（埼玉新聞）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yeUF4c0xyU0dBdlFXSHdXZFlHblY2YldzOV8yd0Rueks3X0VzcE5lMk45NnVJZDhkai1WZ2luTjlxZklHT2dHOEo3OHp1bHp2MlRCSFUySmNXNXhta2ZnbnVQcmxucXNNbmQ1aEJMSm1rU1luaGdkNWRMQ1hZdnM?oc=5"
+      "source": "システム",
+      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
+      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
     }
   ]
 }
