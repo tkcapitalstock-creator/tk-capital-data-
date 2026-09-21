@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-09-21T11:37:36.896590+09:00",
+  "updated_at": "2026-09-21T11:53:22.446390+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
+      "source": "Googleニュース",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "プーチン政権与党、第１党へ ３分の２議席維持か―ロシア下院選",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Uc2w1WlEzclZoZ3U0MUxrREM1eEswMjhRZjhWMzFza0V4bjhGcFhqRU9FSjA5YnIwQkYzTk5KRGp6b1g2OGN5bUFINm1sZXVXd2h2cFMtdml6SkRyOUxxNGVqOA?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "ドイツ州議会選挙で強硬右派「ＡｆＤ」第１党の公算…首都ベルリンでも第３党に躍進の勢い",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvSVc4MEF4MXBmLVhXYXVJQWZHNXVFOEpqdF9nenFHY2hwN3BuYVpGcUVVYVJuWDB5Rk5DQVBTM3lYZmRoYU4ySGFlNXdxZW1EOWhMQm16SFNzckI3LTJRdy13?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "大型で強い台風25号(ドゥージェン) 今夜関東に最接近 大雨・暴風に厳重警戒",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oT1RXVWRTc3J1TTFWTHlVdzhtQ01CVWFQVTY3Tkppc1ZLRzlkTFpoZ2pTM1d3VVFUZHBHekY3elJGc3JTM0JqVE1SVjRBbjN3TUljQQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "沖縄知事選2026：大差の結果は「偶然ではない」 沖縄県知事選で問われたこと",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ldnpjcWhGcXZmV3lYeldNc2pQUENRU0d4TktBUFd0ZWFObUZSelFzWXRUYmpIQlVxVGVoQnE3bkVlOTdZazRVX3lHYVlfaDdlZzZIVkpxbFFfaGpkdTR3SVNTV1hheDRV?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【速報】米政権、ICCへ広範な制裁準備か",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52VEVQSnp4UnRrOVRSWkhQX0kydVhzM1ZYT05iQURlWlBDLXRVaDQ0cjN2Ql9hXzA0R3RhODkyMG1fY1FtNGRWOVRPUQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "関東甲信、東海に「線状降水帯半日前予測」 東京、神奈川、千葉、埼玉、茨城、山梨、静岡、伊豆諸島 気象庁が発表",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzdmNHWnJCVEJxMm5HLXcwU29VRzJrZEVCeFM4bGxvYnlkajJwMXlRbGpOcUR6dkp1RDdibjVyNk9NRk5zZFBESUlmQjY3Zw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【速報】埼玉で通行止めが相次ぐ 道路や橋、冠水や河川増水で 避難所も次々開設（埼玉新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yeUF4c0xyU0dBdlFXSHdXZFlHblY2YldzOV8yd0Rueks3X0VzcE5lMk45NnVJZDhkai1WZ2luTjlxZklHT2dHOEo3OHp1bHp2MlRCSFUySmNXNXhta2ZnbnVQcmxucXNNbmQ1aEJMSm1rU1luaGdkNWRMQ1hZdnM?oc=5"
     }
   ]
 }
