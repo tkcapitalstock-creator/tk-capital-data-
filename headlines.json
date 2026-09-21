@@ -1,45 +1,10 @@
 {
-  "updated_at": "2026-09-22T05:04:19.270891+09:00",
+  "updated_at": "2026-09-22T05:23:00.552363+09:00",
   "items": [
     {
-      "source": "Googleニュース",
-      "title": "Google ニュース",
-      "url": "https://news.google.com/"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "【台風25号】関東各地で被害 神奈川 横須賀では60代女性死亡",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82WVNEamFCbW9oZGxVaTZSUVpmbTRxaUtpQzFLa1Q3M2gyTVNjTmZZZWQ1NmhoT3JFTVktcDIwc0tHOEJrb0w1bDd4NkJkelVnbXA4cWpUbHFSS3lCN0Nr?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "プーチン政権与党が下院選圧勝、７割超の議席獲得見通し…ウクライナ侵略「信任」アピールへ",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyX2NTRUUyaUFuU21jd0Nxclg1M0U5WnBQMGxGX1RoWFNFbU1UT3pLYXJPS3poX0lKYWs4OUx1RWU0SGY1RmdLU2ZKNHF4RzVpYWNBR09OYk9Sbl94UzQ2TFhR?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "千葉で「またか」の嘆き 8月豪雨に続き、台風25号が連休直撃",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TeHZXRXVCWm9FNG1mQUhrYlpOTnNaZ1EyMzVfbmJ4MXFBVzJ3ekZVRjNmdVFwb25CUEd4Yl9QOHdobEJ3RjdRWTVKSUVQLWtXZWVOTTVLakVTYmpOSUJkbEFPMXkzWFVn?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "【速報】琵琶湖で男性3人が行方不明、うち2人を湖上で発見 日没で捜索打ち切り",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PSnNRM0J0SmJwTEE1YjI2TGVPNG9zUTlnLWN6bXZfQU80WjBmTGE0X21pOUNiZHV0MnNSM1BNaUZSbl96WHI5aXhUUmRoRmZxaXphekNZaW0?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "台風２５号関東接近、土砂災害相次ぐ ３人不明、１人重体―伊豆大島に一時特別警報",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtQnU2Q0Y0U3V0cm1HdEtrNVdvR1FPRzQ3R2lYT0VZRm5OMzZUbXQ4Sy1FZ0pGcG9aQk5rR0FXSmdJb3ZXYm90NnBFOUs3WVVDVmI2LVR3eEhZUTZ4TDZYeHgtVQ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "【速報】米CNNテレビなど3社、政府を提訴へ",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84S3h5Z3FzcDJhYjA5azFXSkZkbHh6dXVFTExOaUh2LWZhaXA4QkFCMG9EUXFTLUkzdDAzeURha3ZwOFpJckFyczFUUQ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "警戒レベル5「緊急安全確保」 千葉県市原市 袖ケ浦市 君津市 佐倉市 山武市 大多喜町 命を守る行動を",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3cldhU2QxMjFxNWM1Yjk3WlBMX3lMWUxTMXh4RlUwdUFuT3BpQkJHZ3N0VTdjaDJ0em8za096Y1lDQ0xRVnRmcGpDSkJRMnV6bUpFVg?oc=5"
+      "source": "システム",
+      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
+      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
     }
   ]
 }
