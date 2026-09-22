@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T11:38:14.891904+09:00",
+  "updated_at": "2026-09-22T11:53:29.167781+09:00",
   "items": [
     {
       "source": "Googleニュース",
@@ -8,8 +8,13 @@
     },
     {
       "source": "Googleニュース",
-      "title": "【台風25号 被害】神奈川と千葉で2人死亡4人不明 捜索続く",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82WVNEamFCbW9oZGxVaTZSUVpmbTRxaUtpQzFLa1Q3M2gyTVNjTmZZZWQ1NmhoT3JFTVktcDIwc0tHOEJrb0w1bDd4NkJkelVnbXA4cWpUbHFSS3lCN0Nr?oc=5"
+      "title": "土砂崩れ3人死亡5人不明 千葉・鴨川も大規模被害か 佐倉では冠水",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wNnBUQmY0blBxZFBOeG13NHZEd1FrOWlvREdDRFNLVTBvZFNnSFB0NUtFYk90VWp4cnVlQmdmU2xHbDFzeDVJSHVOXzVWSGFLQWx0OW1jU3FTTnQ0dW9oa3QtcTE1bGM?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【速報】約12時間、何にもつかまらず琵琶湖を漂流…46歳男性がライフジャケットだけで湖岸に流れ着く 「昼に転覆した1人です、10分前に流れ着きました」と自ら通報 救助に向かった48歳男性は行方不明",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ycnJ4V05teWp1Z1BFQUg3OVBzRjJYbm5ieUFya2Y3VlZUVW9lUDFCd3hzY0s5X2g2c3BhcjYtZEl2LXlKVUxKekhqS25ad1NGaVFlbg?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -18,23 +23,18 @@
     },
     {
       "source": "Googleニュース",
+      "title": "【上空映像】台風25号 記録的大雨 きょうも土砂災害に厳重警戒",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TMTJ4YUpXeVB4dVV0UFdyQ3ZONE43TDVIcUlYcFhRNzU2OXFvMzYxSXoyYmJWZ3lZRHN2M1BHdjZNcW5oN3JfTDFyQXRTcllubk1zaVBUaTlrNUdYOGtj?oc=5"
+    },
+    {
+      "source": "Googleニュース",
       "title": "絶頂期に偏見乗り越え独立したあべ静江さん「自分の気持ちは自分の言葉で伝えて」…みずいろの手紙・今を生きる女性たちへ",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EUjNyT1VKYlJZM1E2eGZEbjNhSUQtcHdLZ0VKYnd4b2tYVmpNdkgxY0o3NWgzcGNMMEJHZ1g1WVdwUWVHUkU5Y3diMmE4VU5JSnVucFpGV2VVWEVuLWs2UjVlalQ?oc=5"
     },
     {
       "source": "Googleニュース",
-      "title": "【速報】米CNNテレビなど3社、政府を提訴へ",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84S3h5Z3FzcDJhYjA5azFXSkZkbHh6dXVFTExOaUh2LWZhaXA4QkFCMG9EUXFTLUkzdDAzeURha3ZwOFpJckFyczFUUQ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "関東から九州で30℃以上が続出　東京など急な暑さに注意　今日22日(火)の天気(気象予報士 日直主任 2026年09月22日)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBld05kcjBQNVR3SzhpSkgyQVFJVjBJT0FuZGRQbTdockYzczVyWlowRURlSjJLQ2tlLVVmZ09qRDN5Y1hGWmxnT1RURDVtU09scDJ6dVJwUXdNdWsxSzdMaFdRT0NxSm0xa2fSAW9BVV95cUxOTUJwendIVDAwYktrSTVpM2VZQkRBLXZvWU01REdOUHRBNHJGZEpBejlhSEd4elJpcklFU2tnREM1Um1oQTdFLTlGb3J4Yld2Qnc4aDJjSW5EOTBQYmJ4SzNrRURtdXVFN0NnMXVoUjQ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "【速報】約12時間、何にもつかまらず琵琶湖を漂流…46歳男性がライフジャケットだけで湖岸に流れ着く 「昼に転覆した1人です、10分前に流れ着きました」と自ら通報 救助に向かった48歳男性は行方不明",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ycnJ4V05teWp1Z1BFQUg3OVBzRjJYbm5ieUFya2Y3VlZUVW9lUDFCd3hzY0s5X2g2c3BhcjYtZEl2LXlKVUxKekhqS25ad1NGaVFlbg?oc=5"
+      "title": "台風一過の関東は青空の朝 午後はにわか雨が心配",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tOW1wNXNZV0VEX2lkeTJnc0VIWDJmVzFHU0hBVzdhTnhYc0NlMGhURjZhSUJ3aHVMZ0VaeWJUcUVtX244LUdpRElrRnFyMFZGenB1dA?oc=5"
     },
     {
       "source": "Googleニュース",
