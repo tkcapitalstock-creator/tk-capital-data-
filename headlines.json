@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T21:11:18.039486+09:00",
+  "updated_at": "2026-09-22T21:35:40.006657+09:00",
   "items": [
     {
       "source": "Googleニュース",
@@ -8,8 +8,18 @@
     },
     {
       "source": "Googleニュース",
-      "title": "【空撮画像】千葉・鴨川市 複数の場所で土砂崩れ 多くの家屋に被害か",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00SFctZ0lsZjJrUEtzZXlBVWxha3lLWmlVT2tGeG9MVkNfQ2ZBcVVrOC11OTROMXpUbDFudVlyMklZNVdiTGs4WWRodVEtamExMkxkN0Nxa0ZqM0FOZHJucEgwdDZHLVRDQ1VGOEJwM1pfUQ?oc=5"
+      "title": "佐倉 高崎川「下流の印旛沼含め水位上がり氾濫か」専門家",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94bDlBYklhbWYtc0V5TjVHckJEaWR3T0NSVTFvRUVZZ2tKQlgxLUJzaXBUY055V05OZUZoc09hRlk3TlRYSDhRek9GdlRMTkZFVWhIOWQ0VHVRV1JyVVhR?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【独自】イラン、早期の海峡開放提案 米封鎖解除後「7日以内」",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xNUZjeHdlb2tzMXMwSWJ4N3pQM3ZvdVpWVFh0V3FRYlNFeUhWZjBSTTFISHVzSkhuQjRHUzhXb0dDWVR0Um11bU8xaw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "高市首相「ギリギリまでペン入れる」国連演説で北朝鮮拉致、気候変動、法の支配を発信へ",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ldFBaNzlTY0ZCdWVPclRpc1dDbWdIeHFTRWlUREpMN1k0a2hHWWF3T2JyTTBObEpQM0wtcWJYUVM5dGxjS2NvNEh0Z2VZOXN0a2ZkRjFjU2RMaU05ejQ0eGNBTGlOeUo1LS1QRjNqWkZySjZaMEE?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -23,23 +33,13 @@
     },
     {
       "source": "Googleニュース",
-      "title": "高市首相「ギリギリまでペン入れる」国連演説で北朝鮮拉致、気候変動、法の支配を発信へ",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ldFBaNzlTY0ZCdWVPclRpc1dDbWdIeHFTRWlUREpMN1k0a2hHWWF3T2JyTTBObEpQM0wtcWJYUVM5dGxjS2NvNEh0Z2VZOXN0a2ZkRjFjU2RMaU05ejQ0eGNBTGlOeUo1LS1QRjNqWkZySjZaMEE?oc=5"
-    },
-    {
-      "source": "Googleニュース",
       "title": "琵琶湖で不明者捜索の知人が行方不明に 当初不明の3人は無事",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJV2VBZGFZMm91XzNLWjlMdTc4TjNHZklaMG5vd200ZHAyOWIxbkRxOUJKaDdxczFGMTRQcXlCdjc1LUtzRlByR2VNanlTUDRxUmd0bGV2VktZeWJwMkZaa1E2WHlrLW9o?oc=5"
     },
     {
       "source": "Googleニュース",
-      "title": "北朝鮮が新型兵器の試験成功、短距離弾道ミサイルに極超音速で飛行する弾頭を搭載した改良型か",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oa0dENE53SF9rSUVUY0dHcVEzcVhhUWR0amlOTWkyaE1MLVVFUWMtUUNCQXcxaGlUQlo5OGhZdWRRMVBuYUQ3X3JJeDhGOWhOOWREUlBDNk93NHBxZWdYLVNB?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "台風で停電、ろうそくの火で民家全焼 住人2人搬送 千葉・市原",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92VjlhQkkyWVN5Tm9mUm8xSTVIYkVIckh2UlRIX2lmcUMtRjBSRFdGOTJzRFM1OFYxWDNlYWhtTWk4aEp1dTNycTl0ckhCT2N2SklnZVRXOTVqS2NVa3E3V1JrZkRRZVRI?oc=5"
+      "title": "26日以降は九州～関東で雨が降りやすい　新たに台風のたまご「熱帯低気圧」が発生へ(気象予報士 藤川　徹 2026年09月22日)",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OQ091cDBFNHBZUjNBdGdRWlFZejNFSEtUamZITUtiTWdlZUpIVGcybHM5N3hXZGpjM3hYNU9vNDM1RlFWcTZ1dUtYUEpHYkh3aW9NTHkwRGdxT1l0ZFlrbVlaSlFLZWFzc3lhN9IBckFVX3lxTE9PRWlUbXRvX1l5NjBJengzTFljTVFhQ1pkYjdGSUhQdnZzYzhuX3BPOS1aajd6ZHpfOC1wbzNtVTlnSUxZSm5JSllsYkVaYS04NUxBLVJHYXEwcFRWZFZrQjhVY183VVVyS1Y0Y1RKVHZVdw?oc=5"
     }
   ]
 }
