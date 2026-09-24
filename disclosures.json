@@ -1,6 +1,104 @@
 {
-  "updated_at": "2026-09-24T08:03:05.985960+09:00",
+  "updated_at": "2026-09-24T10:20:25.727151+09:00",
   "items": [
+    {
+      "code": "16714",
+      "name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120260924539182.pdf",
+      "pubdate": "2026-09-24T10:00:00+09:00"
+    },
+    {
+      "code": "3477",
+      "name": "フォーライフ",
+      "title": "東京証券取引所スタンダード市場への市場区分変更に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260924539116.pdf",
+      "pubdate": "2026-09-24T10:00:00+09:00"
+    },
+    {
+      "code": "3856",
+      "name": "Ａｂａｌａｎｃｅ",
+      "title": "上場廃止後の継続的な情報開示に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260924539177.pdf",
+      "pubdate": "2026-09-24T10:00:00+09:00"
+    },
+    {
+      "code": "5201",
+      "name": "ＡＧＣ",
+      "title": "執行役員の担当変更について",
+      "url": "https://www.release.tdnet.info/inbs/140120260923539063.pdf",
+      "pubdate": "2026-09-24T10:00:00+09:00"
+    },
+    {
+      "code": "585A4",
+      "name": "Ｅ－ＪＡＭＰＦＭ",
+      "title": "上場ETF（管理会社：JAMPファンド・マネジメント）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120260924539115.pdf",
+      "pubdate": "2026-09-24T10:00:00+09:00"
+    },
+    {
+      "code": "9212",
+      "name": "Ｇ－ＧＥＩ",
+      "title": "NEDOバイオものづくり革命推進事業における酵素評価事業の追加について",
+      "url": "https://www.release.tdnet.info/inbs/140120260924539112.pdf",
+      "pubdate": "2026-09-24T10:00:00+09:00"
+    },
+    {
+      "code": "4884",
+      "name": "Ｇ－クリングル",
+      "title": "脊髄損傷急性期を対象とするoremepermin alfaの米国FDAに対するIND（新薬治験開始）申請のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260924539117.pdf",
+      "pubdate": "2026-09-24T09:00:00+09:00"
+    },
+    {
+      "code": "7278",
+      "name": "エクセディ",
+      "title": "当社によるファンドへの出資に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260923539053.pdf",
+      "pubdate": "2026-09-24T08:55:00+09:00"
+    },
+    {
+      "code": "4582",
+      "name": "Ｇ－シンバイオ製薬",
+      "title": "多発性硬化症の独占的グローバルライセンスを取得 米国保健福祉省との間で、BCVに関する開発のライセンス契約締結",
+      "url": "https://www.release.tdnet.info/inbs/140120260924539127.pdf",
+      "pubdate": "2026-09-24T08:33:00+09:00"
+    },
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120260924539107.pdf",
+      "pubdate": "2026-09-24T08:30:00+09:00"
+    },
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120260924539108.pdf",
+      "pubdate": "2026-09-24T08:30:00+09:00"
+    },
+    {
+      "code": "2901",
+      "name": "ウェルディッシュ",
+      "title": "一時会計監査人の選任に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260921539024.pdf",
+      "pubdate": "2026-09-24T08:30:00+09:00"
+    },
+    {
+      "code": "290A",
+      "name": "Ｇ－Ｓｙｎｓ",
+      "title": "自社12機目の小型SAR衛星StriXシリーズ打上げ完了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260924539123.pdf",
+      "pubdate": "2026-09-24T08:30:00+09:00"
+    },
+    {
+      "code": "9831",
+      "name": "ヤマダＨＤ",
+      "title": "資産効率の最大化に向けた 中国における特定子会社の異動（持分譲渡）に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260923539076.pdf",
+      "pubdate": "2026-09-24T08:30:00+09:00"
+    },
     {
       "code": "9984",
       "name": "ソフトバンクグループ",
