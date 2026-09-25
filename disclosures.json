@@ -1,6 +1,125 @@
 {
-  "updated_at": "2026-09-25T08:24:54.859587+09:00",
+  "updated_at": "2026-09-25T10:48:34.058169+09:00",
   "items": [
+    {
+      "code": "7682",
+      "name": "浜木綿",
+      "title": "株式の立会外分売終了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260925540046.pdf",
+      "pubdate": "2026-09-25T10:45:00+09:00"
+    },
+    {
+      "code": "3320",
+      "name": "クロスプラス",
+      "title": "自己株式立会外買付取引（ToSTNeT-３）による 自己株式の取得結果に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260925539964.pdf",
+      "pubdate": "2026-09-25T10:10:00+09:00"
+    },
+    {
+      "code": "5071",
+      "name": "ヴィス",
+      "title": "株式の立会外分売終了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260918538664.pdf",
+      "pubdate": "2026-09-25T10:10:00+09:00"
+    },
+    {
+      "code": "13294",
+      "name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120260925539962.pdf",
+      "pubdate": "2026-09-25T10:00:00+09:00"
+    },
+    {
+      "code": "16714",
+      "name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120260925539929.pdf",
+      "pubdate": "2026-09-25T10:00:00+09:00"
+    },
+    {
+      "code": "4275",
+      "name": "カーリット",
+      "title": "自己株式の取得状況および取得終了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260925539945.pdf",
+      "pubdate": "2026-09-25T10:00:00+09:00"
+    },
+    {
+      "code": "585A4",
+      "name": "Ｅ－ＪＡＭＰＦＭ",
+      "title": "上場ETF（管理会社：JAMPファンド・マネジメント）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120260925539868.pdf",
+      "pubdate": "2026-09-25T10:00:00+09:00"
+    },
+    {
+      "code": "6225",
+      "name": "エコム",
+      "title": "株式の立会外分売終了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260925539946.pdf",
+      "pubdate": "2026-09-25T10:00:00+09:00"
+    },
+    {
+      "code": "9444",
+      "name": "トーシンＨＤ",
+      "title": "財務報告に係る内部統制の開示すべき重要な不備に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260925539913.pdf",
+      "pubdate": "2026-09-25T10:00:00+09:00"
+    },
+    {
+      "code": "7426",
+      "name": "山大",
+      "title": "当社株式の上場廃止に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260925539911.pdf",
+      "pubdate": "2026-09-25T09:40:00+09:00"
+    },
+    {
+      "code": "2629",
+      "name": "ｉＦ中国ＧＢＡ１００",
+      "title": "「iFreeETF 中国グレーターベイエリア・イノベーション100（GBA100）」基準価額と市場価格の重要な乖離に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260925539915.pdf",
+      "pubdate": "2026-09-25T09:35:00+09:00"
+    },
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120260925539873.pdf",
+      "pubdate": "2026-09-25T09:00:00+09:00"
+    },
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120260925539876.pdf",
+      "pubdate": "2026-09-25T09:00:00+09:00"
+    },
+    {
+      "code": "2962",
+      "name": "テクニスコ",
+      "title": "支配株主等に関する事項について",
+      "url": "https://www.release.tdnet.info/inbs/140120260813518839.pdf",
+      "pubdate": "2026-09-25T08:55:00+09:00"
+    },
+    {
+      "code": "247A",
+      "name": "Ｇ－Ａｉロボティクス",
+      "title": "2026年９月末基準日の株主優待品に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260925539881.pdf",
+      "pubdate": "2026-09-25T08:45:00+09:00"
+    },
+    {
+      "code": "4967",
+      "name": "小林製薬",
+      "title": "当社に関する一部報道について",
+      "url": "https://www.release.tdnet.info/inbs/140120260924539827.pdf",
+      "pubdate": "2026-09-25T08:30:00+09:00"
+    },
+    {
+      "code": "7138",
+      "name": "Ｇ－ＴＯＲＩＣＯ",
+      "title": "イーサリアム（ETH）の追加取得に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260925539855.pdf",
+      "pubdate": "2026-09-25T08:30:00+09:00"
+    },
     {
       "code": "464A",
       "name": "Ｇ－ＱＰＳＨＤ",
