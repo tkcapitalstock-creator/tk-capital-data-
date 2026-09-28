@@ -1,145 +1,82 @@
 {
-  "updated_at": "2026-09-28T07:24:16.801286+09:00",
+  "updated_at": "2026-09-28T10:04:06.808579+09:00",
   "items": [
     {
-      "code": "464A",
-      "name": "Ｇ－ＱＰＳＨＤ",
-      "title": "投資家の皆さまより寄せられたご質問および回答内容公開のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260925540309.pdf",
-      "pubdate": "2026-09-25 18:30:00"
+      "code": "16714",
+      "name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120260928540707.pdf",
+      "pubdate": "2026-09-28T10:00:00+09:00"
     },
     {
-      "code": "9470",
-      "name": "学研ＨＤ",
-      "title": "代表取締役の異動（追加選任）に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260925540526.pdf",
-      "pubdate": "2026-09-25 18:30:00"
+      "code": "585A4",
+      "name": "Ｅ－ＪＡＭＰＦＭ",
+      "title": "上場ETF（管理会社：JAMPファンド・マネジメント）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120260928540658.pdf",
+      "pubdate": "2026-09-28T10:00:00+09:00"
     },
     {
-      "code": "198A",
-      "name": "Ｇ－ポストプライム",
-      "title": "支配株主等に関する事項について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260925540488.pdf",
-      "pubdate": "2026-09-25 18:25:00"
+      "code": "7238",
+      "name": "曙ブレーキ",
+      "title": "連結子会社の異動(持分の譲渡及び第三者割当増資)の完了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260928540751.pdf",
+      "pubdate": "2026-09-28T10:00:00+09:00"
     },
     {
-      "code": "6533",
-      "name": "オーケストラＨＤ",
-      "title": "株主優待制度の拡充及び配当予想の修正（増配）に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260925540527.pdf",
-      "pubdate": "2026-09-25 18:15:00"
+      "code": "7915",
+      "name": "ＮＩＳＳＨＡ",
+      "title": "2026年12月期第2四半期（中間期）決算発表日に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260925540239.pdf",
+      "pubdate": "2026-09-28T10:00:00+09:00"
     },
     {
-      "code": "1997",
-      "name": "暁飯島",
-      "title": "役員に対する業績連動型株式報酬制度の導入に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260925539938.pdf",
-      "pubdate": "2026-09-25 18:00:00"
+      "code": "2629",
+      "name": "ｉＦ中国ＧＢＡ１００",
+      "title": "「iFreeETF 中国グレーターベイエリア・イノベーション100（GBA100）」 基準価額と市場価格の重要な乖離に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260928540673.pdf",
+      "pubdate": "2026-09-28T09:30:00+09:00"
     },
     {
-      "code": "6085",
-      "name": "Ｇ－アーキテクツＳＪ",
-      "title": "主要株主の異動に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260925540532.pdf",
-      "pubdate": "2026-09-25 17:55:00"
+      "code": "6513",
+      "name": "オリジン",
+      "title": "財務上の特約が付されたコミットメントライン契約に基づく資金の借入に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260928540660.pdf",
+      "pubdate": "2026-09-28T09:30:00+09:00"
     },
     {
-      "code": "4326",
-      "name": "インテージＨＤ",
-      "title": "支配株主等に関する事項について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260924539685.pdf",
-      "pubdate": "2026-09-25 17:30:00"
+      "code": "4568",
+      "name": "第一三共",
+      "title": "当社に対するNTKからの損害賠償等請求訴訟における控訴提起のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260925540546.pdf",
+      "pubdate": "2026-09-28T08:45:00+09:00"
     },
     {
-      "code": "4326",
-      "name": "インテージＨＤ",
-      "title": "役員の委嘱事項の変更および執行役員の異動ならびに役員体制に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260924539686.pdf",
-      "pubdate": "2026-09-25 17:30:00"
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120260928540647.pdf",
+      "pubdate": "2026-09-28T08:30:00+09:00"
     },
     {
-      "code": "6239",
-      "name": "ナガオカ",
-      "title": "大口受注に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260925540363.pdf",
-      "pubdate": "2026-09-25 17:30:00"
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120260928540648.pdf",
+      "pubdate": "2026-09-28T08:30:00+09:00"
     },
     {
-      "code": "7255",
-      "name": "桜井製作",
-      "title": "上場廃止後の当社株式の取扱いに関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260925540110.pdf",
-      "pubdate": "2026-09-25 17:30:00"
+      "code": "290A",
+      "name": "Ｇ－Ｓｙｎｓ",
+      "title": "自社13機目の小型SAR衛星StriXシリーズ打上げ完了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260926540606.pdf",
+      "pubdate": "2026-09-28T08:30:00+09:00"
     },
     {
-      "code": "8349",
-      "name": "東北銀",
-      "title": "2026年3月期における経営強化計画の履行状況について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260925539880.pdf",
-      "pubdate": "2026-09-25 17:30:00"
-    },
-    {
-      "code": "8559",
-      "name": "豊和銀",
-      "title": "経営強化計画の履行状況（２０２６年３月期）について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260925540186.pdf",
-      "pubdate": "2026-09-25 17:30:00"
-    },
-    {
-      "code": "9158",
-      "name": "Ｇ－シーユーシー",
-      "title": "投資有価証券に係る公開買付けへの不応募契約の締結に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260925540500.pdf",
-      "pubdate": "2026-09-25 17:30:00"
-    },
-    {
-      "code": "6030",
-      "name": "Ｇ－アドベンチャー",
-      "title": "支配株主等に関する事項について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260925540294.pdf",
-      "pubdate": "2026-09-25 17:10:00"
-    },
-    {
-      "code": "7161",
-      "name": "じもとＨＤ",
-      "title": "2026年3月期における経営強化計画の履行状況について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260925539983.pdf",
-      "pubdate": "2026-09-25 17:10:00"
-    },
-    {
-      "code": "1992",
-      "name": "神田通機",
-      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了及び一部失権に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260925539872.pdf",
-      "pubdate": "2026-09-25 17:00:00"
-    },
-    {
-      "code": "3940",
-      "name": "ノムラシステム",
-      "title": "譲渡制限付株式としての自己株式の処分の払込完了に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260909533402.pdf",
-      "pubdate": "2026-09-25 17:00:00"
-    },
-    {
-      "code": "5729",
-      "name": "日精鉱",
-      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了及び一部失権に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260924539787.pdf",
-      "pubdate": "2026-09-25 17:00:00"
-    },
-    {
-      "code": "595A",
-      "name": "Ｐ－不二興産",
-      "title": "販売用不動産の売却に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260925540143.pdf",
-      "pubdate": "2026-09-25 17:00:00"
-    },
-    {
-      "code": "5986",
-      "name": "モリテック",
-      "title": "特別利益（投資有価証券売却益）の計上見込み並びに第２四半期（中間期）及び通期連結業績予想の修正に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260924539798.pdf",
-      "pubdate": "2026-09-25 17:00:00"
+      "code": "538A",
+      "name": "ＮＺＡＭ　米債７１０",
+      "title": "弊社ＥＴＦの基準価額と市場価格の重要な乖離についてのお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260928540618.pdf",
+      "pubdate": "2026-09-28T08:30:00+09:00"
     }
   ]
 }
