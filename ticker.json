@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T15:22:11.729481+09:00",
+  "updated_at": "2026-09-29T22:12:35.462088+09:00",
   "items": [
     {
       "label": "ドル円",
@@ -18,18 +18,18 @@
     },
     {
       "label": "日経225先物",
-      "value": "65,385.00（▼510.00 / ▼0.77%）",
+      "value": "65,800.00（▼95.00 / ▼0.14%）",
       "direction": "down"
     },
     {
       "label": "米10年債利回り",
-      "value": "5.24%（▲6bp）",
-      "direction": "up"
+      "value": "5.23%（▼1bp）",
+      "direction": "down"
     },
     {
       "label": "VIX指数",
-      "value": "16.07（▲1.20 / ▲8.07%）",
-      "direction": "up"
+      "value": "15.89（▼0.18 / ▼1.12%）",
+      "direction": "down"
     },
     {
       "label": "S&P500",
@@ -53,38 +53,38 @@
     },
     {
       "label": "ダウ先物",
-      "value": "51,810.00（▼27.00 / ▼0.05%）",
-      "direction": "down"
+      "value": "51,868.00（▲31.00 / ▲0.06%）",
+      "direction": "up"
     },
     {
       "label": "S&P500先物",
-      "value": "7,738.50（▼8.25 / ▼0.11%）",
-      "direction": "down"
+      "value": "7,754.25（▲7.50 / ▲0.10%）",
+      "direction": "up"
     },
     {
       "label": "ラッセル2000先物",
-      "value": "2,836.10（▼4.00 / ▼0.14%）",
-      "direction": "down"
+      "value": "2,842.80（▲2.70 / ▲0.10%）",
+      "direction": "up"
     },
     {
       "label": "NY金先物",
-      "value": "4,176.40（▲8.00 / ▲0.19%）",
+      "value": "4,184.50（▲16.10 / ▲0.39%）",
       "direction": "up"
     },
     {
       "label": "銀先物",
-      "value": "61.31（▲0.09 / ▲0.16%）",
-      "direction": "up"
+      "value": "61.13（▼0.09 / ▼0.15%）",
+      "direction": "down"
     },
     {
       "label": "銅先物",
-      "value": "6.64（▲0.08 / ▲1.20%）",
+      "value": "6.61（▲0.04 / ▲0.68%）",
       "direction": "up"
     },
     {
       "label": "WTI原油先物",
-      "value": "93.85（▲1.25 / ▲1.35%）",
-      "direction": "up"
+      "value": "90.78（▼1.82 / ▼1.97%）",
+      "direction": "down"
     }
   ]
 }
