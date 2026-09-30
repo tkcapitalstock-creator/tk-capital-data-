@@ -1,145 +1,19 @@
 {
-  "updated_at": "2026-10-01T04:27:00.494030+09:00",
+  "updated_at": "2026-10-01T08:10:01.188179+09:00",
   "items": [
     {
-      "code": "2388",
-      "name": "Ｇ－ウェッジＨＤ",
-      "title": "当社株式の上場廃止の決定及び整理銘柄の指定に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543721.pdf",
-      "pubdate": "2026-09-30 19:00:00"
+      "code": "290A",
+      "name": "Ｇ－Ｓｙｎｓ",
+      "title": "Rocket Lab社との20機の衛星打上げ契約締結に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261001543778.pdf",
+      "pubdate": "2026-10-01T08:00:00+09:00"
     },
     {
-      "code": "4891",
-      "name": "Ｇ－ティムス",
-      "title": "急性腎障害を対象としたTMS-008の前期第II相臨床試験に係る治験計画届書提出のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260929542445.pdf",
-      "pubdate": "2026-09-30 18:40:00"
-    },
-    {
-      "code": "5838",
-      "name": "楽天銀行",
-      "title": "役員の異動に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543550.pdf",
-      "pubdate": "2026-09-30 18:30:00"
-    },
-    {
-      "code": "7813",
-      "name": "プラッツ",
-      "title": "公益財団法人財務会計基準機構への加入状況に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543693.pdf",
-      "pubdate": "2026-09-30 18:30:00"
-    },
-    {
-      "code": "4175",
-      "name": "Ｇ－ｃｏｌｙ",
-      "title": "（訂正）「2027年1月期　第2四半期決算説明会　書き起こし」の一部訂正について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543661.pdf",
-      "pubdate": "2026-09-30 18:15:00"
-    },
-    {
-      "code": "4069",
-      "name": "Ｇ－ＢｌｕｅＭｅｍｅ",
-      "title": "（数値データ訂正）「2025年３月期第１四半期決算短信〔日本基準〕（連結）」",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543569.pdf",
-      "pubdate": "2026-09-30 18:00:00"
-    },
-    {
-      "code": "4069",
-      "name": "Ｇ－ＢｌｕｅＭｅｍｅ",
-      "title": "（数値データ訂正）「2025年３月期第３四半期決算短信〔日本基準〕（連結）」",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543576.pdf",
-      "pubdate": "2026-09-30 18:00:00"
-    },
-    {
-      "code": "4069",
-      "name": "Ｇ－ＢｌｕｅＭｅｍｅ",
-      "title": "（数値データ訂正）「2026年３月期第１四半期決算短信〔日本基準〕（連結）」",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543580.pdf",
-      "pubdate": "2026-09-30 18:00:00"
-    },
-    {
-      "code": "4069",
-      "name": "Ｇ－ＢｌｕｅＭｅｍｅ",
-      "title": "（数値データ訂正）「2026年３月期第３四半期決算短信〔日本基準〕（連結）」",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543501.pdf",
-      "pubdate": "2026-09-30 18:00:00"
-    },
-    {
-      "code": "4069",
-      "name": "Ｇ－ＢｌｕｅＭｅｍｅ",
-      "title": "過年度の有価証券報告書等の訂正報告書の提出及び過年度の決算短信等の訂正に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543571.pdf",
-      "pubdate": "2026-09-30 18:00:00"
-    },
-    {
-      "code": "4069",
-      "name": "Ｇ－ＢｌｕｅＭｅｍｅ",
-      "title": "内部統制報告書の訂正報告書の提出に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543579.pdf",
-      "pubdate": "2026-09-30 18:00:00"
-    },
-    {
-      "code": "4069",
-      "name": "Ｇ－ＢｌｕｅＭｅｍｅ",
-      "title": "2026年３月期 決算短信〔日本基準〕（連結）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543649.pdf",
-      "pubdate": "2026-09-30 18:00:00"
-    },
-    {
-      "code": "4069",
-      "name": "Ｇ－ＢｌｕｅＭｅｍｅ",
-      "title": "2026年3月期 特別損失（投資有価証券評価損）の計上に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543603.pdf",
-      "pubdate": "2026-09-30 18:00:00"
-    },
-    {
-      "code": "4069",
-      "name": "Ｇ－ＢｌｕｅＭｅｍｅ",
-      "title": "2026年3月期 通期決算説明資料",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543610.pdf",
-      "pubdate": "2026-09-30 18:00:00"
-    },
-    {
-      "code": "4069",
-      "name": "Ｇ－ＢｌｕｅＭｅｍｅ",
-      "title": "2026年3月期決算短信の開示が期末後50日を超えたことに関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543646.pdf",
-      "pubdate": "2026-09-30 18:00:00"
-    },
-    {
-      "code": "4069",
-      "name": "Ｇ－ＢｌｕｅＭｅｍｅ",
-      "title": "2026年3月期通期連結業績予想と実績値の差異について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543654.pdf",
-      "pubdate": "2026-09-30 18:00:00"
-    },
-    {
-      "code": "4069",
-      "name": "Ｇ－ＢｌｕｅＭｅｍｅ",
-      "title": "2027年3月期中間期における特別損失（調査関連費用）の計上に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543650.pdf",
-      "pubdate": "2026-09-30 18:00:00"
-    },
-    {
-      "code": "4069",
-      "name": "Ｇ－ＢｌｕｅＭｅｍｅ",
-      "title": "中期経営計画策定に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543644.pdf",
-      "pubdate": "2026-09-30 18:00:00"
-    },
-    {
-      "code": "4069",
-      "name": "Ｇ－ＢｌｕｅＭｅｍｅ",
-      "title": "特別調査委員会の調査結果を受けた再発防止策の策定に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543613.pdf",
-      "pubdate": "2026-09-30 18:00:00"
-    },
-    {
-      "code": "4069",
-      "name": "Ｇ－ＢｌｕｅＭｅｍｅ",
-      "title": "財務報告に係る内部統制の開示すべき重要な不備に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543611.pdf",
-      "pubdate": "2026-09-30 18:00:00"
+      "code": "5592",
+      "name": "Ｇ－くすりの窓口",
+      "title": "自己株式取得状況に関するお知らせ（2026年９月度）",
+      "url": "https://www.release.tdnet.info/inbs/140120260930543527.pdf",
+      "pubdate": "2026-10-01T08:00:00+09:00"
     }
   ]
 }
