@@ -1,6 +1,328 @@
 {
-  "updated_at": "2026-10-01T08:10:01.188179+09:00",
+  "updated_at": "2026-10-01T11:11:21.457787+09:00",
   "items": [
+    {
+      "code": "1961",
+      "name": "三機工",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260930543242.pdf",
+      "pubdate": "2026-10-01T11:00:00+09:00"
+    },
+    {
+      "code": "3151",
+      "name": "バイタルＫＳＫ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260928540870.pdf",
+      "pubdate": "2026-10-01T11:00:00+09:00"
+    },
+    {
+      "code": "4471",
+      "name": "三洋化成",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261001543865.pdf",
+      "pubdate": "2026-10-01T11:00:00+09:00"
+    },
+    {
+      "code": "4888",
+      "name": "Ｇ－ステラファーマ",
+      "title": "深部がんに対する18F-FBPAの取り込み能に関する研究者主導臨床研究の実施契約締結について",
+      "url": "https://www.release.tdnet.info/inbs/140120260930543584.pdf",
+      "pubdate": "2026-10-01T11:00:00+09:00"
+    },
+    {
+      "code": "5195",
+      "name": "バンドー化",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261001544016.pdf",
+      "pubdate": "2026-10-01T11:00:00+09:00"
+    },
+    {
+      "code": "5966",
+      "name": "京都機械工具",
+      "title": "完全子会社の吸収合併完了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260930542970.pdf",
+      "pubdate": "2026-10-01T11:00:00+09:00"
+    },
+    {
+      "code": "640A",
+      "name": "Ｇ－ＡＳＮＯＶＡ",
+      "title": "2027年３月期連結業績予想及び配当予想に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260930542890.pdf",
+      "pubdate": "2026-10-01T11:00:00+09:00"
+    },
+    {
+      "code": "6517",
+      "name": "デンヨー",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260907532373.pdf",
+      "pubdate": "2026-10-01T11:00:00+09:00"
+    },
+    {
+      "code": "9987",
+      "name": "スズケン",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260928541231.pdf",
+      "pubdate": "2026-10-01T11:00:00+09:00"
+    },
+    {
+      "code": "3306",
+      "name": "ＳＥＩＭＡＨＤ",
+      "title": "会社分割による持株会社体制への移行完了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260930542907.pdf",
+      "pubdate": "2026-10-01T10:45:00+09:00"
+    },
+    {
+      "code": "13294",
+      "name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261001543920.pdf",
+      "pubdate": "2026-10-01T10:30:00+09:00"
+    },
+    {
+      "code": "2410",
+      "name": "キャリアＤＣ",
+      "title": "当社株式の監理銘柄（審査中）指定に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261001544015.pdf",
+      "pubdate": "2026-10-01T10:30:00+09:00"
+    },
+    {
+      "code": "6495",
+      "name": "宮入バル",
+      "title": "第三者割当による行使価額修正条項付株式会社宮入バルブ製作所第３回新株予約権（停止要請条項付）の月間行使状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260930543732.pdf",
+      "pubdate": "2026-10-01T10:30:00+09:00"
+    },
+    {
+      "code": "16714",
+      "name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261001543856.pdf",
+      "pubdate": "2026-10-01T10:00:00+09:00"
+    },
+    {
+      "code": "3221",
+      "name": "ヨシックスＨＤ",
+      "title": "自己株式の取得状況に関するお知らせ （会社法第165条第２項の規定による定款の定めに基づく自己株式の取得）",
+      "url": "https://www.release.tdnet.info/inbs/140120261001543945.pdf",
+      "pubdate": "2026-10-01T10:00:00+09:00"
+    },
+    {
+      "code": "3401",
+      "name": "帝人",
+      "title": "（開示事項の経過）帝人フロンティア株式会社及び旭化成アドバンス株式会社の経営統合の完了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260930543124.pdf",
+      "pubdate": "2026-10-01T10:00:00+09:00"
+    },
+    {
+      "code": "3490",
+      "name": "アズ企画設計",
+      "title": "第三者割当による第７回新株予約権及び第８回新株予約権（行使価額修正条項選択権付）並びに第９回新株予約権（行使価額固定型）の月間行使状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260930543617.pdf",
+      "pubdate": "2026-10-01T10:00:00+09:00"
+    },
+    {
+      "code": "3580",
+      "name": "小松マテーレ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261001543830.pdf",
+      "pubdate": "2026-10-01T10:00:00+09:00"
+    },
+    {
+      "code": "3951",
+      "name": "朝日印刷",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260929542354.pdf",
+      "pubdate": "2026-10-01T10:00:00+09:00"
+    },
+    {
+      "code": "585A4",
+      "name": "Ｅ－ＪＡＭＰＦＭ",
+      "title": "上場ETF（管理会社：JAMPファンド・マネジメント）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261001543829.pdf",
+      "pubdate": "2026-10-01T10:00:00+09:00"
+    },
+    {
+      "code": "6302",
+      "name": "住友重",
+      "title": "自己株式の取得状況に関するお知らせ（会社法第165条第2項の規定による定款の定めに基づく自己株式の取得）",
+      "url": "https://www.release.tdnet.info/inbs/140120261001543906.pdf",
+      "pubdate": "2026-10-01T10:00:00+09:00"
+    },
+    {
+      "code": "6929",
+      "name": "日セラミック",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261001543891.pdf",
+      "pubdate": "2026-10-01T10:00:00+09:00"
+    },
+    {
+      "code": "7606",
+      "name": "ＴＡＢＡＹＡ　ＨＤ",
+      "title": "持株会社体制への移行及び商号変更完了、及び移行後の役員・執行役員体制に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261001543967.pdf",
+      "pubdate": "2026-10-01T10:00:00+09:00"
+    },
+    {
+      "code": "7695",
+      "name": "Ｇ－リフォームテクノ",
+      "title": "持株会社体制への移行完了及び商号変更に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261001543901.pdf",
+      "pubdate": "2026-10-01T10:00:00+09:00"
+    },
+    {
+      "code": "7938",
+      "name": "リーガル",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260928541216.pdf",
+      "pubdate": "2026-10-01T10:00:00+09:00"
+    },
+    {
+      "code": "9364",
+      "name": "上組",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261001543933.pdf",
+      "pubdate": "2026-10-01T10:00:00+09:00"
+    },
+    {
+      "code": "9759",
+      "name": "ＮＳＤ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260930543533.pdf",
+      "pubdate": "2026-10-01T10:00:00+09:00"
+    },
+    {
+      "code": "267A",
+      "name": "Ｐ－トワライズ",
+      "title": "（訂正）「2026 年７月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "url": "https://www.release.tdnet.info/inbs/140120260930543517.pdf",
+      "pubdate": "2026-10-01T09:30:00+09:00"
+    },
+    {
+      "code": "5257",
+      "name": "ノバシステム",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260929541884.pdf",
+      "pubdate": "2026-10-01T09:30:00+09:00"
+    },
+    {
+      "code": "6699",
+      "name": "ダイヤＨＤ",
+      "title": "第三者割当により発行された第８回新株予約権（行使価額修正条項付）の月間行使状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260930543586.pdf",
+      "pubdate": "2026-10-01T09:15:00+09:00"
+    },
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261001543833.pdf",
+      "pubdate": "2026-10-01T09:00:00+09:00"
+    },
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261001543834.pdf",
+      "pubdate": "2026-10-01T09:00:00+09:00"
+    },
+    {
+      "code": "3113",
+      "name": "ＵＮＩＶＡ・Ｏａｋ",
+      "title": "当社連結子会社による孫会社設立に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260930543594.pdf",
+      "pubdate": "2026-10-01T09:00:00+09:00"
+    },
+    {
+      "code": "3918",
+      "name": "ＰＣＩソリューション",
+      "title": "（開示事項の経過）当社連結子会社(PCIソリューションズ株式会社)の吸収合併（簡易合併・略式合併）及び商号変更の完了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261001543811.pdf",
+      "pubdate": "2026-10-01T09:00:00+09:00"
+    },
+    {
+      "code": "3940",
+      "name": "ノムラシステム",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260929541914.pdf",
+      "pubdate": "2026-10-01T09:00:00+09:00"
+    },
+    {
+      "code": "640A",
+      "name": "Ｇ－ＡＳＮＯＶＡ",
+      "title": "事業計画及び成長可能性に関する事項",
+      "url": "https://www.release.tdnet.info/inbs/140120260930542988.pdf",
+      "pubdate": "2026-10-01T09:00:00+09:00"
+    },
+    {
+      "code": "640A",
+      "name": "Ｇ－ＡＳＮＯＶＡ",
+      "title": "株式会社ASNOVA Companiesの設立に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260930542952.pdf",
+      "pubdate": "2026-10-01T09:00:00+09:00"
+    },
+    {
+      "code": "286A",
+      "name": "Ｇ－ユカリア",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260930542601.pdf",
+      "pubdate": "2026-10-01T08:59:00+09:00"
+    },
+    {
+      "code": "6523",
+      "name": "ＰＨＣＨＤ",
+      "title": "当社に関する一部報道について",
+      "url": "https://www.release.tdnet.info/inbs/140120260930543785.pdf",
+      "pubdate": "2026-10-01T08:55:00+09:00"
+    },
+    {
+      "code": "8129",
+      "name": "東邦ＨＤ",
+      "title": "一部報道につきまして",
+      "url": "https://www.release.tdnet.info/inbs/140120261001543807.pdf",
+      "pubdate": "2026-10-01T08:55:00+09:00"
+    },
+    {
+      "code": "4586",
+      "name": "Ｇ－メドレック",
+      "title": "第三者割当により発行された第35回新株予約権(行使価額修正条項付)の月間行使状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260928540881.pdf",
+      "pubdate": "2026-10-01T08:50:00+09:00"
+    },
+    {
+      "code": "8001",
+      "name": "伊藤忠",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260930543526.pdf",
+      "pubdate": "2026-10-01T08:50:00+09:00"
+    },
+    {
+      "code": "6072",
+      "name": "ＥＲＴＨ　Ｇｒｏｕｐ",
+      "title": "（開示事項の経過）商号変更のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260928541055.pdf",
+      "pubdate": "2026-10-01T08:45:00+09:00"
+    },
+    {
+      "code": "8002",
+      "name": "丸紅",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261001543803.pdf",
+      "pubdate": "2026-10-01T08:45:00+09:00"
+    },
+    {
+      "code": "8031",
+      "name": "三井物産",
+      "title": "自己株式の取得状況（途中経過）",
+      "url": "https://www.release.tdnet.info/inbs/140120260929542194.pdf",
+      "pubdate": "2026-10-01T08:45:00+09:00"
+    },
+    {
+      "code": "4684",
+      "name": "オービック",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260930543137.pdf",
+      "pubdate": "2026-10-01T08:30:00+09:00"
+    },
     {
       "code": "290A",
       "name": "Ｇ－Ｓｙｎｓ",
