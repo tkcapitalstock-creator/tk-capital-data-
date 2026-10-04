@@ -1,145 +1,19 @@
 {
-  "updated_at": "2026-10-03T15:58:23.744095+09:00",
+  "updated_at": "2026-10-05T08:37:45.312371+09:00",
   "items": [
     {
-      "code": "6141",
-      "name": "ＤＭＧ森精機",
-      "title": "ドミネーション・アグリーメントに係る裁判終結に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545529.pdf",
-      "pubdate": "2026-10-02 19:15:00"
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545622.pdf",
+      "pubdate": "2026-10-05T08:30:00+09:00"
     },
     {
-      "code": "2345",
-      "name": "ＨＯＤＬ１",
-      "title": "臨時株主総会に係る基準日設定に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545495.pdf",
-      "pubdate": "2026-10-02 18:35:00"
-    },
-    {
-      "code": "3083",
-      "name": "スターシーズ",
-      "title": "主要株主の異動に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545542.pdf",
-      "pubdate": "2026-10-02 18:00:00"
-    },
-    {
-      "code": "6723",
-      "name": "ルネサス",
-      "title": "（開示事項の経過）特定子会社の異動（米国での子会社設立）に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545124.pdf",
-      "pubdate": "2026-10-02 17:30:00"
-    },
-    {
-      "code": "9760",
-      "name": "進学会ＨＤ",
-      "title": "連結子会社の保有する有価証券の評価損発生に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545019.pdf",
-      "pubdate": "2026-10-02 17:30:00"
-    },
-    {
-      "code": "7611",
-      "name": "ハイデ日高",
-      "title": "自己株式の取得および自己株式立会外買付取引（ToSTNeT‐３）による 自己株式の買付けに関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545503.pdf",
-      "pubdate": "2026-10-02 17:25:00"
-    },
-    {
-      "code": "3189",
-      "name": "ＡＮＡＰ",
-      "title": "（訂正）「（開示事項の経過）第三者割当による新株式、第11回新株予約権及び第12回新株予約権並びにＡ種種類株式の発行に係る払込完了に関するお知らせ」",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545302.pdf",
-      "pubdate": "2026-10-02 17:10:00"
-    },
-    {
-      "code": "9444",
-      "name": "トーシンＨＤ",
-      "title": "更生計画案に定める第三者割当による種類株式、普通株式及び新株予約権の発行、定款の一部変更並びに主要株主の異動可能性に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545494.pdf",
-      "pubdate": "2026-10-02 17:10:00"
-    },
-    {
-      "code": "9444",
-      "name": "トーシンＨＤ",
-      "title": "資本金及び資本準備金の額の減少に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545501.pdf",
-      "pubdate": "2026-10-02 17:10:00"
-    },
-    {
-      "code": "9444",
-      "name": "トーシンＨＤ",
-      "title": "更生計画案の開示について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545504.pdf",
-      "pubdate": "2026-10-02 17:10:00"
-    },
-    {
-      "code": "2185",
-      "name": "シイエム・シイ",
-      "title": "自己株式の取得結果および取得終了に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260929542397.pdf",
-      "pubdate": "2026-10-02 17:00:00"
-    },
-    {
-      "code": "2345",
-      "name": "ＨＯＤＬ１",
-      "title": "株式会社ベルウッドグループとの合弁会社の設立に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260916537405.pdf",
-      "pubdate": "2026-10-02 17:00:00"
-    },
-    {
-      "code": "341A",
-      "name": "Ｇ－トヨコー",
-      "title": "当社株式の貸借銘柄選定に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543258.pdf",
-      "pubdate": "2026-10-02 17:00:00"
-    },
-    {
-      "code": "5032",
-      "name": "ＡＮＹＣＯＬＯＲ",
-      "title": "自己株式の取得状況に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545433.pdf",
-      "pubdate": "2026-10-02 17:00:00"
-    },
-    {
-      "code": "9235",
-      "name": "Ｇ－売れるネットＧ",
-      "title": "第17回定時株主総会付議議案についてのお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545493.pdf",
-      "pubdate": "2026-10-02 17:00:00"
-    },
-    {
-      "code": "9274",
-      "name": "ＫＰＰグループＨＤ",
-      "title": "当社連結子会社Antalisによる欧州卸売事業会社OptiGroupからの中東欧における紙卸売事業に関する株式取得（孫会社化）に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545466.pdf",
-      "pubdate": "2026-10-02 17:00:00"
-    },
-    {
-      "code": "9284",
-      "name": "Ｉ－カナディアンソラ",
-      "title": "再生可能エネルギー電気特定卸供給に係る契約締結に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545328.pdf",
-      "pubdate": "2026-10-02 17:00:00"
-    },
-    {
-      "code": "6771",
-      "name": "池上通",
-      "title": "当社に対するサイバー攻撃に関するお知らせ(第3報）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545470.pdf",
-      "pubdate": "2026-10-02 16:45:00"
-    },
-    {
-      "code": "6652",
-      "name": "ＩＤＥＣ",
-      "title": "業績予想の修正に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545326.pdf",
-      "pubdate": "2026-10-02 16:30:00"
-    },
-    {
-      "code": "7273",
-      "name": "イクヨ",
-      "title": "自己株式の取得状況及び取得終了に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545212.pdf",
-      "pubdate": "2026-10-02 16:30:00"
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545623.pdf",
+      "pubdate": "2026-10-05T08:30:00+09:00"
     }
   ]
 }
