@@ -1,6 +1,202 @@
 {
-  "updated_at": "2026-10-05T08:37:45.312371+09:00",
+  "updated_at": "2026-10-05T11:24:34.967703+09:00",
   "items": [
+    {
+      "code": "1780",
+      "name": "ヤマウラ",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261002545575.pdf",
+      "pubdate": "2026-10-05T11:00:00+09:00"
+    },
+    {
+      "code": "8255",
+      "name": "アクシアル",
+      "title": "９月度月次業績推移（前年比）",
+      "url": "https://www.release.tdnet.info/inbs/140120260917537913.pdf",
+      "pubdate": "2026-10-05T11:00:00+09:00"
+    },
+    {
+      "code": "9039",
+      "name": "サカイ引越",
+      "title": "2026年９月度月次売上高（速報）に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545697.pdf",
+      "pubdate": "2026-10-05T11:00:00+09:00"
+    },
+    {
+      "code": "8105",
+      "name": "ＢｉｔｃｏｉｎＪＰＮ",
+      "title": "（開示事項の経過）ビットコイン追加購入に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545787.pdf",
+      "pubdate": "2026-10-05T10:45:00+09:00"
+    },
+    {
+      "code": "3317",
+      "name": "フライングＧ",
+      "title": "2027年３月期９月度　月次業績のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261001544214.pdf",
+      "pubdate": "2026-10-05T10:30:00+09:00"
+    },
+    {
+      "code": "1489",
+      "name": "ＮＦ日経高配当５０",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545737.pdf",
+      "pubdate": "2026-10-05T10:15:00+09:00"
+    },
+    {
+      "code": "1577",
+      "name": "ＮＦ日本高配当７０",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545738.pdf",
+      "pubdate": "2026-10-05T10:15:00+09:00"
+    },
+    {
+      "code": "1591",
+      "name": "ＮＦＪＰＸ４００",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545739.pdf",
+      "pubdate": "2026-10-05T10:15:00+09:00"
+    },
+    {
+      "code": "159A",
+      "name": "ＪＰＸプライム１５０",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545740.pdf",
+      "pubdate": "2026-10-05T10:15:00+09:00"
+    },
+    {
+      "code": "200A",
+      "name": "日経半導体株ＥＴＦ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545741.pdf",
+      "pubdate": "2026-10-05T10:15:00+09:00"
+    },
+    {
+      "code": "2084",
+      "name": "日本高配当アクティブ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545742.pdf",
+      "pubdate": "2026-10-05T10:15:00+09:00"
+    },
+    {
+      "code": "2529",
+      "name": "ＮＦ株主還元７０",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545743.pdf",
+      "pubdate": "2026-10-05T10:15:00+09:00"
+    },
+    {
+      "code": "412A",
+      "name": "台湾テック５０",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545744.pdf",
+      "pubdate": "2026-10-05T10:15:00+09:00"
+    },
+    {
+      "code": "586A",
+      "name": "ＮＦ日経エンタメ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545745.pdf",
+      "pubdate": "2026-10-05T10:15:00+09:00"
+    },
+    {
+      "code": "13294",
+      "name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545726.pdf",
+      "pubdate": "2026-10-05T10:10:00+09:00"
+    },
+    {
+      "code": "16714",
+      "name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545685.pdf",
+      "pubdate": "2026-10-05T10:00:00+09:00"
+    },
+    {
+      "code": "2796",
+      "name": "ファーマライズＨＤ",
+      "title": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261001544283.pdf",
+      "pubdate": "2026-10-05T10:00:00+09:00"
+    },
+    {
+      "code": "3941",
+      "name": "レンゴー",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261002545059.pdf",
+      "pubdate": "2026-10-05T10:00:00+09:00"
+    },
+    {
+      "code": "585A4",
+      "name": "Ｅ－ＪＡＭＰＦＭ",
+      "title": "上場ETF（管理会社：JAMPファンド・マネジメント）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545617.pdf",
+      "pubdate": "2026-10-05T10:00:00+09:00"
+    },
+    {
+      "code": "4992",
+      "name": "北興化",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545649.pdf",
+      "pubdate": "2026-10-05T09:30:00+09:00"
+    },
+    {
+      "code": "2753",
+      "name": "あみやき",
+      "title": "2027年3月期第2四半期（中間期）決算短信〔日本基準〕（連結）",
+      "url": "https://www.release.tdnet.info/inbs/140120260926540626.pdf",
+      "pubdate": "2026-10-05T09:00:00+09:00"
+    },
+    {
+      "code": "2753",
+      "name": "あみやき",
+      "title": "第２四半期（累計）連結業績予想と実績値との差異 及び通期業績予想の修正に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260926540628.pdf",
+      "pubdate": "2026-10-05T09:00:00+09:00"
+    },
+    {
+      "code": "9235",
+      "name": "Ｇ－売れるネットＧ",
+      "title": "「第17回定時株主総会招集ご通知」の一部訂正に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545641.pdf",
+      "pubdate": "2026-10-05T08:55:00+09:00"
+    },
+    {
+      "code": "354A",
+      "name": "ｉＦ高配当５０",
+      "title": "iFreeETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545642.pdf",
+      "pubdate": "2026-10-05T08:50:00+09:00"
+    },
+    {
+      "code": "413A",
+      "name": "ｉＦ台湾テック",
+      "title": "iFreeETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545643.pdf",
+      "pubdate": "2026-10-05T08:50:00+09:00"
+    },
+    {
+      "code": "435A",
+      "name": "ｉＦ日本配当ローテ",
+      "title": "iFreeETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545644.pdf",
+      "pubdate": "2026-10-05T08:50:00+09:00"
+    },
+    {
+      "code": "566A",
+      "name": "ｉＦ除金融高配当５０",
+      "title": "iFreeETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545645.pdf",
+      "pubdate": "2026-10-05T08:50:00+09:00"
+    },
+    {
+      "code": "4935",
+      "name": "リベルタ",
+      "title": "（開示事項の変更）株式会社クレアの株式取得（子会社化）に係る譲渡価額変更に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545614.pdf",
+      "pubdate": "2026-10-05T08:45:00+09:00"
+    },
     {
       "code": "16724",
       "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
