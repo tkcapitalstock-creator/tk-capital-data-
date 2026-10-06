@@ -1,145 +1,96 @@
 {
-  "updated_at": "2026-10-06T03:48:43.512940+09:00",
+  "updated_at": "2026-10-06T09:28:19.924230+09:00",
   "items": [
     {
-      "code": "9251",
-      "name": "Ｇ－ＡＢ＆Ｃ",
-      "title": "国内店舗月次営業速報（2026年９月）のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261005545989.pdf",
-      "pubdate": "2026-10-05 19:00:00"
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546320.pdf",
+      "pubdate": "2026-10-06T09:00:00+09:00"
     },
     {
-      "code": "3350",
-      "name": "メタプラネット",
-      "title": "ネット・インタレスト・インカム戦略の導入に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261005546228.pdf",
-      "pubdate": "2026-10-05 18:45:00"
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546322.pdf",
+      "pubdate": "2026-10-06T09:00:00+09:00"
     },
     {
-      "code": "3350",
-      "name": "メタプラネット",
-      "title": "ビットコイン・インカム事業の2026年12月期第３四半期業績に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261005546230.pdf",
-      "pubdate": "2026-10-05 18:45:00"
+      "code": "1399",
+      "name": "上場高配当低ボラ",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006545633.pdf",
+      "pubdate": "2026-10-06T08:55:00+09:00"
     },
     {
-      "code": "3350",
-      "name": "メタプラネット",
-      "title": "キャピタル・アロケーション・ポリシー（資本配分方針）の再改定に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261005546266.pdf",
-      "pubdate": "2026-10-05 18:45:00"
+      "code": "1490",
+      "name": "上場ベータヘッジ",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006545634.pdf",
+      "pubdate": "2026-10-06T08:55:00+09:00"
     },
     {
-      "code": "3350",
-      "name": "メタプラネット",
-      "title": "ビットコインの追加購入に関するお知らせ（流動性の実証を目的としたビットコインの売却・再取得の実施を含む）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261005546273.pdf",
-      "pubdate": "2026-10-05 18:45:00"
+      "code": "1698",
+      "name": "上場配当",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006545635.pdf",
+      "pubdate": "2026-10-06T08:55:00+09:00"
     },
     {
-      "code": "2345",
-      "name": "ＨＯＤＬ１",
-      "title": "暗号資産（イーサリアム）保有状況に関するお知らせ（2026年9月末時点）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261005546240.pdf",
-      "pubdate": "2026-10-05 17:45:00"
+      "code": "2552",
+      "name": "上場ＪリートＭ",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006545636.pdf",
+      "pubdate": "2026-10-06T08:55:00+09:00"
     },
     {
-      "code": "3070",
-      "name": "Ｇ－ジェリービーンズ",
-      "title": "子会社による仲裁申立てに関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261005546236.pdf",
-      "pubdate": "2026-10-05 17:45:00"
+      "code": "2566",
+      "name": "上場ＥＳＧリート",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006545637.pdf",
+      "pubdate": "2026-10-06T08:55:00+09:00"
     },
     {
-      "code": "247A",
-      "name": "Ｇ－Ａｉロボティクス",
-      "title": "（開示事項の経過）ＢＪＣ株式取得資金の長期借入金への借換え及び財務上の特約付金銭消費貸借契約の締結に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545423.pdf",
-      "pubdate": "2026-10-05 17:30:00"
+      "code": "540A",
+      "name": "上場日経銀行株１０",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006545638.pdf",
+      "pubdate": "2026-10-06T08:55:00+09:00"
     },
     {
-      "code": "3097",
-      "name": "物語コーポ",
-      "title": "当社『焼肉きんぐ』公式アプリ会員管理システムへの第三者からの不正アクセスによる個人情報漏えいに関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261005546223.pdf",
-      "pubdate": "2026-10-05 17:05:00"
+      "code": "1319",
+      "name": "ＮＦ日経３００",
+      "title": "「NEXT FUNDS 日経300株価指数連動型上場投信」基準価額と市場価格の重要な乖離に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546316.pdf",
+      "pubdate": "2026-10-06T08:50:00+09:00"
     },
     {
-      "code": "4390",
-      "name": "ｉｐｓ",
-      "title": "新株式発行及び株式売出しに関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545589.pdf",
-      "pubdate": "2026-10-05 17:05:00"
+      "code": "4563",
+      "name": "Ｇ－アンジェス",
+      "title": "共同開発品Tie2受容体アゴニスト(AV-001)の皮下注製剤の開発推進に向けた助成金獲得のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545973.pdf",
+      "pubdate": "2026-10-06T08:45:00+09:00"
     },
     {
-      "code": "4390",
-      "name": "ｉｐｓ",
-      "title": "2027年３月期第１四半期決算短信〔日本基準〕（連結）（公認会計士等による期中レビューの完了）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545592.pdf",
-      "pubdate": "2026-10-05 17:05:00"
+      "code": "4582",
+      "name": "Ｇ－シンバイオ製薬",
+      "title": "ブリンシドホビル（BCV）の英国における条件付き早期製造販売承認（CMA）取得に向けた協議開始",
+      "url": "https://www.release.tdnet.info/inbs/140120261006545630.pdf",
+      "pubdate": "2026-10-06T08:44:00+09:00"
     },
     {
-      "code": "4390",
-      "name": "ｉｐｓ",
-      "title": "国内公募増資に関する補足説明資料",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545585.pdf",
-      "pubdate": "2026-10-05 17:05:00"
+      "code": "7138",
+      "name": "Ｇ－ＴＯＲＩＣＯ",
+      "title": "イーサリアム（ETH）の追加取得に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546309.pdf",
+      "pubdate": "2026-10-06T08:30:00+09:00"
     },
     {
-      "code": "7419",
-      "name": "ノジマ",
-      "title": "ストック・オプション（新株予約権）発行内容の一部変更及び確定に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261005546192.pdf",
-      "pubdate": "2026-10-05 17:00:00"
-    },
-    {
-      "code": "9235",
-      "name": "Ｇ－売れるネットＧ",
-      "title": "定款の一部変更に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261005546147.pdf",
-      "pubdate": "2026-10-05 17:00:00"
-    },
-    {
-      "code": "9780",
-      "name": "ハリマビステム",
-      "title": "取締役の辞任に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261005545763.pdf",
-      "pubdate": "2026-10-05 17:00:00"
-    },
-    {
-      "code": "465A",
-      "name": "ＧＸ日経株主還元",
-      "title": "ETFの収益分配のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261005546071.pdf",
-      "pubdate": "2026-10-05 16:30:00"
-    },
-    {
-      "code": "4671",
-      "name": "ファルコＨＤ",
-      "title": "自己株式の取得状況に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261005545814.pdf",
-      "pubdate": "2026-10-05 16:30:00"
-    },
-    {
-      "code": "481A",
-      "name": "Ｐ－Ｊセキュリティ",
-      "title": "固定資産（無形固定資産）の取得に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261005546129.pdf",
-      "pubdate": "2026-10-05 16:30:00"
-    },
-    {
-      "code": "5658",
-      "name": "日亜鋼",
-      "title": "自己株式の取得状況に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261005546182.pdf",
-      "pubdate": "2026-10-05 16:30:00"
-    },
-    {
-      "code": "5840",
-      "name": "Ｐ－日本総険",
-      "title": "（開示事項の経過）公認会計士等の異動及び一時会計監査人の選任に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261005546142.pdf",
-      "pubdate": "2026-10-05 16:30:00"
+      "code": "7138",
+      "name": "Ｇ－ＴＯＲＩＣＯ",
+      "title": "イーサリアム（ETH）の追加取得及び月次保有状況に関するお知らせ（2026年９月末時点）",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546310.pdf",
+      "pubdate": "2026-10-06T08:30:00+09:00"
     }
   ]
 }
