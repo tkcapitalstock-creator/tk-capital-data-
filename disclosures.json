@@ -1,145 +1,257 @@
 {
-  "updated_at": "2026-10-07T08:03:58.606261+09:00",
+  "updated_at": "2026-10-07T11:20:39.639445+09:00",
   "items": [
     {
-      "code": "3469",
-      "name": "デュアルタップ",
-      "title": "宅地建物取引業免許の取消処分に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261006546897.pdf",
-      "pubdate": "2026-10-06 19:00:00"
+      "code": "8254",
+      "name": "さいか屋",
+      "title": "特別利益(受取配当金等）の計上のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120260908533171.pdf",
+      "pubdate": "2026-10-07T11:00:00+09:00"
     },
     {
-      "code": "3695",
-      "name": "Ｇ－ＧＭＯ－ＰＰ",
-      "title": "連結子会社運営サイト「infoQ」への不正アクセスおよび個人情報漏えいに関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261006546782.pdf",
-      "pubdate": "2026-10-06 19:00:00"
+      "code": "8766",
+      "name": "東京海上",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261007546981.pdf",
+      "pubdate": "2026-10-07T11:00:00+09:00"
     },
     {
-      "code": "6267",
-      "name": "ゼネパッカー",
-      "title": "（開示事項の経過）海外子会社の設立登記完了に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261006546893.pdf",
-      "pubdate": "2026-10-06 19:00:00"
+      "code": "9532",
+      "name": "大瓦斯",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261002545183.pdf",
+      "pubdate": "2026-10-07T11:00:00+09:00"
     },
     {
-      "code": "7743",
-      "name": "シード",
-      "title": "臨時株主総会招集のための基準日設定に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545416.pdf",
-      "pubdate": "2026-10-06 18:30:00"
+      "code": "9973",
+      "name": "ＫＯＺＯＨＤ",
+      "title": "2026年12月期　９月度月次前年比データ（速報値）についてのお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261007547034.pdf",
+      "pubdate": "2026-10-07T11:00:00+09:00"
     },
     {
-      "code": "3843",
-      "name": "フリービット",
-      "title": "特別調査委員会の調査報告書の公表及び再発防止策の策定に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261006546673.pdf",
-      "pubdate": "2026-10-06 18:15:00"
+      "code": "170A",
+      "name": "ＳＭＴ　日本好配当株",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261007547058.pdf",
+      "pubdate": "2026-10-07T10:40:00+09:00"
     },
     {
-      "code": "3843",
-      "name": "フリービット",
-      "title": "代表取締役の異動及び役員人事に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261001544299.pdf",
-      "pubdate": "2026-10-06 18:15:00"
+      "code": "1499",
+      "name": "ＭＸＳ高配当７０ＭＮ",
+      "title": "ＭＡＸＩＳ ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261007547036.pdf",
+      "pubdate": "2026-10-07T10:30:00+09:00"
     },
     {
-      "code": "3498",
-      "name": "霞ヶ関キャピタル",
-      "title": "2026年8月期　決算説明資料",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261006546850.pdf",
-      "pubdate": "2026-10-06 18:00:00"
+      "code": "1660",
+      "name": "ＭＸＳ高利Ｊリート",
+      "title": "ＭＡＸＩＳ ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261007547037.pdf",
+      "pubdate": "2026-10-07T10:30:00+09:00"
     },
     {
-      "code": "6573",
-      "name": "Ｇ－ＣＲＡＶＩＡ",
-      "title": "韓国企業Redstart ENM Inc.との資本業務提携及び株式取得（持分法適用関連会社化）及び資金貸付に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261005546100.pdf",
-      "pubdate": "2026-10-06 18:00:00"
+      "code": "1671",
+      "name": "ＷＴＩ原油ＥＴＦ",
+      "title": "ETFの約款変更に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261007547025.pdf",
+      "pubdate": "2026-10-07T10:30:00+09:00"
     },
     {
-      "code": "6573",
-      "name": "Ｇ－ＣＲＡＶＩＡ",
-      "title": "資金使途変更に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261005546154.pdf",
-      "pubdate": "2026-10-06 18:00:00"
+      "code": "2085",
+      "name": "ＭＸ高配日株ア",
+      "title": "ＭＡＸＩＳ ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261007547038.pdf",
+      "pubdate": "2026-10-07T10:30:00+09:00"
     },
     {
-      "code": "7678",
-      "name": "あさくま",
-      "title": "2027年１月期 ９月度売上高前年対比等のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261006546843.pdf",
-      "pubdate": "2026-10-06 18:00:00"
+      "code": "318A",
+      "name": "ＶＩＸ先物ＥＴＦ",
+      "title": "ETFの約款変更に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261007547028.pdf",
+      "pubdate": "2026-10-07T10:30:00+09:00"
     },
     {
-      "code": "7752",
-      "name": "リコー",
-      "title": "独立社外取締役を主体とした「ストラテジック・レビュー」の実施に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261006546395.pdf",
-      "pubdate": "2026-10-06 18:00:00"
+      "code": "8219",
+      "name": "青山商",
+      "title": "2026年9月　月次売上高前年比（速報）に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546818.pdf",
+      "pubdate": "2026-10-07T10:30:00+09:00"
     },
     {
-      "code": "7827",
-      "name": "オービス",
-      "title": "公開買付けに準ずる行為として政令で定める買集め行為に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261006546776.pdf",
-      "pubdate": "2026-10-06 17:45:00"
+      "code": "13294",
+      "name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261007546995.pdf",
+      "pubdate": "2026-10-07T10:00:00+09:00"
     },
     {
-      "code": "4813",
-      "name": "ＡＣＣＥＳＳ",
-      "title": "米国における当社及び当社米国子会社等に対する訴訟の提起に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261006546745.pdf",
-      "pubdate": "2026-10-06 17:30:00"
+      "code": "16714",
+      "name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261007546940.pdf",
+      "pubdate": "2026-10-07T10:00:00+09:00"
     },
     {
-      "code": "9238",
-      "name": "Ｇ－バリューＣ",
-      "title": "ジー・プラン株式会社に対する反訴の提起に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261006546694.pdf",
-      "pubdate": "2026-10-06 17:30:00"
+      "code": "2094",
+      "name": "ＲＥＩＴインバース",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261007546959.pdf",
+      "pubdate": "2026-10-07T10:00:00+09:00"
     },
     {
-      "code": "1723",
-      "name": "日本電技",
-      "title": "売出価格等の決定に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261006546804.pdf",
-      "pubdate": "2026-10-06 17:15:00"
+      "code": "2555",
+      "name": "東証ＲＥＩＴ－ＥＴＦ",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261007546960.pdf",
+      "pubdate": "2026-10-07T10:00:00+09:00"
     },
     {
-      "code": "8129",
-      "name": "東邦ＨＤ",
-      "title": "新株予約権無償割当て差止めの仮処分の決定に対する保全異議の申立てに関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261006546779.pdf",
-      "pubdate": "2026-10-06 17:15:00"
+      "code": "360A",
+      "name": "リートコア",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261007546961.pdf",
+      "pubdate": "2026-10-07T10:00:00+09:00"
     },
     {
-      "code": "2929",
-      "name": "ファーマフーズ",
-      "title": "株式会社マリン・プロフーズの株式取得（子会社化）に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261006546305.pdf",
-      "pubdate": "2026-10-06 17:00:00"
+      "code": "396A",
+      "name": "業界改革厳選ＲＥＩＴ",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261007546962.pdf",
+      "pubdate": "2026-10-07T10:00:00+09:00"
     },
     {
-      "code": "402A",
-      "name": "Ｇ－アクセルスペース",
-      "title": "2027年５月期 通期業績予想の修正及び特別損失の計上に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261006546645.pdf",
-      "pubdate": "2026-10-06 17:00:00"
+      "code": "585A4",
+      "name": "Ｅ－ＪＡＭＰＦＭ",
+      "title": "上場ETF（管理会社：JAMPファンド・マネジメント）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261007546957.pdf",
+      "pubdate": "2026-10-07T10:00:00+09:00"
     },
     {
-      "code": "402A",
-      "name": "Ｇ－アクセルスペース",
-      "title": "（開示事項の経過）AxelGlobe事業の小型衛星「GRUS-3」の不具合に関する状況のご報告及び「GRUS-3不具合検証アドバイザリーボード」の設置について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261006546646.pdf",
-      "pubdate": "2026-10-06 17:00:00"
+      "code": "6859",
+      "name": "エスペック",
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546916.pdf",
+      "pubdate": "2026-10-07T10:00:00+09:00"
     },
     {
-      "code": "402A",
-      "name": "Ｇ－アクセルスペース",
-      "title": "小型衛星「GRUS-3」の不具合ならびに2027年５月期　通期業績予想の修正に関する補足説明資料",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261006546648.pdf",
-      "pubdate": "2026-10-06 17:00:00"
+      "code": "1677",
+      "name": "上場外債",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261007546927.pdf",
+      "pubdate": "2026-10-07T08:55:00+09:00"
+    },
+    {
+      "code": "140A",
+      "name": "ｉＦ米１０国債ベア",
+      "title": "iFreeETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546887.pdf",
+      "pubdate": "2026-10-07T08:50:00+09:00"
+    },
+    {
+      "code": "2017",
+      "name": "ｉＦＪＰＸプラ１５０",
+      "title": "iFreeETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546888.pdf",
+      "pubdate": "2026-10-07T08:50:00+09:00"
+    },
+    {
+      "code": "2624",
+      "name": "ｉＦ２２５年４",
+      "title": "iFreeETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546889.pdf",
+      "pubdate": "2026-10-07T08:50:00+09:00"
+    },
+    {
+      "code": "2625",
+      "name": "ｉＦＴＰＸ年４",
+      "title": "iFreeETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546890.pdf",
+      "pubdate": "2026-10-07T08:50:00+09:00"
+    },
+    {
+      "code": "2865",
+      "name": "ＧＸＮＤＸカバコ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546853.pdf",
+      "pubdate": "2026-10-07T08:50:00+09:00"
+    },
+    {
+      "code": "2866",
+      "name": "ＧＸ優先証券",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546854.pdf",
+      "pubdate": "2026-10-07T08:50:00+09:00"
+    },
+    {
+      "code": "2868",
+      "name": "ＧＸＳＰＸカバコ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546855.pdf",
+      "pubdate": "2026-10-07T08:50:00+09:00"
+    },
+    {
+      "code": "356A",
+      "name": "ＧＸＳＰＣＦ１００",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546856.pdf",
+      "pubdate": "2026-10-07T08:50:00+09:00"
+    },
+    {
+      "code": "363A",
+      "name": "ｉＦ英国ＦＴ１００",
+      "title": "iFreeETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546891.pdf",
+      "pubdate": "2026-10-07T08:50:00+09:00"
+    },
+    {
+      "code": "379A",
+      "name": "ＧＸＳＰＸプロテクト",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546857.pdf",
+      "pubdate": "2026-10-07T08:50:00+09:00"
+    },
+    {
+      "code": "4586",
+      "name": "メドレックス",
+      "title": "東京証券取引所「スタンダード市場」への市場区分変更に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546349.pdf",
+      "pubdate": "2026-10-07T08:50:00+09:00"
+    },
+    {
+      "code": "563A",
+      "name": "ＧＸナスＤカバコ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546858.pdf",
+      "pubdate": "2026-10-07T08:50:00+09:00"
+    },
+    {
+      "code": "564A",
+      "name": "ＧＸ先進ＣＦ１００",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546859.pdf",
+      "pubdate": "2026-10-07T08:50:00+09:00"
+    },
+    {
+      "code": "576A",
+      "name": "ＧＸチャイテクカバコ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546860.pdf",
+      "pubdate": "2026-10-07T08:50:00+09:00"
+    },
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261007546955.pdf",
+      "pubdate": "2026-10-07T08:30:00+09:00"
+    },
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261007546956.pdf",
+      "pubdate": "2026-10-07T08:30:00+09:00"
     }
   ]
 }
