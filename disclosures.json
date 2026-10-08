@@ -1,145 +1,82 @@
 {
-  "updated_at": "2026-10-08T06:28:32.707067+09:00",
+  "updated_at": "2026-10-08T10:15:16.724139+09:00",
   "items": [
     {
-      "code": "576A",
-      "name": "ＧＸチャイテクカバコ",
-      "title": "ETFの収益分配金見込額の修正のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261007547474.pdf",
-      "pubdate": "2026-10-07 18:30:00"
+      "code": "13294",
+      "name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261008547650.pdf",
+      "pubdate": "2026-10-08T10:00:00+09:00"
     },
     {
-      "code": "5987",
-      "name": "オーネックス",
-      "title": "第三者割当による新株式の失権、第１回新株予約権の発行の払込完了並びに主要株主の異動の取り消しに関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261007547549.pdf",
-      "pubdate": "2026-10-07 18:30:00"
+      "code": "16714",
+      "name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261008547654.pdf",
+      "pubdate": "2026-10-08T10:00:00+09:00"
     },
     {
-      "code": "354A",
-      "name": "ｉＦ高配当５０",
-      "title": "iFreeETFの収益分配のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261007547520.pdf",
-      "pubdate": "2026-10-07 18:25:00"
+      "code": "585A4",
+      "name": "Ｅ－ＪＡＭＰＦＭ",
+      "title": "上場ETF（管理会社：JAMPファンド・マネジメント）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261008547576.pdf",
+      "pubdate": "2026-10-08T10:00:00+09:00"
     },
     {
-      "code": "413A",
-      "name": "ｉＦ台湾テック",
-      "title": "iFreeETFの収益分配のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261007547541.pdf",
-      "pubdate": "2026-10-07 18:25:00"
+      "code": "7490",
+      "name": "日新商",
+      "title": "当社株式の上場廃止に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261007547402.pdf",
+      "pubdate": "2026-10-08T10:00:00+09:00"
     },
     {
-      "code": "435A",
-      "name": "ｉＦ日本配当ローテ",
-      "title": "iFreeETFの収益分配のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261007547542.pdf",
-      "pubdate": "2026-10-07 18:25:00"
+      "code": "8052",
+      "name": "椿本興",
+      "title": "従業員持株会向け譲渡制限付株式インセンティブとしての自己株式の処分の払込完了及び一部失権に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546797.pdf",
+      "pubdate": "2026-10-08T10:00:00+09:00"
     },
     {
-      "code": "566A",
-      "name": "ｉＦ除金融高配当５０",
-      "title": "iFreeETFの収益分配のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261007547543.pdf",
-      "pubdate": "2026-10-07 18:25:00"
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261008547574.pdf",
+      "pubdate": "2026-10-08T08:45:00+09:00"
     },
     {
-      "code": "1489",
-      "name": "ＮＦ日経高配当５０",
-      "title": "ETFの収益分配のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261007547482.pdf",
-      "pubdate": "2026-10-07 17:45:00"
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261008547575.pdf",
+      "pubdate": "2026-10-08T08:45:00+09:00"
     },
     {
-      "code": "1577",
-      "name": "ＮＦ日本高配当７０",
-      "title": "ETFの収益分配のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261007547483.pdf",
-      "pubdate": "2026-10-07 17:45:00"
+      "code": "645A",
+      "name": "Ｐ－デジタルベリー",
+      "title": "東京証券取引所TOKYO PRO Marketへの新規上場のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546750.pdf",
+      "pubdate": "2026-10-08T08:00:00+09:00"
     },
     {
-      "code": "1591",
-      "name": "ＮＦＪＰＸ４００",
-      "title": "ETFの収益分配のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261007547484.pdf",
-      "pubdate": "2026-10-07 17:45:00"
+      "code": "645A",
+      "name": "Ｐ－デジタルベリー",
+      "title": "流動性プロバイダー指定のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546753.pdf",
+      "pubdate": "2026-10-08T08:00:00+09:00"
     },
     {
-      "code": "159A",
-      "name": "ＪＰＸプライム１５０",
-      "title": "ETFの収益分配のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261007547485.pdf",
-      "pubdate": "2026-10-07 17:45:00"
+      "code": "645A",
+      "name": "Ｐ－デジタルベリー",
+      "title": "TOKYO PRO Market 上場目的の開示のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546760.pdf",
+      "pubdate": "2026-10-08T08:00:00+09:00"
     },
     {
-      "code": "200A",
-      "name": "日経半導体株ＥＴＦ",
-      "title": "ETFの収益分配のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261007547486.pdf",
-      "pubdate": "2026-10-07 17:45:00"
-    },
-    {
-      "code": "2084",
-      "name": "日本高配当アクティブ",
-      "title": "ETFの収益分配のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261007547487.pdf",
-      "pubdate": "2026-10-07 17:45:00"
-    },
-    {
-      "code": "2529",
-      "name": "ＮＦ株主還元７０",
-      "title": "ETFの収益分配のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261007547488.pdf",
-      "pubdate": "2026-10-07 17:45:00"
-    },
-    {
-      "code": "412A",
-      "name": "台湾テック５０",
-      "title": "ETFの収益分配のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261007547489.pdf",
-      "pubdate": "2026-10-07 17:45:00"
-    },
-    {
-      "code": "586A",
-      "name": "ＮＦ日経エンタメ",
-      "title": "ETFの収益分配のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261007547490.pdf",
-      "pubdate": "2026-10-07 17:45:00"
-    },
-    {
-      "code": "6890",
-      "name": "フェローテック",
-      "title": "TOPIX（東証株価指数）構成銘柄への新規採用に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261006546922.pdf",
-      "pubdate": "2026-10-07 17:30:00"
-    },
-    {
-      "code": "3763",
-      "name": "プロシップ",
-      "title": "当社主要株主による株式売却に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261007547324.pdf",
-      "pubdate": "2026-10-07 17:10:00"
-    },
-    {
-      "code": "2160",
-      "name": "Ｇ－ＧＮＩ",
-      "title": "グロース市場からTOPIXへ――ジーエヌアイグループ、制度改革後初の定期入替で新規採用",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261007547179.pdf",
-      "pubdate": "2026-10-07 17:00:00"
-    },
-    {
-      "code": "4221",
-      "name": "大倉工",
-      "title": "売出価格等の決定に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261007547371.pdf",
-      "pubdate": "2026-10-07 17:00:00"
-    },
-    {
-      "code": "4578",
-      "name": "大塚ＨＤ",
-      "title": "IgA腎症治療薬「VOYXACT（シベプレンリマブ）」米国で生物製剤承認一部変更申請（sBLA）の段階的提出を完了",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261007547350.pdf",
-      "pubdate": "2026-10-07 17:00:00"
+      "code": "645A",
+      "name": "Ｐ－デジタルベリー",
+      "title": "東京証券取引所 TOKYO PRO Market 上場に伴う当社決算情報等のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261006546754.pdf",
+      "pubdate": "2026-10-08T08:00:00+09:00"
     }
   ]
 }
