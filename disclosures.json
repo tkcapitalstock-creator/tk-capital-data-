@@ -1,145 +1,82 @@
 {
-  "updated_at": "2026-10-15T07:35:59.076288+09:00",
+  "updated_at": "2026-10-15T09:52:41.887669+09:00",
   "items": [
+    {
+      "code": "3083",
+      "name": "スターシーズ",
+      "title": "（訂正）「2027年２月期 第２四半期（中間期）決算短信〔日本基準〕(連結)」の一部訂正について",
+      "url": "https://www.release.tdnet.info/inbs/140120261015550977.pdf",
+      "pubdate": "2026-10-15T09:40:00+09:00"
+    },
+    {
+      "code": "3435",
+      "name": "サンコーテクノ",
+      "title": "自己株式立会外買付取引（ＴｏＳＴＮｅＴ－３）による自己株式の取得結果および 取得終了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261015550985.pdf",
+      "pubdate": "2026-10-15T09:30:00+09:00"
+    },
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261015550961.pdf",
+      "pubdate": "2026-10-15T09:00:00+09:00"
+    },
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261015550963.pdf",
+      "pubdate": "2026-10-15T09:00:00+09:00"
+    },
+    {
+      "code": "4480",
+      "name": "メドレー",
+      "title": "当社サービス「アットリンク」への不正アクセス及びサービスの一時停止に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261014550839.pdf",
+      "pubdate": "2026-10-15T09:00:00+09:00"
+    },
+    {
+      "code": "9560",
+      "name": "Ｇ－プログリット",
+      "title": "2026年８月期 通期決算に関する質疑応答（要旨）",
+      "url": "https://www.release.tdnet.info/inbs/140120261015550946.pdf",
+      "pubdate": "2026-10-15T09:00:00+09:00"
+    },
+    {
+      "code": "4728",
+      "name": "トーセ",
+      "title": "2026年８月期　決算説明資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261014550647.pdf",
+      "pubdate": "2026-10-15T08:50:00+09:00"
+    },
     {
       "code": "2371",
       "name": "カカクコム",
-      "title": "Kamgras １株式会社による株式会社カカクコム（証券コード：2371）の株券等に対する公開買付けの買付条件等の変更に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261014550805.pdf",
-      "pubdate": "2026-10-14 17:40:00"
+      "title": "（変更）「Kamgras １株式会社による当社株券等に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部変更に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261015550498.pdf",
+      "pubdate": "2026-10-15T08:30:00+09:00"
     },
     {
-      "code": "4390",
-      "name": "ｉｐｓ",
-      "title": "発行価格及び売出価格等の決定に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261014550124.pdf",
-      "pubdate": "2026-10-14 17:30:00"
+      "code": "648A",
+      "name": "Ｇ－ルクレ",
+      "title": "東京証券取引所グロース市場への上場に伴う当社決算情報等のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261014550833.pdf",
+      "pubdate": "2026-10-15T08:00:00+09:00"
     },
     {
-      "code": "464A",
-      "name": "Ｇ－ＱＰＳＨＤ",
-      "title": "連結業績予想修正に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261014550601.pdf",
-      "pubdate": "2026-10-14 17:30:00"
+      "code": "648A",
+      "name": "Ｇ－ルクレ",
+      "title": "事業計画及び成長可能性に関する事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261014550834.pdf",
+      "pubdate": "2026-10-15T08:00:00+09:00"
     },
     {
-      "code": "464A",
-      "name": "Ｇ－ＱＰＳＨＤ",
-      "title": "2027年５月期第１四半期決算説明資料",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261014550627.pdf",
-      "pubdate": "2026-10-14 17:30:00"
-    },
-    {
-      "code": "464A",
-      "name": "Ｇ－ＱＰＳＨＤ",
-      "title": "2027年５月期 第１四半期 決算短信〔日本基準〕（連結）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261014550614.pdf",
-      "pubdate": "2026-10-14 17:30:00"
-    },
-    {
-      "code": "9337",
-      "name": "Ｇ－トリドリ",
-      "title": "完全子会社間の合併に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261014550379.pdf",
-      "pubdate": "2026-10-14 17:30:00"
-    },
-    {
-      "code": "4575",
-      "name": "Ｇ－ＣＡＮＢＡＳ",
-      "title": "第22～24回新株予約権の発行に関する補足ご説明資料",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261014550587.pdf",
-      "pubdate": "2026-10-14 17:05:00"
-    },
-    {
-      "code": "4575",
-      "name": "Ｇ－ＣＡＮＢＡＳ",
-      "title": "第三者割当による第22回新株予約権（行使価額修正条項付）、第23回・第24回新株予約権（行使価額修正選択権付）の発行に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261014550549.pdf",
-      "pubdate": "2026-10-14 17:05:00"
-    },
-    {
-      "code": "4575",
-      "name": "Ｇ－ＣＡＮＢＡＳ",
-      "title": "極度方式基本契約の締結に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261014550556.pdf",
-      "pubdate": "2026-10-14 17:05:00"
-    },
-    {
-      "code": "4575",
-      "name": "Ｇ－ＣＡＮＢＡＳ",
-      "title": "調達資金の使途及び支出時期の変更について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261014550584.pdf",
-      "pubdate": "2026-10-14 17:05:00"
-    },
-    {
-      "code": "152A",
-      "name": "Ｐ－オプティ",
-      "title": "2027年2月期 中間決算短信〔日本基準〕（非連結）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261014550261.pdf",
-      "pubdate": "2026-10-14 17:00:00"
-    },
-    {
-      "code": "152A",
-      "name": "Ｐ－オプティ",
-      "title": "TOKYO PRO Market への上場目的の開示について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261014550266.pdf",
-      "pubdate": "2026-10-14 17:00:00"
-    },
-    {
-      "code": "284A",
-      "name": "Ｐ－フクヤ建設",
-      "title": "2026年８月期 決算短信〔日本基準〕（連結）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261014550547.pdf",
-      "pubdate": "2026-10-14 17:00:00"
-    },
-    {
-      "code": "3083",
-      "name": "スターシーズ",
-      "title": "2027年２月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261014550550.pdf",
-      "pubdate": "2026-10-14 17:00:00"
-    },
-    {
-      "code": "3083",
-      "name": "スターシーズ",
-      "title": "2027年２月期第２四半期（中間期）連結業績予想と実績値との差異に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261014550591.pdf",
-      "pubdate": "2026-10-14 17:00:00"
-    },
-    {
-      "code": "3083",
-      "name": "スターシーズ",
-      "title": "2027年2月期第2四半期（中間期）決算説明資料",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261014550625.pdf",
-      "pubdate": "2026-10-14 17:00:00"
-    },
-    {
-      "code": "3221",
-      "name": "ヨシックスＨＤ",
-      "title": "2027年３月期 ９月度 店舗数の状況及び月次売上高前年対比のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261014550595.pdf",
-      "pubdate": "2026-10-14 17:00:00"
-    },
-    {
-      "code": "329A",
-      "name": "Ｐ－ジール",
-      "title": "2026年８月期 決算短信〔日本基準〕（非連結）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261008547819.pdf",
-      "pubdate": "2026-10-14 17:00:00"
-    },
-    {
-      "code": "329A",
-      "name": "Ｐ－ジール",
-      "title": "剰余金の配当に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261013549566.pdf",
-      "pubdate": "2026-10-14 17:00:00"
-    },
-    {
-      "code": "329A",
-      "name": "Ｐ－ジール",
-      "title": "固定資産の除却及び特別損失の計上に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261013549569.pdf",
-      "pubdate": "2026-10-14 17:00:00"
+      "code": "648A",
+      "name": "Ｇ－ルクレ",
+      "title": "親会社以外の支配株主及び主要株主の異動に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261014550836.pdf",
+      "pubdate": "2026-10-15T08:00:00+09:00"
     }
   ]
 }
