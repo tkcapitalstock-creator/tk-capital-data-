@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-10-16T00:10:01.884186+09:00",
+  "updated_at": "2026-10-16T04:11:50.967599+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
+      "source": "Googleニュース",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "新農相に武部新氏が就任、父に続く起用に「培ってきたものを全力で」…前任の簗氏には「説明責任果たして」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfa1FDVWZFOXNPeFY2cEFWNFFsVm01YVhGZzZRRjdrYTRCQmR5QTQ2UGdPcWNIQzZBU2N3OUtmeUJObXkzNnBqNlB3eWR5Q1JQQTE5WGE1U1BBQXpKdUZOOFhwdmw3UQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "ウクライナがロシア製油所攻撃を再開へ ゼレンスキー氏が英紙に表明、トランプ氏に不満（CNN.co.jp）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VTlZZYkhqMTRZbTdXd0JVOWpMRldOUlFVd3A2VFhvTWJLS0RGOG1uNEtCMmR3NkNwT212UjJTRlBBcVhMZ0RxZ3RPM0JGTnFSd2dENE1Pb0FENVNWemxnWG1DSEt2a09jdmRfemp5cWxQYVhRZ0xMcVNoRmRnemM?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "検査をすり抜けた乳がん 梅宮アンナさんが気づいた「異変」",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DRkstdmROODVIN21fS3FZQTZNMVBtV0w5VUdJM1ZHUUlOZ0RQektfWE9RQUpHRkZ6NlZweExZb3RwWW9OWGhfNjRRN1ZCd0FfNHpEVER0Yllid2E1ZTBpUzZ1R09BcFpn?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "【速報】米、イランに大規模爆弾使用の可能性検討か",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zeWNZbEhjTkdIQmxGVXdKNUhMdDE1SDhsTy1BMkpFVnVlNlh6bHFyVXBJSmxHX2FnR3RWVVdsTUNIQWJLY2UtWExrdw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "台風30号(チャンパー) 進路次第で日本に影響の可能性も 13年ぶりの30号",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11QUVmYjFsVUNXdkp0VUF5SGFBUEF4djd5emhzUkQ5MTJmcGFyLVJ6YWxtOEtXSzJabHA2MkdQenhtelI4bFFaVmxKemZjUmxLemZIdw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "死亡男性母親、２．３億円賠償求め提訴 逮捕のユーチューバー「ＫＥＮＺＯ」らに―京都地裁",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtd3ZETE0ydjI4dWJHVzlNcnN5eGx0NmdnaGF1eFBlMk1zN1ZtYm5EMHMzeUpwajhRU2FFekFFSXhzSzVHZktTbmJRNWJTWVdnMWx4R1dRazI0YzJROElQb1BZOA?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "＜主張＞道新記者拘束 ロシアは直ちに解放せよ 社説",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLaHJINXBUdzh6TXdidjVVZWUzRk1hYlpFRXR0Tk9TMVdUanVkeVp6ZUY5cjVJVktIZEw1ZUNVM0V6ZTRvaGk1QUhsNmpDeFp3dkJnTXBma05SbFFCQ2RrXy1QcWNpSzlZeDFQWk11bURsS0p4dXc?oc=5"
     }
   ]
 }
