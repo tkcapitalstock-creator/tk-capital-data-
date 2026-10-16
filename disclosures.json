@@ -1,145 +1,96 @@
 {
-  "updated_at": "2026-10-16T07:25:30.623636+09:00",
+  "updated_at": "2026-10-16T09:39:30.009699+09:00",
   "items": [
     {
-      "code": "8031",
-      "name": "三井物産",
-      "title": "（経過開示）Penske Corporationと共同での米国Penske Automotive Group, Inc.の浮動株買収の決定",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261015551440.pdf",
-      "pubdate": "2026-10-15 20:00:00"
+      "code": "1480",
+      "name": "ＮＦ企業価値",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016551968.pdf",
+      "pubdate": "2026-10-16T09:30:00+09:00"
+    },
+    {
+      "code": "2251",
+      "name": "ＪＧＢダブルインバ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016551969.pdf",
+      "pubdate": "2026-10-16T09:30:00+09:00"
+    },
+    {
+      "code": "2518",
+      "name": "ＮＦ日本株女性活躍",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016551970.pdf",
+      "pubdate": "2026-10-16T09:30:00+09:00"
+    },
+    {
+      "code": "7514",
+      "name": "ヒマラヤ",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果および取得終了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261015551660.pdf",
+      "pubdate": "2026-10-16T09:30:00+09:00"
     },
     {
       "code": "6085",
       "name": "Ｇ－アーキテクツＳＪ",
-      "title": "2027年２月期半期報告書の提出予定に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261015551899.pdf",
-      "pubdate": "2026-10-15 19:40:00"
+      "title": "2027年２月期半期報告書の提出完了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552004.pdf",
+      "pubdate": "2026-10-16T09:25:00+09:00"
     },
     {
-      "code": "7831",
-      "name": "ウイルコＨＤ",
-      "title": "連結子会社に対する債権放棄に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261015551161.pdf",
-      "pubdate": "2026-10-15 19:00:00"
+      "code": "1495",
+      "name": "上場アジアリート",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016551938.pdf",
+      "pubdate": "2026-10-16T08:55:00+09:00"
     },
     {
-      "code": "9075",
-      "name": "福山運",
-      "title": "（開示事項の経過）投資有価証券売却益（特別利益）の計上に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261015551910.pdf",
-      "pubdate": "2026-10-15 19:00:00"
+      "code": "1319",
+      "name": "ＮＦ日経３００",
+      "title": "「NEXT FUNDS 日経300株価指数連動型上場投信」基準価額と市場価格の重要な乖離に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016551940.pdf",
+      "pubdate": "2026-10-16T08:50:00+09:00"
     },
     {
-      "code": "9628",
-      "name": "燦ＨＤ",
-      "title": "2026年８月期決算補足資料",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261015551892.pdf",
-      "pubdate": "2026-10-15 19:00:00"
+      "code": "7150",
+      "name": "島根銀行",
+      "title": "一部報道について",
+      "url": "https://www.release.tdnet.info/inbs/140120261016551954.pdf",
+      "pubdate": "2026-10-16T08:45:00+09:00"
     },
     {
-      "code": "509A",
-      "name": "Ｉ－Ｇライト・再エネ",
-      "title": "（変更・訂正）「太陽光発電所月次発電電力量実績及び出力制御に関するお知らせ」における「予想発電量」の記載方法の変更および訂正に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261015551855.pdf",
-      "pubdate": "2026-10-15 18:10:00"
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261016551934.pdf",
+      "pubdate": "2026-10-16T08:30:00+09:00"
     },
     {
-      "code": "509A",
-      "name": "Ｉ－Ｇライト・再エネ",
-      "title": "太陽光発電所月次発電電力量実績及び出力制御に関するお知らせ（2026年9月）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261015551859.pdf",
-      "pubdate": "2026-10-15 18:10:00"
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261016551937.pdf",
+      "pubdate": "2026-10-16T08:30:00+09:00"
     },
     {
-      "code": "1445",
-      "name": "Ｐ－ひかりＨＤ",
-      "title": "2026年８月期 決算短信〔日本基準〕(連結)",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261014550756.pdf",
-      "pubdate": "2026-10-15 18:00:00"
+      "code": "7138",
+      "name": "Ｇ－ＴＯＲＩＣＯ",
+      "title": "イーサリアム（ETH）の追加取得に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016551952.pdf",
+      "pubdate": "2026-10-16T08:30:00+09:00"
     },
     {
-      "code": "351A",
-      "name": "Ｐ－アクシスＩＴＰ",
-      "title": "2026年８月期決算短信〔日本基準〕(非連結)",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261015551871.pdf",
-      "pubdate": "2026-10-15 18:00:00"
+      "code": "7600",
+      "name": "ＭＤＭ",
+      "title": "米国連結子会社における人員削減等の合理化に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016551950.pdf",
+      "pubdate": "2026-10-16T08:30:00+09:00"
     },
     {
-      "code": "351A",
-      "name": "Ｐ－アクシスＩＴＰ",
-      "title": "特別損失（減損損失）の計上に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261015551776.pdf",
-      "pubdate": "2026-10-15 18:00:00"
-    },
-    {
-      "code": "351A",
-      "name": "Ｐ－アクシスＩＴＰ",
-      "title": "剰余金の配当（期末配当）に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261015551779.pdf",
-      "pubdate": "2026-10-15 18:00:00"
-    },
-    {
-      "code": "361A",
-      "name": "Ｐ－リビングハウス",
-      "title": "2027年２月期 中間決算短信〔日本基準〕（連結）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261014550916.pdf",
-      "pubdate": "2026-10-15 18:00:00"
-    },
-    {
-      "code": "361A",
-      "name": "Ｐ－リビングハウス",
-      "title": "特別損失（減損損失）の計上に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261015551736.pdf",
-      "pubdate": "2026-10-15 18:00:00"
-    },
-    {
-      "code": "3627",
-      "name": "テクミラ",
-      "title": "2027年２月期 第２四半期 決算説明会資料",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261015551548.pdf",
-      "pubdate": "2026-10-15 18:00:00"
-    },
-    {
-      "code": "362A",
-      "name": "Ｐ－エクシオＨＤ",
-      "title": "株式分割及び株式分割に伴う定款の一部変更に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261015550994.pdf",
-      "pubdate": "2026-10-15 18:00:00"
-    },
-    {
-      "code": "362A",
-      "name": "Ｐ－エクシオＨＤ",
-      "title": "臨時株主総会招集のための基準日設定及び臨時株主総会の開催並びに付議議案（定款一部変更及び会計監査人選任）の決定に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261015550999.pdf",
-      "pubdate": "2026-10-15 18:00:00"
-    },
-    {
-      "code": "5125",
-      "name": "Ｇ－ファインズ",
-      "title": "株式報酬型ストック・オプション（新株予約権）の発行内容確定に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261015551202.pdf",
-      "pubdate": "2026-10-15 18:00:00"
-    },
-    {
-      "code": "3189",
-      "name": "ＡＮＡＰ",
-      "title": "2026年8月期決算短信〔日本基準〕（連結）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261014550787.pdf",
-      "pubdate": "2026-10-15 17:45:00"
-    },
-    {
-      "code": "3189",
-      "name": "ＡＮＡＰ",
-      "title": "特別損失（事業再編損）の計上に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261014550778.pdf",
-      "pubdate": "2026-10-15 17:45:00"
-    },
-    {
-      "code": "3189",
-      "name": "ＡＮＡＰ",
-      "title": "営業外費用（暗号資産評価損）の計上に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261014550746.pdf",
-      "pubdate": "2026-10-15 17:45:00"
+      "code": "7689",
+      "name": "Ｇ－コパ",
+      "title": "大株主による当社株式の譲渡に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261015551543.pdf",
+      "pubdate": "2026-10-16T08:30:00+09:00"
     }
   ]
 }
