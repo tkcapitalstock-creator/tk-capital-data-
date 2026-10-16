@@ -1,6 +1,279 @@
 {
-  "updated_at": "2026-10-16T09:39:30.009699+09:00",
+  "updated_at": "2026-10-16T14:06:32.743801+09:00",
   "items": [
+    {
+      "code": "4186",
+      "name": "東応化",
+      "title": "役員の異動のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552145.pdf",
+      "pubdate": "2026-10-16T14:00:00+09:00"
+    },
+    {
+      "code": "6325",
+      "name": "タカキタ",
+      "title": "業績予想の修正に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261013550000.pdf",
+      "pubdate": "2026-10-16T14:00:00+09:00"
+    },
+    {
+      "code": "9987",
+      "name": "スズケン",
+      "title": "（開示事項の経過）「令和８年熊本地震」の影響に関するお知らせ：三和化学研究所 熊本工場 生産再開について",
+      "url": "https://www.release.tdnet.info/inbs/140120261015550974.pdf",
+      "pubdate": "2026-10-16T14:00:00+09:00"
+    },
+    {
+      "code": "1716",
+      "name": "第一カッター",
+      "title": "主要株主及び主要株主である筆頭株主の異動に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552240.pdf",
+      "pubdate": "2026-10-16T13:45:00+09:00"
+    },
+    {
+      "code": "9278",
+      "name": "ブックオフＧＨＤ",
+      "title": "（訂正）「不正アクセスによる個人情報漏えいに関するお詫びとお知らせ(第2報)」の 一部訂正について",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552215.pdf",
+      "pubdate": "2026-10-16T13:30:00+09:00"
+    },
+    {
+      "code": "9278",
+      "name": "ブックオフＧＨＤ",
+      "title": "（訂正）「2027年5月期 第1四半期 決算補足資料」の一部訂正について",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552241.pdf",
+      "pubdate": "2026-10-16T13:30:00+09:00"
+    },
+    {
+      "code": "3695",
+      "name": "Ｇ－ＧＭＯ－ＰＰ",
+      "title": "上場維持基準への適合に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261015551844.pdf",
+      "pubdate": "2026-10-16T13:01:00+09:00"
+    },
+    {
+      "code": "560A",
+      "name": "Ｐ－オカダコーポ",
+      "title": "新規出店に伴う固定資産の取得（設備投資）及び資金の借入に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552046.pdf",
+      "pubdate": "2026-10-16T13:00:00+09:00"
+    },
+    {
+      "code": "587A4",
+      "name": "Ｅ－インベスコＱＱＱ",
+      "title": "インベスコQQQトラスト シリーズ1 に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552206.pdf",
+      "pubdate": "2026-10-16T12:40:00+09:00"
+    },
+    {
+      "code": "7138",
+      "name": "Ｇ－ＴＯＲＩＣＯ",
+      "title": "（訂正）「イーサリアム（ETH）の追加取得に関するお知らせ」の一部訂正について",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552177.pdf",
+      "pubdate": "2026-10-16T12:30:00+09:00"
+    },
+    {
+      "code": "15574",
+      "name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552144.pdf",
+      "pubdate": "2026-10-16T12:05:00+09:00"
+    },
+    {
+      "code": "13264",
+      "name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552143.pdf",
+      "pubdate": "2026-10-16T12:00:00+09:00"
+    },
+    {
+      "code": "1928",
+      "name": "積水ハウス",
+      "title": "連結子会社の商号変更に関するお知らせ (積水ハウス不動産グループにおける組織再編に伴う商号変更）",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552010.pdf",
+      "pubdate": "2026-10-16T12:00:00+09:00"
+    },
+    {
+      "code": "3930",
+      "name": "Ｇ－はてな",
+      "title": "上場維持基準への適合に向けた計画について",
+      "url": "https://www.release.tdnet.info/inbs/140120261015550493.pdf",
+      "pubdate": "2026-10-16T12:00:00+09:00"
+    },
+    {
+      "code": "4709",
+      "name": "ＩＤホールディングス",
+      "title": "当社グループの元従業員による不正行為についての調査結果、再発防止策等に関するお知らせ（中間報告）",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552081.pdf",
+      "pubdate": "2026-10-16T12:00:00+09:00"
+    },
+    {
+      "code": "6594",
+      "name": "ニデック",
+      "title": "役員責任調査委員会からの調査報告書の受領について",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552134.pdf",
+      "pubdate": "2026-10-16T12:00:00+09:00"
+    },
+    {
+      "code": "7150",
+      "name": "島根銀行",
+      "title": "2027年3月期 第2四半期（中間期）業績予想の修正に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261015551912.pdf",
+      "pubdate": "2026-10-16T12:00:00+09:00"
+    },
+    {
+      "code": "7150",
+      "name": "島根銀行",
+      "title": "2027年3月期通期業績予想の修正及び有価証券の売却損の計上並びに中期経営計画KGIの見直し、役員報酬の減額に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261015551343.pdf",
+      "pubdate": "2026-10-16T12:00:00+09:00"
+    },
+    {
+      "code": "7150",
+      "name": "島根銀行",
+      "title": "第三者割当によるＣ種優先株式発行、定款の一部変更並びに株式の発行と同時に行う資本金及び資本準備金の額の減少に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016551992.pdf",
+      "pubdate": "2026-10-16T12:00:00+09:00"
+    },
+    {
+      "code": "7150",
+      "name": "島根銀行",
+      "title": "臨時株主総会、普通株主による種類株主総会、A種優先株主による種類株主総会及びB種優先株主による種類株主総会招集のための基準日設定に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016551989.pdf",
+      "pubdate": "2026-10-16T12:00:00+09:00"
+    },
+    {
+      "code": "13494",
+      "name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552161.pdf",
+      "pubdate": "2026-10-16T11:55:00+09:00"
+    },
+    {
+      "code": "20704",
+      "name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552091.pdf",
+      "pubdate": "2026-10-16T11:30:00+09:00"
+    },
+    {
+      "code": "2484",
+      "name": "出前館",
+      "title": "（訂正・数値データ訂正）「2026年８月期　決算短信〔日本基準〕（連結）」の一部訂正について",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552131.pdf",
+      "pubdate": "2026-10-16T11:30:00+09:00"
+    },
+    {
+      "code": "2927",
+      "name": "ＡＦＣ－ＨＤ",
+      "title": "中期経営計画策定のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552127.pdf",
+      "pubdate": "2026-10-16T11:00:00+09:00"
+    },
+    {
+      "code": "473A",
+      "name": "ＮＡＭ日経２２５イン",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552106.pdf",
+      "pubdate": "2026-10-16T11:00:00+09:00"
+    },
+    {
+      "code": "9759",
+      "name": "ＮＳＤ",
+      "title": "自己株式の消却完了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261015551221.pdf",
+      "pubdate": "2026-10-16T10:40:00+09:00"
+    },
+    {
+      "code": "13294",
+      "name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552035.pdf",
+      "pubdate": "2026-10-16T10:30:00+09:00"
+    },
+    {
+      "code": "1814",
+      "name": "大末建",
+      "title": "自己株式立会外買付取引(ToSTNeT-３)による自己株式の取得結果に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016551985.pdf",
+      "pubdate": "2026-10-16T10:30:00+09:00"
+    },
+    {
+      "code": "16714",
+      "name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552001.pdf",
+      "pubdate": "2026-10-16T10:00:00+09:00"
+    },
+    {
+      "code": "2157",
+      "name": "コシダカＨＤ",
+      "title": "2026年8月期決算資料の追加について（決算説明会資料）",
+      "url": "https://www.release.tdnet.info/inbs/140120261015551945.pdf",
+      "pubdate": "2026-10-16T10:00:00+09:00"
+    },
+    {
+      "code": "447A",
+      "name": "ＳＳゴールドヘッジ無",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016551959.pdf",
+      "pubdate": "2026-10-16T10:00:00+09:00"
+    },
+    {
+      "code": "448A",
+      "name": "ＳＳゴールドヘッジ有",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016551960.pdf",
+      "pubdate": "2026-10-16T10:00:00+09:00"
+    },
+    {
+      "code": "449A",
+      "name": "ＳＳＳＰヘッジ無",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016551981.pdf",
+      "pubdate": "2026-10-16T10:00:00+09:00"
+    },
+    {
+      "code": "450A",
+      "name": "ＳＳＳＰヘッジ有",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016551982.pdf",
+      "pubdate": "2026-10-16T10:00:00+09:00"
+    },
+    {
+      "code": "451A",
+      "name": "ＳＳＳＰ高配当",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016551983.pdf",
+      "pubdate": "2026-10-16T10:00:00+09:00"
+    },
+    {
+      "code": "585A4",
+      "name": "Ｅ－ＪＡＭＰＦＭ",
+      "title": "上場ETF（管理会社：JAMPファンド・マネジメント）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261016551956.pdf",
+      "pubdate": "2026-10-16T10:00:00+09:00"
+    },
+    {
+      "code": "6085",
+      "name": "Ｇ－アーキテクツＳＪ",
+      "title": "2027年２月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "url": "https://www.release.tdnet.info/inbs/140120261015551758.pdf",
+      "pubdate": "2026-10-16T10:00:00+09:00"
+    },
+    {
+      "code": "6085",
+      "name": "Ｇ－アーキテクツＳＪ",
+      "title": "上場維持基準（流通株式比率、純資産基準）への適合に向けた計画に基づく進捗について",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552008.pdf",
+      "pubdate": "2026-10-16T10:00:00+09:00"
+    },
+    {
+      "code": "1398",
+      "name": "ＳＭＤＡＭ　Ｊリート",
+      "title": "2026年9月期　決算短信（2026年3月9日～2026年9月8日）",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552025.pdf",
+      "pubdate": "2026-10-16T09:50:00+09:00"
+    },
     {
       "code": "1480",
       "name": "ＮＦ企業価値",
