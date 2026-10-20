@@ -1,6 +1,195 @@
 {
-  "updated_at": "2026-10-20T09:38:56.082607+09:00",
+  "updated_at": "2026-10-20T14:21:32.321426+09:00",
   "items": [
+    {
+      "code": "2903",
+      "name": "シノブフーズ",
+      "title": "人事異動のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553274.pdf",
+      "pubdate": "2026-10-20T14:00:00+09:00"
+    },
+    {
+      "code": "3461",
+      "name": "パルマ",
+      "title": "事業KPI　2026年９月期　9月度月次情報",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553276.pdf",
+      "pubdate": "2026-10-20T14:00:00+09:00"
+    },
+    {
+      "code": "6503",
+      "name": "三菱電",
+      "title": "配電制御機器事業の合弁会社化に向けた子会社設立、当社及び子会社間の会社分割（簡易分割）並びにABBとの株式譲渡契約等の締結に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553397.pdf",
+      "pubdate": "2026-10-20T13:45:00+09:00"
+    },
+    {
+      "code": "9425",
+      "name": "ＲｅＹｕｕＪａｐａｎ",
+      "title": "連結子会社ネクスト・セキュリティ株式会社とのサイバーセキュリティ分野における販売連携開始に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553354.pdf",
+      "pubdate": "2026-10-20T13:30:00+09:00"
+    },
+    {
+      "code": "2851",
+      "name": "ｉＳＭＳＣＩＪＳＲＩ",
+      "title": "「ｉシェアーズ　ＭＳＣＩ　ジャパンＳＲＩ　ＥＴＦ」繰上償還および投資信託約款の重大な変更（確定）のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553424.pdf",
+      "pubdate": "2026-10-20T13:00:00+09:00"
+    },
+    {
+      "code": "2876",
+      "name": "デルソーレ",
+      "title": "特別利益（受取保険金）の計上に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553391.pdf",
+      "pubdate": "2026-10-20T13:00:00+09:00"
+    },
+    {
+      "code": "6101",
+      "name": "ツガミ",
+      "title": "2027 年３月期 第２四半期(中間期)の連結業績予想および中間配当予想の修正に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261019552815.pdf",
+      "pubdate": "2026-10-20T13:00:00+09:00"
+    },
+    {
+      "code": "6101",
+      "name": "ツガミ",
+      "title": "自己株式の消却に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261019552849.pdf",
+      "pubdate": "2026-10-20T13:00:00+09:00"
+    },
+    {
+      "code": "2152",
+      "name": "幼児活動研究会",
+      "title": "当社ネットワークへの不正アクセスに関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553396.pdf",
+      "pubdate": "2026-10-20T12:30:00+09:00"
+    },
+    {
+      "code": "2892",
+      "name": "日食化",
+      "title": "自己株式の取得状況及び取得終了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553223.pdf",
+      "pubdate": "2026-10-20T12:30:00+09:00"
+    },
+    {
+      "code": "3245",
+      "name": "ディア・ライフ",
+      "title": "収益不動産の取得に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553301.pdf",
+      "pubdate": "2026-10-20T12:30:00+09:00"
+    },
+    {
+      "code": "587A4",
+      "name": "Ｅ－インベスコＱＱＱ",
+      "title": "インベスコQQQトラスト シリーズ1 に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553390.pdf",
+      "pubdate": "2026-10-20T12:15:00+09:00"
+    },
+    {
+      "code": "3825",
+      "name": "ＲＥＭＩＸ",
+      "title": "系統用蓄電所（福岡県嘉麻市）の需給調整市場参入（４か所目）に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552530.pdf",
+      "pubdate": "2026-10-20T12:00:00+09:00"
+    },
+    {
+      "code": "15574",
+      "name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553329.pdf",
+      "pubdate": "2026-10-20T11:45:00+09:00"
+    },
+    {
+      "code": "13264",
+      "name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553327.pdf",
+      "pubdate": "2026-10-20T11:40:00+09:00"
+    },
+    {
+      "code": "13494",
+      "name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553342.pdf",
+      "pubdate": "2026-10-20T11:35:00+09:00"
+    },
+    {
+      "code": "20704",
+      "name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553288.pdf",
+      "pubdate": "2026-10-20T11:30:00+09:00"
+    },
+    {
+      "code": "5834",
+      "name": "Ｇ－ＳＢＩリーシング",
+      "title": "販売用航空機等（航空機用エンジン）譲渡のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553212.pdf",
+      "pubdate": "2026-10-20T11:30:00+09:00"
+    },
+    {
+      "code": "6561",
+      "name": "Ｇ－ＨＡＮＡＴＯＵＲ",
+      "title": "月次業績速報 2026年9月",
+      "url": "https://www.release.tdnet.info/inbs/140120261019552990.pdf",
+      "pubdate": "2026-10-20T11:30:00+09:00"
+    },
+    {
+      "code": "8622",
+      "name": "水戸証",
+      "title": "2027年３月期第２四半期（中間期）決算速報値に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261019553037.pdf",
+      "pubdate": "2026-10-20T11:30:00+09:00"
+    },
+    {
+      "code": "144A",
+      "name": "Ｐ－エネルギーパワー",
+      "title": "（訂正）連結子会社における固定資産の取得及び資金の借入に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020552606.pdf",
+      "pubdate": "2026-10-20T11:00:00+09:00"
+    },
+    {
+      "code": "2780",
+      "name": "コメ兵ＨＤ",
+      "title": "ブランド・ファッション事業の2027年３月期９月度月次に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553309.pdf",
+      "pubdate": "2026-10-20T11:00:00+09:00"
+    },
+    {
+      "code": "3663",
+      "name": "セルシス",
+      "title": "2026年９月度月次事業進捗レポートのお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552535.pdf",
+      "pubdate": "2026-10-20T11:00:00+09:00"
+    },
+    {
+      "code": "7276",
+      "name": "小糸製",
+      "title": "連結子会社の解散及び清算に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553257.pdf",
+      "pubdate": "2026-10-20T10:30:00+09:00"
+    },
+    {
+      "code": "13294",
+      "name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553219.pdf",
+      "pubdate": "2026-10-20T10:00:00+09:00"
+    },
+    {
+      "code": "16714",
+      "name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553226.pdf",
+      "pubdate": "2026-10-20T10:00:00+09:00"
+    },
+    {
+      "code": "585A4",
+      "name": "Ｅ－ＪＡＭＰＦＭ",
+      "title": "上場ETF（管理会社：JAMPファンド・マネジメント）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553206.pdf",
+      "pubdate": "2026-10-20T10:00:00+09:00"
+    },
     {
       "code": "6230",
       "name": "ＳＡＮＥＩ",
