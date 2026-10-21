@@ -1,145 +1,152 @@
 {
-  "updated_at": "2026-10-21T07:29:25.394191+09:00",
+  "updated_at": "2026-10-21T09:51:44.345989+09:00",
   "items": [
     {
-      "code": "447A",
-      "name": "ＳＳゴールドヘッジ無",
-      "title": "ETFの収益分配金のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261020553751.pdf",
-      "pubdate": "2026-10-20 19:15:00"
+      "code": "1479",
+      "name": "ｉＦＭＳＣＩ人材設備",
+      "title": "「iFreeETF MSCI日本株人材設備投資指数」 基準価額と市場価格の重要な乖離に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553826.pdf",
+      "pubdate": "2026-10-21T09:30:00+09:00"
     },
     {
-      "code": "448A",
-      "name": "ＳＳゴールドヘッジ有",
-      "title": "ETFの収益分配金のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261020553752.pdf",
-      "pubdate": "2026-10-20 19:15:00"
+      "code": "2018",
+      "name": "ＧＸＵＳリート２０",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553721.pdf",
+      "pubdate": "2026-10-21T08:50:00+09:00"
     },
     {
-      "code": "449A",
-      "name": "ＳＳＳＰヘッジ無",
-      "title": "ETFの収益分配金のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261020553753.pdf",
-      "pubdate": "2026-10-20 19:15:00"
+      "code": "2096",
+      "name": "ＧＸオフィスＪリート",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553722.pdf",
+      "pubdate": "2026-10-21T08:50:00+09:00"
     },
     {
-      "code": "450A",
-      "name": "ＳＳＳＰヘッジ有",
-      "title": "ETFの収益分配金のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261020553754.pdf",
-      "pubdate": "2026-10-20 19:15:00"
+      "code": "2097",
+      "name": "ＧＸ住宅Ｊリート",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553723.pdf",
+      "pubdate": "2026-10-21T08:50:00+09:00"
     },
     {
-      "code": "451A",
-      "name": "ＳＳＳＰ高配当",
-      "title": "ETFの収益分配金のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261020553755.pdf",
-      "pubdate": "2026-10-20 19:15:00"
+      "code": "2098",
+      "name": "ＧＸホテリテＪリート",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553724.pdf",
+      "pubdate": "2026-10-21T08:50:00+09:00"
     },
     {
-      "code": "1495",
-      "name": "上場アジアリート",
-      "title": "ＥＴＦの収益分配のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261020553709.pdf",
-      "pubdate": "2026-10-20 18:50:00"
+      "code": "2564",
+      "name": "ＧＸスーパーディビ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553725.pdf",
+      "pubdate": "2026-10-21T08:50:00+09:00"
     },
     {
-      "code": "3962",
-      "name": "チェンジＨＤ",
-      "title": "当社連結子会社における不正アクセスによる個人情報の外部流出に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261020553586.pdf",
-      "pubdate": "2026-10-20 18:35:00"
+      "code": "2565",
+      "name": "ＧＸロジＪリート",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553726.pdf",
+      "pubdate": "2026-10-21T08:50:00+09:00"
     },
     {
-      "code": "5575",
-      "name": "Ｇ－Ｇｌｏｂｅｅ",
-      "title": "第三者による不正アクセスおよび個人情報漏えいのおそれに関するお詫びとお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261020553707.pdf",
-      "pubdate": "2026-10-20 18:30:00"
+      "code": "2644",
+      "name": "ＧＸ半導体日株",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553727.pdf",
+      "pubdate": "2026-10-21T08:50:00+09:00"
     },
     {
-      "code": "2901",
-      "name": "ウェルディッシュ",
-      "title": "改善計画の策定方針に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261020553664.pdf",
-      "pubdate": "2026-10-20 18:15:00"
+      "code": "2645",
+      "name": "ＧＸレジ＆エンタ日株",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553728.pdf",
+      "pubdate": "2026-10-21T08:50:00+09:00"
     },
     {
-      "code": "2901",
-      "name": "ウェルディッシュ",
-      "title": "第70期定時株主総会及び継続会の開催に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261020553666.pdf",
-      "pubdate": "2026-10-20 18:15:00"
+      "code": "2646",
+      "name": "ＧＸメタルビジ日株",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553729.pdf",
+      "pubdate": "2026-10-21T08:50:00+09:00"
     },
     {
-      "code": "2901",
-      "name": "ウェルディッシュ",
-      "title": "会計監査人の選任に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261020553671.pdf",
-      "pubdate": "2026-10-20 18:15:00"
+      "code": "2847",
+      "name": "ＧＸ成長インフラ日株",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553730.pdf",
+      "pubdate": "2026-10-21T08:50:00+09:00"
     },
     {
-      "code": "2901",
-      "name": "ウェルディッシュ",
-      "title": "剰余金の配当（無配）に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261020553697.pdf",
-      "pubdate": "2026-10-20 18:15:00"
+      "code": "2848",
+      "name": "ＧＸ気候変動日株",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553731.pdf",
+      "pubdate": "2026-10-21T08:50:00+09:00"
     },
     {
-      "code": "2901",
-      "name": "ウェルディッシュ",
-      "title": "株主優待制度廃止に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261020553675.pdf",
-      "pubdate": "2026-10-20 18:15:00"
+      "code": "2849",
+      "name": "ＧＸ高配当ＥＳＧ日株",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553732.pdf",
+      "pubdate": "2026-10-21T08:50:00+09:00"
     },
     {
-      "code": "2428",
-      "name": "ウェルネット",
-      "title": "譲渡制限付株式報酬の株主総会決議超過及び自己株式の無償取得に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261020553333.pdf",
-      "pubdate": "2026-10-20 18:00:00"
+      "code": "2854",
+      "name": "ＧＸテック２０日株",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553733.pdf",
+      "pubdate": "2026-10-21T08:50:00+09:00"
     },
     {
-      "code": "2733",
-      "name": "あらた",
-      "title": "公正取引委員会による当社連結子会社への立入検査について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261020553638.pdf",
-      "pubdate": "2026-10-20 18:00:00"
+      "code": "2855",
+      "name": "ＧＸグリＪリート",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553734.pdf",
+      "pubdate": "2026-10-21T08:50:00+09:00"
     },
     {
-      "code": "1480",
-      "name": "ＮＦ企業価値",
-      "title": "ETFの収益分配のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261020553667.pdf",
-      "pubdate": "2026-10-20 17:30:00"
+      "code": "2858",
+      "name": "ＧＸ日経カバコ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553735.pdf",
+      "pubdate": "2026-10-21T08:50:00+09:00"
     },
     {
-      "code": "2251",
-      "name": "ＪＧＢダブルインバ",
-      "title": "ETFの収益分配のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261020553668.pdf",
-      "pubdate": "2026-10-20 17:30:00"
+      "code": "2864",
+      "name": "ＧＸロジリート",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553736.pdf",
+      "pubdate": "2026-10-21T08:50:00+09:00"
     },
     {
-      "code": "2518",
-      "name": "ＮＦ日本株女性活躍",
-      "title": "ETFの収益分配のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261020553669.pdf",
-      "pubdate": "2026-10-20 17:30:00"
+      "code": "315A",
+      "name": "ＧＸ銀行高配当日株",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553737.pdf",
+      "pubdate": "2026-10-21T08:50:00+09:00"
     },
     {
-      "code": "6890",
-      "name": "フェローテック",
-      "title": "中際旭創股フン有限公司（InnoLight社）との戦略的提携契約締結に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261019553164.pdf",
-      "pubdate": "2026-10-20 17:30:00"
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553803.pdf",
+      "pubdate": "2026-10-21T08:30:00+09:00"
     },
     {
-      "code": "6890",
-      "name": "フェローテック",
-      "title": "持分法適用会社の株式取得に伴う特定子会社への異動のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261020553550.pdf",
-      "pubdate": "2026-10-20 17:30:00"
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553804.pdf",
+      "pubdate": "2026-10-21T08:30:00+09:00"
+    },
+    {
+      "code": "7733",
+      "name": "オリンパス",
+      "title": "FDAによる輸入警告（Import Alerts）の発出に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553776.pdf",
+      "pubdate": "2026-10-21T08:30:00+09:00"
     }
   ]
 }
