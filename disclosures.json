@@ -1,6 +1,202 @@
 {
-  "updated_at": "2026-10-21T09:51:44.345989+09:00",
+  "updated_at": "2026-10-21T14:43:12.832669+09:00",
   "items": [
+    {
+      "code": "3269",
+      "name": "Ｒ－ＡＤＲ",
+      "title": "資金の借入れ(グリーンローン含む)、借入金の返済及び期限前弁済に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261021554041.pdf",
+      "pubdate": "2026-10-21T14:30:00+09:00"
+    },
+    {
+      "code": "4068",
+      "name": "Ｇ－ベイシス",
+      "title": "譲渡制限付株式報酬としての新株式発行に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553996.pdf",
+      "pubdate": "2026-10-21T14:00:00+09:00"
+    },
+    {
+      "code": "8051",
+      "name": "山善",
+      "title": "2027年３月期第２四半期（中間期）及び通期連結業績予想の修正に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261008547903.pdf",
+      "pubdate": "2026-10-21T14:00:00+09:00"
+    },
+    {
+      "code": "9914",
+      "name": "植松商会",
+      "title": "2027年３月期第２四半期（中間期）業績予想の修正に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553846.pdf",
+      "pubdate": "2026-10-21T14:00:00+09:00"
+    },
+    {
+      "code": "5830",
+      "name": "いよぎんＨＤ",
+      "title": "自己株式の取得状況及び取得終了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553917.pdf",
+      "pubdate": "2026-10-21T13:30:00+09:00"
+    },
+    {
+      "code": "2633",
+      "name": "Ｓ＆Ｐ５００ヘッジ無",
+      "title": "NEXT FUNDS S&P 500 指数（為替ヘッジなし）連動型上場投信 決算短信",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553861.pdf",
+      "pubdate": "2026-10-21T13:00:00+09:00"
+    },
+    {
+      "code": "2634",
+      "name": "Ｓ＆Ｐ５００ヘッジ有",
+      "title": "NEXT FUNDS S&P 500 指数（為替ヘッジあり）連動型上場投信 決算短信",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553866.pdf",
+      "pubdate": "2026-10-21T13:00:00+09:00"
+    },
+    {
+      "code": "346A",
+      "name": "Ｓ＆Ｐ５００半導体",
+      "title": "NEXT FUNDS S&P 500 半導体・半導体製造装置35％キャップ指数連動型上場投信 決算短信",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553870.pdf",
+      "pubdate": "2026-10-21T13:00:00+09:00"
+    },
+    {
+      "code": "3905",
+      "name": "Ｇ－データセクション",
+      "title": "主要株主及び主要株主である筆頭株主の異動に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261021554020.pdf",
+      "pubdate": "2026-10-21T12:50:00+09:00"
+    },
+    {
+      "code": "587A4",
+      "name": "Ｅ－インベスコＱＱＱ",
+      "title": "インベスコQQQトラスト シリーズ1 に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553983.pdf",
+      "pubdate": "2026-10-21T12:15:00+09:00"
+    },
+    {
+      "code": "3287",
+      "name": "Ｒ－星野",
+      "title": "金利スワップ契約締結に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553820.pdf",
+      "pubdate": "2026-10-21T12:00:00+09:00"
+    },
+    {
+      "code": "4272",
+      "name": "日化薬",
+      "title": "日本化薬従業員持株会向け譲渡制限付株式としての自己株式の処分の払込完了及び一部失権に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261019552675.pdf",
+      "pubdate": "2026-10-21T12:00:00+09:00"
+    },
+    {
+      "code": "7037",
+      "name": "テノ．",
+      "title": "取締役の逝去に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553602.pdf",
+      "pubdate": "2026-10-21T12:00:00+09:00"
+    },
+    {
+      "code": "9245",
+      "name": "Ｇ－リベロ",
+      "title": "（訂正）「2026年12月期 第1四半期決算短信〔日本基準〕（連結）」の一部訂正について",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553935.pdf",
+      "pubdate": "2026-10-21T12:00:00+09:00"
+    },
+    {
+      "code": "15574",
+      "name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553962.pdf",
+      "pubdate": "2026-10-21T11:55:00+09:00"
+    },
+    {
+      "code": "13264",
+      "name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553956.pdf",
+      "pubdate": "2026-10-21T11:50:00+09:00"
+    },
+    {
+      "code": "13494",
+      "name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553953.pdf",
+      "pubdate": "2026-10-21T11:45:00+09:00"
+    },
+    {
+      "code": "20704",
+      "name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553912.pdf",
+      "pubdate": "2026-10-21T11:30:00+09:00"
+    },
+    {
+      "code": "296A",
+      "name": "Ｇ－令和ＡＨ",
+      "title": "2027年３月期　第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553509.pdf",
+      "pubdate": "2026-10-21T11:30:00+09:00"
+    },
+    {
+      "code": "296A",
+      "name": "Ｇ－令和ＡＨ",
+      "title": "2027年３月期第２四半期決算補足説明資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553510.pdf",
+      "pubdate": "2026-10-21T11:30:00+09:00"
+    },
+    {
+      "code": "296A",
+      "name": "Ｇ－令和ＡＨ",
+      "title": "剰余金の配当（中間配当）に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553863.pdf",
+      "pubdate": "2026-10-21T11:30:00+09:00"
+    },
+    {
+      "code": "5900",
+      "name": "ダイケン",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び取得終了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553869.pdf",
+      "pubdate": "2026-10-21T11:00:00+09:00"
+    },
+    {
+      "code": "7864",
+      "name": "フジシール",
+      "title": "海外子会社の閉鎖に向けた労働組合等との協議開始に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553656.pdf",
+      "pubdate": "2026-10-21T11:00:00+09:00"
+    },
+    {
+      "code": "13294",
+      "name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553894.pdf",
+      "pubdate": "2026-10-21T10:30:00+09:00"
+    },
+    {
+      "code": "1716",
+      "name": "第一カッター",
+      "title": "自己株式立会外買付取引（ToSTNeT-３）による自己株式の取得結果及び取得終了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553878.pdf",
+      "pubdate": "2026-10-21T10:30:00+09:00"
+    },
+    {
+      "code": "16714",
+      "name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553838.pdf",
+      "pubdate": "2026-10-21T10:00:00+09:00"
+    },
+    {
+      "code": "585A4",
+      "name": "Ｅ－ＪＡＭＰＦＭ",
+      "title": "上場ETF（管理会社：JAMPファンド・マネジメント）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553810.pdf",
+      "pubdate": "2026-10-21T10:00:00+09:00"
+    },
+    {
+      "code": "6748",
+      "name": "星和電機",
+      "title": "執行役員の異動に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553763.pdf",
+      "pubdate": "2026-10-21T10:00:00+09:00"
+    },
     {
       "code": "1479",
       "name": "ｉＦＭＳＣＩ人材設備",
