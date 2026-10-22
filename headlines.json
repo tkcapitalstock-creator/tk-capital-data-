@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T20:45:28.650910+09:00",
+  "updated_at": "2026-10-23T01:05:38.778782+09:00",
   "items": [
     {
       "source": "Googleニュース",
@@ -8,8 +8,13 @@
     },
     {
       "source": "Googleニュース",
-      "title": "週間天気予報 週末から週明けは広範囲で大雨のおそれ",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wTFVxUXZMZWVlQXd4MnVOdVVNcEtnYnVXX0lVMlFuTHEwWkdPQTZnNnpJeVVsejRaY2xxY0ZYcVpaYlpqcVlNRTBwa28zRWw0SnVMbg?oc=5"
+      "title": "【台風情報】台風30号の進路予想と影響 23日～24日に先島諸島へ接近か 秋雨前線が活発化する見込み 24日は東海や関東、北陸などにも雨の範囲が広がる見込み",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pNFpabWhENDZIeTZfWUJXRzhrc0ZXNU1mOE5RTzNTUnhKYXdPUzV2UEhFQTRFcFY5MTlLNjNIOEFqSzJKZG5LeFRhNmxldw?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "「中小政党に有利」は本当か：サンラグ式の仕組みと、比例削減で打ち消されうる中小政党の議席獲得効果 #エキスパートトピ",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT0tBejBwU3p3SnpIUmx6NDI5bFRVSXpRUGJqanN5MWM3YmlYNjUwUmtHNHFHTmszc3Z2QTgyVWhOcjJtazN2SE9uWUVfRVhDN0pzQW5wanBMNVhaMUc4VlpQaThNNi1kZWx6dm1Ka2RmUU5jcU9YdzRINV9sd1BfNXlJbHZ2Z0cy?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -18,28 +23,23 @@
     },
     {
       "source": "Googleニュース",
-      "title": "米 サウジの大使館員らに退避命令",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKN0lxbVR6TFQtV3dhcUprOEh0djdNSjJraE9aNzY2ejhjYlQxcG9Pa0RiWDJJcFhvb01uZHNUeUdjXzZaOGVRaWRQWU9rVWJF?oc=5"
+      "title": "神奈川県警港北署：期限切れ免許証を警備課が受け取る慣例、捜査に流用し「過激派など警戒対象者のリストと照合」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LV1dRVkh6S2k1Q3R1TWYxcHdMVXM5N056MzM3U2dHVUFWalY4ejRaS1dLN0E2akVpVDl1Y2lUc0JQQTJmTUtmaDlfaUhxQnM1QU9lenIwZV9qdFpQRm1fUmlmMU1Bdw?oc=5"
     },
     {
       "source": "Googleニュース",
-      "title": "「レベル５氾濫特別警報」の秋田・子吉川、支流の河原で倒れていた高齢男性が死亡",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZUDcwS0t4RGVuTEw4cjNoX1B6UTNwUHZxX0d0cTIzZGVydXYyUXI2ME40WlJEZUpEc0ZMSE1BeV9PRHV1aWNsNEE3MDdLMm5saTN0bzNuZWpkc19SeXNJdDE4M0hVdw?oc=5"
+      "title": "ゴルフで80万円負担 福岡県議証言",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CNDRFWFhLM2xsa1lITzhveGdYb2p1ZHU4LUwxZEVVNDFoazMySENCajJkWmtUc3lyQ29WQ0tTcVJDeHlvV3VVbGhYZnpNVzRa?oc=5"
     },
     {
       "source": "Googleニュース",
-      "title": "道新記者と面会できぬ理由問われ、ロシア報道官が逆質問「なぜスパイ活動と見なされる行為をした」",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12bnhxY0tBVWgyeFJVMFoxY0JDemdNb2h0d0FkREZZSHJyQ3lPS0MydlFDd2pCaHBhdjVuLUR4NDJxNkNDaUpFUkJYVlFqOXZxeEFjYTA3a3VRSkZkZnV6UHNB?oc=5"
+      "title": "共和党候補、選挙広告に対立候補の絶縁状態にある母親を起用し炎上 米中間選挙",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OWTVnVlVueXVnS3E5d08xdUlwTm54Q0NqcV9IcUlQRzFtblZ5a05pdmFaWUJXbzNtMFRBVE82cG1ZbzFQbWhFYW9MNXFjUE1Ea2fSAVRBVV95cUxPSXZhdHBMMDZOTFFKT25IN200TXNZX19hTWVKRmtWM0lGeXdBRzgzMWF1X29oeWYtXzd5M0h3ODZrVkxaNzE3N045c3NKWDZPS2RiOWc?oc=5"
     },
     {
       "source": "Googleニュース",
-      "title": "神奈川県警 廃棄すべき運転免許証 警備部門の捜査などに流用か",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zZUJHaEJoNGxjaTF3STR0MEtOSE5RVlQ2Ny1xNGpPUWJZT0N5Q21na0lTSnRnV1dkZjNXNVhfb2R1TTl2UGtJZXliSzRlTXJwQU5RRzRhTEhNWDBtc2dJ?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "22日は札幌の手稲山でうっすらと雪化粧 利尻山で初冠雪 稚内と旭川に初雪の便り(気象予報士 山崎 日花里)",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sb1ZsU3dsazFyS1lhRHhQOUg4a2lXdFR1TWVIZzdHZWdmbHNjeHhCVm14T2ZsTVZ2SDdMRjctakhaWU55X0d2RktNQ21qdVdvbWJqWUJUd2Z1U0pCVGZfQ1N6ZkNWVk1fTHMzbG5IZkFUa3c?oc=5"
+      "title": "モンゴル草原火災、KDDI「重く受け止め」 東京都2個分が焼失",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05d3VwemJGdE5zOGNYWnJtUWFZSzNqbG1lcllYTzdlS0NTYmZCUVVUdXJnbnNrZ1pZVkFkUXNhQjB5QW9yQk0zUE9wZW9hQ05RNHE4RzdCdVBoMk13VGFudmtpN2JJRDRs?oc=5"
     }
   ]
 }
