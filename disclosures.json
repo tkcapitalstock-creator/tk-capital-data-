@@ -1,6 +1,188 @@
 {
-  "updated_at": "2026-10-22T10:01:17.822883+09:00",
+  "updated_at": "2026-10-22T15:04:26.726851+09:00",
   "items": [
+    {
+      "code": "9729",
+      "name": "トーカイ",
+      "title": "業績予想及び配当予想の修正に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261021554289.pdf",
+      "pubdate": "2026-10-22T15:00:00+09:00"
+    },
+    {
+      "code": "3181",
+      "name": "買取王国",
+      "title": "2027年２月期　第２四半期　決算説明資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554320.pdf",
+      "pubdate": "2026-10-22T14:30:00+09:00"
+    },
+    {
+      "code": "4519",
+      "name": "中外薬",
+      "title": "エフ・ホフマン・ラ・ロシュの2026年第3四半期の販売実績について",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554478.pdf",
+      "pubdate": "2026-10-22T14:15:00+09:00"
+    },
+    {
+      "code": "3624",
+      "name": "Ｇ－アクセルＭ",
+      "title": "債権等の取立不能のおそれに関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261022553795.pdf",
+      "pubdate": "2026-10-22T14:00:00+09:00"
+    },
+    {
+      "code": "3624",
+      "name": "Ｇ－アクセルＭ",
+      "title": "債権の取立不能のおそれに関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261022553796.pdf",
+      "pubdate": "2026-10-22T14:00:00+09:00"
+    },
+    {
+      "code": "4418",
+      "name": "Ｇ－ＪＤＳＣ",
+      "title": "臨時株主総会招集のための基準日設定に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261021554177.pdf",
+      "pubdate": "2026-10-22T14:00:00+09:00"
+    },
+    {
+      "code": "4418",
+      "name": "Ｇ－ＪＤＳＣ",
+      "title": "ストック・オプション（新株予約権）の発行に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554546.pdf",
+      "pubdate": "2026-10-22T14:00:00+09:00"
+    },
+    {
+      "code": "8617",
+      "name": "光世証",
+      "title": "2027年３月期　第２四半期（中間期）決算短信〔日本基準〕（非連結）",
+      "url": "https://www.release.tdnet.info/inbs/140120261021554066.pdf",
+      "pubdate": "2026-10-22T14:00:00+09:00"
+    },
+    {
+      "code": "9888",
+      "name": "ＵＥＸ",
+      "title": "業績予想の修正に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554346.pdf",
+      "pubdate": "2026-10-22T14:00:00+09:00"
+    },
+    {
+      "code": "4439",
+      "name": "東名",
+      "title": "取締役会の実効性評価の結果概要に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261005545938.pdf",
+      "pubdate": "2026-10-22T13:00:00+09:00"
+    },
+    {
+      "code": "5204",
+      "name": "石塚硝",
+      "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+      "url": "https://www.release.tdnet.info/inbs/140120261021554163.pdf",
+      "pubdate": "2026-10-22T13:00:00+09:00"
+    },
+    {
+      "code": "5204",
+      "name": "石塚硝",
+      "title": "2027年３月期第２四半期の業績説明及び2027年３月期通期の業績予想",
+      "url": "https://www.release.tdnet.info/inbs/140120261021554172.pdf",
+      "pubdate": "2026-10-22T13:00:00+09:00"
+    },
+    {
+      "code": "7350",
+      "name": "おきなわＦＧ",
+      "title": "2027年３月期第２四半期末の有価証券含み損に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554322.pdf",
+      "pubdate": "2026-10-22T13:00:00+09:00"
+    },
+    {
+      "code": "587A4",
+      "name": "Ｅ－インベスコＱＱＱ",
+      "title": "インベスコQQQトラスト シリーズ1 に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554519.pdf",
+      "pubdate": "2026-10-22T12:15:00+09:00"
+    },
+    {
+      "code": "3733",
+      "name": "ソフトウェアＳ",
+      "title": "主要株主である筆頭株主の異動（予定）並びに公開買付けに準ずる行為として政令で定める買集め行為に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554408.pdf",
+      "pubdate": "2026-10-22T12:00:00+09:00"
+    },
+    {
+      "code": "3815",
+      "name": "Ｇ－メディア",
+      "title": "第１回無担保転換社債型新株予約権付社債の償還に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554502.pdf",
+      "pubdate": "2026-10-22T12:00:00+09:00"
+    },
+    {
+      "code": "4477",
+      "name": "Ｇ－ＢＡＳＥ",
+      "title": "ＳＢＩＮＭ合同会社（ＳＢＩホールディングス株式会社の完全子会社）による当社株式に対する公開買付けの結果に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554430.pdf",
+      "pubdate": "2026-10-22T12:00:00+09:00"
+    },
+    {
+      "code": "4498",
+      "name": "Ｇ－サイバートラスト",
+      "title": "SSL/TLS サーバー証明書発行サービスの一時停止に関するお知らせ（続報）",
+      "url": "https://www.release.tdnet.info/inbs/140120261021553999.pdf",
+      "pubdate": "2026-10-22T12:00:00+09:00"
+    },
+    {
+      "code": "15574",
+      "name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554499.pdf",
+      "pubdate": "2026-10-22T11:50:00+09:00"
+    },
+    {
+      "code": "13264",
+      "name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554497.pdf",
+      "pubdate": "2026-10-22T11:45:00+09:00"
+    },
+    {
+      "code": "13494",
+      "name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554490.pdf",
+      "pubdate": "2026-10-22T11:40:00+09:00"
+    },
+    {
+      "code": "20704",
+      "name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554438.pdf",
+      "pubdate": "2026-10-22T11:30:00+09:00"
+    },
+    {
+      "code": "549A",
+      "name": "ヒトトヒトＨＤ",
+      "title": "2027年3月期通期業績予想の修正に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554360.pdf",
+      "pubdate": "2026-10-22T11:30:00+09:00"
+    },
+    {
+      "code": "549A",
+      "name": "ヒトトヒトＨＤ",
+      "title": "2027年3月期通期業績予想の修正に関するお知らせ　補足説明資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554396.pdf",
+      "pubdate": "2026-10-22T11:30:00+09:00"
+    },
+    {
+      "code": "8783",
+      "name": "ａｂｃ",
+      "title": "上場株式のトレーディングによる営業外収益の計上並びにウインテスト第13回新株予約権の行使完了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554504.pdf",
+      "pubdate": "2026-10-22T11:30:00+09:00"
+    },
+    {
+      "code": "9501",
+      "name": "東電力ＨＤ",
+      "title": "原子力損害賠償・廃炉等支援機構からの資金の交付について",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554326.pdf",
+      "pubdate": "2026-10-22T11:00:00+09:00"
+    },
     {
       "code": "13294",
       "name": "Ｅ－ブラックロック",
