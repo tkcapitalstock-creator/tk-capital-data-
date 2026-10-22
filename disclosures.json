@@ -1,145 +1,82 @@
 {
-  "updated_at": "2026-10-22T07:47:30.394630+09:00",
+  "updated_at": "2026-10-22T10:01:17.822883+09:00",
   "items": [
     {
-      "code": "2646",
-      "name": "ＧＸメタルビジ日株",
-      "title": "ETFの収益分配金見込額の修正のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261021554199.pdf",
-      "pubdate": "2026-10-21 18:30:00"
-    },
-    {
-      "code": "2469",
-      "name": "ヒビノ",
-      "title": "主要株主の異動に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261020553787.pdf",
-      "pubdate": "2026-10-21 18:00:00"
-    },
-    {
-      "code": "4829",
-      "name": "日本エンタープライズ",
-      "title": "株式会社ハニー・ビーの株式取得（子会社化）に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261021554197.pdf",
-      "pubdate": "2026-10-21 17:30:00"
-    },
-    {
-      "code": "3712",
-      "name": "情報企画",
-      "title": "連結子会社における固定資産の譲渡に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261021554192.pdf",
-      "pubdate": "2026-10-21 17:20:00"
-    },
-    {
-      "code": "5029",
-      "name": "Ｇ－サークレイス",
-      "title": "（訂正）「主要株主である筆頭株主の異動に関するお知らせ」の訂正につきまして",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261021554181.pdf",
-      "pubdate": "2026-10-21 17:15:00"
-    },
-    {
-      "code": "5029",
-      "name": "Ｇ－サークレイス",
-      "title": "（訂正）「支配株主等に関する事項について」の訂正につきまして",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261021554187.pdf",
-      "pubdate": "2026-10-21 17:15:00"
-    },
-    {
-      "code": "5029",
-      "name": "Ｇ－サークレイス",
-      "title": "（訂正）「代表取締役会長兼社長による当社株式取得に関するお知らせ」の訂正につきまして",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261021554188.pdf",
-      "pubdate": "2026-10-21 17:15:00"
-    },
-    {
-      "code": "5076",
-      "name": "インフロニアＨＤ",
-      "title": "発行価格及び売出価格等の決定に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261020553408.pdf",
-      "pubdate": "2026-10-21 17:15:00"
-    },
-    {
-      "code": "5130",
-      "name": "Ｐ－ヒロＨＤ",
-      "title": "定款の一部変更に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261021554123.pdf",
-      "pubdate": "2026-10-21 17:15:00"
-    },
-    {
-      "code": "4326",
-      "name": "インテージＨＤ",
-      "title": "譲渡制限付株式報酬としての自己株式の処分に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261021553913.pdf",
-      "pubdate": "2026-10-21 17:00:00"
-    },
-    {
-      "code": "6137",
-      "name": "小池酸工",
-      "title": "2027年3月期第2四半期（中間期）の決算発表日に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261021553794.pdf",
-      "pubdate": "2026-10-21 17:00:00"
-    },
-    {
-      "code": "9388",
-      "name": "Ｑ－パパネッツ",
-      "title": "東京証券取引所への上場申請の取下げに関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261021554183.pdf",
-      "pubdate": "2026-10-21 17:00:00"
-    },
-    {
-      "code": "4893",
-      "name": "Ｇ－ノイルイミューン",
-      "title": "行使価額修正条項付新株予約権の大量行使に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261021554170.pdf",
-      "pubdate": "2026-10-21 16:40:00"
-    },
-    {
-      "code": "5133",
-      "name": "テリロジーＨＤ",
-      "title": "当社連結子会社におけるStudio株式会社で発生した不正アクセスに伴う個人情報漏えいの可能性に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261021553964.pdf",
-      "pubdate": "2026-10-21 16:40:00"
+      "code": "13294",
+      "name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554355.pdf",
+      "pubdate": "2026-10-22T10:00:00+09:00"
     },
     {
       "code": "138A",
       "name": "Ｇ－光フードサービス",
-      "title": "株式の立会外分売実施に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261016552258.pdf",
-      "pubdate": "2026-10-21 16:30:00"
+      "title": "株式の立会外分売終了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261016552304.pdf",
+      "pubdate": "2026-10-22T10:00:00+09:00"
     },
     {
-      "code": "3290",
-      "name": "Ｒ－Ｏｎｅリート",
-      "title": "2026年8月期　決算短信(REIT)",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261021554046.pdf",
-      "pubdate": "2026-10-21 16:30:00"
+      "code": "16714",
+      "name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554371.pdf",
+      "pubdate": "2026-10-22T10:00:00+09:00"
     },
     {
-      "code": "3290",
-      "name": "Ｒ－Ｏｎｅリート",
-      "title": "2026年8月期（第26期）決算説明資料",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261021553975.pdf",
-      "pubdate": "2026-10-21 16:30:00"
+      "code": "485A",
+      "name": "Ｇ－パワーエックス",
+      "title": "一部報道に関する当社の生産状況等について",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554407.pdf",
+      "pubdate": "2026-10-22T10:00:00+09:00"
     },
     {
-      "code": "9444",
-      "name": "トーシンＨＤ",
-      "title": "（経過開示）当社子会社による訴訟提起に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261021554157.pdf",
-      "pubdate": "2026-10-21 16:30:00"
+      "code": "5078",
+      "name": "セレコーポレーション",
+      "title": "2027年２月期　上期決算説明会資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261021554193.pdf",
+      "pubdate": "2026-10-22T10:00:00+09:00"
     },
     {
-      "code": "2326",
-      "name": "デジアーツ",
-      "title": "当社への不正アクセスに関するお知らせとお詫び",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261021554017.pdf",
-      "pubdate": "2026-10-21 16:00:00"
+      "code": "585A4",
+      "name": "Ｅ－ＪＡＭＰＦＭ",
+      "title": "上場ETF（管理会社：JAMPファンド・マネジメント）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554327.pdf",
+      "pubdate": "2026-10-22T10:00:00+09:00"
     },
     {
-      "code": "2979",
-      "name": "Ｒ－ＳＯＳｉＬＡ物流",
-      "title": "資産運用会社の業務改善報告に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261021554105.pdf",
-      "pubdate": "2026-10-21 16:00:00"
+      "code": "8473",
+      "name": "ＳＢＩ",
+      "title": "BASE 株式会社株式（証券コード：4477）に対する公開買付けの結果に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261021554277.pdf",
+      "pubdate": "2026-10-22T10:00:00+09:00"
+    },
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554305.pdf",
+      "pubdate": "2026-10-22T08:30:00+09:00"
+    },
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554306.pdf",
+      "pubdate": "2026-10-22T08:30:00+09:00"
+    },
+    {
+      "code": "4547",
+      "name": "キッセイ薬",
+      "title": "タブネオスに関する薬事審議会医薬品第二部会での報告・審議結果に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261021554206.pdf",
+      "pubdate": "2026-10-22T08:30:00+09:00"
+    },
+    {
+      "code": "4888",
+      "name": "Ｇ－ステラファーマ",
+      "title": "再発髄膜腫を対象としたステボロニンの薬事審議会における審議結果に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553245.pdf",
+      "pubdate": "2026-10-22T08:00:00+09:00"
     }
   ]
 }
