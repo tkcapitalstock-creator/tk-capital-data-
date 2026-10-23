@@ -1,145 +1,96 @@
 {
-  "updated_at": "2026-10-23T08:21:30.454874+09:00",
+  "updated_at": "2026-10-23T10:44:03.119261+09:00",
   "items": [
     {
-      "code": "9202",
-      "name": "ＡＮＡ",
-      "title": "一部報道について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261022554845.pdf",
-      "pubdate": "2026-10-22 20:00:00"
+      "code": "13294",
+      "name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261023554924.pdf",
+      "pubdate": "2026-10-23T10:00:00+09:00"
     },
     {
-      "code": "365A",
-      "name": "伊澤タオル",
-      "title": "取締役の辞任及び人事異動に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261022554810.pdf",
-      "pubdate": "2026-10-22 18:00:00"
+      "code": "16714",
+      "name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261023554925.pdf",
+      "pubdate": "2026-10-23T10:00:00+09:00"
     },
     {
-      "code": "5932",
-      "name": "三協立山",
-      "title": "株式報酬制度の導入に伴う信託設定及び自己株式の処分の中止に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261022554770.pdf",
-      "pubdate": "2026-10-22 18:00:00"
+      "code": "190A",
+      "name": "Ｇ－Ｃｈｏｒｄｉａ",
+      "title": "資本準備金の額の減少及び剰余金の処分に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554294.pdf",
+      "pubdate": "2026-10-23T10:00:00+09:00"
     },
     {
-      "code": "2961",
-      "name": "日本調理機",
-      "title": "2026年９月期通期業績予想及び配当予想の修正（増配）に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261021554202.pdf",
-      "pubdate": "2026-10-22 17:15:00"
+      "code": "3815",
+      "name": "Ｇ－メディア",
+      "title": "2026年８月期　決算説明会資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554814.pdf",
+      "pubdate": "2026-10-23T10:00:00+09:00"
     },
     {
-      "code": "9159",
-      "name": "Ｇ－ＷＴＯＫＹＯ",
-      "title": "自己株式の取得状況及び取得終了に関するお知らせ （会社法第165条第２項の規定による定款の定めに基づく自己株式の取得）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261022554797.pdf",
-      "pubdate": "2026-10-22 17:15:00"
+      "code": "585A4",
+      "name": "Ｅ－ＪＡＭＰＦＭ",
+      "title": "上場ETF（管理会社：JAMPファンド・マネジメント）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261023554903.pdf",
+      "pubdate": "2026-10-23T10:00:00+09:00"
     },
     {
-      "code": "2531",
-      "name": "宝ＨＬＤ",
-      "title": "株主による臨時株主総会の招集請求に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261022554729.pdf",
-      "pubdate": "2026-10-22 17:00:00"
+      "code": "413A",
+      "name": "ｉＦ台湾テック",
+      "title": "「iFreeETF キャセイ台湾テックリーダー指数」設定・解約の停止に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261023554973.pdf",
+      "pubdate": "2026-10-23T09:50:00+09:00"
     },
     {
-      "code": "369A",
-      "name": "Ｇ－エータイ",
-      "title": "剰余金の配当に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261022554636.pdf",
-      "pubdate": "2026-10-22 17:00:00"
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261023554905.pdf",
+      "pubdate": "2026-10-23T09:00:00+09:00"
     },
     {
-      "code": "4175",
-      "name": "Ｇ－ｃｏｌｙ",
-      "title": "（開示事項の経過）ウォルト・ディズニー・ジャパン株式会社との取引契約に基づく新規スマートフォンゲームサービス開始日決定のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261022554571.pdf",
-      "pubdate": "2026-10-22 17:00:00"
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261023554906.pdf",
+      "pubdate": "2026-10-23T09:00:00+09:00"
     },
     {
-      "code": "4395",
-      "name": "Ｇ－アクリート",
-      "title": "再発防止策の策定及びリスク・コンプライアンス委員会設置に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261022554759.pdf",
-      "pubdate": "2026-10-22 17:00:00"
+      "code": "6289",
+      "name": "技研製作所",
+      "title": "（訂正）「有償ストック・オプション（新株予約権）の発行に関するお知らせ」の一部訂正のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261023554909.pdf",
+      "pubdate": "2026-10-23T09:00:00+09:00"
     },
     {
-      "code": "4395",
-      "name": "Ｇ－アクリート",
-      "title": "役員報酬の減額に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261022554777.pdf",
-      "pubdate": "2026-10-22 17:00:00"
+      "code": "1554",
+      "name": "上場ＭＳ世",
+      "title": "台湾証券取引所の取引停止に伴なう一部ＥＴＦの設定・解約等の申込みの受付中止についてのお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261023554534.pdf",
+      "pubdate": "2026-10-23T08:45:00+09:00"
     },
     {
-      "code": "8700",
-      "name": "丸八証券",
-      "title": "2027年３月期 第２四半期（中間期）決算速報値に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261021553892.pdf",
-      "pubdate": "2026-10-22 17:00:00"
+      "code": "1681",
+      "name": "上場ＭＳエマ",
+      "title": "台湾証券取引所の取引停止に伴なう一部ＥＴＦの設定・解約等の申込みの受付中止についてのお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261023554535.pdf",
+      "pubdate": "2026-10-23T08:45:00+09:00"
     },
     {
-      "code": "9697",
-      "name": "カプコン",
-      "title": "不正アクセスによるお客様情報漏えいのお詫びとお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261022554474.pdf",
-      "pubdate": "2026-10-22 17:00:00"
+      "code": "4578",
+      "name": "大塚ＨＤ",
+      "title": "IgA腎症治療薬「VOYXACT（シベプレンリマブ）」米国腎臓学会（ASN）でフェーズ3試験の最終結果を発表",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554877.pdf",
+      "pubdate": "2026-10-23T08:30:00+09:00"
     },
     {
-      "code": "13054",
-      "name": "Ｅ－ダイワＥＴＦ",
-      "title": "上場ETF（管理会社：大和アセットマネジメント）に関する日々の開示事項",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261022554771.pdf",
-      "pubdate": "2026-10-22 16:40:00"
-    },
-    {
-      "code": "7062",
-      "name": "Ｇ－フレアス",
-      "title": "営業外収益（見込み）の計上に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261022554765.pdf",
-      "pubdate": "2026-10-22 16:35:00"
-    },
-    {
-      "code": "3843",
-      "name": "フリービット",
-      "title": "当社連結子会社による株式取得（孫会社化）に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261016552190.pdf",
-      "pubdate": "2026-10-22 16:30:00"
-    },
-    {
-      "code": "9242",
-      "name": "Ｇ－メディア総研",
-      "title": "事業計画及び成長可能性に関する事項",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261016552386.pdf",
-      "pubdate": "2026-10-22 16:30:00"
-    },
-    {
-      "code": "15624",
-      "name": "Ｅ－三井住友ＤＳＡＭ",
-      "title": "上場ＥＴＦ（管理会社：三井住友DSアセットマネジメント）に関する日々の開示事項",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261022554750.pdf",
-      "pubdate": "2026-10-22 16:20:00"
-    },
-    {
-      "code": "6246",
-      "name": "テクノスマート",
-      "title": "2027年３月期第２四半期（中間期）業績予想の修正に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261019553163.pdf",
-      "pubdate": "2026-10-22 16:10:00"
-    },
-    {
-      "code": "1771",
-      "name": "日本乾溜",
-      "title": "代表取締役の異動及び役員の異動に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261022554715.pdf",
-      "pubdate": "2026-10-22 16:00:00"
-    },
-    {
-      "code": "1802",
-      "name": "大林組",
-      "title": "特定子会社の異動に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261021554219.pdf",
-      "pubdate": "2026-10-22 16:00:00"
+      "code": "7138",
+      "name": "Ｇ－ＴＯＲＩＣＯ",
+      "title": "イーサリアム（ETH）の追加取得に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261022554887.pdf",
+      "pubdate": "2026-10-23T08:30:00+09:00"
     }
   ]
 }
