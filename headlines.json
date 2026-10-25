@@ -1,45 +1,10 @@
 {
-  "updated_at": "2026-10-25T10:17:54.888009+09:00",
+  "updated_at": "2026-10-25T15:21:02.305741+09:00",
   "items": [
     {
-      "source": "Googleニュース",
-      "title": "Google ニュース",
-      "url": "https://news.google.com/"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "フランスの暴動、「マクロン政治の必然だ」と専門家 そのわけは",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RV1BBcHVVb2s0b0plMWZIVjg1amIxazVvQUh1cGF0LTJQN0FrSC1YNk1maF9QU2k4YmtXdExJSVpKcW1vem5haWh2Tk5IMUtCZDhsMVJDT181bDZPRWttZW83OXExWkE?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "九州から関東は大雨のおそれ 九州北部は滝のような雨も 今日25日(日)の天気(気象予報士 日直主任)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tVklTblJkbVNacFpaS3FLcVBqbDVlNWUtaEJHWURSQmxqZHFoSE4zUl9sUTViMURaOGxUSmR3S1c1MmNReHZjTmZXdjdON1FCSWVyRWhIRWJOVjhLZ2paNzNfY2NyS3dLZEE?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "【地震速報】熊本 宮崎 鹿児島で震度3 津波の心配なし",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WVkRCVk5pTDVXQl8yenlMQ2NYbWVZa3RHblF2dm5RRTZwTFhKWWRhNllCdmZBMEtmM19BZ204VXVwM1dlZUVnRTdSN2stVEJ4NnVFRFJzbDNRVUJhYjVV?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "高市首相、官僚との面会は歴代首相より大幅に少ない傾向…資料熟読する「高市流」貫いた１年",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96QmVWdF9FdVZTckNEM0J6cURfYkRMQV9yUTlFZ1I0WGY1TjhEZHI2bkotUDNNR0JFam1pek5YRVlrM3pmaW03d0JqbFNPcEVPN2psdlZYODlMZ0F3ZlpjUmxUQWNDdw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "北朝鮮の金正恩氏、１年ぶり訪中 新大橋を利用、中国序列４位と会談",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2WWdOa2pHdlJ2WW9hTW5hNmw3SlQtbUtOVW91SU84VGhSRWZwdGt4TzUzZUhkTm5mRjZEeVZRZERpa1ZVUTIwWnEzZVNLelF6VEowN0tXZHRPczNMZnYyc3RHaw?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "神奈川 秦野の弘法山公園近くでクマ再出没 放獣個体と判明",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01YU5sVjhPQkJXLXpDNXVuY0R3SU0yWHExZWVyR1VWd0FFdGNzdjdtN2txRWRUaEhPSXVUeG1PY0FHdjhJMmpSNnlqZnYzSDFaaE0wa19JcTR1aEIzSTNR?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "北九州市の路上で女性刺される 犯人は逃走し警察は殺人未遂事件として捜査 (2026年10月25日掲載)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jNkdFVGM5VGlteDFBOFVGWXVZOGZicWZpUHY1Um5MSEgwM2tFNGFwWmxxS2JrRHd4dWkycjc3Y045WUZ1dURBOWxvbUhDSXo3WWZOMTdNZGFHanE0ZkE?oc=5"
+      "source": "システム",
+      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
+      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
     }
   ]
 }
