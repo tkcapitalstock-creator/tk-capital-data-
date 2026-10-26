@@ -1,145 +1,26 @@
 {
-  "updated_at": "2026-10-27T04:50:24.392323+09:00",
+  "updated_at": "2026-10-27T08:30:57.485853+09:00",
   "items": [
     {
-      "code": "1814",
-      "name": "大末建",
-      "title": "連結子会社の社名変更に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261026555984.pdf",
-      "pubdate": "2026-10-26 15:00:00"
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261027556455.pdf",
+      "pubdate": "2026-10-27T08:30:00+09:00"
     },
     {
-      "code": "2288",
-      "name": "丸大食",
-      "title": "業績予想の修正に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261021554085.pdf",
-      "pubdate": "2026-10-26 15:00:00"
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261027556457.pdf",
+      "pubdate": "2026-10-27T08:30:00+09:00"
     },
     {
-      "code": "2391",
-      "name": "プラネット",
-      "title": "支配株主等に関する事項について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261023555310.pdf",
-      "pubdate": "2026-10-26 15:00:00"
-    },
-    {
-      "code": "3418",
-      "name": "Ｇ－バルニバービ",
-      "title": "事業計画及び成長可能性に関する事項",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261006546833.pdf",
-      "pubdate": "2026-10-26 15:00:00"
-    },
-    {
-      "code": "6923",
-      "name": "スタンレー電",
-      "title": "2027年３月期 第２四半期(中間期)決算短信〔日本基準〕(連結)",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261026555712.pdf",
-      "pubdate": "2026-10-26 15:00:00"
-    },
-    {
-      "code": "6923",
-      "name": "スタンレー電",
-      "title": "2027年3月期(第122期)中間期決算補足説明資料",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261026555731.pdf",
-      "pubdate": "2026-10-26 15:00:00"
-    },
-    {
-      "code": "8392",
-      "name": "大分銀",
-      "title": "2027年３月期第２四半期末の有価証券含み損に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261026555823.pdf",
-      "pubdate": "2026-10-26 15:00:00"
-    },
-    {
-      "code": "8714",
-      "name": "池田泉州",
-      "title": "2027年３月期第２四半期末の有価証券含み損に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261026555971.pdf",
-      "pubdate": "2026-10-26 15:00:00"
-    },
-    {
-      "code": "8747",
-      "name": "豊トラスティ証券",
-      "title": "連結総資産の減少に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261026555644.pdf",
-      "pubdate": "2026-10-26 15:00:00"
-    },
-    {
-      "code": "2908",
-      "name": "フジッコ",
-      "title": "業績予想の修正に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261023555590.pdf",
-      "pubdate": "2026-10-26 14:30:00"
-    },
-    {
-      "code": "4728",
-      "name": "トーセ",
-      "title": "2026年８月期　決算説明　質疑応答集",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261026555958.pdf",
-      "pubdate": "2026-10-26 14:30:00"
-    },
-    {
-      "code": "4735",
-      "name": "京進",
-      "title": "第三者割当による自己株式処分の完了に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261023555417.pdf",
-      "pubdate": "2026-10-26 14:30:00"
-    },
-    {
-      "code": "8923",
-      "name": "トーセイ",
-      "title": "株主優待制度の一部変更に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261023555273.pdf",
-      "pubdate": "2026-10-26 14:30:00"
-    },
-    {
-      "code": "2068",
-      "name": "高ベータ３０ＥＴＮ",
-      "title": "「NEXT NOTES 高ベータ30（ネットリターン）ETN」一証券あたりの償還価額と市場価格の重要な乖離に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261026556033.pdf",
-      "pubdate": "2026-10-26 14:00:00"
-    },
-    {
-      "code": "3962",
-      "name": "チェンジＨＤ",
-      "title": "当社連結子会社における不正アクセスによる個人情報の外部流出に関するお知らせ（第３報）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261026556007.pdf",
-      "pubdate": "2026-10-26 14:00:00"
-    },
-    {
-      "code": "7273",
-      "name": "イクヨ",
-      "title": "ムラキ株式会社（証券コード：7477）に対する公開買付けの開始予定に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261026555968.pdf",
-      "pubdate": "2026-10-26 13:45:00"
-    },
-    {
-      "code": "3803",
-      "name": "Ｇ－イメージ情",
-      "title": "特別利益(投資有価証券売却益)の計上に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261026555825.pdf",
-      "pubdate": "2026-10-26 13:00:00"
-    },
-    {
-      "code": "8190",
-      "name": "ヤマナカ",
-      "title": "2027年３月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261024555621.pdf",
-      "pubdate": "2026-10-26 13:00:00"
-    },
-    {
-      "code": "9663",
-      "name": "ナガワ",
-      "title": "2027年３月期配当予想の修正に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261026555743.pdf",
-      "pubdate": "2026-10-26 13:00:00"
-    },
-    {
-      "code": "4784",
-      "name": "ＧＭＯインターネット",
-      "title": "当社における不正アクセスに伴うお客様へのお見舞金のお支払いおよび不正取引による損失の補償に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261024555624.pdf",
-      "pubdate": "2026-10-24 13:15:00"
+      "code": "5020",
+      "name": "ＥＮＥＯＳ",
+      "title": "TPC Holdings, Inc.の買収完了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261026556237.pdf",
+      "pubdate": "2026-10-27T08:30:00+09:00"
     }
   ]
 }
