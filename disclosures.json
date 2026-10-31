@@ -1,19 +1,145 @@
 {
-  "updated_at": "2026-10-31T20:09:36.484236+09:00",
+  "updated_at": "2026-11-01T01:07:35.152018+09:00",
   "items": [
     {
       "code": "8848",
       "name": "レオパレス２１",
       "title": "当社の株券等に対する公開買付けの結果並びに親会社等の異動に関するお知らせ並びに特定子会社の異動を伴う株式譲渡に関するお知らせの訂正",
-      "url": "https://www.release.tdnet.info/inbs/140120261030561905.pdf",
-      "pubdate": "2026-10-31T09:30:00+09:00"
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030561905.pdf",
+      "pubdate": "2026-10-31 09:30:00"
     },
     {
       "code": "9435",
       "name": "光通信",
       "title": "公開買付け開始時点では子会社である株式会社K891における株式会社レオパレス21（証券コード：8848）の株券等に対する公開買付けの結果及び子会社の異動（関連",
-      "url": "https://www.release.tdnet.info/inbs/140120261029560129.pdf",
-      "pubdate": "2026-10-31T09:30:00+09:00"
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261029560129.pdf",
+      "pubdate": "2026-10-31 09:30:00"
+    },
+    {
+      "code": "9658",
+      "name": "ビジ太田昭和",
+      "title": "持分法適用会社（グローバルセキュリティエキスパート株式会社）に対する公開買付に係る契約締結に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030561903.pdf",
+      "pubdate": "2026-10-30 20:00:00"
+    },
+    {
+      "code": "7551",
+      "name": "ウェッズ",
+      "title": "2027年３月期　第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261028558064.pdf",
+      "pubdate": "2026-10-30 19:00:00"
+    },
+    {
+      "code": "7551",
+      "name": "ウェッズ",
+      "title": "第２四半期（中間期）連結業績予想と実績値との差異に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261028558104.pdf",
+      "pubdate": "2026-10-30 19:00:00"
+    },
+    {
+      "code": "8020",
+      "name": "兼松",
+      "title": "公開買付けに伴う株式売却に係る「持分法による投資利益」の計上（見込み）および業績への影響に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030560876.pdf",
+      "pubdate": "2026-10-30 19:00:00"
+    },
+    {
+      "code": "4461",
+      "name": "第一工業",
+      "title": "主要株主および主要株主である筆頭株主の異動に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030561715.pdf",
+      "pubdate": "2026-10-30 18:55:00"
+    },
+    {
+      "code": "285A",
+      "name": "キオクシアＨＤ",
+      "title": "2027年３月期 第２四半期（中間期）決算短信〔ＩＦＲＳ〕（連結）",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030561535.pdf",
+      "pubdate": "2026-10-30 18:45:00"
+    },
+    {
+      "code": "285A",
+      "name": "キオクシアＨＤ",
+      "title": "株主還元方針及び剰余金の配当（中間配当・初配）に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030561562.pdf",
+      "pubdate": "2026-10-30 18:45:00"
+    },
+    {
+      "code": "285A",
+      "name": "キオクシアＨＤ",
+      "title": "連結子会社間の合併に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030561544.pdf",
+      "pubdate": "2026-10-30 18:45:00"
+    },
+    {
+      "code": "4417",
+      "name": "Ｇ－グローバルセキュ",
+      "title": "アクセンチュア株式会社による当社株券等に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030561673.pdf",
+      "pubdate": "2026-10-30 18:45:00"
+    },
+    {
+      "code": "4417",
+      "name": "Ｇ－グローバルセキュ",
+      "title": "アクセンチュア株式会社によるグローバルセキュリティエキスパート株式会社（証券コード：4417）の株券等に対する公開買付けの開始に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030561704.pdf",
+      "pubdate": "2026-10-30 18:45:00"
+    },
+    {
+      "code": "4417",
+      "name": "Ｇ－グローバルセキュ",
+      "title": "2027年３月期の剰余金の配当（中間配当）、期末配当予想の修正（無配）及び株主優待制度の廃止に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030561697.pdf",
+      "pubdate": "2026-10-30 18:45:00"
+    },
+    {
+      "code": "4417",
+      "name": "Ｇ－グローバルセキュ",
+      "title": "2027年３月期　第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030561565.pdf",
+      "pubdate": "2026-10-30 18:45:00"
+    },
+    {
+      "code": "4417",
+      "name": "Ｇ－グローバルセキュ",
+      "title": "2027年３月期　第２四半期決算説明資料",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030561583.pdf",
+      "pubdate": "2026-10-30 18:45:00"
+    },
+    {
+      "code": "2334",
+      "name": "Ｇ－イオレ",
+      "title": "暗号資産（BTC）の売却及び売却損の計上見込み並びに資金使途の変更に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030561278.pdf",
+      "pubdate": "2026-10-30 18:30:00"
+    },
+    {
+      "code": "7422",
+      "name": "東邦レマック",
+      "title": "代表取締役の異動に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261029559118.pdf",
+      "pubdate": "2026-10-30 18:30:00"
+    },
+    {
+      "code": "244A",
+      "name": "Ｇ－グロースエクスパ",
+      "title": "2026年８月期通期決算Q＆A集",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030561857.pdf",
+      "pubdate": "2026-10-30 18:00:00"
+    },
+    {
+      "code": "485A",
+      "name": "Ｇ－パワーエックス",
+      "title": "関西電力送配電株式会社との蓄電池を活用した新たな系統接続・設備形成手法に関する基本合意書締結のお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030561815.pdf",
+      "pubdate": "2026-10-30 18:00:00"
+    },
+    {
+      "code": "6561",
+      "name": "Ｇ－ＨＡＮＡＴＯＵＲ",
+      "title": "連結子会社における代表取締役の異動及び社内調査委員会の設置に関するお知らせ",
+      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030561050.pdf",
+      "pubdate": "2026-10-30 18:00:00"
     }
   ]
 }
