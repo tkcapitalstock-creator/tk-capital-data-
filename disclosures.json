@@ -1,145 +1,19 @@
 {
-  "updated_at": "2026-10-31T09:01:51.499101+09:00",
+  "updated_at": "2026-10-31T14:29:08.129245+09:00",
   "items": [
     {
-      "code": "1941",
-      "name": "中電工",
-      "title": "2027年3月期第2四半期決算短信[日本基準](連結)",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261029559180.pdf",
-      "pubdate": "2026-10-30 15:00:00"
+      "code": "8848",
+      "name": "レオパレス２１",
+      "title": "当社の株券等に対する公開買付けの結果並びに親会社等の異動に関するお知らせ並びに特定子会社の異動を伴う株式譲渡に関するお知らせの訂正",
+      "url": "https://www.release.tdnet.info/inbs/140120261030561905.pdf",
+      "pubdate": "2026-10-31T09:30:00+09:00"
     },
     {
-      "code": "1941",
-      "name": "中電工",
-      "title": "自己株式の取得及び自己株式の公開買付けに関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261029559577.pdf",
-      "pubdate": "2026-10-30 15:00:00"
-    },
-    {
-      "code": "1941",
-      "name": "中電工",
-      "title": "剰余金の配当（中間配当）の決定及び配当予想の修正に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030561013.pdf",
-      "pubdate": "2026-10-30 15:00:00"
-    },
-    {
-      "code": "2109",
-      "name": "ＤＭ三井製糖",
-      "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030560809.pdf",
-      "pubdate": "2026-10-30 15:00:00"
-    },
-    {
-      "code": "2221",
-      "name": "岩塚製菓",
-      "title": "業績予想の修正に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030560533.pdf",
-      "pubdate": "2026-10-30 15:00:00"
-    },
-    {
-      "code": "3513",
-      "name": "イチカワ",
-      "title": "繰延税金資産の計上及び連結業績予想の修正に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030561070.pdf",
-      "pubdate": "2026-10-30 15:00:00"
-    },
-    {
-      "code": "3946",
-      "name": "トーモク",
-      "title": "2027年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261028558566.pdf",
-      "pubdate": "2026-10-30 15:00:00"
-    },
-    {
-      "code": "4015",
-      "name": "Ｇ－ペイクラウドＨＤ",
-      "title": "（訂正）「2026年８月期通期 決算説明資料」の一部訂正について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030561519.pdf",
-      "pubdate": "2026-10-30 15:00:00"
-    },
-    {
-      "code": "4229",
-      "name": "群栄化",
-      "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261027557114.pdf",
-      "pubdate": "2026-10-30 15:00:00"
-    },
-    {
-      "code": "4229",
-      "name": "群栄化",
-      "title": "通期の連結業績予想の修正に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261027557151.pdf",
-      "pubdate": "2026-10-30 15:00:00"
-    },
-    {
-      "code": "4248",
-      "name": "竹本容器",
-      "title": "2026年12月期第３四半期決算短信〔日本基準〕(連結)",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030560687.pdf",
-      "pubdate": "2026-10-30 15:00:00"
-    },
-    {
-      "code": "4248",
-      "name": "竹本容器",
-      "title": "2026年12月期第3四半期決算説明資料",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030560711.pdf",
-      "pubdate": "2026-10-30 15:00:00"
-    },
-    {
-      "code": "4463",
-      "name": "日華化学",
-      "title": "2026年12月期 第3四半期決算短信〔日本基準〕(連結)",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261028558247.pdf",
-      "pubdate": "2026-10-30 15:00:00"
-    },
-    {
-      "code": "4463",
-      "name": "日華化学",
-      "title": "2026年12月期 第3四半期決算補足説明資料",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261028558259.pdf",
-      "pubdate": "2026-10-30 15:00:00"
-    },
-    {
-      "code": "4531",
-      "name": "有機薬",
-      "title": "2027年3月期通期業績予想の修正に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030561168.pdf",
-      "pubdate": "2026-10-30 15:00:00"
-    },
-    {
-      "code": "4531",
-      "name": "有機薬",
-      "title": "2027年3月期 第2四半期(中間期) 決算短信〔日本基準〕（非連結）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030561148.pdf",
-      "pubdate": "2026-10-30 15:00:00"
-    },
-    {
-      "code": "4771",
-      "name": "エフアンドエム",
-      "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030560346.pdf",
-      "pubdate": "2026-10-30 15:00:00"
-    },
-    {
-      "code": "4771",
-      "name": "エフアンドエム",
-      "title": "2027年3月期第2四半期決算説明資料",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030561110.pdf",
-      "pubdate": "2026-10-30 15:00:00"
-    },
-    {
-      "code": "4968",
-      "name": "荒川化学",
-      "title": "2027年３月期第２四半期（中間期）および通期連結業績予想の上方修正ならびに2027年３月期配当予想の修正（増配）に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261029559276.pdf",
-      "pubdate": "2026-10-30 15:00:00"
-    },
-    {
-      "code": "5531",
-      "name": "Ｐ－エヌバイテクノ",
-      "title": "資金の借入れに関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030561048.pdf",
-      "pubdate": "2026-10-30 15:00:00"
+      "code": "9435",
+      "name": "光通信",
+      "title": "公開買付け開始時点では子会社である株式会社K891における株式会社レオパレス21（証券コード：8848）の株券等に対する公開買付けの結果及び子会社の異動（関連",
+      "url": "https://www.release.tdnet.info/inbs/140120261029560129.pdf",
+      "pubdate": "2026-10-31T09:30:00+09:00"
     }
   ]
 }
