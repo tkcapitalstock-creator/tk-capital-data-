@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T08:18:06.277097+09:00",
+  "updated_at": "2026-11-01T11:22:32.086446+09:00",
   "items": [
     {
       "source": "Googleニュース",
@@ -8,8 +8,23 @@
     },
     {
       "source": "Googleニュース",
+      "title": "【速報】米国が条件受け入れの兆候とイラン",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoWnBfNGE5ZFMxcjd5SWVid1V3MGdPZE9MclFyMlNFY05jMGl2QTFFZk1ZanV1OERGZnl1czZUb2ZBR0FCU0gyR0FUSQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
       "title": "ロシア軍占領地から住民退避、ウクライナ入り…ロシアとウクライナの文民チームが現地に支援物資",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0aHdOa0xPYlFjcUxtTm8tRGJBdXYyOE41dFRwT2pzNmhnQ3l0R2g3ck14cmtIb0pUOG9YVnR3T1d4cnpYcWpsaTRETTQ0U25uekRSeDBzbmhZNGxWMkp4YUJ3?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "フランスで３週連続の大規模抗議デモ、警官ら７万人動員…ドイツでも３０以上の都市で学生が徴兵制反対など訴え",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tN3h3bWs5TW9XdUFWbGtUNXJJR2FzVHNYZUd1YnFNdE54S1o0SHhfdW1PdjJsRVRldm9sWHpXa3hqOXc3V0s3Rkk5aEZFQ0tfeDJnOFJIYjRLQjVsSC0yOWR3?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "台風31号 5日頃に父島に最接近か 高波など影響が長引くおそれ 関東周辺も雨(気象予報士 中川 裕美子)",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XOEJXcjFFZzJFQnU5eXJBTjBETTVVZll4MFJLM3RYSV9MNU54R2VuR3JtV1ItTWt2LXgxMHFzTVdEaGxodWFoY0dDRENWbU0tanJQck1tTWo0eUNQN1hYQTlqNmkzbDNQNHJDYQ?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -18,23 +33,8 @@
     },
     {
       "source": "Googleニュース",
-      "title": "中国調査船４隻が海底ケーブル探査か…台湾周辺の敷設ルートで５月以降、減速・停船",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52Vm9QTnJpZE1YUDBBeXVSNS1TU1ZuNjNiMFZydDFzeG5qSlkwLVZtLUxtbjZqSjhJNFB0MGhnaFRIMlpHUFFDaktVSWpKd1VDNHZ4NllaWnhiUFVxOEJLQXBR?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "ヒグマと衝突で脱線、87年のJR発足後初 北海道、列車の下に巻き込む 復旧めど立たず",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lUWMtalpROVBXRm5SM0Y5ZE5yZW5FcWdfUGhoYXpEaFNDRmpKb1l6dmNES3JMS1FDZkc3WFMwSWQ3QlJMaWRFaFYtTnIzWmlpWkJaWDlDRnVPYWs0RFd1Yi1kMWswcnN6SHc1T3U0cnU3TnRsN2c?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "クアッド外相 中国念頭に経済的威圧へ懸念共有 首脳会合へ連携",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ycTR2YlZIakJ6SGRTblRtbU5UdktYSXJNWmczYUpsekFscjBENGl1aHZsUUNoRVVzVU1xaDlJaWoyTjhTVllTUFYtbGdOajhoWjFiMHBSeGpFYzlWQVdR?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "高市氏、国会での答弁数が最少 5首相平均、SNSは突出し最多",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HN0NUQXRHX3BvNlY5TWxVQk9vY1VvNW9vS3JuMi1GOWZBd3l5eFFOWTVmWW1DVU1mRW9zb1RsNFFiT3lIcFEzUEpMNWhCSDNlTmd4STBfbnNJM1pCWk9V?oc=5"
+      "title": "民主大勝なら米株逆風か ＡＩ投資に冷や水も―中間選挙",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HUmhaNlQ2R1pEQTVoc0dGWFZBUldYVGU1QVlBUnhjLXBMLVJNcWM0YklsU2pjdEJmSndxTGxrTGs4TXFPOFFVMFZ6Y2l6WkpRdVdxQVdCTm9Xalg3NnIydW8wZw?oc=5"
     },
     {
       "source": "Googleニュース",
