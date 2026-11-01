@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-11-02T05:40:00.219633+09:00",
+  "updated_at": "2026-11-02T08:55:10.087930+09:00",
   "items": [
     {
       "source": "Googleニュース",
       "title": "Google ニュース",
       "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "米フロリダでビジネスジェット機が住宅街に墜落、搭乗の９人全員死亡",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KWG1Zb2E1eGJ5YjZyVkV2aS1YYmpzNHNMNGtSUS1FNDA3Y2pJRW8wNlV0dlFyVWNBNHJwT3cxOG9sZ1MyQktCR1hkMVFHeDRDYUVMRXVJYW1HSDR5dWo2NXZ3?oc=5"
     },
     {
       "source": "Googleニュース",
@@ -18,28 +23,23 @@
     },
     {
       "source": "Googleニュース",
-      "title": "米中間選挙・激戦州テキサスで…トランプ氏の熱烈支持層「MAGA」派候補が集会",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU05FQTNEZUZmcnBSZ2o4OGttcHJYYWw4YnNJaTZFaU54UUpMdjNvV2piVVF6ZElRSHlfOXFlaG5ZOWlvVzdDS2lhZDVMeEh6UXF2NE9RdTloVGFSVEljNU00TkdOTGhJRjFkYTExbXcxTVRWSmxoeE1vdVcybjgzR1N4X3M?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "10月30日の記者会見について｜辺野古ボート転覆事故遺族メモ",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxaU9RYmtiMEs1SzkzYThHTU5GYmdUN241S2xna3pOb2RiZFlFc2NCdFlrbTFMWkFfWDYwVTBLQWd3WEJ5S05JckdHbVluMm51NVJKaWVHQTY3QWM?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "非常に強い台風31号(インファ) 小笠原諸島は影響が長引くおそれ",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jQW9aLXFHMVhrbVVUTzhIdHRLODdPa3BSY1pFODNTOW5ieGZaTzVqeEV5VU5vZE94cllhaG5Vb1YzWXlyNTZPdWs3UHIwc01HZWRySA?oc=5"
-    },
-    {
-      "source": "Googleニュース",
-      "title": "ヒグマ衝突で特急脱線のJR宗谷線 11月3日に運転再開へ",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0NmtnbGs5cExHbDJrWk5ZQkdTMmxhN1BXTGVkVVJnSnJkMkp0UENoOFlySFVRTVNhendhQXlndGVKUTBlTlQ3TGNIMkRaU1FCN1JoZElnblh2UVFZYVlr?oc=5"
-    },
-    {
-      "source": "Googleニュース",
       "title": "細野大臣、国民などに「緊急要請」へ 防災庁あす発足 「日本の防災を新しくする、作り直す」",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WUFA0dEJwTUpXZmY2MVRZSUNsckZoeFN2Y1loRVB2Yk5vdFkyZnZ6V3ZiSnFkYmJfMHBTRk0tQ0Rxc2lGeHpVQWN4WDVXQQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "ドイツ全土のデモ 暴徒化した集団が店襲撃 当局が会見",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PeUJTdjQ2bElJLUw5UWVldEJaNDdNU1FJLTQyWjlELWlnZXRscy00X3pLcGVUNTMxS2lHaGdKUHpfN3hUdm80NHZYR2dSMmo4bnVDWWx2QUYtRlhKSnNz?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "スペイン列車事故、捜索活動終了で安否の知らせ待つ家族は憔悴…システム障害や人為的判断ミス重なる（読売新聞オンライン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nU1pYVHBjWkd1M1k0Qlh4d1ZsTnRjV2pxVVBkdjh0dXJ6bWpJX0haVWx4eWc1YVZUV0NHR3lPcFhYLVg3S2NRaDQ3cVN4NWtoQllZbnVEUU1HaU5HTWwwaVM1SmdqQ2FzS0JteDJtTEd3SFlRR0hKaHNRZmtyT0k?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "今日11月2日(月)の天気予報 広範囲で傘の出番 強雨や落雷にも注意",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UZGc1TDRYSGpSb2Q2Vm1nZmQxeEdBeVhJdXVjNUh2U0J3WXpBX3N3aVE4aFNiRTNCRFVqNlJRQWRpSi1VRmt3NXR6U180dkgyNzJjZw?oc=5"
     }
   ]
 }
