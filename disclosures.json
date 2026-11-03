@@ -1,145 +1,40 @@
 {
-  "updated_at": "2026-11-04T03:35:42.778365+09:00",
+  "updated_at": "2026-11-04T08:41:15.713312+09:00",
   "items": [
     {
-      "code": "4445",
-      "name": "Ｇ－リビンＴ",
-      "title": "通期連結業績予想の修正に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261102563269.pdf",
-      "pubdate": "2026-11-02 20:00:00"
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261104563408.pdf",
+      "pubdate": "2026-11-04T08:30:00+09:00"
     },
     {
-      "code": "3070",
-      "name": "Ｇ－ジェリービーンズ",
-      "title": "（変更）「系統蓄電所向けの蓄電池の受注契約締結に関するお知らせ」の一部変更に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261102563151.pdf",
-      "pubdate": "2026-11-02 19:00:00"
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261104563409.pdf",
+      "pubdate": "2026-11-04T08:30:00+09:00"
     },
     {
-      "code": "9449",
-      "name": "ＧＭＯ",
-      "title": "自己株式の消却に関するお知らせ（会社法第178条の規定に基づく自己株式の消却）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261102562063.pdf",
-      "pubdate": "2026-11-02 18:31:00"
+      "code": "186A",
+      "name": "Ｇ－アストロスケール",
+      "title": "独OHB社との覚書締結に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261027556936.pdf",
+      "pubdate": "2026-11-04T08:00:00+09:00"
     },
     {
-      "code": "9449",
-      "name": "ＧＭＯ",
-      "title": "株式会社FFRIセキュリティ（証券コード：3692）株式の買集め行為に該当する株式取得及び買付完了に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261102562065.pdf",
-      "pubdate": "2026-11-02 18:31:00"
+      "code": "656A",
+      "name": "Ｇ－オルガナイズ",
+      "title": "事業計画及び成長可能性に関する事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261102563107.pdf",
+      "pubdate": "2026-11-04T08:00:00+09:00"
     },
     {
-      "code": "4498",
-      "name": "Ｇ－サイバートラスト",
-      "title": "SSL/TLS サーバー証明書発行サービスのサービス再開に関する方針のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261030561837.pdf",
-      "pubdate": "2026-11-02 18:30:00"
-    },
-    {
-      "code": "6200",
-      "name": "インソース",
-      "title": "2026年９月期決算短信〔日本基準〕(連結)",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261102562860.pdf",
-      "pubdate": "2026-11-02 18:30:00"
-    },
-    {
-      "code": "6200",
-      "name": "インソース",
-      "title": "中期経営計画策定に関するお知らせ Road to Next 2029",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261102562881.pdf",
-      "pubdate": "2026-11-02 18:30:00"
-    },
-    {
-      "code": "6890",
-      "name": "フェローテック",
-      "title": "（開示事項の訂正）持分法適用会社の株式取得に伴う特定子会社への異動のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261102563210.pdf",
-      "pubdate": "2026-11-02 18:30:00"
-    },
-    {
-      "code": "9069",
-      "name": "センコーグループＨＤ",
-      "title": "当社連結子会社における元従業員の逮捕について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261102563212.pdf",
-      "pubdate": "2026-11-02 18:30:00"
-    },
-    {
-      "code": "2776",
-      "name": "新都ＨＤ",
-      "title": "資金使途の変更に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261102562758.pdf",
-      "pubdate": "2026-11-02 18:00:00"
-    },
-    {
-      "code": "3931",
-      "name": "Ｇ－バリューゴルフ",
-      "title": "当社サービスへの不正アクセスに関するお知らせ（第一報）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261102563148.pdf",
-      "pubdate": "2026-11-02 18:00:00"
-    },
-    {
-      "code": "7643",
-      "name": "ダイイチ",
-      "title": "2027年９月期10月度の売上高前年比に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261102563169.pdf",
-      "pubdate": "2026-11-02 18:00:00"
-    },
-    {
-      "code": "2477",
-      "name": "手間いらず",
-      "title": "（訂正）「自己株式の取得状況に関するお知らせ」の一部訂正に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261102563136.pdf",
-      "pubdate": "2026-11-02 17:45:00"
-    },
-    {
-      "code": "4290",
-      "name": "ＰＩ",
-      "title": "当社グループの業務システムへの不正アクセスによる個人情報漏えいに関するお知らせとお詫び",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261102563007.pdf",
-      "pubdate": "2026-11-02 17:35:00"
-    },
-    {
-      "code": "5032",
-      "name": "ＡＮＹＣＯＬＯＲ",
-      "title": "自己株式の取得状況に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261102563139.pdf",
-      "pubdate": "2026-11-02 17:30:00"
-    },
-    {
-      "code": "5071",
-      "name": "ヴィス",
-      "title": "パドルデザインカンパニーか株式会社の株式取得手続完了のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261102562540.pdf",
-      "pubdate": "2026-11-02 17:30:00"
-    },
-    {
-      "code": "6890",
-      "name": "フェローテック",
-      "title": "2026年12月期通期連結業績予想の修正に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261102562245.pdf",
-      "pubdate": "2026-11-02 17:30:00"
-    },
-    {
-      "code": "9687",
-      "name": "ＫＳＫ",
-      "title": "株主優待制度の新設に関する補足事項について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261102563143.pdf",
-      "pubdate": "2026-11-02 17:20:00"
-    },
-    {
-      "code": "3167",
-      "name": "ＴＯＫＡＩ　ＨＤ",
-      "title": "（訂正）自己株式の取得状況に関するお知らせの一部訂正について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261102563118.pdf",
-      "pubdate": "2026-11-02 17:15:00"
-    },
-    {
-      "code": "13054",
-      "name": "Ｅ－ダイワＥＴＦ",
-      "title": "上場ETF（管理会社：大和アセットマネジメント）に関する日々の開示事項",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261102563116.pdf",
-      "pubdate": "2026-11-02 17:10:00"
+      "code": "656A",
+      "name": "Ｇ－オルガナイズ",
+      "title": "東京証券取引所グロース市場への上場に伴う当社決算情報等のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261102563093.pdf",
+      "pubdate": "2026-11-04T08:00:00+09:00"
     }
   ]
 }
