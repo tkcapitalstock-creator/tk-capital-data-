@@ -1,145 +1,47 @@
 {
-  "updated_at": "2026-11-05T03:45:19.977089+09:00",
+  "updated_at": "2026-11-05T08:57:40.495552+09:00",
   "items": [
     {
-      "code": "6407",
-      "name": "ＣＫＤ",
-      "title": "自己株式の取得状況及び取得終了に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104564747.pdf",
-      "pubdate": "2026-11-04 19:00:00"
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261105564921.pdf",
+      "pubdate": "2026-11-05T08:30:00+09:00"
     },
     {
-      "code": "443A",
-      "name": "ｉＦＪリート２",
-      "title": "iFreeETFの収益分配のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104564743.pdf",
-      "pubdate": "2026-11-04 18:10:00"
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261105564922.pdf",
+      "pubdate": "2026-11-05T08:30:00+09:00"
     },
     {
-      "code": "509A",
-      "name": "Ｉ－Ｇライト・再エネ",
-      "title": "太陽光発電所月次発電電力量実績及び出力制御に関するお知らせ（2026年10月）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104564723.pdf",
-      "pubdate": "2026-11-04 18:05:00"
+      "code": "366A",
+      "name": "Ｇ－ウェルネスＣ",
+      "title": "当社子会社が販売するサービスの提供元における不正アクセス及び情報漏えいに関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261104564889.pdf",
+      "pubdate": "2026-11-05T08:30:00+09:00"
     },
     {
-      "code": "7729",
-      "name": "東精密",
-      "title": "2026年度（2027年3月期）第2四半期 決算説明会（ノート付）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104563485.pdf",
-      "pubdate": "2026-11-04 18:00:00"
+      "code": "655A",
+      "name": "ＬＴＶ－Ｘ",
+      "title": "名古屋証券取引所ネクスト市場への上場に伴う当社決算情報等のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261104563735.pdf",
+      "pubdate": "2026-11-05T08:00:00+09:00"
     },
     {
-      "code": "13054",
-      "name": "Ｅ－ダイワＥＴＦ",
-      "title": "上場ETF（管理会社：大和アセットマネジメント）に関する日々の開示事項",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104564607.pdf",
-      "pubdate": "2026-11-04 17:00:00"
+      "code": "655A",
+      "name": "ＬＴＶ－Ｘ",
+      "title": "事業計画及び成長可能性に関する書類",
+      "url": "https://www.release.tdnet.info/inbs/140120261104563762.pdf",
+      "pubdate": "2026-11-05T08:00:00+09:00"
     },
     {
-      "code": "144A",
-      "name": "Ｐ－エネルギーパワー",
-      "title": "借入金の一部繰上返済に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104563424.pdf",
-      "pubdate": "2026-11-04 17:00:00"
-    },
-    {
-      "code": "2134",
-      "name": "キタハマキャピタル",
-      "title": "連結子会社の持分の一部譲渡に係る譲渡割合の変更及び子会社の異動に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104564517.pdf",
-      "pubdate": "2026-11-04 17:00:00"
-    },
-    {
-      "code": "3189",
-      "name": "ＡＮＡＰ",
-      "title": "第35期定時株主総会の継続会の開催方針に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104564299.pdf",
-      "pubdate": "2026-11-04 17:00:00"
-    },
-    {
-      "code": "4212",
-      "name": "積水樹脂",
-      "title": "持分法適用関連会社における自己株式立会外買付取引(ToSTNeT-3)による自己株式の買付けへの応募のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261102562339.pdf",
-      "pubdate": "2026-11-04 17:00:00"
-    },
-    {
-      "code": "4370",
-      "name": "Ｇ－モビルス",
-      "title": "有償ストック・オプション（新株予約権）の発行内容確定に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104564551.pdf",
-      "pubdate": "2026-11-04 17:00:00"
-    },
-    {
-      "code": "519A",
-      "name": "Ｇ－ベーシック",
-      "title": "当社サービスへの不正アクセスに関するお知らせ（第二報）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261102562932.pdf",
-      "pubdate": "2026-11-04 17:00:00"
-    },
-    {
-      "code": "6349",
-      "name": "小森",
-      "title": "2027年３月期　第２四半期決算説明資料",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104563589.pdf",
-      "pubdate": "2026-11-04 17:00:00"
-    },
-    {
-      "code": "6526",
-      "name": "ソシオネクスト",
-      "title": "連結子会社からの配当金受領に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104563816.pdf",
-      "pubdate": "2026-11-04 17:00:00"
-    },
-    {
-      "code": "9059",
-      "name": "カンダ",
-      "title": "2027年３月期　第２四半期（中間期）決算短信〔日本基準〕（連結）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261102563259.pdf",
-      "pubdate": "2026-11-04 17:00:00"
-    },
-    {
-      "code": "9799",
-      "name": "旭情報",
-      "title": "2027年3月期　第２四半期決算短信〔日本基準〕（連結）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104564370.pdf",
-      "pubdate": "2026-11-04 16:50:00"
-    },
-    {
-      "code": "7236",
-      "name": "ティラド",
-      "title": "2027年３月期 第２四半期決算説明会 質疑応答要旨",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104563700.pdf",
-      "pubdate": "2026-11-04 16:40:00"
-    },
-    {
-      "code": "4430",
-      "name": "東海ソフト",
-      "title": "自己株式の取得及び自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付けに関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104564052.pdf",
-      "pubdate": "2026-11-04 16:35:00"
-    },
-    {
-      "code": "4547",
-      "name": "キッセイ薬",
-      "title": "2027年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104563724.pdf",
-      "pubdate": "2026-11-04 16:30:00"
-    },
-    {
-      "code": "4547",
-      "name": "キッセイ薬",
-      "title": "2027年3月期 第2四半期(中間期)決算補足資料",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104563808.pdf",
-      "pubdate": "2026-11-04 16:30:00"
-    },
-    {
-      "code": "4547",
-      "name": "キッセイ薬",
-      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104563813.pdf",
-      "pubdate": "2026-11-04 16:30:00"
+      "code": "655A",
+      "name": "ＬＴＶ－Ｘ",
+      "title": "親会社以外の支配株主及び主要株主の異動のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261104563767.pdf",
+      "pubdate": "2026-11-05T08:00:00+09:00"
     }
   ]
 }
