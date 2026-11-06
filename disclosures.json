@@ -1,145 +1,467 @@
 {
-  "updated_at": "2026-11-06T06:25:44.550661+09:00",
+  "updated_at": "2026-11-06T10:45:09.746038+09:00",
   "items": [
     {
-      "code": "6867",
-      "name": "リーダ電子",
-      "title": "（訂正）「2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）」の一部訂正について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261105566545.pdf",
-      "pubdate": "2026-11-05 19:10:00"
+      "code": "2722",
+      "name": "ＩＫホールディングス",
+      "title": "2026年10月度連結月次情報のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566863.pdf",
+      "pubdate": "2026-11-06T10:30:00+09:00"
     },
     {
-      "code": "3472",
-      "name": "Ｒ－日本ホテル＆レジ",
-      "title": "アパホールディングス株式会社による本投資法人投資口の追加取得完了に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261105566513.pdf",
-      "pubdate": "2026-11-05 18:30:00"
-    },
-    {
-      "code": "485A",
-      "name": "Ｇ－パワーエックス",
-      "title": "米国等での協業に向けたEnergy Vaultグループとの基本合意のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261105566305.pdf",
-      "pubdate": "2026-11-05 18:30:00"
-    },
-    {
-      "code": "4735",
-      "name": "京進",
-      "title": "上場維持基準への適合に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261105566386.pdf",
-      "pubdate": "2026-11-05 18:00:00"
-    },
-    {
-      "code": "8524",
-      "name": "北洋銀行",
-      "title": "（訂正・数値データ訂正）「業績予想の修正及び配当予想の修正（増配）に関するお知らせ」の一部訂正について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104564096.pdf",
-      "pubdate": "2026-11-05 18:00:00"
-    },
-    {
-      "code": "8783",
-      "name": "ａｂｃ",
-      "title": "（開示事項の経過）株主優待ポイントの利用サービス「優待のいずみ」の提携先でのご利用開始日の変更およびご利用方法の一部変更に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261105566361.pdf",
-      "pubdate": "2026-11-05 18:00:00"
-    },
-    {
-      "code": "9778",
-      "name": "昴",
-      "title": "代表取締役の異動（辞任）および社長交代に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261105566389.pdf",
-      "pubdate": "2026-11-05 18:00:00"
-    },
-    {
-      "code": "2678",
-      "name": "アスクル",
-      "title": "その他の関係会社の決算に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261105566273.pdf",
-      "pubdate": "2026-11-05 17:30:00"
-    },
-    {
-      "code": "3034",
-      "name": "クオールＨＤ",
-      "title": "2027年３月期　第２四半期決算説明会資料",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261105565727.pdf",
-      "pubdate": "2026-11-05 17:30:00"
-    },
-    {
-      "code": "4310",
-      "name": "ＤＩ",
-      "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261029559186.pdf",
-      "pubdate": "2026-11-05 17:30:00"
-    },
-    {
-      "code": "4310",
-      "name": "ＤＩ",
-      "title": "2027年３月期 第２四半期決算説明会資料",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261029559204.pdf",
-      "pubdate": "2026-11-05 17:30:00"
-    },
-    {
-      "code": "6099",
-      "name": "エラン",
-      "title": "株式報酬型ストック・オプションの発行内容の確定に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261105566333.pdf",
-      "pubdate": "2026-11-05 17:30:00"
-    },
-    {
-      "code": "8230",
-      "name": "はせがわ",
-      "title": "当社委託先のメール配信サービスへの不正アクセスによる個人情報漏えいに関するお知らせ（第２報）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261105566324.pdf",
-      "pubdate": "2026-11-05 17:30:00"
-    },
-    {
-      "code": "2908",
-      "name": "フジッコ",
-      "title": "（訂正・数値データ訂正）「2027年３月期第２四半期（中間期）決算短信〔日本基準〕（連結）」の一部訂正について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104564642.pdf",
-      "pubdate": "2026-11-05 17:00:00"
+      "code": "3955",
+      "name": "イムラ",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566784.pdf",
+      "pubdate": "2026-11-06T10:30:00+09:00"
     },
     {
       "code": "4220",
       "name": "リケンテクノス",
-      "title": "自己株式立会外買付取引（ＴｏＳＴＮｅＴ－３）による自己株式の買付けに関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261105565089.pdf",
-      "pubdate": "2026-11-05 17:00:00"
-    },
-    {
-      "code": "6995",
-      "name": "東海理電",
-      "title": "代表取締役の異動に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261105564925.pdf",
-      "pubdate": "2026-11-05 17:00:00"
+      "title": "自己株式立会外買付取引（ＴｏＳＴＮｅＴ－３）による自己株式の取得結果に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261105565103.pdf",
+      "pubdate": "2026-11-06T10:30:00+09:00"
     },
     {
       "code": "8065",
       "name": "佐藤商",
-      "title": "自己株式立会外取引（ToSTNeT-3）による自己株式の買付けに関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261105566238.pdf",
-      "pubdate": "2026-11-05 17:00:00"
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び自己株式取得終了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566771.pdf",
+      "pubdate": "2026-11-06T10:30:00+09:00"
     },
     {
-      "code": "9227",
-      "name": "Ｇ－ＭＷＣＣ",
-      "title": "ファシリティ契約に基づく第８回新株予約権（行使価額修正条項付）の行使許可の取消しに関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261105566253.pdf",
-      "pubdate": "2026-11-05 17:00:00"
+      "code": "181A",
+      "name": "ＭＸ米債１－３ヘ無",
+      "title": "ＭＡＸＩＳ ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566911.pdf",
+      "pubdate": "2026-11-06T10:20:00+09:00"
     },
     {
-      "code": "13054",
-      "name": "Ｅ－ダイワＥＴＦ",
-      "title": "上場ETF（管理会社：大和アセットマネジメント）に関する日々の開示事項",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261105566252.pdf",
-      "pubdate": "2026-11-05 16:50:00"
+      "code": "182A",
+      "name": "ＭＸ米債２０超ヘ無",
+      "title": "ＭＡＸＩＳ ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566912.pdf",
+      "pubdate": "2026-11-06T10:20:00+09:00"
     },
     {
-      "code": "6867",
-      "name": "リーダ電子",
-      "title": "2027年３月期 第２四半期 決算補足説明資料",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261105566241.pdf",
-      "pubdate": "2026-11-05 16:50:00"
+      "code": "183A",
+      "name": "ＭＸ米債２０超ヘ有",
+      "title": "ＭＡＸＩＳ ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566913.pdf",
+      "pubdate": "2026-11-06T10:20:00+09:00"
+    },
+    {
+      "code": "2517",
+      "name": "ＭＸＳＪリートコア",
+      "title": "ＭＡＸＩＳ ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566914.pdf",
+      "pubdate": "2026-11-06T10:20:00+09:00"
+    },
+    {
+      "code": "2560",
+      "name": "ＭＸＳカーボン日本株",
+      "title": "ＭＡＸＩＳ ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566915.pdf",
+      "pubdate": "2026-11-06T10:20:00+09:00"
+    },
+    {
+      "code": "2838",
+      "name": "ＭＸ米債７－１０ヘ無",
+      "title": "ＭＡＸＩＳ ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566916.pdf",
+      "pubdate": "2026-11-06T10:20:00+09:00"
+    },
+    {
+      "code": "2839",
+      "name": "ＭＸ米債７－１０ヘ有",
+      "title": "ＭＡＸＩＳ ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566917.pdf",
+      "pubdate": "2026-11-06T10:20:00+09:00"
+    },
+    {
+      "code": "461A",
+      "name": "ＭＸ日株高配ＳＭＡＲ",
+      "title": "ＭＡＸＩＳ ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566918.pdf",
+      "pubdate": "2026-11-06T10:20:00+09:00"
+    },
+    {
+      "code": "2926",
+      "name": "篠崎屋",
+      "title": "2027年９月期　10月度月次店舗売上のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566883.pdf",
+      "pubdate": "2026-11-06T10:15:00+09:00"
+    },
+    {
+      "code": "9312",
+      "name": "ケイヒン",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び自己株式取得終了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566477.pdf",
+      "pubdate": "2026-11-06T10:10:00+09:00"
+    },
+    {
+      "code": "13294",
+      "name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566758.pdf",
+      "pubdate": "2026-11-06T10:00:00+09:00"
+    },
+    {
+      "code": "16714",
+      "name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566763.pdf",
+      "pubdate": "2026-11-06T10:00:00+09:00"
+    },
+    {
+      "code": "1869",
+      "name": "名工建",
+      "title": "自己株式立会外買付取引（N-NET3）による自己株式の取得結果に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566358.pdf",
+      "pubdate": "2026-11-06T10:00:00+09:00"
+    },
+    {
+      "code": "2193",
+      "name": "ＣＯＯＫＰＡＤ",
+      "title": "2026年12月期 第３四半期決算短信〔ＩＦＲＳ〕（連結）",
+      "url": "https://www.release.tdnet.info/inbs/140120261102563173.pdf",
+      "pubdate": "2026-11-06T10:00:00+09:00"
+    },
+    {
+      "code": "2193",
+      "name": "ＣＯＯＫＰＡＤ",
+      "title": "2026年12月期 第３四半期決算補足説明資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261102563177.pdf",
+      "pubdate": "2026-11-06T10:00:00+09:00"
+    },
+    {
+      "code": "2193",
+      "name": "ＣＯＯＫＰＡＤ",
+      "title": "金地金購入に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261102563180.pdf",
+      "pubdate": "2026-11-06T10:00:00+09:00"
+    },
+    {
+      "code": "2193",
+      "name": "ＣＯＯＫＰＡＤ",
+      "title": "連結子会社の吸収合併（簡易合併）に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261102563243.pdf",
+      "pubdate": "2026-11-06T10:00:00+09:00"
+    },
+    {
+      "code": "2815",
+      "name": "アリアケ",
+      "title": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566349.pdf",
+      "pubdate": "2026-11-06T10:00:00+09:00"
+    },
+    {
+      "code": "2815",
+      "name": "アリアケ",
+      "title": "2027年3月期 第２四半期 決算説明会資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566364.pdf",
+      "pubdate": "2026-11-06T10:00:00+09:00"
+    },
+    {
+      "code": "5576",
+      "name": "オービーシステム",
+      "title": "2027年３月期 第２四半期決算説明資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261105565701.pdf",
+      "pubdate": "2026-11-06T10:00:00+09:00"
+    },
+    {
+      "code": "585A4",
+      "name": "Ｅ－ＪＡＭＰＦＭ",
+      "title": "上場ETF（管理会社：JAMPファンド・マネジメント）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566688.pdf",
+      "pubdate": "2026-11-06T10:00:00+09:00"
+    },
+    {
+      "code": "5971",
+      "name": "共和工業",
+      "title": "自己株式の取得状況に関するお知らせ（会社法第459条第1項の規定による定款の定めに基づく自己株式の取得）",
+      "url": "https://www.release.tdnet.info/inbs/140120261102562551.pdf",
+      "pubdate": "2026-11-06T10:00:00+09:00"
+    },
+    {
+      "code": "6963",
+      "name": "ローム",
+      "title": "FY2026 1H 決算説明会",
+      "url": "https://www.release.tdnet.info/inbs/140120261104564682.pdf",
+      "pubdate": "2026-11-06T10:00:00+09:00"
+    },
+    {
+      "code": "1343",
+      "name": "ＮＦＪ－ＲＥＩＴ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566703.pdf",
+      "pubdate": "2026-11-06T09:30:00+09:00"
+    },
+    {
+      "code": "5301",
+      "name": "東海カーボン",
+      "title": "2026年12月期第3四半期決算説明会資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566684.pdf",
+      "pubdate": "2026-11-06T09:00:00+09:00"
+    },
+    {
+      "code": "1555",
+      "name": "上場Ａリート",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566689.pdf",
+      "pubdate": "2026-11-06T08:55:00+09:00"
+    },
+    {
+      "code": "1566",
+      "name": "上場ＥＭ債",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566690.pdf",
+      "pubdate": "2026-11-06T08:55:00+09:00"
+    },
+    {
+      "code": "1677",
+      "name": "上場外債",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566691.pdf",
+      "pubdate": "2026-11-06T08:55:00+09:00"
+    },
+    {
+      "code": "2093",
+      "name": "上場Ｔｒ米債０２ラダ",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566692.pdf",
+      "pubdate": "2026-11-06T08:55:00+09:00"
+    },
+    {
+      "code": "2843",
+      "name": "上場豪債ヘッジあり",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566693.pdf",
+      "pubdate": "2026-11-06T08:55:00+09:00"
+    },
+    {
+      "code": "2844",
+      "name": "上場豪債ヘッジなし",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566694.pdf",
+      "pubdate": "2026-11-06T08:55:00+09:00"
+    },
+    {
+      "code": "2861",
+      "name": "上場フランス国債Ｈ無",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566695.pdf",
+      "pubdate": "2026-11-06T08:55:00+09:00"
+    },
+    {
+      "code": "2862",
+      "name": "上場フランス国債Ｈ有",
+      "title": "ＥＴＦの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566696.pdf",
+      "pubdate": "2026-11-06T08:55:00+09:00"
+    },
+    {
+      "code": "1651",
+      "name": "ｉＦ高配当４０",
+      "title": "iFreeETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566486.pdf",
+      "pubdate": "2026-11-06T08:50:00+09:00"
+    },
+    {
+      "code": "2160",
+      "name": "Ｇ－ＧＮＩ",
+      "title": "当社子会社Gyre Therapeuticsによる2026年度第３四半期決算およびF351の新薬承認審査の進捗について",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566721.pdf",
+      "pubdate": "2026-11-06T08:50:00+09:00"
+    },
+    {
+      "code": "282A",
+      "name": "ＧＸ半導体１０日株",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566429.pdf",
+      "pubdate": "2026-11-06T08:50:00+09:00"
+    },
+    {
+      "code": "283A",
+      "name": "ＧＸＵＳテック配貴族",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566430.pdf",
+      "pubdate": "2026-11-06T08:50:00+09:00"
+    },
+    {
+      "code": "2865",
+      "name": "ＧＸＮＤＸカバコ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566431.pdf",
+      "pubdate": "2026-11-06T08:50:00+09:00"
+    },
+    {
+      "code": "2866",
+      "name": "ＧＸ優先証券",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566432.pdf",
+      "pubdate": "2026-11-06T08:50:00+09:00"
+    },
+    {
+      "code": "2868",
+      "name": "ＧＸＳＰＸカバコ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566433.pdf",
+      "pubdate": "2026-11-06T08:50:00+09:00"
+    },
+    {
+      "code": "381A",
+      "name": "ｉＦ米国債３５Ｈ無",
+      "title": "iFreeETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566487.pdf",
+      "pubdate": "2026-11-06T08:50:00+09:00"
+    },
+    {
+      "code": "382A",
+      "name": "ｉＦ米国債３５Ｈ有",
+      "title": "iFreeETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566488.pdf",
+      "pubdate": "2026-11-06T08:50:00+09:00"
+    },
+    {
+      "code": "467A",
+      "name": "ＧＸＵＳ社債Ｈ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566434.pdf",
+      "pubdate": "2026-11-06T08:50:00+09:00"
+    },
+    {
+      "code": "468A",
+      "name": "ＧＸＵＳ社債",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566435.pdf",
+      "pubdate": "2026-11-06T08:50:00+09:00"
+    },
+    {
+      "code": "563A",
+      "name": "ＧＸナスＤカバコ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566436.pdf",
+      "pubdate": "2026-11-06T08:50:00+09:00"
+    },
+    {
+      "code": "576A",
+      "name": "ＧＸチャイテクカバコ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566437.pdf",
+      "pubdate": "2026-11-06T08:50:00+09:00"
+    },
+    {
+      "code": "577A",
+      "name": "ＧＸシルバー",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566438.pdf",
+      "pubdate": "2026-11-06T08:50:00+09:00"
+    },
+    {
+      "code": "578A",
+      "name": "ＧＸシルバーＨ",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566439.pdf",
+      "pubdate": "2026-11-06T08:50:00+09:00"
+    },
+    {
+      "code": "579A",
+      "name": "ＧＸ銀ビジネス",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566440.pdf",
+      "pubdate": "2026-11-06T08:50:00+09:00"
+    },
+    {
+      "code": "580A",
+      "name": "ＧＸ銅ビジネス",
+      "title": "ETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566441.pdf",
+      "pubdate": "2026-11-06T08:50:00+09:00"
+    },
+    {
+      "code": "613A",
+      "name": "ｉＦドイツ０３短国",
+      "title": "iFreeETFの収益分配金見込額のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566489.pdf",
+      "pubdate": "2026-11-06T08:50:00+09:00"
+    },
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566678.pdf",
+      "pubdate": "2026-11-06T08:30:00+09:00"
+    },
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566679.pdf",
+      "pubdate": "2026-11-06T08:30:00+09:00"
+    },
+    {
+      "code": "7138",
+      "name": "Ｇ－ＴＯＲＩＣＯ",
+      "title": "イーサリアム（ETH）の追加取得に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261104564657.pdf",
+      "pubdate": "2026-11-06T08:30:00+09:00"
+    },
+    {
+      "code": "7138",
+      "name": "Ｇ－ＴＯＲＩＣＯ",
+      "title": "イーサリアム（ETH）の追加取得及び月次保有状況に関するお知らせ（2026年10月末時点）",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566473.pdf",
+      "pubdate": "2026-11-06T08:30:00+09:00"
+    },
+    {
+      "code": "7138",
+      "name": "Ｇ－ＴＯＲＩＣＯ",
+      "title": "（訂正）「イーサリアム（ETH）の追加取得及び月次保有状況に関するお知らせ（2026年９月末時点）」の一部訂正について",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566501.pdf",
+      "pubdate": "2026-11-06T08:30:00+09:00"
+    },
+    {
+      "code": "9235",
+      "name": "Ｇ－売れるネットＧ",
+      "title": "連結子会社ビットコイン・セイヴァーによるビットコインのパスワード解析成功に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261105566492.pdf",
+      "pubdate": "2026-11-06T08:30:00+09:00"
+    },
+    {
+      "code": "2914",
+      "name": "ＪＴ",
+      "title": "当社グループのロシア事業について",
+      "url": "https://www.release.tdnet.info/inbs/140120261106566677.pdf",
+      "pubdate": "2026-11-06T08:00:00+09:00"
+    },
+    {
+      "code": "658A",
+      "name": "Ｇ－ｅｓｔｉｅ",
+      "title": "東京証券取引所グロース市場への上場に伴う当社決算情報等のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261105564878.pdf",
+      "pubdate": "2026-11-06T08:00:00+09:00"
+    },
+    {
+      "code": "658A",
+      "name": "Ｇ－ｅｓｔｉｅ",
+      "title": "事業計画及び成長可能性に関する事項について",
+      "url": "https://www.release.tdnet.info/inbs/140120261105564896.pdf",
+      "pubdate": "2026-11-06T08:00:00+09:00"
+    },
+    {
+      "code": "658A",
+      "name": "Ｇ－ｅｓｔｉｅ",
+      "title": "主要株主である筆頭株主及び主要株主の異動に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261105564897.pdf",
+      "pubdate": "2026-11-06T08:00:00+09:00"
+    },
+    {
+      "code": "9984",
+      "name": "ソフトバンクグループ",
+      "title": "ABB Ltd のロボティクス事業の買収に関する経過のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261030561893.pdf",
+      "pubdate": "2026-11-06T08:00:00+09:00"
     }
   ]
 }
