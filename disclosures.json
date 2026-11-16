@@ -1,12 +1,138 @@
 {
-  "updated_at": "2026-11-15T18:29:46.244571+09:00",
+  "updated_at": "2026-11-16T10:08:58.775579+09:00",
   "items": [
     {
-      "code": "7790",
-      "name": "バルコス",
-      "title": "2026年12月期第3四半期決算短信〔日本基準〕（連結）",
-      "url": "https://www.release.tdnet.info/inbs/140120261115580504.pdf",
-      "pubdate": "2026-11-15T17:00:00+09:00"
+      "code": "13294",
+      "name": "Ｅ－ブラックロック",
+      "title": "上場ETF（管理会社：ブラックロック・ジャパン）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261116580722.pdf",
+      "pubdate": "2026-11-16T10:00:00+09:00"
+    },
+    {
+      "code": "16714",
+      "name": "Ｅ－シンプレクス",
+      "title": "上場ＥＴＦ(管理会社：シンプレクス・アセット・マネジメント)に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261116580686.pdf",
+      "pubdate": "2026-11-16T10:00:00+09:00"
+    },
+    {
+      "code": "3088",
+      "name": "マツキヨココカラ",
+      "title": "自己株式立会外買付取引(ToSTNeT-3)による自己株式の取得結果及び自己株式の取得終了並びに自己株式の消却に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116580732.pdf",
+      "pubdate": "2026-11-16T10:00:00+09:00"
+    },
+    {
+      "code": "3970",
+      "name": "イノベーション",
+      "title": "自己株式立会外買付取引(ToSTNeT-3)による自己株式の取得結果及び取得終了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261113580190.pdf",
+      "pubdate": "2026-11-16T10:00:00+09:00"
+    },
+    {
+      "code": "585A4",
+      "name": "Ｅ－ＪＡＭＰＦＭ",
+      "title": "上場ETF（管理会社：JAMPファンド・マネジメント）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261116580648.pdf",
+      "pubdate": "2026-11-16T10:00:00+09:00"
+    },
+    {
+      "code": "6247",
+      "name": "日阪製作",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116580726.pdf",
+      "pubdate": "2026-11-16T10:00:00+09:00"
+    },
+    {
+      "code": "7059",
+      "name": "コプロＨＤ",
+      "title": "2026年10月度 在籍技術者数、稼働技術者数・稼働率の月次開示に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116580684.pdf",
+      "pubdate": "2026-11-16T10:00:00+09:00"
+    },
+    {
+      "code": "9960",
+      "name": "東テク",
+      "title": "2027年3月期第2四半期決算説明会資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261116580666.pdf",
+      "pubdate": "2026-11-16T10:00:00+09:00"
+    },
+    {
+      "code": "1499",
+      "name": "ＭＸＳ高配当７０ＭＮ",
+      "title": "ＭＡＸＩＳ日本株高配当７０マーケットニュートラル上場投信 決算短信（2026年10月期）",
+      "url": "https://www.release.tdnet.info/inbs/140120261116580713.pdf",
+      "pubdate": "2026-11-16T09:50:00+09:00"
+    },
+    {
+      "code": "1660",
+      "name": "ＭＸＳ高利Ｊリート",
+      "title": "ＭＡＸＩＳ高利回りＪリート上場投信 決算短信（2026年10月期）",
+      "url": "https://www.release.tdnet.info/inbs/140120261116580708.pdf",
+      "pubdate": "2026-11-16T09:50:00+09:00"
+    },
+    {
+      "code": "9856",
+      "name": "ケーユーＨＤ",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116580654.pdf",
+      "pubdate": "2026-11-16T09:45:00+09:00"
+    },
+    {
+      "code": "4888",
+      "name": "Ｇ－ステラファーマ",
+      "title": "再発髄膜腫を対象としたステボロニンの製造販売承認事項一部変更承認取得のお知らせ～本邦で初めて「再発髄膜腫」を効能又は効果とする医薬品として承認～",
+      "url": "https://www.release.tdnet.info/inbs/140120261113580257.pdf",
+      "pubdate": "2026-11-16T09:30:00+09:00"
+    },
+    {
+      "code": "5621",
+      "name": "Ｇ－ヒューマンＴ",
+      "title": "2027年３月期 第２四半期（中間期）決算説明会資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261116580650.pdf",
+      "pubdate": "2026-11-16T09:30:00+09:00"
+    },
+    {
+      "code": "8105",
+      "name": "ＢｉｔｃｏｉｎＪＰＮ",
+      "title": "Daimon Roboticsとの戦略的業務提携契約締結に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261113579799.pdf",
+      "pubdate": "2026-11-16T08:45:00+09:00"
+    },
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261116580599.pdf",
+      "pubdate": "2026-11-16T08:31:00+09:00"
+    },
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261116580600.pdf",
+      "pubdate": "2026-11-16T08:31:00+09:00"
+    },
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：MSL）に関する日々の開示事項（令和８年11月13日分）",
+      "url": "https://www.release.tdnet.info/inbs/140120261116580601.pdf",
+      "pubdate": "2026-11-16T08:30:00+09:00"
+    },
+    {
+      "code": "16724",
+      "name": "Ｅ－ＷｉｓｄｏｍＴｒ",
+      "title": "上場ETF（管理会社：WisdomTree、外国投資法人：CSL）に関する日々の開示事項（令和８年11月13日分）",
+      "url": "https://www.release.tdnet.info/inbs/140120261116580602.pdf",
+      "pubdate": "2026-11-16T08:30:00+09:00"
+    },
+    {
+      "code": "319A",
+      "name": "Ｇ－技術承継機構",
+      "title": "Q&A 2026年12月期第3四半期決算説明",
+      "url": "https://www.release.tdnet.info/inbs/140120261114580397.pdf",
+      "pubdate": "2026-11-16T08:30:00+09:00"
     }
   ]
 }
