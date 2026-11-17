@@ -1,6 +1,979 @@
 {
-  "updated_at": "2026-11-17T10:56:58.000934+09:00",
+  "updated_at": "2026-11-17T19:31:24.959531+09:00",
   "items": [
+    {
+      "code": "421A",
+      "name": "Ｇ－ムービン",
+      "title": "2026年12月期 第３四半期決算説明会書き起こし",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582345.pdf",
+      "pubdate": "2026-11-17T18:30:00+09:00"
+    },
+    {
+      "code": "3046",
+      "name": "ＪＩＮＳＨＤ",
+      "title": "当社子会社の委託先に対する不正アクセスによる個人情報漏えいに関するお詫びとお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582109.pdf",
+      "pubdate": "2026-11-17T18:00:00+09:00"
+    },
+    {
+      "code": "4436",
+      "name": "Ｇ－ミンカブ",
+      "title": "（訂正）「2027年３月期 第２四半期決算説明資料」の一部訂正について",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582341.pdf",
+      "pubdate": "2026-11-17T18:00:00+09:00"
+    },
+    {
+      "code": "6819",
+      "name": "伊豆シャボテンＲ",
+      "title": "（訂正）アニタッチ鎌倉小町オープンに関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582317.pdf",
+      "pubdate": "2026-11-17T18:00:00+09:00"
+    },
+    {
+      "code": "9278",
+      "name": "ブックオフＧＨＤ",
+      "title": "子会社等の異動（出資額の変更及び事業開始）に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582147.pdf",
+      "pubdate": "2026-11-17T18:00:00+09:00"
+    },
+    {
+      "code": "4586",
+      "name": "メドレックス",
+      "title": "第三者割当により発行された第35回新株予約権(行使価額修正条項付)の行使完了及び月間行使状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582105.pdf",
+      "pubdate": "2026-11-17T17:30:00+09:00"
+    },
+    {
+      "code": "4884",
+      "name": "Ｇ－クリングル",
+      "title": "2026年9月期 通期決算説明会 質疑応答について",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582308.pdf",
+      "pubdate": "2026-11-17T17:30:00+09:00"
+    },
+    {
+      "code": "598A",
+      "name": "Ｇ－チャットプラス",
+      "title": "当社サービスに対する不正アクセスに関するお知らせ（第一報）",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582334.pdf",
+      "pubdate": "2026-11-17T17:30:00+09:00"
+    },
+    {
+      "code": "6094",
+      "name": "Ｇ－フリークアウト",
+      "title": "2026年9月期 通期決算 質疑応答集",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582293.pdf",
+      "pubdate": "2026-11-17T17:30:00+09:00"
+    },
+    {
+      "code": "280A",
+      "name": "Ｇ－ＴＭＨ",
+      "title": "自己株式の取得状況および取得完了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582286.pdf",
+      "pubdate": "2026-11-17T17:15:00+09:00"
+    },
+    {
+      "code": "8789",
+      "name": "フィンテック",
+      "title": "当社従業員並びに当社子会社の取締役及び従業員に対するストックオプション（新株予約権）の付与に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582040.pdf",
+      "pubdate": "2026-11-17T17:10:00+09:00"
+    },
+    {
+      "code": "8789",
+      "name": "フィンテック",
+      "title": "定款の一部変更に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582037.pdf",
+      "pubdate": "2026-11-17T17:10:00+09:00"
+    },
+    {
+      "code": "3788",
+      "name": "ＧＭＯＧＳＨＤ",
+      "title": "（訂正）「主要株主、主要株主である筆頭株主及び親会社の異動に関するお知らせ」の一部訂正について",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582226.pdf",
+      "pubdate": "2026-11-17T17:01:00+09:00"
+    },
+    {
+      "code": "2134",
+      "name": "キタハマキャピタル",
+      "title": "固定資産（立木）の棚卸資産への振替及び販売に基づく売上計上に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582172.pdf",
+      "pubdate": "2026-11-17T17:00:00+09:00"
+    },
+    {
+      "code": "218A",
+      "name": "Ｇ－リベラウェア",
+      "title": "国産無人機向け高性能バッテリー事業への参入、合弁契約締結方針及び合弁会社設立に関する補足資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582296.pdf",
+      "pubdate": "2026-11-17T17:00:00+09:00"
+    },
+    {
+      "code": "218A",
+      "name": "Ｇ－リベラウェア",
+      "title": "国産無人機向け高性能バッテリー事業への参入、合弁契約締結方針及び合弁会社設立に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582289.pdf",
+      "pubdate": "2026-11-17T17:00:00+09:00"
+    },
+    {
+      "code": "3647",
+      "name": "アスリナ",
+      "title": "当社取締役会の実効性に関する評価結果の概要に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582306.pdf",
+      "pubdate": "2026-11-17T17:00:00+09:00"
+    },
+    {
+      "code": "4265",
+      "name": "Ｇ－ＩＧＳ",
+      "title": "2027年３月期 第２四半期（中間期）決算及び業績予想の修正に関する資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582059.pdf",
+      "pubdate": "2026-11-17T17:00:00+09:00"
+    },
+    {
+      "code": "446A",
+      "name": "Ｇ－ノースサンド",
+      "title": "売出価格等の決定に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582038.pdf",
+      "pubdate": "2026-11-17T17:00:00+09:00"
+    },
+    {
+      "code": "4911",
+      "name": "資生堂",
+      "title": "中国子会社 資生堂麗源化粧品有限公司の異動（譲渡）に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581139.pdf",
+      "pubdate": "2026-11-17T17:00:00+09:00"
+    },
+    {
+      "code": "5816",
+      "name": "オーナンバ",
+      "title": "主要株主及び主要株主である筆頭株主の異動に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582167.pdf",
+      "pubdate": "2026-11-17T17:00:00+09:00"
+    },
+    {
+      "code": "6855",
+      "name": "電子材料",
+      "title": "主要株主及び主要株主である筆頭株主の異動に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582272.pdf",
+      "pubdate": "2026-11-17T17:00:00+09:00"
+    },
+    {
+      "code": "7383",
+      "name": "ネットプロＨＤ",
+      "title": "[Q&A書き起こし]2027年３月期 第２四半期決算説明会",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582276.pdf",
+      "pubdate": "2026-11-17T17:00:00+09:00"
+    },
+    {
+      "code": "7444",
+      "name": "ハリマ共和物産",
+      "title": "株式の立会外分売実施に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582271.pdf",
+      "pubdate": "2026-11-17T17:00:00+09:00"
+    },
+    {
+      "code": "7453",
+      "name": "良品計画",
+      "title": "株主優待の提供方法に関する変更について",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581652.pdf",
+      "pubdate": "2026-11-17T17:00:00+09:00"
+    },
+    {
+      "code": "7680",
+      "name": "Ｐ－軽自動車館",
+      "title": "定款一部変更に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116580755.pdf",
+      "pubdate": "2026-11-17T17:00:00+09:00"
+    },
+    {
+      "code": "9941",
+      "name": "太洋物産",
+      "title": "2026年９月期　決算短信〔日本基準〕(連結)",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582248.pdf",
+      "pubdate": "2026-11-17T17:00:00+09:00"
+    },
+    {
+      "code": "9941",
+      "name": "太洋物産",
+      "title": "個別業績予想と実績値との差異及び連結決算への移行に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261113579803.pdf",
+      "pubdate": "2026-11-17T17:00:00+09:00"
+    },
+    {
+      "code": "9941",
+      "name": "太洋物産",
+      "title": "報告セグメントの変更（追加）に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261113579813.pdf",
+      "pubdate": "2026-11-17T17:00:00+09:00"
+    },
+    {
+      "code": "9941",
+      "name": "太洋物産",
+      "title": "営業外費用、特別利益及び特別損失の計上に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261113579825.pdf",
+      "pubdate": "2026-11-17T17:00:00+09:00"
+    },
+    {
+      "code": "3562",
+      "name": "Ｎｏ．１",
+      "title": "子会社の異動を伴う株式の取得に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261113578694.pdf",
+      "pubdate": "2026-11-17T16:45:00+09:00"
+    },
+    {
+      "code": "4664",
+      "name": "アールエスシー",
+      "title": "非上場の親会社等の決算情報に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582179.pdf",
+      "pubdate": "2026-11-17T16:45:00+09:00"
+    },
+    {
+      "code": "13054",
+      "name": "Ｅ－ダイワＥＴＦ",
+      "title": "上場ETF（管理会社：大和アセットマネジメント）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582249.pdf",
+      "pubdate": "2026-11-17T16:40:00+09:00"
+    },
+    {
+      "code": "3003",
+      "name": "ヒューリック",
+      "title": "航空機アセットビジネスへの参入に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582007.pdf",
+      "pubdate": "2026-11-17T16:30:00+09:00"
+    },
+    {
+      "code": "3636",
+      "name": "三菱総研",
+      "title": "業績連動型株式報酬制度の継続及び内容の一部改定に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581844.pdf",
+      "pubdate": "2026-11-17T16:30:00+09:00"
+    },
+    {
+      "code": "4645",
+      "name": "市進ＨＤ",
+      "title": "自己株式の取得及び自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付けに関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581091.pdf",
+      "pubdate": "2026-11-17T16:30:00+09:00"
+    },
+    {
+      "code": "5887",
+      "name": "Ｐ－光響",
+      "title": "臨時株主総会招集のための基準日設定及び臨時株主総会の開催並びに付議議案の決定に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581703.pdf",
+      "pubdate": "2026-11-17T16:30:00+09:00"
+    },
+    {
+      "code": "5887",
+      "name": "Ｐ－光響",
+      "title": "取締役の辞任に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581680.pdf",
+      "pubdate": "2026-11-17T16:30:00+09:00"
+    },
+    {
+      "code": "7148",
+      "name": "ＦＰＧ",
+      "title": "定款の一部変更に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581969.pdf",
+      "pubdate": "2026-11-17T16:30:00+09:00"
+    },
+    {
+      "code": "7320",
+      "name": "Ｇ－Ｓｏｌｖｖｙ",
+      "title": "連結子会社からの配当金受領に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582237.pdf",
+      "pubdate": "2026-11-17T16:30:00+09:00"
+    },
+    {
+      "code": "7578",
+      "name": "ニチリョク",
+      "title": "役員報酬の減額に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582005.pdf",
+      "pubdate": "2026-11-17T16:30:00+09:00"
+    },
+    {
+      "code": "8789",
+      "name": "フィンテック",
+      "title": "連結子会社の資本業務提携に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581498.pdf",
+      "pubdate": "2026-11-17T16:30:00+09:00"
+    },
+    {
+      "code": "9335",
+      "name": "Ｐ－テクノＣ",
+      "title": "札幌証券取引所 Sapporo PRO Frontier Market への上場申請（重複上場）のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581447.pdf",
+      "pubdate": "2026-11-17T16:30:00+09:00"
+    },
+    {
+      "code": "9816",
+      "name": "ストライダーズ",
+      "title": "2027年３月期 第2四半期決算説明資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582218.pdf",
+      "pubdate": "2026-11-17T16:30:00+09:00"
+    },
+    {
+      "code": "335A",
+      "name": "Ｇ－ミライロ",
+      "title": "2026年9月期 通期決算説明会 書き起こし資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582233.pdf",
+      "pubdate": "2026-11-17T16:20:00+09:00"
+    },
+    {
+      "code": "1964",
+      "name": "中外炉",
+      "title": "投資有価証券売却益(特別利益)の計上に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581852.pdf",
+      "pubdate": "2026-11-17T16:00:00+09:00"
+    },
+    {
+      "code": "251A",
+      "name": "Ｐ－ニューロマジック",
+      "title": "海外連結子会社の解散および清算に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581658.pdf",
+      "pubdate": "2026-11-17T16:00:00+09:00"
+    },
+    {
+      "code": "251A",
+      "name": "Ｐ－ニューロマジック",
+      "title": "特別損失の計上見込みに関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581657.pdf",
+      "pubdate": "2026-11-17T16:00:00+09:00"
+    },
+    {
+      "code": "3135",
+      "name": "マーケットエンター",
+      "title": "（訂正）「2027年６月期 第１四半期決算説明資料」の一部訂正について",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582156.pdf",
+      "pubdate": "2026-11-17T16:00:00+09:00"
+    },
+    {
+      "code": "3174",
+      "name": "ハピネス＆Ｄ",
+      "title": "当座貸越契約に基づく資金の借入に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582119.pdf",
+      "pubdate": "2026-11-17T16:00:00+09:00"
+    },
+    {
+      "code": "3174",
+      "name": "ハピネス＆Ｄ",
+      "title": "上場維持基準の適合に向けた計画（改善期間入り）について",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582072.pdf",
+      "pubdate": "2026-11-17T16:00:00+09:00"
+    },
+    {
+      "code": "399A",
+      "name": "上場日経高配当５０",
+      "title": "2026年10月期（2026年4月5日～2026年10月4日）決算短信",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582028.pdf",
+      "pubdate": "2026-11-17T16:00:00+09:00"
+    },
+    {
+      "code": "4464",
+      "name": "ソフト９９",
+      "title": "業務委託企業への不正アクセスによる個人情報漏えいに関するお詫びとお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582082.pdf",
+      "pubdate": "2026-11-17T16:00:00+09:00"
+    },
+    {
+      "code": "4896",
+      "name": "Ｇ－ケイファーマ",
+      "title": "2026年12月期　第3四半期決算説明資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581532.pdf",
+      "pubdate": "2026-11-17T16:00:00+09:00"
+    },
+    {
+      "code": "6819",
+      "name": "伊豆シャボテンＲ",
+      "title": "2027年３月期第２四半期（中間期）決算説明資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581832.pdf",
+      "pubdate": "2026-11-17T16:00:00+09:00"
+    },
+    {
+      "code": "7814",
+      "name": "日本創発Ｇ",
+      "title": "2026年12月期　第３四半期決算説明会資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581669.pdf",
+      "pubdate": "2026-11-17T16:00:00+09:00"
+    },
+    {
+      "code": "7936",
+      "name": "アシックス",
+      "title": "2027年春夏商品のホールセール受注状況に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581437.pdf",
+      "pubdate": "2026-11-17T16:00:00+09:00"
+    },
+    {
+      "code": "8699",
+      "name": "ＨＳＨＤ",
+      "title": "（開示事項の経過）当社持分法適用関連会社に対する金融制裁に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582204.pdf",
+      "pubdate": "2026-11-17T16:00:00+09:00"
+    },
+    {
+      "code": "8798",
+      "name": "アドバンスクリエイト",
+      "title": "定款一部変更に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581994.pdf",
+      "pubdate": "2026-11-17T16:00:00+09:00"
+    },
+    {
+      "code": "8798",
+      "name": "アドバンスクリエイト",
+      "title": "役員候補者等の選任に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581996.pdf",
+      "pubdate": "2026-11-17T16:00:00+09:00"
+    },
+    {
+      "code": "8798",
+      "name": "アドバンスクリエイト",
+      "title": "代表取締役の異動に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582000.pdf",
+      "pubdate": "2026-11-17T16:00:00+09:00"
+    },
+    {
+      "code": "4597",
+      "name": "Ｇ－ソレイジア",
+      "title": "開発品SP-05パートナー企業Isofol社への追加出資(新株予約権行使)のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582141.pdf",
+      "pubdate": "2026-11-17T15:50:00+09:00"
+    },
+    {
+      "code": "1605",
+      "name": "ＩＮＰＥＸ",
+      "title": "監査等委員会設置会社への移行に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581522.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "1605",
+      "name": "ＩＮＰＥＸ",
+      "title": "代表取締役の異動に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581544.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "162A",
+      "name": "ＡＩセレクトＥＴＮ",
+      "title": "株式会社三菱UFJフィナンシャル・グループの2027年3月期 第2四半期（中間期）連結普通株式等Tier1比率・連結Tier1 比率・連結総自己資本比率について",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581867.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "163A",
+      "name": "半導体ＥＴＮ",
+      "title": "株式会社三菱UFJフィナンシャル・グループの2027年3月期 第2四半期（中間期）連結普通株式等Tier1比率・連結Tier1 比率・連結総自己資本比率について",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581868.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "166A",
+      "name": "タスキＨＤ",
+      "title": "剰余金の配当に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582118.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "166A",
+      "name": "タスキＨＤ",
+      "title": "当社取締役会実効性評価の概要について",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582121.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "2070",
+      "name": "ＥＳＧ女性活躍ＥＴＮ",
+      "title": "株式会社三菱UFJフィナンシャル・グループの2027年3月期 第2四半期（中間期）連結普通株式等Tier1比率・連結Tier1 比率・連結総自己資本比率について",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581869.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "2071",
+      "name": "ＥＳＧ総合ＥＴＮ",
+      "title": "株式会社三菱UFJフィナンシャル・グループの2027年3月期 第2四半期（中間期）連結普通株式等Tier1比率・連結Tier1 比率・連結総自己資本比率について",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581870.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "2072",
+      "name": "トップシェアＥＴＮ",
+      "title": "株式会社三菱UFJフィナンシャル・グループの2027年3月期 第2四半期（中間期）連結普通株式等Tier1比率・連結Tier1 比率・連結総自己資本比率について",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581871.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "2073",
+      "name": "ＥＳＧ低カーボン",
+      "title": "株式会社三菱UFJフィナンシャル・グループの2027年3月期 第2四半期（中間期）連結普通株式等Tier1比率・連結Tier1 比率・連結総自己資本比率について",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581872.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "262A",
+      "name": "インターメスティック",
+      "title": "親会社以外の支配株主及び主要株主の異動に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581880.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "2789",
+      "name": "カルラ",
+      "title": "非上場の親会社等の決算に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581812.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "2871",
+      "name": "ニチレイ",
+      "title": "株主優待制度の一部変更（拡充）に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581946.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "2978",
+      "name": "Ｇ－ツクルバ",
+      "title": "2027年７月期通期連結業績予想の修正に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582034.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "3281",
+      "name": "Ｒ－ＧＬＰ",
+      "title": "資産運用会社の商号変更に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582097.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "3281",
+      "name": "Ｒ－ＧＬＰ",
+      "title": "規約一部変更及び役員選任に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582057.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "345A",
+      "name": "高配当成長ＥＴＮ",
+      "title": "株式会社三菱UFJフィナンシャル・グループの2027年3月期 第2四半期（中間期）連結普通株式等Tier1比率・連結Tier1 比率・連結総自己資本比率について",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581873.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "3462",
+      "name": "Ｒ－ＮＭＦ",
+      "title": "資金の借入れに関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582132.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "3489",
+      "name": "フェイスネットワーク",
+      "title": "2027年３月期第２四半期（中間期）決算説明資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581422.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "3625",
+      "name": "Ｇ－テックファーム",
+      "title": "株主優待制度の導入に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581476.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "3690",
+      "name": "イルグルム",
+      "title": "会計監査人の異動に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261111573447.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "3690",
+      "name": "イルグルム",
+      "title": "株式譲渡に伴う連結子会社及び特定子会社の異動並びに特別利益の計上見込に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581667.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "3690",
+      "name": "イルグルム",
+      "title": "連結子会社株式の追加取得による完全子会社化に関するお知らせ（株式会社オリエントコーポレーションとの資本提携の解消）",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581636.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "3690",
+      "name": "イルグルム",
+      "title": "（開示事項の経過）完全子会社の吸収合併に係る吸収合併契約締結に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581665.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "3690",
+      "name": "イルグルム",
+      "title": "剰余金の配当に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581663.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "3997",
+      "name": "トレードワークス",
+      "title": "当社会長の資産管理会社への当社株式の移管に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582125.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "4099",
+      "name": "四国化成ＨＤ",
+      "title": "自己株式の取得結果及び取得終了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581913.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "4374",
+      "name": "Ｇ－ロボペイ",
+      "title": "2026年12月期第３四半期 個人投資家決算質問会 質疑応答の要約",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581811.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "4394",
+      "name": "Ｇ－エクスモーション",
+      "title": "監査等委員である取締役（社外取締役）の逝去に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581958.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "4425",
+      "name": "Ｇ－Ｋｕｄａｎ",
+      "title": "2027年3月期第２四半期決算説明に関する質疑応答内容の公開のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582044.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "4579",
+      "name": "Ｇ－ラクオリア創薬",
+      "title": "胃酸分泌抑制剤tegoprazanのブラジルにおける販売承認に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581754.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "4591",
+      "name": "Ｇ－リボミック",
+      "title": "軟骨無形成症治療薬（umedaptanib pegol）の国内第III相臨床試験：目標登録数達成のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582015.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "4882",
+      "name": "Ｇ－ペルセウス",
+      "title": "2027年３月期 第２四半期決算説明会資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261112576632.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "4972",
+      "name": "綜研化学",
+      "title": "業績予想の修正及び配当予想に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261112575155.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "4972",
+      "name": "綜研化学",
+      "title": "インドにおける販売子会社設立に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581034.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "497A",
+      "name": "インバウンドＥＴＮ",
+      "title": "株式会社三菱UFJフィナンシャル・グループの2027年3月期 第2四半期（中間期）連結普通株式等Tier1比率・連結Tier1 比率・連結総自己資本比率について",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581874.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "498A",
+      "name": "防衛航空宇宙欧州株",
+      "title": "株式会社三菱UFJフィナンシャル・グループの2027年3月期 第2四半期（中間期）連結普通株式等Tier1比率・連結Tier1 比率・連結総自己資本比率について",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581875.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "499A",
+      "name": "ラグジュアリー欧州株",
+      "title": "株式会社三菱UFJフィナンシャル・グループの2027年3月期 第2四半期（中間期）連結普通株式等Tier1比率・連結Tier1 比率・連結総自己資本比率について",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581876.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "5189",
+      "name": "桜ゴム",
+      "title": "剰余金の配当（中間配当）に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581784.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "5532",
+      "name": "Ｇ－リアルゲイト",
+      "title": "定款の一部変更に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581917.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "5580",
+      "name": "Ｇ－プロディライト",
+      "title": "当社主要ＫＰＩ（2026年10月度）に関するお知らせ及び2026年9月度主要ＫＰＩの一部訂正について",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581981.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "6029",
+      "name": "アトラＧ",
+      "title": "REMED JAPAN株式会社との資本業務提携及び第三者割当増資の引受けによる同社株式取得（持分法適用関連会社化）",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582016.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "643A",
+      "name": "データセンターＥＴＮ",
+      "title": "株式会社三菱UFJフィナンシャル・グループの2027年3月期 第2四半期（中間期）連結普通株式等Tier1比率・連結Tier1 比率・連結総自己資本比率について",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581877.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "644A",
+      "name": "防衛日本株ＥＴＮ",
+      "title": "株式会社三菱UFJフィナンシャル・グループの2027年3月期 第2四半期（中間期）連結普通株式等Tier1比率・連結Tier1 比率・連結総自己資本比率について",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581878.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "6492",
+      "name": "岡野バル",
+      "title": "剰余金の配当に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581747.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "6492",
+      "name": "岡野バル",
+      "title": "投資単位の引下げに対する考え方及び方針について",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581758.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "6492",
+      "name": "岡野バル",
+      "title": "支配株主等に関する事項について",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581750.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "6929",
+      "name": "日セラミック",
+      "title": "自己株式取得に係る事項の決定に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582120.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "7064",
+      "name": "ハウテレビジョン",
+      "title": "譲渡制限付株式報酬としての新株式発行に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553315.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "7083",
+      "name": "Ｇ－ＡＨＣグループ",
+      "title": "株式会社リプランとの合弁会社(特定子会社)の設立に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581845.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "7133",
+      "name": "Ｇ－ヒュウガプライマ",
+      "title": "自己株式の取得及び自己株式の公開買付けの開始に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261110570522.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "7422",
+      "name": "東邦レマック",
+      "title": "匿名組合への出資に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581850.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "7505",
+      "name": "扶桑電通",
+      "title": "役員人事に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581673.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "8016",
+      "name": "オンワードＨＤ",
+      "title": "株式の取得（完全子会社化）に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581807.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "9225",
+      "name": "Ｇ－ブリッジコンサル",
+      "title": "（訂正）「2026年９月期　決算説明補足資料」の一部訂正について",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582157.pdf",
+      "pubdate": "2026-11-17T15:30:00+09:00"
+    },
+    {
+      "code": "2910",
+      "name": "ロックフィルド",
+      "title": "合弁会社（子会社）の設立に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581500.pdf",
+      "pubdate": "2026-11-17T15:00:00+09:00"
+    },
+    {
+      "code": "3708",
+      "name": "特種東海",
+      "title": "2027年3月期第2四半期決算説明資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582106.pdf",
+      "pubdate": "2026-11-17T15:00:00+09:00"
+    },
+    {
+      "code": "7419",
+      "name": "ノジマ",
+      "title": "自己株式取得に係る事項の決定に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582128.pdf",
+      "pubdate": "2026-11-17T15:00:00+09:00"
+    },
+    {
+      "code": "4769",
+      "name": "ＩＣ",
+      "title": "（訂正）「2026年９月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582093.pdf",
+      "pubdate": "2026-11-17T14:40:00+09:00"
+    },
+    {
+      "code": "6577",
+      "name": "Ｇ－ベストワンドット",
+      "title": "自己株式取得に係る事項の決定に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117582076.pdf",
+      "pubdate": "2026-11-17T14:30:00+09:00"
+    },
+    {
+      "code": "2321",
+      "name": "Ｇ－ソフトフロントＨ",
+      "title": "主要株主の異動に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581984.pdf",
+      "pubdate": "2026-11-17T13:30:00+09:00"
+    },
+    {
+      "code": "15574",
+      "name": "Ｅ－ＳＳＧＡＴＣ",
+      "title": "State Street SPDR S&P500 ETFに関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581975.pdf",
+      "pubdate": "2026-11-17T12:30:00+09:00"
+    },
+    {
+      "code": "13264",
+      "name": "Ｅ－ワールド",
+      "title": "SPDRゴールド・シェアに関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581971.pdf",
+      "pubdate": "2026-11-17T12:25:00+09:00"
+    },
+    {
+      "code": "13494",
+      "name": "Ｅ－ＳＳＧＡ－ＳＩＮ",
+      "title": "アジア国債・公債ＥＴＦ（正式名称：ＡＢＦ汎アジア債券インデックス・ファンド）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581967.pdf",
+      "pubdate": "2026-11-17T12:20:00+09:00"
+    },
+    {
+      "code": "587A4",
+      "name": "Ｅ－インベスコＱＱＱ",
+      "title": "インベスコQQQトラスト シリーズ1 に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581951.pdf",
+      "pubdate": "2026-11-17T12:15:00+09:00"
+    },
+    {
+      "code": "3825",
+      "name": "ＲＥＭＩＸ",
+      "title": "系統用蓄電所（島根県大田市）の需給調整市場参入（６か所目）に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581685.pdf",
+      "pubdate": "2026-11-17T12:00:00+09:00"
+    },
+    {
+      "code": "4249",
+      "name": "森六",
+      "title": "2027年3月期第２四半期 決算説明会資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581956.pdf",
+      "pubdate": "2026-11-17T12:00:00+09:00"
+    },
+    {
+      "code": "20704",
+      "name": "Ｎ－三菱ＵＦＪ証ＨＤ",
+      "title": "上場ETN（発行者：三菱UFJ証券ホールディングス株式会社）に関する日々の開示事項",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581805.pdf",
+      "pubdate": "2026-11-17T11:30:00+09:00"
+    },
+    {
+      "code": "4172",
+      "name": "Ｈｉクラテス",
+      "title": "自己株式立会外買付取引(ToSTNeT-3)による自己株式の取得結果及び自己株式の取得終了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581886.pdf",
+      "pubdate": "2026-11-17T11:30:00+09:00"
+    },
+    {
+      "code": "4709",
+      "name": "ＩＤホールディングス",
+      "title": "当社グループの元従業員による不正行為についての経営責任および今後の対応に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581566.pdf",
+      "pubdate": "2026-11-17T11:30:00+09:00"
+    },
+    {
+      "code": "5834",
+      "name": "Ｇ－ＳＢＩリーシング",
+      "title": "販売用航空機譲渡のお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581461.pdf",
+      "pubdate": "2026-11-17T11:30:00+09:00"
+    },
+    {
+      "code": "6178",
+      "name": "日本郵政",
+      "title": "株式会社ゆうちょ銀行株式の売買成立に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261117581762.pdf",
+      "pubdate": "2026-11-17T11:00:00+09:00"
+    },
+    {
+      "code": "7182",
+      "name": "ゆうちょ銀行",
+      "title": "自己株式の取得結果及び取得終了に関するお知らせ（会社法第459条第１項の規定による定款の定めに基づく自己株式の取得）",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581659.pdf",
+      "pubdate": "2026-11-17T11:00:00+09:00"
+    },
+    {
+      "code": "7283",
+      "name": "愛三工",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び取得終了並びに自己株式の消却に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581507.pdf",
+      "pubdate": "2026-11-17T11:00:00+09:00"
+    },
+    {
+      "code": "7726",
+      "name": "黒田精工",
+      "title": "2027年度3月期 第2四半期（中間期）決算補足説明資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261106568216.pdf",
+      "pubdate": "2026-11-17T11:00:00+09:00"
+    },
+    {
+      "code": "7906",
+      "name": "ヨネックス",
+      "title": "自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果及び自己株式の取得終了並びに自己株式の消却に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581158.pdf",
+      "pubdate": "2026-11-17T11:00:00+09:00"
+    },
+    {
+      "code": "8766",
+      "name": "東京海上",
+      "title": "自己株式の取得状況および取得終了に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261116581278.pdf",
+      "pubdate": "2026-11-17T11:00:00+09:00"
+    },
     {
       "code": "1397",
       "name": "ＳＭＤＡＭ　２２５",
