@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-11-25T07:17:15.673709+09:00",
+  "updated_at": "2026-11-25T13:56:34.458153+09:00",
   "items": [
     {
-      "source": "システム",
-      "title": "ニュースの取得に失敗しました（次回の自動更新をお待ちください）",
-      "url": "https://news.google.com/home?hl=ja&gl=JP&ceid=JP:ja"
+      "source": "Googleニュース",
+      "title": "Google ニュース",
+      "url": "https://news.google.com/"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "中国で初めて外国人宇宙飛行士を乗せた有人宇宙船を打ち上げ",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEMUhtTlBnbVQxNzN1VUlIQWVETkRQcThoNjJTQVViWXIzNU9xcWt3NUVpSTFPclJJbkNDMlZDdF96ejZabGc5N3Bwa3JIRzFGVHBFOHNCOXJjZWdMREJz?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "米民主党が下院で２５９議席獲得、１９９２年を上回る大勝で「今世紀最大の多数派となるだろう」",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiaHJIQmFHVEZ3M1RUbGEwTUpBN05rallGVWJPaUY1MDhrazV6bkEwU2w2dHI3QU9URWxWOXNDeG45b0JqLUdOYld3TGJwd1dfbndIamdDczl4QXBrU2ZhazZR?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "トランプ氏が感謝祭で七面鳥に「恩赦」…中間選挙の大敗巡り演説で「何が起きたのか分からない」",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oNzlfNGd3dG80dF94aFF3VFNyYUFla2kxUndxalZxNnlYcW8yUE5UbURWc0xKLVdfdEVwbVl2MEpaS29sTUlFNHlPSUVuM0s0UjYyRWs0eEFSa2hJTm45WW53?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "首相が文科相擁護 辞任ドミノ懸念",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ROVdlNUphaWNIYi1DLTNKVDBSLVVXdi0wNWZnVTlHb0ZsV1RUQXhvMDVfeFJxWXRwcXNPb2tHN3NwbDF3MnJYb0QxMEo2VUI2?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "庄原市東城殺人事件、東広島の配送業社員を強盗殺人容疑で逮捕【県警の記者会見詳報あり】",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zNmxzVEQ1RHV0ak05NlJPZmNNdGFUcmNaME1mdnJJWFdER1ZYYzlQNFRQNXo5WERSdkM2WEVwOFo1N3FEQjQxX3o4aUVKN29DSUZkbnFhYm9fUQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "中国が報じない高市総理の「到着」「握手」 日本の存在感を徹底的に抑え込んだ中国の思惑 厳しい対日姿勢維持しながら“大国”アピール",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03b2YxU2wyclNYNGZ1OFdDSWdXLW9jbEJjT0Z3YkxDMmZQSWhwQTNCdzVRM1NBU21aRm10UmxIX1ExSzB3RDI5V1dxQlJVUQ?oc=5"
+    },
+    {
+      "source": "Googleニュース",
+      "title": "夫婦殺害放火事件 男に死刑を求刑",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5aF9oQmlYcTloLTlzVmRrRml6QW15dURGR0IyVzZlODBhRHFvSlNiQWZXTl9tTFVPSUJrTmNIM1hudzVsUl9kaHFCYm9GajN1?oc=5"
     }
   ]
 }
