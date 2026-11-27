@@ -1,145 +1,47 @@
 {
-  "updated_at": "2026-11-27T00:43:35.192196+09:00",
+  "updated_at": "2026-11-27T09:04:51.462737+09:00",
   "items": [
     {
-      "code": "2612",
-      "name": "かどや製油",
-      "title": "（株）ITG-Gホールディングスによる公開買付届出書の訂正に伴う「かどや製油（株）の普通株式に対する公開買付けの開始に関するお知らせ」の変更について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261126587202.pdf",
-      "pubdate": "2026-11-26 19:30:00"
+      "code": "2404",
+      "name": "鉄人化ＨＤ",
+      "title": "支配株主等に関する事項について",
+      "url": "https://www.release.tdnet.info/inbs/140120261127587262.pdf",
+      "pubdate": "2026-11-27T09:00:00+09:00"
     },
     {
-      "code": "2612",
-      "name": "かどや製油",
-      "title": "（変更）「株式会社ITG-Gホールディングスによる当社株式に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部変更に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261126587203.pdf",
-      "pubdate": "2026-11-26 19:30:00"
+      "code": "6165",
+      "name": "パンチ",
+      "title": "2027年３月期 第２四半期 決算説明会資料",
+      "url": "https://www.release.tdnet.info/inbs/140120261125585880.pdf",
+      "pubdate": "2026-11-27T09:00:00+09:00"
     },
     {
-      "code": "5137",
-      "name": "Ｇ－スマートドライブ",
-      "title": "自己株式の取得結果及び取得終了に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261126587208.pdf",
-      "pubdate": "2026-11-26 19:30:00"
+      "code": "2371",
+      "name": "カカクコム",
+      "title": "（変更）「Kamgras １株式会社による当社株券等に対する公開買付けに関する賛同の意見表明及び応募推奨のお知らせ」の一部変更に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261126587255.pdf",
+      "pubdate": "2026-11-27T08:30:00+09:00"
     },
     {
-      "code": "4575",
-      "name": "Ｇ－ＣＡＮＢＡＳ",
-      "title": "（訂正）適時開示書類「第22回新株予約権（行使価額修正条項付）の大量行使に関するお知らせ」 一部訂正について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261126587209.pdf",
-      "pubdate": "2026-11-26 19:05:00"
+      "code": "2972",
+      "name": "Ｒ－サンケイＲＥ",
+      "title": "本投資法人に関する一部報道について",
+      "url": "https://www.release.tdnet.info/inbs/140120261126587204.pdf",
+      "pubdate": "2026-11-27T08:30:00+09:00"
     },
     {
-      "code": "149A",
-      "name": "Ｇ－シンカ",
-      "title": "弊社社内業務システムへの不正アクセスに関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261126586941.pdf",
-      "pubdate": "2026-11-26 19:00:00"
+      "code": "3323",
+      "name": "レカム",
+      "title": "（訂正・数値データ訂正）配当原資、配当支払開始予定日の変更及び 「2026年９月期 決算短信〔ＩＦＲＳ〕(連結)」の一部変更に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261125586304.pdf",
+      "pubdate": "2026-11-27T08:30:00+09:00"
     },
     {
-      "code": "2241",
-      "name": "ＭＸＳダウ",
-      "title": "ＭＡＸＩＳ ＥＴＦの収益分配のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261126587189.pdf",
-      "pubdate": "2026-11-26 18:45:00"
-    },
-    {
-      "code": "2242",
-      "name": "ＭＸＳダウヘ有",
-      "title": "ＭＡＸＩＳ ＥＴＦの収益分配のお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261126587190.pdf",
-      "pubdate": "2026-11-26 18:45:00"
-    },
-    {
-      "code": "4444",
-      "name": "Ｇ－インフォネットＧ",
-      "title": "当社子会社が運用するinfoCMSへの不正アクセスに関するお知らせ（第2報）",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261126587182.pdf",
-      "pubdate": "2026-11-26 18:38:00"
-    },
-    {
-      "code": "6425",
-      "name": "ユニバーサル",
-      "title": "子会社の異動に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261126587007.pdf",
-      "pubdate": "2026-11-26 18:30:00"
-    },
-    {
-      "code": "369A",
-      "name": "Ｇ－エータイ",
-      "title": "役付取締役の選定についてのお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261126587130.pdf",
-      "pubdate": "2026-11-26 18:00:00"
-    },
-    {
-      "code": "373A",
-      "name": "Ｇ－リップス",
-      "title": "取締役の異動及び役員体制に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261126587129.pdf",
-      "pubdate": "2026-11-26 18:00:00"
-    },
-    {
-      "code": "562A",
-      "name": "Ｐ－寶結",
-      "title": "株式会社ブーム・メディア・コミュニケーションズの株式の取得（子会社化）及び資金の借入れに関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261126586421.pdf",
-      "pubdate": "2026-11-26 18:00:00"
-    },
-    {
-      "code": "562A",
-      "name": "Ｐ－寶結",
-      "title": "組織変更、取締役の担当変更及び人事異動に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261126586427.pdf",
-      "pubdate": "2026-11-26 18:00:00"
-    },
-    {
-      "code": "6198",
-      "name": "Ｇ－キャリア",
-      "title": "取締役候補者の選任に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261126587134.pdf",
-      "pubdate": "2026-11-26 18:00:00"
-    },
-    {
-      "code": "7037",
-      "name": "テノ．",
-      "title": "（開示事項の経過）連結子会社の異動（株式譲渡）の実行日変更に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261126586394.pdf",
-      "pubdate": "2026-11-26 18:00:00"
-    },
-    {
-      "code": "3279",
-      "name": "Ｒ－ＡＰＩ",
-      "title": "自己投資口取得に係る事項の決定（投資信託及び投資法人に関する法律第80条の5に基づく自己投資口の取得）に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261125586341.pdf",
-      "pubdate": "2026-11-26 17:30:00"
-    },
-    {
-      "code": "3662",
-      "name": "エイチームＨＤ",
-      "title": "（訂正）「（訂正）「第９回新株予約権の行使価額及び第１回無担保転換社債型新株予約権付社債の転換価額の調整に関するお知らせ」の訂正について」の訂正",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261126587051.pdf",
-      "pubdate": "2026-11-26 17:30:00"
-    },
-    {
-      "code": "7640",
-      "name": "トップカルチャ",
-      "title": "上場維持基準への適合及び当社株式の監理銘柄（確認中）指定解除に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261126586923.pdf",
-      "pubdate": "2026-11-26 17:30:00"
-    },
-    {
-      "code": "8746",
-      "name": "ｕｎｂａｎｋｅｄ",
-      "title": "改善計画・状況報告書の公表について",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261126587119.pdf",
-      "pubdate": "2026-11-26 17:30:00"
-    },
-    {
-      "code": "8848",
-      "name": "レオパレス２１",
-      "title": "主要株主の異動に関するお知らせ",
-      "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261126586908.pdf",
-      "pubdate": "2026-11-26 17:30:00"
+      "code": "6276",
+      "name": "シリウスＶ",
+      "title": "2026年12月期 配当予想の修正(復配)に関するお知らせ",
+      "url": "https://www.release.tdnet.info/inbs/140120261124584747.pdf",
+      "pubdate": "2026-11-27T08:00:00+09:00"
     }
   ]
 }
